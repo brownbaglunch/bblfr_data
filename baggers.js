@@ -6278,7 +6278,114 @@ var data = {
             "cities": [
                 "Paris"
             ]
-        }
+        },
+         {
+            "name": "Vincent Daviet",
+            "bio": "Coach et Formateur en Agilité",
+            "picture": "https://www.gravatar.com/userimage/47384013/2c0dbef602396d93de9ed73849805cc3?size=240",
+            "websites": [
+                {
+                    "title": "Blog professionnel",
+                    "href": "https://babagile.wordpress.com"
+                },
+                {
+                    "title": "Blog Zenika",
+                    "href": "https://blog.zenika.com"
+                }
+            ],
+            "twitter": "vincentdaviet",
+            "contact": "vincent.daviet.pro@gmail.com",
+            "mail": "vincent.daviet.pro@gmail.com",
+            "location": "Lyon",
+            "sessions": [
+                
+                {
+                    "title": "Découverte de l'agilité",
+                    "summary": "Découvrez comment vous pouvez devenir plus agile, à travers un atelier concret et non technique. Fondamentaux d'une transition agile : collaboration, découpage du besoin, valeur métier, définition des priorités, planification agile, approche itérative et incrémentale."
+                },
+                {
+                    "title": "Boostez vos réunions",
+                    "summary": "Découvrez et expérimentez de nouvelles techniques innovantes pour améliorer la productivité et le cadre de travail de vos réunions : devenez un facilitateur d'excellence !"
+                },
+                {
+                    "title": "Découverte de la facilitation graphique",
+                    "summary": "Initiez-vous à cette nouvelle technique de facilitation de réunion. Aucun pré-requis, ré-utilisable dans une multitude de contextes."
+                },
+                {
+                    "title": "Externalisation d'un projet agile : retour d'expérience et réflexions",
+                    "summary": "Présentation condensée d'une externalisation agile réussie avec ses diffcultés, ses trucs et astuces, son cheminement, les différents points de vue client/agence/équipe de développement. "
+                },
+                {
+                    "title": "Libérer mon entreprise : comment faire ?",
+                    "summary": "Retour d'expérience et poursuite des réflexions grâce à des techniques de coaching, de facilitation, et un canevas sur-mesure."
+                },
+                {
+                    "title": "Libérer les collaborateurs avec le délégation poker",
+                    "summary": "Expérimentez 1 outil puissant du manager agile (issus de Management 3.0 de Jurgen Apello) sur des cas concrets. Nous travaillerons sur les différents niveaux de la délégation (Delegation Poker) et de ses impacts."
+                },
+                {
+                    "title": "Collaborer... et si on improvisait ",
+                    "summary": "Expérimentons des petits jeux simples issus du théâtre d’improvisation, et accessibles à tous. Nous redécouvrons ainsi les mécanismes d’une collaboration efficace : écoute, confiance, adaptation, esprit d’équipe, but commun."
+                },
+                {
+                    "title": "Concevoir un événement / séminaire pour petit comité ou large groupe ",
+                    "summary": "Réflexion à l'aide d'un canevas éprouvé et de mes expériences d'organisations d'événements intra-entreprise ou publics."
+                }
+            ],
+            "tags": [
+                "Coaching",
+                "Facilitation",
+                "Facilitation graphique",
+                "Agile",
+                "Scrum",
+                "Kanban",
+                "Innovation Games",
+                "Jeux Agiles",
+                "Externalisation",
+                "Improvisation",
+                "Team Building",
+                "Entreprise libérée"
+            ],
+            "cities": [
+                "Lyon"
+            ]
+        },
+                {
+                     "name": "Eric Meallier",
+                     "bio": "Expert Java JEE. Agiliste et Devops jedi",
+                     "picture": "https://www.meallier.fr/PhotoIdentiteEric.2015.png",
+                     "websites": [
+                         {
+                             "title": "Linkedin",
+                             "href": "https://fr.linkedin.com/in/ericmeallier"
+                         },
+                         {
+                             "title": "Home page",
+                             "href" : "http://meallier.fr"
+                         }
+                     ],
+                     "twitter": "ericmeallier",
+                     "contact": "eric@meallier.fr",
+                     "mail": "eric@meallier.fr",
+                     "location": "Avignon, Aix-en-Provence, Montpellier, Orange",
+                     "sessions": [
+                         {
+                             "title": "Docker, encore un buzzword ou réel concept ?",
+                             "summary": "Vous vous demandez qui ce petit nouveau qui fait tant parler de lui ? alors n'attendez plus: demandez le guide ! Au cours de la session, j'expliquerai les nouveaux et anciens concepts mais surtout les nouveaux outils et ce qu'il peuvent apporter tant aux développeurs, qu'aux gestionnaires d'infra. Efficacité, simplicité, productivité."
+                         }
+                     ],
+                     "tags": [
+                         "Java",
+                         "JBoss",
+                         "Docker",
+                         "Devops",
+                         "J2EE",
+                         "Agilite"
+                     ],
+                     "cities": [
+                         "Avignon"
+                     ]
+                 }
     ],
     "cities": [
         {
@@ -6394,6 +6501,12 @@ var data = {
             "ville_img": "",
             "lat": 48.583148,
             "lng": 7.747882
+        },
+        {
+            "name": "Avignon",
+            "ville_img": "img/villes/BBL_Avignon.jpg",
+            "lat": 43.941557,
+            "lng": 4.8332525
         }
     ]
 };
