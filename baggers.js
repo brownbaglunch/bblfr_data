@@ -3383,6 +3383,54 @@ var data = {
             ]
         },
         {
+            "name": "Sébastien PESME-CANSAR",
+            "bio": "Consultant Mobilité & Chef de projets Digital, j'interviens dans la conception et la réalisation d'applications Web, Mobile & Objets connectés.",
+            "picture": "img/baggers/photo_spc.jpg",
+            "websites": [
+                {
+                    "title": "Viadeo",
+                    "href": "http://goo.gl/gQ7N4O"
+                },
+                {
+                    "title": "LinkedIn",
+                    "href": "https://goo.gl/zeHwll"
+                }
+            ],
+            "twitter": "iguane39",
+            "contact": "sebastien@pesme.net",
+            "mail": "sebastien@pesme.net",
+            "location": "Lille",
+            "sessions": [
+                {
+                    "title": "Tendances des Applications Mobiles (Android & iOS)",
+                    "summary": "Les tendances en terme de mobilité, d'approche, de technologies, d'interfaces, de fonctionnalités. Des conseils sur vos applications mobiles existantes. Des astuces sur ce qu'il faut faire et ne pas faire."
+                },
+                {
+                    "title": "Initiation aux Objets Connectés",
+                    "summary": "Vous entendez parler des objets connectés, mais vous ne savez pas quel côté l'aborder. Les termes Wifi, BLE vous sont familiers, mais vous ne voyez pas le rapport avec Big Data, Plateforme, Lora, SigFox, ZigBee, HealthKit, HomeKit & Google Fit. Une petite session de présentation vous permettra de démarrer plus rapidement."
+                },
+                {
+                    "title": "Ateliers Objets Connectés",
+                    "summary": "Une initiation n'est pas nécessaire ? Vous souhaitez rentrer dans le vif du sujet. Discutons d'un plan concret. Quelles fonctionnalités ? Quelles technologies ? Sur quel timing ?"
+                },
+                {
+                    "title": "HealthKit & Google Fit",
+                    "summary": "Présentation détaillée des solutions HealthKit & Google Fit. Les avantages et inconvénients des 2 plateformes, leurs contraintes, les évolutions à suivre. Et pourquoi il faut y aller."
+                }                
+            ],
+            "tags": [
+                "Android",
+                "iOS",
+                "Objets connectés",
+                "IoT",
+                "HealthKit",
+                "Google Fit"
+            ],
+            "cities": [
+                "Lille"
+            ]
+        },
+        {
             "name": "Mathieu Bolla",
             "bio": "Développeur efficient, passionné surtout par ce qui n'est pas informatique, pour tirer le meilleur parti du monde réel dans notre tout petit monde virtuel. En somme, un électronicien, photographe, forgeron, menuisier, qui fait du Java, parfois. Fondateur de GoAndCloud.it, parce que coder c'est bien, mais c'est mieux quand c'est les autres.",
             "picture": "https://www.gravatar.com/avatar/4677084da23fd41e2d21561ec111a512?s=256",
