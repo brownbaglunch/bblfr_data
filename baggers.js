@@ -6488,10 +6488,6 @@ var data = {
                 {
                     "title": "API Web et Cache",
                     "summary": "(présentation) La performance de vos API Web ne tient peut être qu'à un usage pertinent du cache. Comprenez quand et comment en tirer profit."
-                },
-                {
-                    "title": "Scrum Under Pressure",
-                    "summary": "Découvrez Scrum, sa mise en place et les pratiques annexes de l'agilité à travers un véritable retour d'expérience qui ne vous laissera pas indifférent."
                 }
             ],
             "tags": [
