@@ -6461,7 +6461,44 @@ var data = {
                      "cities": [
                          "Avignon"
                      ]
-                 }
+                 },
+        {
+            "name": "David MARTIN",
+            "bio": "Directeur du Pôle Conseil et Consultant Java",
+            "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMMAAAAJDYxMmUwOGU4LTYwMjktNDMxYi1hOWVmLWQxODdkNDI3Njk1Yg.jpg",
+            "websites": [
+                {
+                    "title": "Blog Ippon",
+                    "href": "http://blog.ippon.fr/author/dmartin"
+                }
+            ],
+            "twitter": "_dmartin_",
+            "contact": "dmartin.pro@gmail.com",
+            "mail": "dmartin.pro@gmail.com",
+            "location": "Nantes, Paris",
+            "sessions": [
+                {
+                    "title": "API Web : Best pratices",
+                    "summary": "(présentation) Un projet d'API Web ? Autant partir sur de bonnes bases !"
+                },
+                {
+                    "title": "Hypermedia API",
+                    "summary": "(présentation) Découvrez et comprenez l'intérêt de cette contrainte du style d'architecture REST dans vos API Web"
+                },
+                {
+                    "title": "API Web et Cache",
+                    "summary": "(présentation) La performance de vos API Web ne tient peut être qu'à un usage pertinent du cache. Comprenez quand et comment en tirer profit."
+                }
+            ],
+            "tags": [
+                "Java",
+                "API Web",
+                "REST"
+            ],
+            "cities": [
+                "Nantes", "Rennes", "Paris"
+            ]
+        }
     ],
     "cities": [
         {
