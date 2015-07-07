@@ -898,16 +898,12 @@ var data = {
         },
         {
             "name": "François Sarradin",
-            "bio": "Consultant Java et &#955; développeur",
+            "bio": "Consultant Java/Scala/&#955; | Manager technique capitalisation chez Ippon Technologies",
             "picture": "https://fr.gravatar.com/userimage/14188452/66f640699084b5d57856723e7e20505c.jpg?size=200",
             "websites": [
                 {
                     "title": "Blog personnel",
                     "href": "http://kerflyn.wordpress.com/"
-                },
-                {
-                    "title": "Blog Xebia",
-                    "href": "http://blog.xebia.fr/author/fsarradin"
                 }
             ],
             "twitter": "fsarradin",
