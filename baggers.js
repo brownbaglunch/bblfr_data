@@ -29,17 +29,14 @@ var data = {
                 }                
             ],
             "tags": [
-                "docker",
-                "docker-compose",
-                "docker-machine",
-                "docker-swarm"
-                "consul.io"
-                "golang"
-                "cloud",
+                "Docker",
+                "consul.io",
+                "golang",
+                "Cloud",
                 "PaaS",
                 "InfluxDB",
                 "Influx",
-                "Time-series"
+                "Time-series",
                 "analytics"
             ],
             "cities": [
