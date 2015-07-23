@@ -6533,6 +6533,46 @@ var data = {
             "cities": [
                 "Brest"
             ]
+        },
+        {
+            "name": "Jérôme Mainaud",
+            "bio": "Architecte Java chez Ippon Technologies, Jérôme intervient en mode JAAS (Jérôme As A Service) sur des missions de conseil, de conception ou de développement. Ses domaines de prédilection sont : les applications Java, les bases de données NoSQL comme Cassandra et les moteurs de recherche comme Elasticsearch.",
+            "picture": "https://fr.gravatar.com/avatar/4f9deaec42efccd26cb9af839b3afde2.jpg?size=200",
+            "websites": [
+                {
+                    "title": "Blog d'entreprise",
+                    "href": "http://blog.ippon.fr/author/jmainaud/"
+                },
+                {
+                    "title": "LinkedIn",
+                    "href": "https://fr.linkedin.com/in/jxerome"
+                }
+            ],
+            "twitter": "jxerome",
+            "contact": "jmainaud@ippon.fr",
+            "mail": "jmainaud@ippon.fr",
+            "location": "Paris, Sud parisien",
+            "sessions": [
+                {
+                    "title": "Elasticsearch: De l'importance du mapping",
+                    "summary": "Exemples de recherches exécutées en direct pour comprendre qu'avec Elasticsearch la définition d'un mapping c'est pas obligatoire, mais seulement indispensable."
+                },
+                {
+                    "title": "Recherche multi-critère avec Cassandra",
+                    "summary": "Histoire du développement d'un micro-service de recherche multi-critères basé sur Cassandra avec des morceaux de code Java 8 dedans."
+                },
+                {
+                    "title": "Elasticsearch, au fait, comment ça marche ?",
+                    "summary": "Voyage pour découvrir les notions mises en œuvre dans un moteur de recherche comme Elasticsearch."
+                }
+            ],
+            "tags": [
+                "Elasticsearch",
+                "Cassandra"
+            ],
+            "cities": [
+                "Paris"
+            ]
         }
     ],
     "cities": [
