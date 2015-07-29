@@ -6573,7 +6573,60 @@ var data = {
             "cities": [
                 "Paris"
             ]
-        }
+        },
+    {
+        "name": "Vincent Lainé",
+        "bio": "Architecte .NET, développeur et curieux de nature, j'ai de plus en plus la tête dans le cloud et sur mon mobile",
+        "picture": "",
+        "websites": [
+            {
+                "title": "Github",
+                "href": "https://github.com/phenixdotnet"
+            },
+            {
+                "title": "LinkedIn",
+                "href": "http://fr.linkedin.com/in/vlaine"
+            }
+        ],
+        "twitter": "",
+        "contact": "phenixdotnet@gmail.com",
+        "mail": "phenixdotnet@gmail.com",
+        "location": "Rennes",
+        "sessions": [
+            {
+                "title": "Architecture Cloud sur Azure en C#",
+                "summary": "Vous souhaitez migrer sur le cloud Azure mais vous ne savez pas comment ? Vous avez déjà fait le saut et vous souhaitez discuter de l'architecture mise en place ? Au cours de cette session nous pourrons discuter des différents composants disponible sur Azure et de leurs forces et faiblesses ainsi que les patterns d'architecture associés"
+            },
+            {
+                "title": "Développer en C# pour le cloud",
+                "summary": "Découvrez (ou redécouvrez) les différents design pattern associés au développement sur le cloud."
+            },
+            {
+                "title": "L'agile supporté par Visual Studio Online / TFS 2015",
+                "summary": "Un tours d'horizon des possibilités offertes par VSo/TFS 2015 pour supporter votre process agile"
+            },            
+            {
+                "title": "Développer des applications mobile avec Xamarin",
+                "summary": "Initiation au développement cross-plateform avec Xamarin en C#"
+            }
+        ],
+        "tags": [
+            "Développement",
+            ".NET",
+            "C#",
+            "Agile",
+            "Scrum",
+            "Cloud",
+            "Azure",
+            "Windows Phone",
+            "Xamarin",
+            "Visual Studio Online",
+            "TFS"
+        ],
+        "cities": [
+            "Rennes"
+        ]
+    }
     ],
     "cities": [
         {
