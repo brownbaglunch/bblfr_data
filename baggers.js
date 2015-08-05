@@ -2571,7 +2571,7 @@ var data = {
         {
             "name": "Baptiste Mathus",
             "bio": "Hacker passionné tendance devops, committer OSS MojoHaus, Leader @ToulouseJUG, ptit rigolo",
-            "picture": "img/baggers/bm-cul-de-poule.jpg",
+            "picture": "http://www.gravatar.com/avatar/5a9d8fda68538f0db77ebfc8a55db853.jpg?s=200",
             "websites": [
                 {
                     "title": "GitHub",
