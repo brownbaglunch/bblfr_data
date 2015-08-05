@@ -26,7 +26,7 @@ var data = {
                 {
                     "title": "InfluxDB, la base de données chronologique, opensource autonome",
                     "summary": "Après l'émergence des bases NOSQL de ces dernières années, voici une nouvelle espèce : la base de données chronologiques, parfaite pour accueillir les données de métrologie. Dans cette session, vous découvrirez cet outil autonome écrit en GO et doté d'un SQL-Like avec un support HTTP natif. Une live-session vous présentera comment l'interfacer avec votre langage préféré Java dans une application JEE ou Spring. Que ce soient pour vos logs ou des évènements métiers, InfluxDB pourrait bien devenir votre backend préféré pour vos métriques. Session présentée à Devoxx2015 et au RivieraDev2015 à Nice."
-                }                
+                }
             ],
             "tags": [
                 "Docker",
@@ -228,7 +228,7 @@ var data = {
                 {
                     "title": "Les clefs de la conduite du changement",
                     "summary": "Présentation des fondamentaux de la conduite du changement pour maximiser les chances de réussites de tout changement."
-                }            
+                }
              ],
             "tags": [
                 "Reactive",
@@ -1612,11 +1612,11 @@ var data = {
                 },
                 {
                     "title": "Apache Spark",
-                    "summary": "Ce que Apache Spark change par rapport à Hadoop. Pourquoi l’utiliser ? Comment fonctionne-t-il ? le tout par des exemples de code simples et concrets. Au delà des modules ‘core’, explication et démonstrations des modules complémentaires : Spark MLLib pour faire du Machine Learning distribué, 'Spark Streaming' pour le traitement de flux sent temps réel, et ‘Spark GraphX’ pour traiter des données en Graphes." 
+                    "summary": "Ce que Apache Spark change par rapport à Hadoop. Pourquoi l’utiliser ? Comment fonctionne-t-il ? le tout par des exemples de code simples et concrets. Au delà des modules ‘core’, explication et démonstrations des modules complémentaires : Spark MLLib pour faire du Machine Learning distribué, 'Spark Streaming' pour le traitement de flux sent temps réel, et ‘Spark GraphX’ pour traiter des données en Graphes."
                 },
                 {
                     "title": "Google Cloud Platform",
-                     "summary":"Description et démonstrations des différentes briques de la Google Cloud Platform, ses particularités par rapport aux autres Cloud du marché. Pourquoi cette plateforme est un super accélérateur des projets Bigdata avec ses solutions uniques que sont ‘Bigquery’, Bigtable’, ‘Cloud storage’, ‘app engine’, ‘dataflow’, ‘compute engine’ pour facilement monter des clusters Hadoop & Spark"	
+                     "summary":"Description et démonstrations des différentes briques de la Google Cloud Platform, ses particularités par rapport aux autres Cloud du marché. Pourquoi cette plateforme est un super accélérateur des projets Bigdata avec ses solutions uniques que sont ‘Bigquery’, Bigtable’, ‘Cloud storage’, ‘app engine’, ‘dataflow’, ‘compute engine’ pour facilement monter des clusters Hadoop & Spark"
                 },
                 {
                     "title": "Hadoop Pig",
@@ -2570,7 +2570,7 @@ var data = {
         },
         {
             "name": "Baptiste Mathus",
-            "bio": "Développeur passionné, Committer OSS Mojo@Codehaus, Leader @ToulouseJUG, ptit rigolo",
+            "bio": "Hacker passionné tendance devops, committer OSS MojoHaus, Leader @ToulouseJUG, ptit rigolo",
             "picture": "img/baggers/bm-cul-de-poule.jpg",
             "websites": [
                 {
@@ -2599,26 +2599,21 @@ var data = {
                 {
                     "anchor":"git-advanced",
                     "title": "Git avancé",
-                    "summary": "Vous utilisez déjà Git, mais les commandes git rebase -i, git bisect ou ce qu'est un cherry-pick, ou triturer l'historique de vos commits vous inquiètent encore ? Vous aimeriez maîtriser bien plus que commit et push et arrêter le svn-like ? Cette session est pour vous. "
+                    "summary": "Vous utilisez déjà Git, mais les commandes git rebase -i, git bisect ou ce qu'est un cherry-pick, ou triturer l'historique de vos commits vous inquiètent encore ? Vous aimeriez maîtriser bien plus que commit et push et arrêter le svn-like ? Cette session est pour vous. Note: cette session est ajustable à vos besoins/questions, suffit de demander :-)."
                 },
                 {
-                    "anchor":"gerrit",
-                    "title": "Gerrit : la revue de code pour Git.",
-                    "summary": "Pourquoi on reverrait le code des autres ? C'est chiant à mettre en place ? et à utiliser ? Quel retour d'expérience ?"
-                },
-                {
-                    "anchor":"maven-bien-utiliser",
-                    "title": "Maven - comment bien l'utiliser ?",
-                    "summary": "Maven est un outil de build puissant qui a révolutionné le monde du build Java. Il pose quelques principes fondateurs volontairement difficiles à contourner. Connaître ces quelques règles et principes permet de mieux l'utiliser sans subir le retour de flamme imminent lorsqu'on l'utilise hors des clous :-)."
+                    "anchor":"jenkins-qui-pique",
+                    "title": "Monter une forge Jenkins qui déboîte",
+                    "summary": "Dans cette session, je peux vous parler de notre histoire (de 0 à 1000 jobs et une vingtaine d'esclaves en un peu plus de 5 ans)... Les trucs à connaître (scripts [groovy], plugins comme le Job DSL Plugin...) pour gérer une telle infrastructure. Les trucs cools comme Docker/Docker Swarm/Ansible qu'on utilise pour s'adapter à l'échelle et à la charge... Bref, à la fois du retour d'expérience Jenkins pour de vrai et vous aider éventuellement à ne pas faire les mêmes erreurs que nous, et du cas d'utilisation concret Docker n'en veux-tu n'en voilà !"
                 }
             ],
             "tags": [
                 "Jenkins",
-                "Gerrit",
+                "Docker",
+                "Swarm",
                 "Git",
                 "Maven",
-                "Java",
-                "Java 8"
+                "Java"
             ],
             "cities": [
                 "Toulouse"
@@ -3408,7 +3403,7 @@ var data = {
                 {
                     "title": "HealthKit & Google Fit",
                     "summary": "Présentation détaillée des solutions HealthKit & Google Fit. Les avantages et inconvénients des 2 plateformes, leurs contraintes, les évolutions à suivre. Et pourquoi il faut y aller."
-                }                
+                }
             ],
             "tags": [
                 "Android",
@@ -6362,7 +6357,7 @@ var data = {
             "mail": "vincent.daviet.pro@gmail.com",
             "location": "Lyon",
             "sessions": [
-                
+
                 {
                     "title": "Découverte de l'agilité",
                     "summary": "Découvrez comment vous pouvez devenir plus agile, à travers un atelier concret et non technique. Fondamentaux d'une transition agile : collaboration, découpage du besoin, valeur métier, définition des priorités, planification agile, approche itérative et incrémentale."
@@ -6487,7 +6482,7 @@ var data = {
                 "Nantes", "Rennes", "Paris"
             ]
         },
-	{       
+	{
             "name": "Jean-François Le Foll",
             "bio": "Développeur passionné et Scrum master",
             "picture": "https://jefflefoll.github.io/images/small_jeff_lefoll.jpg",
@@ -6510,7 +6505,7 @@ var data = {
             "mail": "jeff.lefoll@outlook.fr",
             "location": "Brest",
             "sessions": [
-                
+
                 {
                     "title": "Introduction au TDD",
                     "summary": "Présentation de 45min-1hr permettant de découvrir le Test Driven Development. Présentation rapide suivie d'une démonstration de live coding car le TDD est avant tout une pratique de développement qui s’apprend par la pratique."
@@ -6604,7 +6599,7 @@ var data = {
             {
                 "title": "L'agile supporté par Visual Studio Online / TFS 2015",
                 "summary": "Un tours d'horizon des possibilités offertes par VSo/TFS 2015 pour supporter votre process agile"
-            },            
+            },
             {
                 "title": "Développer des applications mobile avec Xamarin",
                 "summary": "Initiation au développement cross-plateform avec Xamarin en C#"
