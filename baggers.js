@@ -4487,6 +4487,10 @@ var data = {
             "mail": "mathieu.parisot+bbl@gmail.com",
             "location": "Paris",
             "sessions": [
+            	{
+                    "title": "Découverte du nouveau JavaScript : ES2015/ES6",
+                    "summary": "La nouvelle version de JavaScript est maintenant validée, il est donc temps de découvrir ce que l'avenir proche nous réserve et comment le mettre en place dès maintenant dans vos projets. Au programme : classes, generators, promesses, destructuring, modules et plein de choses qui vont vous faciliter le quotidien."
+                },
                 {
                     "title": "Responsive Web Design",
                     "summary": "3 présentations possibles : introduction au RWD, l'impact du RWD sur vos équipes projet et un tour d'horizon des techniques nécessaires à la réalisation d'un site."
