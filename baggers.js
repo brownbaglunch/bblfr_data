@@ -48,7 +48,7 @@ var data = {
                 "Bases de données"
             ],
             "cities": [
-                "Paris, Vesoul, Besançon, Belfort, Mulhouse, Nancy"
+                "Paris", "Vesoul", "Besançon", "Belfort", "Mulhouse", "Nancy"
             ]
         },
         {
