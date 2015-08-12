@@ -22,14 +22,10 @@ var data = {
                 {
                     "title": "PostgreSQL : Reprenons le contrôle de nos données",
                     "summary": "À l'heure où les utilisateurs de solutions propriétaires se sentent de plus en plus pris en otage, pourquoi ne pas se tourner vers la base de données libre de référence ? Nous verrons les avantages de cette solution  Non seulement en terme d'ouverture, mais également en termes de fonctionnalités."
-                },
-                {
-                    "title": "PostgreSQL : La haute-disponibilité, mais comment ?",
-                    "summary": "La haute-disponibilité est devenue un mantra. Mais qu'ententons par là ? Et lorsque ce terme a été défini, comment peut-on l'obtenir. Nous verrons ensemble quelles architecures peuvent être construite pour garantir la disponibilité des données des bases PostgreSQL."
-                },
+             ,
 {
                     "title": "PostgreSQL : La haute-disponibilité, oui, mais comment ?",
-                    "summary": "La haute-disponibilité est devenue un mantra. Mais qu'ententons par là ? Et lorsque ce terme a été défini, comment peut-on l'obtenir. Nous verrons ensemble quelles architecures peuvent être construite pour garantir la disponibilité des données des bases PostgreSQL."
+                    "summary": "La haute-disponibilité est devenue un mantra. Mais qu'entendons-nous par là ? Et lorsque ce terme a été défini, comment peut-on l'obtenir. Nous verrons ensemble quelles architecures peuvent être construites pour garantir la disponibilité des données des bases PostgreSQL."
                 },
 {
                     "title": "PostgreSQL : Les différents type de réplication",
