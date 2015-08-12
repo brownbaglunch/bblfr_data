@@ -1,5 +1,56 @@
 var data = {
     "baggers": [
+    	{
+            "name": "Stéphane Schildknecht",
+            "bio": "Spécialiste des bases de données et de PostgreSQL depuis plus de 15 ans. Membre fondateur et premier président de PostgreSQLFr. Dirigeant de Loxodata, société d'expertise autour de PostgreSQL.",
+            "picture": "http://www.loxodata.com/loxodata.v2/images/sas_277.jpg",
+            "websites": [
+                {
+                    "title": "Linkedin",
+                    "href": "https://fr.linkedin.com/in/sasjob"
+                },
+                {
+                "title": "Loxodata",
+                "href" : "http://www.loxodata.com"
+                }
+            ],
+            "twitter": "saschild",
+            "contact": "s.schildknecht [at] loxodata.com",
+            "mail": "s.schildknecht@loxodata.com",
+            "location": "Vesoul, Paris",
+            "sessions": [
+                {
+                    "title": "PostgreSQL : Reprenons le contrôle de nos données",
+                    "summary": "À l'heure où les utilisateurs de solutions propriétaires se sentent de plus en plus pris en otage, pourquoi ne pas se tourner vers la base de données libre de référence ? Nous verrons les avantages de cette solution  Non seulement en terme d'ouverture, mais également en termes de fonctionnalités."
+                },
+                {
+                    "title": "PostgreSQL : La haute-disponibilité, mais comment ?",
+                    "summary": "La haute-disponibilité est devenue un mantra. Mais qu'ententons par là ? Et lorsque ce terme a été défini, comment peut-on l'obtenir. Nous verrons ensemble quelles architecures peuvent être construite pour garantir la disponibilité des données des bases PostgreSQL."
+                },
+{
+                    "title": "PostgreSQL : La haute-disponibilité, oui, mais comment ?",
+                    "summary": "La haute-disponibilité est devenue un mantra. Mais qu'ententons par là ? Et lorsque ce terme a été défini, comment peut-on l'obtenir. Nous verrons ensemble quelles architecures peuvent être construite pour garantir la disponibilité des données des bases PostgreSQL."
+                },
+{
+                    "title": "PostgreSQL : Les différents type de réplication",
+                    "summary": "Nous passerons en revue les différentes possibilités de répliquer les données avec PostgreSQL. Solutions internes ou externes, qu'est-ce qui les différencie ?"
+                },
+{
+                    "title": "Slony-ctl : Simplifier l'administration d'une réplication PostgreSQL",
+                    "summary": "Nous verrons comment Slony-ctl simplifie l'administration d'une réplication PostgreSQL obtenue à l'aide de Slony."
+                }
+            ],
+            "tags": [
+                "PostgreSQL",
+                "Postgres",
+                "Haute-disponibilité",
+                "Database",
+                "Bases de données"
+            ],
+            "cities": [
+                "Paris, Vesoul, Besançon, Belfort, Mulhouse, Nancy"
+            ]
+        },
         {
             "name": "Nicolas Muller",
             "bio": "Développeur Java / Go / Docker depuis bientôt 15 ans dans le monde du BTP JEE/Spring. JugLeader du @MarsJUG, Membre du @LabAixbidouille, passionné par la bidouille et surtout travaillant chez @TreeptikTeam en tant qu'associé / CTO sur www.cloudUnit.fr, le PaaS Java.",
