@@ -6676,7 +6676,31 @@ var data = {
         "cities": [
             "Rennes"
         ]
-    }
+    },
+        {
+            "name": "Cédric Longo",
+            "bio": "Anciennement devops dans le domaine du Jeu vidéo, nouvellement créateur d'entreprise. Mention spéciale au développement en Java",
+            "picture": "https://lh6.googleusercontent.com/-uIJAnywy0hM/VOjcAR_EWSI/AAAAAAAAHGE/PkZUYbadokc/w820-h819-no/RD071.jpg",
+            "websites": [
+                {
+                "title": "Google+",
+                "href" : "https://plus.google.com/+CédricLongo"
+                }
+            ],
+            "twitter": "u2032",
+            "contact": "cedric.longo [at] gmail.com",
+            "mail": "cedric.longo@gmail.com",
+            "location": "Montpellier",
+            "sessions": [
+                {
+                    "title": "Java 8, chez les inuits",
+                    "summary": "Alors que les sorties des nouvelles versions de Java reprennent un ryhtme régulier, certains n'ont pas encore regardé les nouveautés de Java 8, pourtant jugé comme l'une (pour ne pas dire LA) des plus importantes mises à jour de Java. Cette présentation propose de rattraper le retard par un tour d'horizon des nouveautés apportées au travers d'exemples et se termine en proposant de continuer à explorer ces nouveautés par l'intermédiaire d'un exercise proposé de mise en application."
+        	}
+            ],
+            "tags": [
+                "Java"
+            ]
+        }
     ],
     "cities": [
         {
