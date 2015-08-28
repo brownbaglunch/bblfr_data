@@ -5453,6 +5453,10 @@ var data = {
             "location": "Paris",
             "sessions": [
                 {
+                    "title": "Data Science meets Software Development",
+                    "summary": "Vous travaillez sur des projets de Data Science avec Spark et du Machine Learning ? Découvrez 12 recettes pour amener ces projets en production."
+                },
+                {
                     "title": "Spark, ou comment traiter des données à la vitesse de l’éclair",
                     "summary": "Spark fait partie de la nouvelle génération de frameworks de manipulation de données basés sur Hadoop. L’outil utilise agressivement la mémoire pour offrir des temps de traitement jusqu’à 100 fois plus rapides qu'Hadoop. Dans cette session, nous découvrirons les principes de traitement de données (notamment MapReduce) et les options mises à disposition pour monter un cluster (Zookeper, Mesos…). Nous ferons un point sur les différents modules proposés par le framework, et notamment sur Spark Streaming pour le traitement de données en flux continu."
                 }, {
