@@ -6699,7 +6699,10 @@ var data = {
             ],
             "tags": [
                 "Java"
-            ]
+            ],
+	    "cities": [
+	         "Montpellier"
+	    ]
         }
     ],
     "cities": [
