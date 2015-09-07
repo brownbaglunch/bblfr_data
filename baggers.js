@@ -791,7 +791,7 @@ var data = {
             "twitter": "__MaxS__",
             "contact": "maxime.sanglan [at] gmail.com",
             "mail": "maxime.sanglan@gmail.com",
-            "location": "Paris et la Défense",
+            "location": "Nantes et alentours",
             "sessions": [
                 {
                     "title": "Does your code speak business?",
@@ -815,7 +815,7 @@ var data = {
                 "DDD"
             ],
             "cities": [
-                "Paris"
+                "Nantes"
             ]
         },
         {
