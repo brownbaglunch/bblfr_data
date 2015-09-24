@@ -1,5 +1,54 @@
 var data = {
     "baggers": [
+        {
+            "name": "Gregory Estrade",
+            "bio": "Directeur R&D de Lyra-Network, software & hardware hacker, reverse-engineer, philosophe agile auto-proclamé. Ou Disruptive Innovation Lead Strategist, Instant Expert in Everything, ça dépend. Membre de l'association Silicium de préservation du patrimoine micro-informatique.",
+            "picture": "http://torlus.github.io/hat_pro.png",
+            "websites": [
+                {
+                    "title": "Home Page",
+                    "href": "http://lvt.tl/"
+                },
+                {
+                    "title": "GitHub",
+                    "href" : "https://github.com/Torlus"
+                },
+                {
+                    "title": "Silicium",
+                    "href" : "http://www.silicium.org/"
+                }
+            ],
+            "twitter": "Torlus",
+            "contact": "gregory.estrade@gmail.com",
+            "mail": "gregory.estrade@gmail.com",
+            "location": "Toulouse",
+            "sessions": [
+                {
+                    "title": "Les nouveaux enjeux du paiement.",
+                    "summary": "Etat de l'art, sécurité, les moyens de paiement et leur avenir, les enjeux du click-and-mortar, SEPA, marketplaces."
+                },
+                {
+                    "title": "IoT, software & hardware hacking, FPGA.",
+                    "summary": "Vous aimez bricoler, prototyper? Moi aussi. Invitez-moi pour de l'aide ou du conseil sur un sujet de votre choix."
+                },
+                {
+                    "title": "Café philosophique, agilité, histoire de l'informatique.",
+                    "summary": "Ayant eu depuis 30 ans les mains sur un clavier (En commençant sur un TRS-80) et étant membre de l'association Silicium, je vous propose de deviser autour de tout ce qui fait l'actualité, et qui tend à montrer que quoi qu'on fasse, l'histoire vient souvent à se répéter."
+                }
+            ],
+            "tags": [
+                "Software development",
+                "Hardware hacking",
+                "Optimisation",
+                "Telecom & Réseau",
+                "FPGA",
+                "Philosophie",
+                "Agilité"
+            ],
+            "cities": [
+                "Toulouse"
+            ]
+        },
     	{
             "name": "Stéphane Schildknecht",
             "bio": "Spécialiste des bases de données et de PostgreSQL depuis plus de 15 ans. Membre fondateur et premier président de PostgreSQLFr. Dirigeant de Loxodata, société d'expertise autour de PostgreSQL.",
