@@ -5915,21 +5915,26 @@ var data = {
         },
         {
             "name": "Florian Chauveau",
-            "bio": "Code-Troopers, développeur JAVA/Android (entre autres), très attaché aux pratiques agiles, Florian n'hésite pas à remettre en cause les processus pour trouver les meilleurs moyens de fonctionner en équipe.",
+            "bio": "Code-Troopers, développeur JAVA/Android (entre autres), très attaché aux pratiques agiles, je n'hésite pas à remettre en cause les processus pour trouver les meilleurs moyens de fonctionner en équipe.",
             "picture": "http://www.gravatar.com/avatar/962a60aa8554d933233ae2de56224d06.png?s=240",
             "websites": [
                 {"title": "Code-Troopers", "href": "http://code-troopers.com"},
                 {"title": "LinkedIn", "href": "https://www.linkedin.com/pub/florian-chauveau/96/1a5/528"}
             ],
             "twitter": "FlorianChauveau",
-            "mail": "f.chauveau+bbl [at] code-troopers [dot] com",
+            "mail": "f.chauveau+bbl@code-troopers.com",
             "location": "Tours",
-            "sessions": [{
+            "sessions": [
+                {
+					"title": "Android - Les permissions d'Android 6.0",
+                    "summary": "Avec la version Marshmallow d'Android le système de permission est bouleversé ! Pas de panique avec quelques règles de conduite assez simple il sera facile de s'en sortir"
+                },
+		        {
 					"title": "Perfection Games - Comment résoudre ses problèmes avec des post-its",
                     "summary": "Exemple d'utilisation de plusieurs Perfection Games ainsi que les bénéfices attendus via un retour d'expérience sur leur pratiques récurrentes et régulières lors de rétrospectives."
                 }
             ],
-            "tags": ["Agile", "Agilité", "Perfection Games", "Amélioration Continue", "Rétrospectives"],
+            "tags": ["Android", "Agile", "Perfection Games"],
             "cities": ["Tours"]
         },
         {
