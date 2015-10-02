@@ -4094,16 +4094,20 @@ var data = {
                 }
             ],
             "twitter": "ouelcum",
-            "contact": "laurent.tardif [at] persistentsas.com",
-            "mail": "laurent.tardif@persistentsas.com",
+            "contact": "laurent.tardif [at] persistent.com",
+            "mail": "laurent.tardif@persistent.com",
             "location": "Grenoble",
             "sessions": [
                 {
                     "title": "Agilité, Scrum & Kanban:",
                     "summary": "Introduction aux valeurs et principes de base de l'agilité, et aux fondamentaux de Scrum.<br/>- Présentation ou discussions.<br/>- Découverte ou approfondissements"
                 },
+				{
+                    "title": "Apache Flink : la 4eme Génération de Processing est la:",
+                    "summary": "Introduction à Flink.<br/>- Présentation ou discussions.<br/>- Découverte ou approfondissements"
+                },
                 {
-                    "title": "Integration Continue :",
+                    "title": "Devops & Integration Continue :",
                     "summary": "Outils et méthodes pour les équipes de développement qui veulent réussir dans l'agilité<br/>- Présentation & discussions"
                 },
                 {
@@ -4115,11 +4119,12 @@ var data = {
                 "Java",
                 "Jenkins",
                 "BDD",
+				"Big Data",
                 "Agile",
                 "Scrum",
                 "Kanban",
-                "Ingénierie agile",
-		"Intégration continue",
+                "Flink",
+				"Intégration continue",
                 "Test",
                 "Tests unitaires",
                 "Usine logicielle",
