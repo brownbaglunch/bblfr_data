@@ -49,6 +49,38 @@ var data = {
                 "Toulouse"
             ]
         },
+        
+        {
+            "name": "Faten Habachi",
+            "bio": "",
+            "websites": [
+                {
+                    "title": "Ippon",
+                    "href": "http://ippon.fr"
+                },
+                
+                
+            ],
+            "twitter": "fatenh",
+            "contact": "",
+            "mail": "",
+            "location": "",
+            "sessions": [
+                {
+                    "title": "",
+                    "summary": ""
+                },
+                
+            ],
+            "tags": [
+                "UX",
+            
+            ],
+            "cities": [
+                "Paris"
+            ]
+        },
+        
     	{
             "name": "Stéphane Schildknecht",
             "bio": "Spécialiste des bases de données et de PostgreSQL depuis plus de 15 ans. Membre fondateur et premier président de PostgreSQLFr. Dirigeant de Loxodata, société d'expertise autour de PostgreSQL.",
