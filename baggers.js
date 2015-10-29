@@ -6794,6 +6794,74 @@ var data = {
             "cities": [
                 "Bordeaux"
             ]
+        },
+        {
+            "name": "Thibault Duchateau",
+            "bio": "Développeur passionné par l'écosystème Java, le Web, l'Open Source et tout ce qui gravite autour de la mouvance DevOps. Lead dev sur le projet Dandelion.",
+            "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/24e/0b5/330eaba.jpg",
+            "websites": [
+                {
+                    "title": "Dandelion project",
+                    "href": "http://dandelion.github.io/"
+                },
+                {
+                    "title": "Github",
+                    "href": "https://github.com/tduchateau"
+                },
+                {
+                    "title": "LinkedIn",
+                    "href": "https://fr.linkedin.com/in/tduchateau"
+                }
+            ],
+            "twitter": "tduchateau",
+            "contact": "thibault.duchateau@gmail.com",
+            "mail": "thibault.duchateau@gmail.com",
+            "location": "La Madeleine",
+            "sessions": [
+                {
+                    "title": "Docker en production, retour d'expérience",
+                    "summary": "Docker, on en a tous entendu parler. Beaucoup s'y sont mis ou ont envie de s'y mettre. Mais qui est allé jusqu'en production avec ? Gilles Dehaudt et moi-même vous proposons, au-travers de cette présentation plutôt orientée organisation que technique, un retour d'expérience sur la mise en place de Docker chez un grand nom du e-commerce français."
+                },
+            ],
+            "tags": [
+                "Java",
+                "Web",
+                "Docker",
+                "Industrialisation",
+                "DevOps"
+            ],
+            "cities": [
+                "Lille"
+            ]
+        },
+        {
+            "name": "Gilles Dehaudt",
+            "bio": "Admin Sys Linux Lillois. Dockerise et ansibelise à tours de bras.",
+            "picture": "https://s.gravatar.com/avatar/b10c22e79d3f4f4996d6352e3e6002d8?s=80",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://www.linkedin.com/pub/gilles-dehaudt/19/a96/1b7"
+                }
+            ],              
+            "twitter": "tonton1728",
+            "contact": "tonton1728@gmail.com",
+            "mail": "tonton1728@gmail.com",
+            "location": "Lambersart",
+            "sessions": [
+                {
+                    "title": "Docker en production, retour d'expérience",
+                    "summary": "Docker, on en a tous entendu parler. Beaucoup s'y sont mis ou ont envie de s'y mettre. Mais qui est allé jusqu'en production avec ? Thibault Duchateau et moi-même vous proposons, au-travers de cette présentation plutôt orientée organisation que technique, un retour d'expérience sur la mise en place de Docker chez un grand nom du e-commerce français."
+                },
+            ],
+            "tags": [
+                "Linux",
+                "Système",
+                "Docker"
+            ],
+            "cities": [
+                "Lille"
+            ]
         }
     ],
     "cities": [
