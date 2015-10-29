@@ -6816,7 +6816,7 @@ var data = {
             "twitter": "tduchateau",
             "contact": "thibault.duchateau@gmail.com",
             "mail": "thibault.duchateau@gmail.com",
-            "location": "La Madeleine",
+            "location": "Région lilloise",
             "sessions": [
                 {
                     "title": "Docker en production, retour d'expérience",
@@ -6847,7 +6847,7 @@ var data = {
             "twitter": "tonton1728",
             "contact": "tonton1728@gmail.com",
             "mail": "tonton1728@gmail.com",
-            "location": "Lambersart",
+            "location": "Région lilloise",
             "sessions": [
                 {
                     "title": "Docker en production, retour d'expérience",
