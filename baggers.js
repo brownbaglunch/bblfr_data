@@ -52,7 +52,7 @@ var data = {
         
         {
             "name": "Faten Habachi",
-            "bio": "UX Design Manager chez Ippon Technologies, Designer Web et Mobile depuis plus de 10 ans, Ergonome, UX Designer"
+            "bio": "UX Design Manager chez Ippon Technologies, Designer Web et Mobile depuis plus de 10 ans, Ergonome, UX Designer",
             "picture": "http://fatenhabachi.com/images/fatenhabachi.jpg",
 	"websites": [
                 {
