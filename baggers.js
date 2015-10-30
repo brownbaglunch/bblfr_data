@@ -888,7 +888,7 @@ var data = {
             "contact": "maxime.sanglan [at] gmail.com",
             "mail": "maxime.sanglan@gmail.com",
             "location": "Nantes et alentours",
-            "sessions": [
+             "sessions": [
                 {
                     "title": "Does your code speak business?",
                     "summary": "Dans cette présentation, j'entreprends de définir de manière concrète ce qu'est la valeur. Je livre une technique simple et efficace à mettre en place ainsi que celles à éviter, afin de se focaliser sur l'essentiel et d'apporter un maximum de valeur au sein du code et même de vos tests."
@@ -900,6 +900,10 @@ var data = {
                 {
                     "title": "Architecture: C4 Model",
                     "summary": "Un atelier de sketching de vos systèmes d'après le modèle C4 de Simon Brown. En mode collaboratif, avec un max d'efficacité, venez vous réapproprier votre architecture et découvrir comment partager une même vision au sein de son équipe de développement."
+                },
+                {
+                    "title": "Coding Dojo",
+                    "summary": "Vous aimeriez organiser un Coding Dojo en interne mais vous ne savez pas comment vous y prendre ? Vous aimeriez découvrir la pratique de manière fun et ludique ? Ou vous êtes simplement à court d'idées pour le suivant ? Contactez-moi et on va arranger ça !"
                 }
                 ],
         "tags": [
@@ -908,7 +912,9 @@ var data = {
                 "Workshop",
                 "Architecture",
                 "C4",
-                "DDD"
+                "DDD",
+                "Dojo",
+                "Coding Dojo"
             ],
             "cities": [
                 "Nantes"
