@@ -49,12 +49,11 @@ var data = {
                 "Toulouse"
             ]
         },
-        
         {
             "name": "Faten Habachi",
             "bio": "UX Design Manager chez Ippon Technologies, Designer Web et Mobile depuis plus de 10 ans, Ergonome, UX Designer",
             "picture": "http://fatenhabachi.com/images/fatenhabachi.jpg",
-	"websites": [
+            "websites": [
                 {
                     "title": "Linkedin",
                     "href": "https://fr.linkedin.com/in/fatenhabachi"
@@ -62,9 +61,7 @@ var data = {
                 {
                     "title": "Ippon",
                     "href": "http://ippon.fr"
-                },
-                
-                
+                }
             ],
             "twitter": "fatenh",
             "contact": "faten.habachi@gmail.com",
@@ -75,12 +72,10 @@ var data = {
                     "title": "Introduction au Design Thinking et approche UX",
                     "summary": "Comprendre l'approche Design Thinking et le jargon lié aux activités UX"
                 },
-                
                 {
                     "title": "L'empathie dans une approche UX",
                     "summary": "Savoir créer une carte de l'empathie dans une approche UX"
-                },
-                
+                }
             ],
             "tags": [
                 "UX",
@@ -89,13 +84,11 @@ var data = {
                 "User interface",
                 "Personas",
                 "Design Thinking"
-            
             ],
             "cities": [
                 "Paris"
             ]
         },
-        
     	{
             "name": "Stéphane Schildknecht",
             "bio": "Spécialiste des bases de données et de PostgreSQL depuis plus de 15 ans. Membre fondateur et premier président de PostgreSQLFr. Dirigeant de Loxodata, société d'expertise autour de PostgreSQL.",
@@ -6838,7 +6831,7 @@ var data = {
                 {
                     "title": "Vers une architecture de microservices",
                     "summary": "Comment l'architecture de microservices est en train de s'imposer. Retour d'expérience sur la mise en place d'une architecture autour des technologies Spring Boot / Zookeeper."
-                },
+                }
             ],
             "tags": [
                 "SolR",
