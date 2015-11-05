@@ -6831,7 +6831,7 @@ var data = {
                 {
                     "title": "Vers une architecture de microservices",
                     "summary": "Comment l'architecture de microservices est en train de s'imposer. Retour d'expérience sur la mise en place d'une architecture autour des technologies Spring Boot / Zookeeper."
-                },
+                }
             ],
             "tags": [
                 "SolR",
