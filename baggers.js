@@ -2298,7 +2298,7 @@ var data = {
             "websites": [
                 {
                     "title": "Gatling",
-                    "href": "http://gatling-tool.org"
+                    "href": "http://gatling.io"
                 },
                 {
                     "title": "eBiz",
@@ -2306,8 +2306,8 @@ var data = {
                 }
             ],
             "twitter": "slandelle",
-            "contact": "slandelle@excilys.com",
-            "mail": "slandelle@excilys.com",
+            "contact": "slandelle@gatling.io",
+            "mail": "slandelle@gatling.io",
             "location": "Paris et proche couronne",
             "sessions": [
                 {
