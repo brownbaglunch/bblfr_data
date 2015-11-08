@@ -1,6 +1,38 @@
 var data = {
     "baggers": [
         {
+            "name": "Sun Seng David TAN",
+            "bio": "Java software developer at Serli. Codenvy/Eclipse Che commiter. As a developer and a team leader, he is working on the SaaS developer environment Codenvy. Serli team is helping Codenvy in improving their SaaS environment by contributing in the development of various Eclipse Che plugins such as the Datasource plugin, Codenvy plugin for Eclipse, the Angularjs plugin, the Contribution Workflow plugin and Orion and Codemirror integration.",
+            "picture": "https://avatars3.githubusercontent.com/u/650571?v=3&s=460",
+            "websites": [
+                {
+                    "title": "Blog",
+                    "href": "http://blog.sunix.org"
+                },
+                {
+                    "title": "GitHub",
+                    "href" : "https://github.com/sunix"
+                }
+            ],
+            "twitter": "sunsengdavidtan",
+            "contact": "sunix@sunix.org",
+            "mail": "sunix@sunix.org",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Code in the cloud with Eclipse Che",
+                    "summary": "Eclipse Che is a cloud IDE and a platform for creating cloud IDE extensions. Che ships with 55 extensions for Java, JavaScript, AngularJS, git, and Docker. Package your own Che extensions to create beautiful, cross-browser developer tooling.\n The Che project contains a structured way to create server- and client-side extensions that are authored in Java, but generated as JavaScript, a set of standard developer-related REST APIs for interacting with development workflows, a large set of language & tooling extensions (Java, git, etc.), a default cloud IDE, and a developer environment cloud for scaling environments with large populations.\nIn this session, we'll show you how to use Che to create Java applications, introduce the Che architecture and provide a tutorial on building plug-ins and extensions to Che directly."
+                }
+            ],
+            "tags": [
+                "Software development",
+                "Cloud IDE"
+            ],
+            "cities": [
+                "Paris"
+            ]
+        },
+        {
             "name": "Gregory Estrade",
             "bio": "Directeur R&D de Lyra-Network, software & hardware hacker, reverse-engineer, philosophe agile auto-proclamé. Ou Disruptive Innovation Lead Strategist, Instant Expert in Everything, ça dépend. Membre de l'association Silicium de préservation du patrimoine micro-informatique.",
             "picture": "http://torlus.github.io/hat_pro.png",
