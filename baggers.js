@@ -1,5 +1,37 @@
 var data = {
     "baggers": [
+    	        {
+            "name": "Sun Seng David TAN",
+            "bio": "Java software developer at Serli. Codenvy/Eclipse Che commiter. As a developer and a team leader, he is working on the SaaS developer environment Codenvy. Serli team is helping Codenvy in improving their SaaS environment by contributing in the development of various Eclipse Che plugins such as the Datasource plugin, Codenvy plugin for Eclipse, the Angularjs plugin, the Contribution Workflow plugin and Orion and Codemirror integration.",
+            "picture": "https://avatars3.githubusercontent.com/u/650571?v=3&s=460",
+            "websites": [
+                {
+                    "title": "Blog",
+                    "href": "http://blog.sunix.org"
+                },
+                {
+                    "title": "GitHub",
+                    "href" : "https://github.com/sunix"
+                }
+            ],
+            "twitter": "sunsengdavidtan",
+            "contact": "sunix@sunix.org",
+            "mail": "sunix@sunix.org",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Pair programming, collaboration et édition de code en temps réel avec les projets Eclipse Cloud Development.",
+                    "summary": "Che, Orion et Flux font partis des nouveaux projets Eclipse Cloud Development dont la mission est de créer les technologies, plateformes et outils nécessaires à la mise en place d'environnements Cloud de développement. Durant cette session, nous présenterons une démo live d'un prototype montrant l'édition collaborative par plusieurs utilisateurs différents en temps réel en utilisant 3 editeurs de la fondation Eclipse: l'IDE Eclipse et les Cloud IDE Che et Orion. Le prototype montrera un micro service Eclipse Flux qui sera instancié par un runner Docker Che. Ce micro service permettra à Orion, Eclipse IDE et Che d'éditer le même fichier en temps réel comme dans Google Docs. Venez avec vos ordinateurs, téléphones portables ou tablettes, et rejoignez notre session de pair programming !"
+                }
+            ],
+            "tags": [
+                "Software development",
+                "Cloud IDE"
+            ],
+            "cities": [
+                "Paris"
+            ]
+        },
         {
             "name": "Gregory Estrade",
             "bio": "Directeur R&D de Lyra-Network, software & hardware hacker, reverse-engineer, philosophe agile auto-proclamé. Ou Disruptive Innovation Lead Strategist, Instant Expert in Everything, ça dépend. Membre de l'association Silicium de préservation du patrimoine micro-informatique.",
