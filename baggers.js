@@ -6963,7 +6963,7 @@ var data = {
                 {
                     "title": "Docker: decouverte et retour d'experience",
                     "summary": "Je vous invite à decouvrir par une rapide introduction et au travers de cas concrêts d'utilisations (environnements de developpements windows, plateforme de production orientée démo ...), sans buzzword, sans charabia, tout simplement, que vous soyez dev ou ops"
-                }
+                },
                 {
                     "title": "Monitoring et Alerting opensource",
                     "summary": "Si vous pensez qu'une solution de monitoring est forcement payante et/ou en mode SaaS ? Je vous propose de vous prouver le contraire ou comment via des outils opensource simple, puissants et ouverts, vous pouvez adresser vos problématiques de qualité de service. "
@@ -6973,7 +6973,8 @@ var data = {
                 "Docker",
                 "Monitoring",
                 "grafana",
-                "supervision"
+                "supervision",
+                "Linux"
             ],
             "cities": [
                 "Lyon"
