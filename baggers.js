@@ -6940,6 +6940,44 @@ var data = {
             "cities": [
                 "Lille"
             ]
+        },
+        {
+            "name": "Rachid Zarouali",
+            "bio": "Responsable SI, Manager et Architecture passionné de l'opensource, toujours en quête de nouveaux challenges ",
+            "picture": "https://media.licdn.com/mpr/mpr/shrink_100_100/p/7/000/22e/134/21fe338.jpg",
+            "websites": [
+                {
+                    "title": "Linkedin",
+                    "href": "https://fr.linkedin.com/in/rachidzarouali"
+                },
+                {
+                    "title": "GitHub",
+                    "href" : "https://github.com/xinity"
+                }
+            ],
+            "twitter": "xinity",
+            "contact": "rzarouali+bbl@gmail.com",
+            "mail": "rzarouali+bbl@gmail.com",
+            "location": "Lyon",
+            "sessions": [
+                {
+                    "title": "Docker: decouverte et retour d'experience",
+                    "summary": "Je vous invite à decouvrir par une rapide introduction et au travers de cas concrêts d'utilisations (environnements de developpements windows, plateforme de production orientée démo ...), sans buzzword, sans charabia, tout simplement, que vous soyez dev ou ops"
+                }
+                {
+                    "title": "Monitoring et Alerting opensource",
+                    "summary": "Si vous pensez qu'une solution de monitoring est forcement payante et/ou en mode SaaS ? Je vous propose de vous prouver le contraire ou comment via des outils opensource simple, puissants et ouverts, vous pouvez adresser vos problématiques de qualité de service. "
+                }
+            ],
+            "tags": [
+                "Docker",
+                "Monitoring",
+                "grafana",
+                "supervision"
+            ],
+            "cities": [
+                "Lyon"
+            ]
         }
     ],
     "cities": [
