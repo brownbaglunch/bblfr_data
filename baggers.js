@@ -6982,6 +6982,47 @@ var data = {
             "cities": [
                 "Lyon"
             ]
+        },
+        {
+            "name": "Simone Civetta",
+            "bio": "Simone est développeur Objective-C et Swift chez Xebia. Depuis 2010, il a réalisé de nombreuses applications B2B et B2C pour iPhone, iPad et Apple Watch. Pionnier de Swift, à partir de fin 2014, il utilise uniquement le nouveau langage Apple dans l'intégralité de ses développements mobiles.",
+            "picture": "https://s3.amazonaws.com/civetta-works/works/personal/profile.png",
+            "websites": [
+                {
+                    "title": "Blog Xebia",
+                    "href" : "http://blog.xebia.fr"
+                },
+                {
+                    "title": "Blog Personnel",
+                    "href" : "http://viteinfinite.com"
+                },
+                {
+                    "title": "GitHub",
+                    "href" : "https://github.com/viteinfinite"
+                }
+            ],
+            "twitter": "viteinfinite",
+            "contact": "scivetta+bbl@xebia.fr",
+            "mail": "scivetta+bbl@xebia.fr",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Swift dans la vraie vie",
+                    "summary": "Au cours de \"Swift dans la vraie vie\" vous assisterez à un retour d'expérience concernant l'utilisation du dernier langage d'Apple - maintenant Open Source - dans deux projets mobiles utilisés en production par quelques milliers d'utilisateurs.\nÀ travers une analyse des points de force et faiblesse de ce langage, vous comprendrez pourquoi il n'est pas trop osé de commencer tout de suite à développer votre prochaine application iOS en Swift."
+                },
+                {
+                    "title": "Couverture de code avec Swift",
+                    "summary": "Une des annonces de la WWDC 2015 qui nous a le plus surpris intéressés a été, sans doute, le support de métriques de couverture de code en Swift. Grâce à ce BBL vous pourrez comprendre les différences de fonctionnalités par rapport au passé et comment intégrer ce KPI dans votre travail quotidien."
+                }
+            ],
+            "tags": [
+                "iOS",
+                "Swift",
+                "Mobile"
+            ],
+            "cities": [
+                "Paris"
+            ]
         }
     ],
     "cities": [
