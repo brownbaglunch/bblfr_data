@@ -413,7 +413,7 @@ var data = {
             ]
         },
         {
-            "name": "Pierre CHAUSSALET",
+            "name": "Pierre Chaussalet",
             "bio": "Admin système, développeur (Java, JS, Python, Node, Go...), site reliability engineer...",
             "picture": "http://www.gravatar.com/avatar/1f2e936f67858671246fd07f4068640e.png?s=200",
             "websites": [
@@ -435,15 +435,18 @@ var data = {
                 {
                     "title": "Au secours, mon portable part en prod ! (ou presque)",
                     "summary": "Voyons comment Docker peut être utilisé non seulement sur vos projets de développement pour de l'intégration continue, mais aussi sur votre propre poste de développement pour recréer un environnement identique à la production à tout moment."
+                },
+                {
+                    "title": "Dr Devops ou: Comment j'ai arrêté de m'en faire et j'ai appris à aimer la prod",
+                    "summary": "Les devs, des punks qui ne pensent qu'à produire du code sans réflexion sur son impact en production ? Les ops, des dinosaures qui ne comprennent rien au sens de l'histoire et refusent toute évolution ? (et autres idées reçues...) Ensemble, essayons de démêler un peu le vrai du faux et de comprendre comment une démarche devops peut permettre de faire travailler tout le monde dans le même sens. Nous verrons également comment répondre à deux besoins antinomiques du métier : un produit stable et un produit évolutif."
                 }
             ],
             "tags": [
                 "Docker",
-                "Fig",
                 "DevOps"
             ],
             "cities": [
-                "Paris"
+                "Paris", "Versailles"
             ]
         },
         {
@@ -6921,7 +6924,7 @@ var data = {
                     "title": "LinkedIn",
                     "href": "https://www.linkedin.com/pub/gilles-dehaudt/19/a96/1b7"
                 }
-            ],              
+            ],
             "twitter": "tonton1728",
             "contact": "tonton1728@gmail.com",
             "mail": "tonton1728@gmail.com",
