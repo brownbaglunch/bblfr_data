@@ -7023,6 +7023,39 @@ var data = {
             "cities": [
                 "Paris"
             ]
+        },
+        {
+            "name": "Fabien Mirault",
+            "bio": "Développeur iOS depuis 5 ans, Fabien a eu l'occasion de réaliser de nombreuses missions innovantes disposant d'une forte audience. Initialiement développeur AS3 (Flash / AIR), il reste curieux de tout ce qui se fait dans le milieu du mobile pour toujours chercher à en tirer des enseignements pour les projets futurs.",
+            "picture": "http://www.xebicon.fr/images/speaker/fabien_mirault.jpg",
+            "websites": [
+                {
+                    "title": "Blog Xebia",
+                    "href" : "http://blog.xebia.fr"
+                },
+                {
+                    "title": "Portfolio",
+                    "href" : "http://fabienmirault.fr"
+                }
+            ],
+            "twitter": "magici1",
+            "contact": "fmirault+bbl@xebia.fr",
+            "mail": "fmirault+bbl@xebia.fr",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Swift dans la vraie vie",
+                    "summary": "Au cours de \"Swift dans la vraie vie\" vous assisterez à un retour d'expérience concernant l'utilisation du dernier langage d'Apple - maintenant Open Source - dans deux projets mobiles utilisés en production par quelques milliers d'utilisateurs.\nÀ travers une analyse des points de force et faiblesse de ce langage, vous comprendrez pourquoi il n'est pas trop osé de commencer tout de suite à développer votre prochaine application iOS en Swift."
+                }
+            ],
+            "tags": [
+                "iOS",
+                "Swift",
+                "Mobile"
+            ],
+            "cities": [
+                "Paris"
+            ]
         }
     ],
     "cities": [
