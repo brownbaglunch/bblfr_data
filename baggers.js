@@ -7033,15 +7033,15 @@ var data = {
         {
             "name": "Fabrice Sznajderman",
             "bio": "Développeur Java / Scala / Web @ Zenika",
-            "picture": "https://fr.gravatar.com/userimage/14188452/66f640699084b5d57856723e7e20505c.jpg?size=200",
+            "picture": "https://lh3.googleusercontent.com/-uLy9UYMYjSU/AAAAAAAAAAI/AAAAAAAAUE8/DwXv5ZuY-M4/s60-p-rw-no/photo.jpg",
             "websites": [
                 {
                     "title": "Blog personnel",
-                    "href": "http://kerflyn.wordpress.com/"
+                    "href": "https://thecoderwriter.wordpress.com/"
                 }
             ],
             "twitter": "fsznajderman",
-            "contact": "<a href='http://kerflyn.wordpress.com/2013/02/06/bbl/'>Brown Bag Lunch (BBL)</a>",
+            "contact": "fabszn@gmail.com",
             "mail": "fabszn@gmail.com",
             "location": "Paris, Ouest parisien, la Défense",
             "sessions": [
