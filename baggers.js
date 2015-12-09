@@ -7033,7 +7033,7 @@ var data = {
         {
             "name": "Fabrice Sznajderman",
             "bio": "Développeur Java / Scala / Web @ Zenika",
-            "picture": "https://lh3.googleusercontent.com/-uLy9UYMYjSU/AAAAAAAAAAI/AAAAAAAAUE8/DwXv5ZuY-M4/s60-p-rw-no/photo.jpg",
+            "picture": "http://1.gravatar.com/avatar/efa687ad8e28474372463d31cbe80c2f?size=200",
             "websites": [
                 {
                     "title": "Blog personnel",
