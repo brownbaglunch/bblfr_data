@@ -7046,13 +7046,13 @@ var data = {
             "location": "Paris, Ouest parisien, la Défense",
             "sessions": [
                 {
-                    "title": "Scala de 0 à l'infinie",
+                    "title": "Scala de 0 à l'infini",
                     "summary": "Cette présentation a pour objectif de poser les bases du language Scala et de monter graduellement ans les tours pour aborder des fonctionnalités plus avancées du languages. Après cette présentation, les termes implicit, monade, fonction partielle, pattern matching et closure ne devrait plus avoir de secret pour vous. Le seul pré-requis est de connaitre un language de programmation."
                 },
                 {
                     "title": "SBT et pourquoi pas?",
                     "summary": "SBT est un outil de build mais pas que,l'idée de cette présentation est de mettre en avant ce que SBT peut apporter en plus dans le quotidien du développeur comparé aux outils reconnus tel que maven. Nous parlerons ici de son utilisation au sein de projets Java même s'il s'est développé conjointement avec le language Scala. Durant cette présentation, nous verrons les fonctionnalités clefs qui pourront influencer vos choix sur vos projets présents ou futurs."
-                },
+                }
             ],
             "tags": [
                 "Java",
