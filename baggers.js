@@ -7031,7 +7031,7 @@ var data = {
             ]
         },
         {
-            "name": "Fabrice Sznajderman",
+            "name": "Fabrice Sznajdermane",
             "bio": "Développeur Java / Scala / Web @ Zenika",
             "picture": "http://1.gravatar.com/avatar/efa687ad8e28474372463d31cbe80c2f?size=200",
             "websites": [
