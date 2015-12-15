@@ -7036,7 +7036,7 @@ var data = {
             "picture": "http://1.gravatar.com/avatar/efa687ad8e28474372463d31cbe80c2f?size=200",
             "websites": [
                 {
-                    "title": "Blog personnel",
+                    "title": "Blog",
                     "href": "https://thecoderwriter.wordpress.com/"
                 }
             ],
