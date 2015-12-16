@@ -1,7 +1,7 @@
 var data = {
     "baggers": [
         {
-            "name": "Louis Bernard",
+            "name": "Sun Seng David TAN",
             "bio": "Java software developer at Serli. Codenvy/Eclipse Che commiter. As a developer and a team leader, he is working on the SaaS developer environment Codenvy. Serli team is helping Codenvy in improving their SaaS environment by contributing in the development of various Eclipse Che plugins such as the Datasource plugin, Codenvy plugin for Eclipse, the Angularjs plugin, the Contribution Workflow plugin and Orion and Codemirror integration.",
             "picture": "https://avatars3.githubusercontent.com/u/650571?v=3&s=460",
             "websites": [
