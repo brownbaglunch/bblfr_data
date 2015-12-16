@@ -3929,12 +3929,12 @@ var data = {
             "websites": [
                 {
                     "title": "Blog perso",
-                    "href": "http://ouarzy.blog4ever.com/"
+                    "href": "http://ouarzy.azurewebsites.net/"
                 }
             ],
             "twitter": "Ouarzy",
-            "contact": "ouarzy@free.fr",
-            "mail": "ouarzy@free.fr",
+            "contact": "epecoul@gmail.com",
+            "mail": "epecoul@gmail.com",
             "location": "Lyon",
             "sessions": [
                 {
@@ -3952,6 +3952,10 @@ var data = {
                 {
                     "title": "Clean Code",
                     "summary": "Avez vous déja pris le temps de décortiquer les pratiques du livre de l'Oncle Bob: Clean Code? Le temps d'un repas, regardons comment améliorer la qualité du code produit"
+                },
+                {
+                    "title": "CQRS/ES",
+                    "summary": "Explorons ensemble une des meilleurs implémentation technique des concepts DDD que nous connaissons aujourd'hui."
                 }
             ],
             "tags": [
@@ -3961,7 +3965,9 @@ var data = {
                 "BDD",
                 ".NET",
                 "Microsoft",
-                "Clean Code"
+                "Clean Code",
+                "CQRS",
+                "ES"
             ],
             "cities": [
                 "Lyon"
