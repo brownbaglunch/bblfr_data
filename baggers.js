@@ -6165,6 +6165,10 @@ var data = {
                 {
                     "title": "Spring Boot, améliorer votre productivité en 1 heure",
                     "summary": "Découvrez les arcanes interne de Spring Boot et comment utiliser le framework pour augmenter votre productivité. Cette session débutera par 15 minutes de présentation suivi de 45 minutes de live coding. Je développerai une application Web constituée d'une WebService, d'une UI, d'un stockage MongoDB et d'outillages de production. Je terminerai par le déploiement de l'application dans le cloud."
+                },
+                {
+                    "title": "Se lancer dans l'aventure microservices avec Spring Cloud",
+                    "summary": "Vous êtes convaincus par l’architecture microservices et vous souhaitez vous lancer dans l'aventure. Durant cette session, nous expliquons comment démarrer concrètement,  quelles sont les nouvelles problématiques que soulève cette architecture et comment les résoudre. Nous détaillons à travers une application de démonstration qui implémente les concepts de Service Discovery, Circuit Breaker, Routing et Client Side Load Balancing l'utilisation de la libraire Spring Cloud Netflix (Eureka, Hystrix, Ribbon , ...). Nous survolerons aussi les différentes alternatives développées par les autres géants du Web tels que HashiCorp et Airbnb."
                 }
             ],
             "tags": [
