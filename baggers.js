@@ -4576,8 +4576,8 @@ var data = {
         },
         {
             "name": "Florent PELLET",
-            "bio": "Développeur Freelance. Membre de DevLyon et du MUG Lyon.",
-            "picture": "http://devlyon.fr/img/florent_pellet.jpg",
+            "bio": "Software Craftsman Freelance. DDD Addict. Membre de DevLyon.",
+            "picture": "http://www.gravatar.com/userimage/92246787/0f806ff65e52d1704930182e4f6c2c3f?size=250",
             "websites": [
                 {
                     "title": "Blog",
@@ -4594,34 +4594,38 @@ var data = {
             "location": "Lyon",
             "sessions": [
                 {
-                    "title": "Knockout.js, ou la rencontre d'MVVM et du Web",
-                    "summary": "Découverte du Single Page Application avec Knockout.js. C’est l'occasion de découvrir des méthodes pour structurer vos applications Web, et améliorer l'expérience utilisateur de vos internautes, ainsi que la maintenabilité de votre application."
+                    "title": "Event Storming: comprendre le métier autrement",
+                    "summary": "Une méthode efficace et rapide pour explorer votre domaine métier simplement."
                 },
                 {
-                    "title": "Single Page Application: Enrichissez l'expérience utilisateur",
-                    "summary": "Je vous propose d'abandonner la vision des sites Internets se résumant à une simple succession de pages, au profit d'applications, structurées grâce au pattern MVVM, avec des transitions et une fluidité de navigation."
+                    "title": "DDD: Agilité par le code grâce à CQRS et EventSourcing",
+                    "summary": "Pas de bullshit, vous pourrez voir un exemple d'implémentation de CQRS et EventSourcing, sans framework et sans magie, en live coding."
+                },
+                {
+                    "title": "Coding Dojo à la demande",
+                    "summary": "Envie de découvrir des nouvelles méthodes de travail ou implémenter les coding dojos dans votre entreprise ? Je peux en animer un, sur un sujet à la demande (SOLID, TDD ...). Prévoir un ordinateur par groupe de 2 personnes."
                 },
                 {
                     "title": "Real-time web en .NET avec SignalR",
                     "summary": "Vous trouvez que réaliser une application web temps réel, comme Google Documents ou des jeux en ligne (y compris IE) c’est compliqué ? Alors invitez-moi pour vous faire découvrir cette fabuleuse library open source."
                 },
                 {
-                    "title": "WPF et ses fonctions méconnues",
-                    "summary": "Même si WPF ne fait plus à la une, il reste encore la référence pour développer une application Desktop sur Windows. Je vous propose de découvrir les nouveautés et les astuces qui augmenteront votre productivité."
-                },
-                {
-                    "title": "ASP.net MVC et ses outils",
-                    "summary": "Microsoft parle beaucoup de Windows 8, mais ASP.net est également très actif. Il bénéficie du passage en open source du framework et des outils fabuleux comme BrowserLink. Je vous passerais en revu les différentes nouveautés avec des démos."
+                    "title": "Knockout.js, ou la rencontre d'MVVM et du Web",
+                    "summary": "Découverte du Single Page Application avec Knockout.js. C’est l'occasion de découvrir des méthodes pour structurer vos applications Web, et améliorer l'expérience utilisateur de vos internautes, ainsi que la maintenabilité de votre application."
                 }
             ],
             "tags": [
+                "DDD",
+                "Domain Driven Design",
+                "Event Sourcing",
+                "CQRS",
+                "Event Storming",
+                "CodingDojo",
                 "Knockout.js",
                 "MVVM",
                 "SignalR",
                 "Asp.net",
                 ".NET",
-                "Microsoft",
-                "WPF",
                 "SPA",
                 "Web"
             ],
