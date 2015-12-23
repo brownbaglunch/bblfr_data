@@ -7236,6 +7236,12 @@ var data = {
             "ville_img": "img/villes/BBL_Aix-en-Provence.jpg",
             "lat": 43.529742,
             "lng": 5.447427
+       },
+        {
+            "name": "Rouen",
+            "ville_img": "img/villes/BBL_Rouen.jpg",
+            "lat": 49.4431,
+            "lng": 1.0993
         }
     ]
 };
