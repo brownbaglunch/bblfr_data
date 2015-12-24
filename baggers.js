@@ -7079,8 +7079,8 @@ var data = {
             ]
         },
         {
-            "name": "Youen Céhné",
-            "bio": "CTO @ Creative Data",
+            "name": "Youen Chéné",
+            "bio": "CTO @ Creative Data / Saagie, activiste @normandyjug @codeursenseine @devoxx4kidsfr",
             "picture": "https://www.creativedata.fr/bundles/app/img/team/youen.png",
             "websites": [
                 {
