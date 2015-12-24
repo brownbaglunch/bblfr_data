@@ -7126,7 +7126,7 @@ var data = {
             "sessions": [
                 {
                     "title": "Angular2, ou comment faciliter la migration de votre application AngularJS",
-                    "summary": "BBL permettant de présenter les nouvelles fonctionnalités d'Angular2. A la fin de cette session, vous connaîtrez comment faciliter la migration de votre application AngularJS existante, en implémentant tout d'abord les bonnes pratiques reconnues par la communauté, puis en migrant composant par composant l'esnemble de votre application" 
+                    "summary": "BBL permettant de présenter les nouvelles fonctionnalités d'Angular2. A la fin de cette session, vous connaîtrez comment faciliter la migration de votre application AngularJS existante, en implémentant tout d'abord les bonnes pratiques reconnues par la communauté, puis en migrant composant par composant l'ensemble de votre application" 
                 }
             ],
             "tags": [
