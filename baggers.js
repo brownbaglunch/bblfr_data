@@ -7108,6 +7108,35 @@ var data = {
                 "Paris",
                 "Rouen"
             ]
+        },
+        {
+            "name": "Emmanuel DEMEY",
+            "bio": "Consultant et Formateur Web - Zenika Lille",
+            "picture": "https://pbs.twimg.com/profile_images/628190699951923200/vS3yoC1K.jpg",
+            "websites": [
+                {
+                    "title": "Blog",
+                    "href": "http://gillespie59.github.io/"
+                }
+            ],
+            "twitter": "EmmanuelDemey",
+            "contact": "emmanuel.demey@zenika.com",
+            "mail": "emmanuel.demey@zenika.com",
+            "location": "Lille,"t
+            "sessions": [
+                {
+                    "title": "Angular2, ou comment faciliter la migration de votre application AngularJS",
+                    "summary": "BBL permettant de présenter les nouvelles fonctionnalités d'Angular2. A la fin de cette session, vous connaîtrez comment faciliter la migration de votre application AngularJS existante, en implémentant tout d'abord les bonnes pratiques reconnues par la communauté, puis en migrant composant par composant l'esnemble de votre application" 
+                }
+            ],
+            "tags": [
+                "AngularJS",
+                "Accessibilité",
+                "NodeJS"
+            ],
+            "cities": [
+                "Lille"
+            ]
         }
     ],
     "cities": [
