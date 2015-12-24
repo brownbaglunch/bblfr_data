@@ -7122,7 +7122,7 @@ var data = {
             "twitter": "EmmanuelDemey",
             "contact": "emmanuel.demey@zenika.com",
             "mail": "emmanuel.demey@zenika.com",
-            "location": "Lille,"t
+            "location": "Lille",
             "sessions": [
                 {
                     "title": "Angular2, ou comment faciliter la migration de votre application AngularJS",
