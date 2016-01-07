@@ -482,7 +482,7 @@ var data = {
         },
         {
             "name": "Aude Amarrurtu",
-            "bio": "Dans les Ressources Humaines depuis 8 ans, j'ai mis en place la Direction Ressources Humaines d'Arolla en 2011.",
+            "bio": "Dans les Ressources Humaines depuis 8 ans, j'ai mis en place la Direction Ressources Humaines d'Arolla en 2011. J'ai intégré Itelios fin 2015 pour insuffler une nouvelle dynamique à la fonction RH, rebaptisée People & Culture Development",
             "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/05b/37b/234370e.jpg",
             "websites": [
                 {
@@ -502,6 +502,10 @@ var data = {
                 {
                     "title": "Les RH en SSII (ESN): comment sortir du lot?",
                     "summary": "Comment un service RH peut-il apporter de la valeur à une SSII? Et surtout, comment les RH peuvent-ils accompagner les salariés de ce type de société comme il se doit? Je vous propose de faire le point sur les attentes des salariés, leurs appréhensions et réticences, mais également sur le véritable apport que peut représenter un bon service RH en SSII."
+                },
+                {
+                    "title": "Faire des RH autrement!",
+                    "summary": "Les RH à l'ancienne, coincées entre une rigidité juridique et de l'administratif toujours plus lourd, ça ne vous intéresse pas? Moi non plus, les RH, c'est tellement plus! Basculez avec moi dans la révolution People & Culture Development!"
                 }
             ],
             "tags": [
