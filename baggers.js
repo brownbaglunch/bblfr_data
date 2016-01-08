@@ -2894,13 +2894,13 @@ var data = {
             ]
         },
         {
-            "name": "Hadrien Collongues",
+            "name": "Hadrien de Cuzey",
             "bio": "Développeur, option web",
             "picture": "https://en.gravatar.com/userimage/15042699/8ff3f5d999096f04a7e7352ce4a8b930.jpeg?size=200",
             "twitter": "chadrien",
             "contact": "chadrien [at] chadrien [dot] fr",
             "mail": "chadrien@chadrien.fr",
-            "location": "Toulouse et agglomération",
+            "location": "Nice",
             "sessions": [
                 {
                     "title": "Docker par l'exemple",
@@ -2911,7 +2911,8 @@ var data = {
                 "Docker"
             ],
             "cities": [
-                "Toulouse"
+                "Monaco",
+                "Nice"
             ]
         },
         {
@@ -7265,12 +7266,24 @@ var data = {
             "ville_img": "img/villes/BBL_Aix-en-Provence.jpg",
             "lat": 43.529742,
             "lng": 5.447427
-       },
+        },
         {
             "name": "Rouen",
             "ville_img": "img/villes/BBL_Rouen.jpg",
             "lat": 49.4431,
             "lng": 1.0993
+        },
+        {
+            "name": "Nice",
+            "ville_img": "",
+            "lat": 43.7031691,
+            "lng": 7.1827776
+        },
+        {
+            "name": "Monaco",
+            "ville_img": "",
+            "lat": 43.7383225,
+            "lng": 7.4157033
         }
     ]
 };
