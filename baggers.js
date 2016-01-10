@@ -5629,7 +5629,7 @@ var data = {
         {
             "name": "Fabien Arrault",
             "bio": "Architecte JavaEE chez Ippon Technologies",
-            "picture": "https://drive.google.com/file/d/0B-ShMcwHfbkDcVhUM3RCc1FnZGs/view?usp=sharing",
+            "picture": "https://dl.dropboxusercontent.com/u/29509621/farrault.jpg",
             "websites": [
                 {"title": "Blog", "href": "http://blog.ippon.fr/author/Fabien_ARRAULT/"},
                 {"title": "LinkedIn", "href": "https://fr.linkedin.com/in/fabien-arrault-b52b324"}
