@@ -4903,7 +4903,7 @@ var data = {
         {
             "name": "Dridi Boukelmoune",
             "bio": "Développeur, formateur, Editor InfoQ FR et contributeur Fedora.",
-            "picture": "http://cdn4.infoq.com/images/team/fr/DridiBoukelmoune.jpg",
+            "picture": "https://avatars1.githubusercontent.com/u/891744",
             "websites": [
                 {
                     "title": "Zenika",
