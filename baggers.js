@@ -1649,21 +1649,17 @@ var data = {
         },
         {
             "name": "Mathieu Gandin",
-            "bio": "Développeur passionné, Technical Leader, Coach Agile",
+            "bio": "Développeur, Technical Leader @lesfurets.com",
             "picture": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/000/1a1/3d1/258cb42.jpg",
             "websites": [
                 {
-                    "title": "Playground Change",
-                    "href": "http://playgroundchange.wordpress.com/"
-                },
-                {
-                    "title": "Blog Octo",
-                    "href": "http://blog.octo.com/author/mga/"
+                    "title": "Random Code",
+                    "href": "http://mgandin.github.io/"
                 }
             ],
-            "twitter": "octomga",
-            "contact": "mga@octo.com",
-            "mail": "mga@octo.com",
+            "twitter": "m_gandin",
+            "contact": "mathieu.gandin@gmail.com",
+            "mail": "mathieu.gandin@gmail.com",
             "location": "Paris et La Défense",
             "sessions": [
                 {
@@ -1671,13 +1667,9 @@ var data = {
                     "summary": "C'est quoi le code legacy ? Comment commencer de le refactorer ? Quelles pratiques d'équipes peut-on mettre en place avec les développeurs pour nettoyer le code legacy ? Je vous propose d'apporter des réponses à ses sujets au cours de cette présentation illustrée avec du live-coding"
                 },
                 {
-                    "title": "De la User Story aux tests fonctionnels avec Cucumber",
-                    "summary": "Vous avez des User Story, je vous propose d'écrire ses tests fonctionnels. Petite présentation et live coding avec Cucumber."
-                },
-                {
-                    "title": "Le cadrage fonctionnel d'un projet agile",
-                    "summary": "Comment cadrer le démarrage d'un projet agile ? Sur quoi se concentrer ? Quels ateliers sont importants à jouer pour un cadrage ? Je vous présenterais mon retour d'expériences sur le sujet et partageons ensuite sur ces pratiques"
-                },
+                    "title": "Programmation et musique avec Clojure et Overtone",
+                    "summary": "Clojure est un langage de programmation fonctionnelle puissant, qui tourne sur la JVM et qui est très utile pour des traitements parallèles ou la manipulation d'un grand nombre de données. Overtone est un framework open source développé en Clojure, qui propose un environnement de composition musicale. Comment Clojure et Overtone fonctionnent-ils ensemble ? Comment rapidement programmer des instruments virtuels en utilisant la simplicité de Clojure ? Et surtout comment faire de la musique avec tout ça ? Ce live-coding est là pour répondre à ces questions."
+                }
                 {
                     "title": "Bonus : Groupe de lecture",
                     "summary": "Si tu veux mettre en place un groupe de lecture pendant un brownbaglunch sur 'Clean Code' de Bob Martin et 'Quality Software Management' de Gerald Weinberg, je peux t'aider ..."
@@ -1686,7 +1678,8 @@ var data = {
             "tags": [
                 "Code",
                 "Refactoring",
-                "BDD"
+                "Clojure",
+                "Java"
             ],
             "cities": [
                 "Paris"
