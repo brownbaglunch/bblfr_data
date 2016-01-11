@@ -2633,7 +2633,7 @@ var data = {
         {
             "name": "Antoine Vernois",
             "bio": "Agile Software Craftsman, freelance. Fondateur de la communaute Software Craftsmanship Toulouse.",
-            "picture": "https://blog.crafting-labs.fr/dotclear/images/antoine-vernois.jpg",
+            "picture": "https://blog.crafting-labs.fr/images/antoine-vernois.jpg",
             "websites": [
                 {
                     "title": "Blog",
