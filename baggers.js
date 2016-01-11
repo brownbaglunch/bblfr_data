@@ -3614,7 +3614,7 @@ var data = {
         {
             "name": "Damien Cavaillès",
             "bio": "Développeur Mobile, passionné par les nouveaux usages de la mobilité et des objets connectés ainsi que par la créativité des Makers. J'organise le Startup Weekend Lille Maker Edition. Je suis également Facilitateur de Startup Weekend !",
-            "picture": "https://pbs.twimg.com/profile_images/1520756694/263927_2114421789970_1528442537_3828466_2806724_n__1_.jpg",
+            "picture": "https://pbs.twimg.com/profile_images/597738159196098561/yrRIHSZT.jpg",
             "websites": [
                 {
                     "title": "Mes articles sur Medium",
@@ -3626,7 +3626,7 @@ var data = {
                 }
             ],
             "twitter": "thedamfr",
-            "contact": "@thedamfr",
+            "contact": "dam.cavailles+bbl@gmail.com",
             "location": "Lille, Paris",
             "sessions": [
                 {
