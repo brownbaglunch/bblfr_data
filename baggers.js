@@ -1669,7 +1669,7 @@ var data = {
                 {
                     "title": "Programmation et musique avec Clojure et Overtone",
                     "summary": "Clojure est un langage de programmation fonctionnelle puissant, qui tourne sur la JVM et qui est très utile pour des traitements parallèles ou la manipulation d'un grand nombre de données. Overtone est un framework open source développé en Clojure, qui propose un environnement de composition musicale. Comment Clojure et Overtone fonctionnent-ils ensemble ? Comment rapidement programmer des instruments virtuels en utilisant la simplicité de Clojure ? Et surtout comment faire de la musique avec tout ça ? Ce live-coding est là pour répondre à ces questions."
-                }
+                },
                 {
                     "title": "Bonus : Groupe de lecture",
                     "summary": "Si tu veux mettre en place un groupe de lecture pendant un brownbaglunch sur 'Clean Code' de Bob Martin et 'Quality Software Management' de Gerald Weinberg, je peux t'aider ..."
