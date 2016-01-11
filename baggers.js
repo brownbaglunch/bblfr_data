@@ -4629,8 +4629,8 @@ var data = {
         },
         {
             "name": "Mathieu Parisot",
-            "bio": "Développeur Java&Web chez Soat",
-            "picture": "http://www.soat.fr/wp-content/uploads/2013/06/Mathieu-parisot-mini.jpg",
+            "bio": "Développeur Java&Web indépendant",
+            "picture": "http://matparisot.fr/content/images/2014/12/matparisot_square_min.jpg",
             "websites": [
                 {
                     "title": "Blog",
@@ -4663,15 +4663,11 @@ var data = {
                     "summary": "Un focus sur les normes CSS3 permettant de faire des mises en page avancées : FlexBoxx, CSSGrid, CSSShape, CSS regions, columns, etc."
                 },
                 {
-                    "title": "Démystifions la magie du CSS",
-                    "summary": "Le CSS parrait souvent simple mais magique pour les développeurs. Dans cette présentation je présente et explique différents concepts qui sont souvent mal compris : spécificité, types de display, positionnement, etc."
-                },
-                {
-                    "title": "Crash course Javascript pour les développeurs",
-                    "summary": "Un condensé de particularités souvent méconnues et dangereuses du langage javascript : hoisting, scoping des variables, utilisation de this, égalité magique, etc."
+                    "title": "Développons dans le futur dès maintenant",
+                    "summary": "Découvrez comment utiliser les standards plus ou moins expérimentaux du web dès maintenant avec Babel, PostCss, des polyfill et webpack."
                 }
             ],
-            "tags": ["Responsive", "HTML5", "CSS3", "JavaScript"],
+            "tags": ["Responsive", "HTML5", "CSS3", "JavaScript","babel","postcss","es6","es2015"],
             "cities": [ "Paris" ]
         },
         {
