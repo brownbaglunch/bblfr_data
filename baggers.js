@@ -5647,8 +5647,8 @@ var data = {
         },
         {
             "name": "Manuel Raynaud",
-            "bio": "@theliaecommerce developer and PHP addict",
-            "picture": "http://www.manuel-raynaud.com/wp-content/uploads/2013/12/manuel.jpg",
+            "bio": "Backend dev @wisembly and PHP addict",
+            "picture": "http://gravatar.com/avatar/7305d40aa63e426c31decc0b4bd4225f?s=200",
             "websites": [
                 {
                     "title": "Github",
@@ -5660,13 +5660,13 @@ var data = {
                 },
                 {
                     "title": "Site perso",
-                    "href": "http://www.manuel-raynaud.com"
+                    "href": "http://raynaud.io"
                 }
             ],
             "twitter": "manuraynaud",
-            "contact": "raynaud.manu@gmail.com",
-            "mail": "raynaud.manu@gmail.com",
-            "location": "Clermont Ferrand et environs",
+            "contact": "manu@raynaud.io",
+            "mail": "manu@raynaud.io",
+            "location": "Clermont Ferrand et Paris",
             "sessions": [
                 {
                     "title": "Thelia, la solution ecommerce libre",
@@ -5688,7 +5688,8 @@ var data = {
                 "Git"
             ],
             "cities": [
-                "Clermont-Ferrand"
+                "Clermont-Ferrand",
+                "Paris"
             ]
         },
         {
