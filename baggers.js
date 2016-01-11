@@ -7259,7 +7259,7 @@ var data = {
         },
         {
             "name": "Sophia-Antipolis",
-            "ville_img": "",
+            "ville_img": "img/villes/BBL.jpg",
             "lat": 43.616354,
             "lng": 7.055222
         },
@@ -7277,7 +7277,7 @@ var data = {
         },
         {
             "name": "Strasbourg",
-            "ville_img": "",
+            "ville_img": "img/villes/BBL.jpg",
             "lat": 48.583148,
             "lng": 7.747882
         },
@@ -7289,7 +7289,7 @@ var data = {
         },
         {
             "name": "Aix-en-Provence",
-            "ville_img": "img/villes/BBL_Aix-en-Provence.jpg",
+            "ville_img": "img/villes/BBL.jpg",
             "lat": 43.529742,
             "lng": 5.447427
         },
@@ -7301,13 +7301,13 @@ var data = {
         },
         {
             "name": "Nice",
-            "ville_img": "",
+            "ville_img": "img/villes/BBL.jpg",
             "lat": 43.7031691,
             "lng": 7.1827776
         },
         {
             "name": "Monaco",
-            "ville_img": "",
+            "ville_img": "img/villes/BBL.jpg",
             "lat": 43.7383225,
             "lng": 7.4157033
         }
