@@ -5330,7 +5330,7 @@ var data = {
         {
             "name": "Jérôme Heissler",
             "bio": "Startup lovers • Tech Entrepreneur • Architect AWS • Developer Web & Scala/Java • Passionate about Continuous Delivery, Infrastructure Automation, and all things Devops.",
-            "picture": "https://pbs.twimg.com/profile_images/378800000207562580/068af47146178ce025736989f37fd862.jpeg",
+            "picture": "https://fr.gravatar.com/userimage/41602360/ba257d46b8fca7e9d93411c7b7196b69.jpeg",
             "websites": [
                 {
                     "title": "linkedin",
