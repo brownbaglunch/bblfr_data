@@ -202,6 +202,11 @@ bblfrData.baggers.forEach(function(obj) {
 //console.log(websiteTypes);
 //console.log('different website types', Object.keys(websiteTypes).length);
 
+// Sort speakers
+speakers = speakers.sort(function(a, b){
+    return a.since == b.since ? 0 : +(a.since > b.since) || -1;
+});
+
 // Create the new final object
 var newData = {
     speakers: speakers,
