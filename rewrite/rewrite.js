@@ -207,10 +207,16 @@ speakers = speakers.sort(function(a, b){
     return a.since == b.since ? 0 : +(a.since > b.since) || -1;
 });
 
+// Sort cities
+const orderedCities = {};
+Object.keys(cities).sort().forEach(function(key) {
+    orderedCities[key] = cities[key];
+});
+
 // Create the new final object
 var newData = {
     speakers: speakers,
-    cities: cities
+    cities: orderedCities
 };
 
 
