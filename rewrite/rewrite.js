@@ -52,25 +52,22 @@ bblfrData.baggers.forEach(function(obj) {
     delete obj.tags;
 
     // Generate the new contact
-    var contact;
-    if (obj.contact === undefined) {
-        contact = {
-            type: 'twitter',
-            url: obj.twitter
-        }
-    } else {
-        contact = {
-            url: obj.mail
-        }
+    var contact = {};
+    if (obj.twitter !== undefined) {
+        contact['twitter'] = obj.twitter;
+        delete obj.twitter;
     }
+    if (obj.contact !== undefined) {
+        contact['mail'] = obj.mail;
+        delete obj.contact;
+    }
+    delete obj.mail;
 
     if (obj.since === undefined || obj.since === '') {
         // For audit purpose
         console.log('no date for', obj.name);
     }
 
-    delete obj.mail;
-    delete obj.contact;
 
     obj.contact = contact;
 
