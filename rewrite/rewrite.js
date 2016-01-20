@@ -88,11 +88,6 @@ bblfrData.baggers.forEach(function(obj) {
 
             var name = website.title.toLowerCase();
             switch (name) {
-                case 'linkedin':
-                case 'linked in':
-                case 'profil linkedin':
-                    name = 'LinkedIn';
-                    break;
                 case 'github':
                     name = 'GitHub';
                     break;
@@ -108,42 +103,6 @@ bblfrData.baggers.forEach(function(obj) {
                 case 'hopwork':
                     name = 'Hopwork';
                     break;
-                case 'home page':
-                case 'silicium':
-                case 'ippon':
-                case 'code distillers':
-                case 'loxodata':
-                case 'use case driven':
-                case 'one.hundred.acorns':
-                case 'n-fluent.net':
-                case 'pragmafabrik':
-                case 'homepage':
-                case 'iergo':
-                case 'easymock':
-                case 'objenesis':
-                case 'faveod':
-                case 'arolla':
-                case 'agileit':
-                case 'websbite':
-                case 'codeurs en seine':
-                case 'lean kanban france':
-                case 'lesfurets.com':
-                case 'duchess france':
-                case 'affini-tech':
-                case 'random code':
-                case 'about me':
-                case 'ux-fr':
-                case 'carbon it':
-                case 'agilexperience':
-                case 'human coders':
-                case 'human coders formations':
-                case 'pragmatic entrepreneurs':
-                case 'conseil en business model':
-                case 'bloc-notes sur l\'expérience utilisateur':
-                case 'mes projets':
-                case 'tous sur java, c++, la sécurité et la poo':
-                    name = 'Web';
-                    break;
                 case 'les bouquins que j\'ai écrit':
                     name = 'Book';
                     break;
@@ -158,7 +117,7 @@ bblfrData.baggers.forEach(function(obj) {
                         name = 'Web';
                     } else if (name.toLowerCase().indexOf('site') > -1) {
                         name = 'Web';
-                    } else if (website.href.toLowerCase().indexOf('linkedin') > -1) {
+                    } else if (website.href.toLowerCase().indexOf('linked') > -1) {
                         name = 'LinkedIn';
                     } else if (website.href.toLowerCase().indexOf('about.me') > -1) {
                         name = 'AboutMe';
@@ -199,8 +158,8 @@ bblfrData.baggers.forEach(function(obj) {
 });
 
 // For audit purpose
-//console.log(websiteTypes);
-//console.log('different website types', Object.keys(websiteTypes).length);
+// console.log(websiteTypes);
+console.log('different website types', Object.keys(websiteTypes).length);
 
 // Sort speakers
 speakers = speakers.sort(function(a, b){
