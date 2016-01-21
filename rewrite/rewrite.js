@@ -44,7 +44,8 @@ bblfrData.baggers.forEach(function(obj) {
         sessions.push({
             "title": session.title,
             "abstract": session.summary,
-            "tags": obj.tags
+            "tags": obj.tags,
+            "lang": [ "fr" ]
         });
     });
 
