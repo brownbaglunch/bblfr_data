@@ -7371,7 +7371,7 @@ var data = {
         {
             "since": "2016-01-31",
             "name": "Eric Siber",
-            "bio": "Agile Java Craftsman - Creative Ecosystem Architect. Intéressé également par la gestion des talents, le leadership, le bonheur au travail, ainsi que des mouvements comme la sociocratie, l'holacratie, l'entreprise libérée."
+            "bio": "Agile Java Craftsman - Creative Ecosystem Architect. Intéressé également par la gestion des talents, le leadership, le bonheur au travail, ainsi que des mouvements comme la sociocratie, l'holacratie, l'entreprise libérée.",
             "picture": "img/baggers/photo_esiber.jpg",
             "websites": [
                 {
