@@ -7367,6 +7367,50 @@ var data = {
                 "Lyon",
                 "Saint Etienne"
             ]
+        },
+        {
+            "since": "2016-01-31",
+            "name": "Eric Siber",
+            "bio": "Agile Java Craftsman - Creative Ecosystem Architect. Intéressé également par la gestion des talents, le leadership, le bonheur au travail, ainsi que des mouvements comme la sociocratie, l'holacratie, l'entreprise libérée."
+            "picture": "img/baggers/photo_esiber.jpg",
+            "websites": [
+                {
+                    "title": "Linkedin",
+                    "href": "https://fr.linkedin.com/in/siber"
+                }
+            ],
+            "twitter": "esiber",
+            "contact": "eric.siber@gmail.com",
+            "mail": "eric.siber@gmail.com",
+            "location": "Paris et alentours",
+            "sessions": [
+                {
+                    "title": "L'écosystème agile",
+                    "summary": "Un tour d’horizon à 360° de ce qu'on peut associer à l'agilité et aux mouvements agiles. Pour débutants ou faux débutants sur le sujet, voire ceux qui veulent élargir leur vision." 
+                },
+                {
+                    "title": "La relecture de code : avant tout des pratiques !",
+                    "summary": "Cette session vise à sensibiliser les participants à la problématique de relecture de code. Souvent ce sont les outils qui font le buzz, reléguant les pratiques et leur adoption au second plan. Loin des effets whaou de la démo d'un outil, je souhaite vous sensibiliser au pourquoi et comment, tout en illustrant par des pratiques : de la plus élémentaire à la plus tendance."
+                },
+                {
+                    "title": "De la culture de l'apprentissage à l'organisation apprenante",
+                    "summary": "La formation est en ébullition : la formation traditionnelle est mise à mal par de nouveaux canaux d’apprentissages. Etudions ces canaux qui amènent des bénéfices immédiats, et voyons comment les intégrer dans le quotidien de l'entreprise."
+                },
+                {
+                    "title": "Réseaux sociaux d'entreprise : l'exemple de Yammer",
+                    "summary": "Une présentation des fonctionnalités des réseaux sociaux d'entreprise à travers l’exemple de Yammer et du réseau VISEO / Novedia que j'ai initié en 2010 pour apporter une dimension sociale et collaborative dans l'entreprise."
+                }
+            ],
+            "tags": [
+                "Agile",
+                "Craftsmanship",
+                "Formation",
+                "RSE",
+                "Yammer",
+            ],
+            "cities": [
+                "Paris"
+            ]
         }
     ],
     "cities": [
