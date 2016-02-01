@@ -7406,7 +7406,7 @@ var data = {
                 "Craftsmanship",
                 "Formation",
                 "RSE",
-                "Yammer",
+                "Yammer"
             ],
             "cities": [
                 "Paris"
