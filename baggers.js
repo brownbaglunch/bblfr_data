@@ -1,6 +1,45 @@
 var data = {
     "baggers": [
         {
+            "since": "2016-02-08",
+            "name": "Stanislas Chollet",
+            "bio": "Fullstack software developer at Dailymotion. Passionate about functional programming, performance and happiness at work.",
+            "picture": "https://avatars2.githubusercontent.com/u/158689?v=3&s=460",
+            "websites": [
+                {
+                    "title": "Website",
+                    "href": "http://stanislaschollet.com"
+                },
+                {
+                    "title": "GitHub",
+                    "href": "https://github.com/tsunammis"
+                },
+                {
+                    "title": "Linkedin",
+                    "href": "https://fr.linkedin.com/in/stanislaschollet"
+                },
+            ],
+            "twitter": "tsunammis",
+            "contact": "stanislas.chollet@gmail.com",
+            "mail": "stanislas.chollet@gmail.com",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "GraphQL, the new age of API ?",
+                    "summary": "Bring more liberties to your Frontend developers with GraphQL."
+                }
+            ],
+            "tags": [
+                "Scalability",
+                "GraphQL",
+                "Happiness at work"
+            ],
+            "cities": [
+                "Paris",
+                "Orléans"
+            ]
+        },
+        {
             "since": "2015-11-08",
             "name": "Sun Seng David TAN",
             "bio": "Java software developer at Serli. Codenvy/Eclipse Che commiter. As a developer and a team leader, he is working on the SaaS developer environment Codenvy. Serli team is helping Codenvy in improving their SaaS environment by contributing in the development of various Eclipse Che plugins such as the Datasource plugin, Codenvy plugin for Eclipse, the Angularjs plugin, the Contribution Workflow plugin and Orion and Codemirror integration.",
@@ -7386,7 +7425,7 @@ var data = {
             "sessions": [
                 {
                     "title": "L'écosystème agile",
-                    "summary": "Un tour d’horizon à 360° de ce qu'on peut associer à l'agilité et aux mouvements agiles. Pour débutants ou faux débutants sur le sujet, voire ceux qui veulent élargir leur vision." 
+                    "summary": "Un tour d’horizon à 360° de ce qu'on peut associer à l'agilité et aux mouvements agiles. Pour débutants ou faux débutants sur le sujet, voire ceux qui veulent élargir leur vision."
                 },
                 {
                     "title": "La relecture de code : avant tout des pratiques !",
