@@ -17,7 +17,7 @@ var data = {
                 {
                     "title": "Linkedin",
                     "href": "https://fr.linkedin.com/in/stanislaschollet"
-                },
+                }
             ],
             "twitter": "tsunammis",
             "contact": "stanislas.chollet@gmail.com",
