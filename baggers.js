@@ -7473,6 +7473,52 @@ var data = {
             "cities": [
                 "Rouen"
             ]
+        },
+        {
+            "since": "2016-02-27",
+            "name": "Frederic Rivain",
+            "bio": "CTO at Dashlane, co-founder of CiTy-O, a community of CTO in Paris.",
+            "picture": "https://www.dashlane.com/images/team-photos/frederic-rivain.png",
+            "websites": [
+                {
+                    "title": "Dashlane Blog",
+                    "href": "http://blog.dashlane.com/"
+                },
+                {
+                    "title": "Linkedin",
+                    "href": "https://fr.linkedin.com/in/fredericrivain"
+                }
+		],
+            "twitter": "FredericRivain",
+            "contact": "frederic.rivain@gmail.com",
+            "mail": "frederic.rivain@gmail.com",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Continuous Learning",
+                    "summary": "De l'importance de mettre en place une culture de l'apprentissage continu, théorie et exemples concrets"
+                }
+                {
+                    "title": "Manager dans un environnement Agile",
+                    "summary": "Comment se positionner en tant que Manager au sein d'une organisation Agile. Quel nouveau rôle pour un Agile Manager?"
+                }
+                {
+                    "title": "Scaling Engineering Teams",
+                    "summary": "Tips and tricks pour croître sainement"
+                }
+                {
+                    "title": "Gérer un portfolio Agile",
+                    "summary": "Comment mettre en place et gérer un portfolio d'entreprise en complément des backlogs d'équipes Agile"
+                }
+            ],
+            "tags": [
+                "Management",
+                "Agile",
+                "Continuous Learning",
+            ],
+            "cities": [
+                "Paris"
+            ]
         }
     ],
     "cities": [
