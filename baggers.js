@@ -1693,15 +1693,19 @@ var data = {
                     "summary": "A une époque où tout business peut être rapidement concurrencé par une startup, il faut savoir créer le bon produit. C’est la où les principes et les outils de Lean Startup (mais aussi Design Thinking ou encore de l'effectuation) viennent nous aider. Je propose une intro rapide et un atelier purement pratique autour de Lean Canvas que j'ai eu l'occasion de pratiquer de nombreuses fois en tant qu'Advisor Lean Startup"
                 },
                 {
-                    "title": "Apprendre à apprendre pour survivre au 21ème siècle.",
+                    "title": "Apprendre à apprendre",
                     "summary": "Apprendre est la compétence essentielle à connaître au 21ème siècle. Accro au MOOC (une trentaine de certifications en 2 ans) et développant un PersonalMBA, je vous propose de découvrir et discuter les moyens d’apprendre rapidement aussi bien au niveau personnel, de votre produit/startup et même de votre organisation."
                 },
                 {
-                    "title": "Inspirez vous de la psychologie et du design pour améliorer votre code.",
+                    "title": "Découvrir la spirale dynamique et des principes pour une organisation adaptée au 21ème siècle",
+                    "summary": "Nos organisations sont en train de vivre une crise existentielle majeure. Pour preuve, l'engouement pour le documentaire 'le bonheur au travail' ou le mouvement des 'entreprises libérées'. Mais plus que la libération de l'entreprise, l'important est de comprendre comment donner des bases solides à nos organisations. Pour ça, je me baserai sur la spirale dynamique, modèle d'évolution individuelle et collective, afin de mieux comprendre et mettre en place les différentes étapes d'une organisation efficace."
+                },
+                {
+                    "title": "Inspirez vous de la psychologie et du design pour améliorer votre code",
                     "summary": "Le but est de présenter les grands principes du design (eux-même basés sur notre psychologie) pour améliorer votre code. Au passage, vous pouvez même apprendre à améliorer votre UI car ce sont les mêmes principes ;)"
                 },
                 {
-                    "title": "Faites (re)vivre vos spécifications.",
+                    "title": "Faites (re)vivre vos spécifications",
                     "summary": "Vous avez écrit des centaines de pages de spécifications mais personne ne les a lues et elles sont déjà désuètes ? La solution se trouve dans la spécification par l'exemple qui permet de mettre en pratique l'ATDD, le BDD et surtout la co-création en créant le dialogue et un langage commun avec le métier. Nous baserons sur l'outil Serenity-BDD pour la mise en pratique"
                 },
                 {
