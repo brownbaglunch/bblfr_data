@@ -7497,15 +7497,15 @@ var data = {
                 {
                     "title": "Continuous Learning",
                     "summary": "De l'importance de mettre en place une culture de l'apprentissage continu, théorie et exemples concrets"
-                }
+                },
                 {
                     "title": "Manager dans un environnement Agile",
                     "summary": "Comment se positionner en tant que Manager au sein d'une organisation Agile. Quel nouveau rôle pour un Agile Manager?"
-                }
+                },
                 {
                     "title": "Scaling Engineering Teams",
                     "summary": "Tips and tricks pour croître sainement"
-                }
+                },
                 {
                     "title": "Gérer un portfolio Agile",
                     "summary": "Comment mettre en place et gérer un portfolio d'entreprise en complément des backlogs d'équipes Agile"
