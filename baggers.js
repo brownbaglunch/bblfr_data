@@ -4893,10 +4893,6 @@ var data = {
                     "summary": "Quand on est salarié, on peut avoir l'impression que l'entreprise dans laquelle on travaille est un agglomérat complexe d'entités juridiques, administratives, de production, de contrôle… Parfois, certains se sentent frustrés de ne pas pouvoir changer les choses. Pourtant, de nombreuses implications sont possibles pour apporter à l'entreprise un peu d'humanité."
                 },
                 {
-                    "title": "Mon pire client a 5 ans",
-                    "summary": "Devenir Papa a profondément changé la vision que j’avais de mon métier et de moi même. Être un bon père est un défi de chaque jour qui fait de moi une meilleure personne et m’apporte énormément dans mes responsabilités de consultant en terme de compréhension, de pédagogie, d’accompagnent au succès et, plus souvent qu’à mon goût… de patience."
-                },
-                {
                     "title": "Internet, espace d'opportunités… et de risques (public adolescent)",
                     "summary": "Le Web a pris en quelques années une importance capitale dans nos vies. Mais les jeunes (et les moins jeunes) ne sont pas toujours au courant des problématiques que cela soulève et des changements de société qu'il nous faut comprendre. Au travers d'une quinzaine de problématiques dans lesquelles piocher, je vous propose de monter des ateliers d'échanges et d'information pour mieux sensibiliser aux usages d'Internet. Cible : 14 ans et +"
                 },
