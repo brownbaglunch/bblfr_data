@@ -7518,7 +7518,7 @@ var data = {
             "tags": [
                 "Management",
                 "Agile",
-                "Continuous Learning",
+                "Continuous Learning"
             ],
             "cities": [
                 "Paris"
