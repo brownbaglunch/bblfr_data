@@ -7523,6 +7523,41 @@ var data = {
             "cities": [
                 "Paris"
             ]
+        },
+        {
+            "since": "2016-03-14",
+            "name": "Benoît Simard",
+            "bio": "Benoît Simard est un développeur spécialisé en logiciel libre, Java & data. En dehors de son goût pour le café et la data (en particulier l'open data), Benoît es un graph-addict travaillant comme consultant technique chez Neo4j.",
+            "picture": "http://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/benoit-simard-120x160.jpg",
+            "websites": [
+                {
+                    "title": "Blog",
+                    "href": "http://www.bsimard.com/"
+                },
+                {
+                    "title": "Linkedin",
+                    "href": "https://www.linkedin.com/in/logisima"
+                }
+            ],
+            "twitter": "logisima",
+            "contact": "benoit.simard@neotechnology.com",
+            "mail": "benoit.simard@neotechnology.com",
+            "location": "Nantes",
+            "sessions": [
+                {
+                    "title": "Introduction aux bases de données graphes avec Neo4j",
+                    "summary": "Venez découvrir les concepts des bases de données graphes et plus particulièrement de Neo4j. Nous verrons en quoi ce nouveau type de base peut répondre à vos problématiques technique et/ou fonctionnelles."
+                }
+            ],
+            "tags": [
+                "Neo4j",
+                "Graph",
+                "Database"
+            ],
+            "cities": [
+                "Paris",
+                "Nantes"
+            ]
         }
     ],
     "cities": [
