@@ -7527,7 +7527,7 @@ var data = {
         {
             "since": "2016-03-14",
             "name": "Benoît Simard",
-            "bio": "Benoît Simard est un développeur spécialisé en logiciel libre, Java & data. En dehors de son goût pour le café et la data (en particulier l'open data), Benoît es un graph-addict travaillant comme consultant technique chez Neo4j.",
+            "bio": "Benoît Simard est un développeur spécialisé en logiciel libre, Java & data. En dehors de son goût pour le café et la data (en particulier l'open data), Benoît est un graph-addict travaillant comme consultant technique chez Neo4j.",
             "picture": "http://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/benoit-simard-120x160.jpg",
             "websites": [
                 {
