@@ -1538,20 +1538,20 @@ var data = {
         {
             "since": "2013-04-10",
             "name": "Henri Tremblay",
-            "bio": "Amateur d'algorithmie et de performance. Souvent en Java",
+            "bio": "Java Champion. Amateur de performance et de stratégie",
             "picture": "http://gravatar.com/avatar/02b547234fa2cf147e85aa1b460f2f03?s=256",
             "websites": [
                 {
                     "title": "EasyMock",
-                    "href": "http://easymock.org/"
+                    "href": "http://easymock.org"
                 },
                 {
                     "title": "Objenesis",
-                    "href": "http://objenesis.org/"
+                    "href": "http://objenesis.org"
                 },
                 {
                     "title": "Blog",
-                    "href": "http://henritremblay.blogspot.fr/"
+                    "href": "http://blog.tremblay.pro"
                 }
             ],
             "twitter": "henri_tremblay",
@@ -1560,16 +1560,12 @@ var data = {
             "location": "Montréal et alentours",
             "sessions": [
                 {
-                    "title": "Vivre en parallèle",
-                    "summary": "Un petit état des lieux des utilisations possibles de la parallélisation et des technologies disponibles pour se faire."
-                },
-                {
                     "title": "Lambda et génériques: Le cocktail explosif",
                     "summary": "Tout ce qu'il faut savoir pour bien comprendre les génériques et surtout, comment s'en sortir avec les lambdas. Parce que les lambdas, c'est plein de génériques"
                 },
                 {
-                    "title": "Performance perpétuelle",
-                    "summary": "Mise en place de tests de performance automatisés. Pourquoi et comment"
+                    "title": "Université de la performance",
+                    "summary": "Mise en place de tests de performance, méthodologie et résolution de problèmes"
                 },
                 {
                     "title": "Discussion informelle",
@@ -1579,8 +1575,7 @@ var data = {
             "tags": [
                 "Java",
                 "Performance",
-                "Calcul parallèle",
-                "Optimisation",
+                "Stratégie",
                 "Test"
             ],
             "cities": [
