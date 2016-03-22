@@ -4855,11 +4855,11 @@ var data = {
             "since": "2014-02-14",
             "name": "Boris Schapira",
             "bio": "Consultant - Clever Age",
-            "picture": "http://avatars.borisschapira.com/SudWeb12_300.jpg",
+            "picture": "//avatars.borisschapira.com/boris_1light_300_fuchsia.jpg",
             "websites": [
                 {
                     "title": "Blog",
-                    "href": "http://borisschapira.com/blog"
+                    "href": "https://borisschapira.com/blog"
                 },
                 {
                     "title": "GitHub",
@@ -4876,28 +4876,28 @@ var data = {
             "location": "Bordeaux",
             "sessions": [
                 {
-                    "title": "Sensibilisation au dangers et opportunités d'Internet (au sens large)",
+                    "title": "Mon pire client a 5 ans",
+                    "summary": "Devenir Papa a profondément changé la vision que j’avais de mon métier et de moi même. Être un bon père est un défi de chaque jour qui fait de moi une meilleure personne et m’apporte énormément dans mes responsabilités de consultant en terme de compréhension, de pédagogie, d’accompagnent au succès et, plus souvent qu’à mon goût… de patience."
+                },
+                {
+                    "title": "Où sont les valeurs du Web ?",
+                    "summary": "Le Web est né de valeurs d'accessibilité et d'égalité fantastiques. Presque 30 ans plus tard, que sont devenus les idéaux de nos hippies fondateurs ?"
+                },
+                {
+                    "title": "Pas de fatalité, il suffit de s'impliquer",
+                    "summary": "Quand on est salarié, on peut avoir l'impression que l'entreprise dans laquelle on travaille est un agglomérat complexe d'entités juridiques, administratives, de production, de contrôle… Parfois, certains se sentent frustrés de ne pas pouvoir changer les choses. Pourtant, de nombreuses implications sont possibles pour apporter à l'entreprise un peu d'humanité."
+                },
+                {
+                    "title": "Internet, espace d'opportunités… et de risques (public adolescent)",
                     "summary": "Le Web a pris en quelques années une importance capitale dans nos vies. Mais les jeunes (et les moins jeunes) ne sont pas toujours au courant des problématiques que cela soulève et des changements de société qu'il nous faut comprendre. Au travers d'une quinzaine de problématiques dans lesquelles piocher, je vous propose de monter des ateliers d'échanges et d'information pour mieux sensibiliser aux usages d'Internet. Cible : 14 ans et +"
                 },
                 {
-                    "title": "De l'idée au projet",
-                    "summary": "Nous avons tous des idées. Petites, grandes, incongrues, logiques. Comment les capturer, les formaliser, les confronter pour transformer ces idées en projet ? Introduction à Lean Canvas et aux outils du Service Design."
-                },
-                {
-                    "title": "Rappels sur JavaScript",
-                    "summary": "JavaScript est un langage manipulé par de nombreuses professions du Web, sans pour autant toujours en connaitre les secrets. Petit tour d'horizon du langage, des bonnes pratiques, des pièges à éviter et des librairies & frameworks à connaitre."
-                },
-                {
-                    "title": "Ne me GIT pas",
-                    "summary": "... ou plutôt si ! Tour d'horizon de GIT pour ceux qui en ont entendu parler mais qui n'ont pas encore eu le temps d'en saisir les avantages."
-                },
-                {
                     "title": "Le vocabulaire du Web",
-                    "summary": "Le monde du Web a son propre vocabulaire, parfois très mouvant. Vous êtes perdu entre l'intégration continue, le Responsive Web Design, les Nodes du DOM et autres WCM ? Nous pouvons en parler."
+                    "summary": "Car chaque branche d'activité, le monde du Web a son propre vocabulaire, parfois très mouvant. Vous êtes perdu entre l'intégration continue, le Responsive Web Design, les noeuds du DOM, les CMS, les PIM et les DAM, et ne comprenez pas le rapport que ça peut avoir avec l'UX et le SVG ? Parlons-en, vous verrez, ce n'est pas si compliqué."
                 },
                 {
-                    "title": "Mise en place d'une stratégie de Performance Web",
-                    "summary": "La performance Web devient un enjeu croissant, mais suivant l’organisation et la culture d'une entreprise, sa mise en place peut être délicate et tenir davantage de la conduite du changement que de l’identification et la résolution d’un problème technique."
+                    "title": "La Performance Web, pourquoi et comment ?",
+                    "summary": "Avec le déplacement d'un certain nombre d'usages vers des périphérique nomades (téléphones, montres, appareils connectés), la fluidité d'utilisation devient une problématique critique. La performance Web est une des composantes de cette fluidité. Nous verrons ensemble comment l'optimiser. Ceci étant, suivant l’organisation et la culture de votre entreprise, conserver ce gain dans le temps peut être délicat et tenir davantage de la conduite du changement que de l’identification et l'implémentation d'optimisations."
                 }
             ],
             "tags": [
