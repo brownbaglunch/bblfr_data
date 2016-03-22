@@ -1579,7 +1579,7 @@ var data = {
                 "Test"
             ],
             "cities": [
-                "Paris"
+                "Montréal"
             ]
         },
         {
@@ -7699,6 +7699,12 @@ var data = {
             "ville_img": "img/villes/BBL.jpg",
             "lat": 43.7383225,
             "lng": 7.4157033
+        },
+        {
+            "name": "Montréal",
+            "ville_img": "img/villes/BBL_Montreal.jpg",
+            "lat": 45.501689,
+            "lng": -73.567256
         }
     ]
 };
