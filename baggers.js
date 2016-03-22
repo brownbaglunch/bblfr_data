@@ -648,6 +648,62 @@ var data = {
             ]
         },
         {
+            "since": "2016-03-01",
+            "name": "Antoine Pezé",
+            "bio": "UX Designer, je vous propose des talks centrés sur l'intégration de l'UX dans vos équipes. Agilité et Lean sont donc au programme",
+            "picture": "http://antoinepeze.com/images/antoine-peze.png",
+            "websites": [
+                {
+                    "title": "Antoine Pezé - Mon blog, ma bio",
+                    "href": "http://antoinepeze.com"
+                },
+                {
+                    "title": "Slideshare",
+                    "href": "http://fr.slideshare.net/AntoinePez"
+                },
+                {
+                    "title": "Linkedin",
+                    "href": "https://fr.linkedin.com/in/antoinepeze
+"
+                }
+            ],
+            "twitter": "antoinepeze",
+            "mail": "antoine.peze+bbl@gmail.com",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Hackathon, 3 jours chez les bricoleurs",
+                    "summary": "Découvrez une face cahcée des hackathons : les hackathons en entreprise. Venez comprendre pourquoi le profil d'UX designer est essentiel dans ce type d'expérience et comment il permet de valoriser les équipes."
+                },
+                {
+                    "title": "De l'UX dans mon équipe Agile !",
+                    "summary": "Mais que peux apporter un UX Designer dans une équipe Agile ? Découvrez une autre manière de concevoir de l'UX, plus Agile, plus "
+                },
+                {
+                    "title": "Retour d'expérience : le Sprint, chez les virtuoses",
+                    "summary": "Découvrez le Sprint, cette nouvelle méthodologie, inspirée par Google Ventures, qui permet de concrétiser en 5 jours une idée. A travers un retour d'expérience, venez comprendre les enjeux ainsi que les objectifs de cette méthode."
+                },
+                {
+                    "title": "Lean UX : Dérisquer la situation le plus tôt possible",
+                    "summary": "A travers des Retours d’Expérience, nous aborderons cette méthodologie basée sur le triptyque “Think”, “Make”, “Check”. Qu’est-ce que le Lean UX ? Qu’apporte cette méthodologie dans la création d’un produit ? Comment la mettre en oeuvre pour créer de la valeur ?"
+                },
+                {
+                    "title": "Tests utilisateurs - Tips and tricks",
+                    "summary": "Vous voulez tout savoir sur les tests utilisateurs ? Je suis votre homme !"
+                }
+            ],
+            "tags": [
+                "UX",
+                "tests utilisateurs",
+                "Sprint",
+                "hackathon",
+                "interview"
+            ],
+            "cities": [
+                "Paris"
+            ]
+        },
+        {
             "since": "2014-01-31",
             "name": "Philippe PRADOS",
             "bio": "Architecte Senior, auteur de plus de 100 articles publiés dans GNU Linux Mag, conférencier à Devoxx, Paris JUG, PAUG, SSTIC, Solution Linux, GDG, DroidCon, etc.",
