@@ -3558,14 +3558,6 @@ var data = {
             "location": "Métropole lilloise, région parisienne",
             "sessions": [
                 {
-                    "title": "Du JavaScript propre ? Challenge accepted !",
-                    "summary": "Mes recettes pour écrire, sans stress, des applications JavaScript complexes. Présentation ou mise en pratique sous forme de coding dojo."
-                },
-                {
-                    "title": "Spring Batch : par quel bout le prendre ?",
-                    "summary": "En Java, quand je fais du batch : je suis à poil ? Et bien non, il y a Spring Batch. Je vous propose de vous le présenter. Et pourquoi pas coder notre premier batch ensemble."
-                },
-                {
                     "title": "Les tests automatisés, ça n'est pas possible chez moi...",
                     "summary": "...vraiment ? Et si on regardait ?"
                 },
@@ -3576,13 +3568,29 @@ var data = {
                 {
                     "title": "Speed consulting sur la productivité des développements",
                     "summary": "Comment être plus productif ? Avoir moins de bugs ? Que faire concrètement sur mon projet pour cela ? Même le temps d'un déj, on peut trouver quelques pistes."
+                },
+                {
+                    "title": "Alliés contre les défauts (talk avec le WebCenter AXA)",
+                    "summary": "La pratique de la revue de code prévient énormément de défauts. Mais elle a aussi d’autres “effets kiss-cool”. C’est une pratique qui existe depuis une soixantaine d’années. Mais pourquoi est-elle si rarement rencontrée dans les DSI ? Sans doute parce qu’elle est méconnue, mais aussi parce qu’elle fait l’objet d’appréhensions. Faites-vous des revues de code chez vous ? Et sinon, pourquoi pas ? Peut-être pensez-vous que cela prend trop de temps, que c’est trop cher, qu’en jugeant le code on jugera l’auteur… Au Webcenter AXA, le code est revu systématiquement avant de partir en production. Cela porte ses fruits. Mais cela ne s’est pas fait sans accrocs. Venez découvrir un retour d’expérience."
+                },
+                {
+                    "title": "Du JavaScript propre ? Challenge accepted !",
+                    "summary": "Mes recettes pour écrire, sans stress, des applications JavaScript complexes. Présentation ou mise en pratique sous forme de coding dojo."
+                },
+                {
+                    "title": "Spring Batch : par quel bout le prendre ?",
+                    "summary": "En Java, quand je fais du batch : je suis à poil ? Et bien non, il y a Spring Batch. Je vous propose de vous le présenter. Et pourquoi pas coder notre premier batch ensemble."
                 }
             ],
             "tags": [
                 "JavaScript",
+                "Java",
                 "Spring",
                 "Test",
-                "Dojo"
+                "Dojo",
+                "Software Craftsmanship",
+                "TDD",
+                "BDD"
             ],
             "cities": [
                 "Lille"
