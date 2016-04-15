@@ -87,7 +87,7 @@ var data = {
             ],
             "tags": [
                 "Prospective",
-                "Transparence
+                "Transparence",
                 "Sourcing"
             ],
             "cities": [
