@@ -24,7 +24,7 @@ var data = {
             "location": "Paris",
             "sessions": [
                 {
-                    "title": "Conseil en stratégie de web-marketing digitale ",
+                    "title": "Conseil en stratégie de web-marketing digitale",
                     "summary": "Comment élaborer et déployer une stratégie digitale pour améliorer la visibilité, notoriété, réputation d’une marque et/ou d’un individu."
                 },
                 {
@@ -44,6 +44,51 @@ var data = {
                 "Web-marketing",
                 "Community Management",
                 "Numérique"
+            ],
+            "cities": [
+                "Paris"
+            ]
+        },
+        {
+            "name": "Sophie Guenat",
+            "bio": "Agent Spécial @rmstouch. J'ai pour mission d'accompagner les professionnels RH dans leurs pratiques et faire évoluer le recrutement, le marketing employeur et la relation école-entreprise. Geekette enthousiaste je partage avec plaisir #innovation #social #digital",
+            "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAS6AAAAJGUzMTNjZTAyLThiYjktNGQ4Ni05MDEwLWY1ZTMxZmUyMjhmYQ.jpg",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://www.linkedin.com/in/sophieguenat/fr"
+                },
+                {
+                    "title": "Site web",
+                    "href": "http://www.rmstouch.fr"
+                },
+                {
+                    "title": "Média",
+                    "href": "http://www.rmsnews.fr"
+                }
+            ],
+            "twitter": "sophilantropy",
+            "contact": "sophie@rmstouch.fr",
+            "mail": "sophie@rmstouch.fr",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Sourcer sur LinkedIn",
+                    "summary": "Les bases d'une vraie recherche sur le 1er réseau professionnel :- comprendre, - construire, - créer du lien. Exemples concrets, retours d'expérience et réflexions collectives."
+                },
+                {
+                    "title": "Marketing Employeur Online",
+                    "summary": "L'image et la communication de votre entreprise lui appartiennent-elles encore ? Comment transformer vos collaborateurs en ambassadeurs ? Échanges & réflexion sur des solutions pratiques adaptées à votre équipe/boîte."
+                },
+                {
+                    "title": "Innovation RH",
+                    "summary": "Médias Sociaux, mobile, Big Data, VR... Où en est le recrutement en 2016 ? Etat des lieux, débats & pistes de réflexion sur le recrutement aujourd'hui, et demain."
+                }
+            ],
+            "tags": [
+                "Prospective",
+                "Transparence
+                "Sourcing"
             ],
             "cities": [
                 "Paris"
