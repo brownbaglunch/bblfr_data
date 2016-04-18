@@ -5669,7 +5669,7 @@ var data = {
         {
             "since": "2014-05-12",
             "name": "Jean-Philippe Bempel",
-            "bio": "Architecte performance, Je travaille depuis plus de 5 ans sur des applications de trading requérant une très faible latence. De l'optimisation du code java jusqu'au réglage très fin du système d'exploitation et du matériel, toute la chaîne d’exécution de l'application est pris en compte pour grappiller des micro-secondes sur le traitement des ordres.",
+            "bio": "Architecte performance, Je travaille chez Ullink sur des applications de trading requérant une très faible latence. De l'optimisation du code java jusqu'au réglage très fin du système d'exploitation et du matériel, toute la chaîne d’exécution de l'application est pris en compte pour grappiller des micro-secondes sur le traitement des ordres.",
             "picture": "https://lh5.googleusercontent.com/-LTVFWnsuGlY/ThnyQs5VZjI/AAAAAAAABUY/7gQusBbS-1I/s207-p-no/Fifounet1.JPG",
             "websites": [
                 {
@@ -5695,8 +5695,8 @@ var data = {
                     "summary": "Une application de connexion aux marchés financiers requiert une performance accrue. Le traitement des ordres se mesure en centaines de microsecondes, parfois moins. A partir du moment où l'on descend sous la barre de la milliseconde, on entre dans un domaine où la connaissance du matériel (CPU) et des sous-systèmes mémoire devient prépondérante : Il est nécessaire d'être en harmonie avec le matériel (Mechanical Sympathy). Quels sont les plus gros problèmes pour optimiser un traitement inférieur à la milliseconde ? Cette présentation donnera les clés pour répondre à cette question et un retour d'expérience sur l'application de ces optimisations."
                 },
                 {
-                    "title": "OutOfMemoryException : Quel est le coût des objets en Java",
-                    "summary": "A Ullink, nos Heaps sont habituellement plutôt large (jusqu'à 32 Go) et nous gérons un large volume de données. Mais nous avons observé que la majorité de l'espace occupé dans la Heap ne l'est pas par les données business mais par les structures ! Dans cette présentation il sera montré quel est le coût des objets, quels sont les suspects idéals dans nos structures de données habituelles (Lists, Maps, Strings) et ce que nous pouvons faire pour réduire l'empreinte mémoire."
+                    "title": "OutOfMemoryError : Quel est le coût des objets en Java",
+                    "summary": "A Ullink, nos Heaps sont habituellement plutôt large (jusqu'à 256 Go) et nous gérons un large volume de données. Mais nous avons observé que la majorité de l'espace occupé dans la Heap ne l'est pas par les données business mais par les structures ! Dans cette présentation il sera montré quel est le coût des objets, quels sont les suspects idéals dans nos structures de données habituelles (Lists, Maps, Strings) et ce que nous pouvons faire pour réduire l'empreinte mémoire."
                 },
                 {
                     "title": "Programmation Lock-Free : les techniques des pros",
