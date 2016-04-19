@@ -359,7 +359,7 @@ var data = {
         },
         {
             "name": "Shirley Almosni",
-            "bio": "Chasseur de tête dans la jungle de l’IT avec ses moutons à 5 pattes, ses pythons, ses perles rares certifiées Ruby, et C++ encore…",
+            "bio": "Chasseur de tête dans la jungle de l’IT avec ses moutons à 5 pattes, ses pythons, ses perles rares certifiées Ruby, et C++ encore… Responsable Développement RH de Carbon IT",
             "picture": "img/ShirleyAlmosni.jpg",
             "websites": [
                 {
