@@ -531,6 +531,10 @@ var data = {
             "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/05b/37b/234370e.jpg",
             "websites": [
                 {
+                    "title": "Blog",
+                    "href": "https://peopleandcultureblog.wordpress.com/"
+                },
+                {
                     "title": "LinkedIn",
                     "href": "http://fr.linkedin.com/pub/aude-amarrurtu/11/656/792/"
                 }
