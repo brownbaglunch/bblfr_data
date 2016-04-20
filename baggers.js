@@ -1505,7 +1505,7 @@ var data = {
         {
             "since": "2013-02-15",
             "name": "Romain Linsolas",
-            "bio": "Développeur Java & architecte technique à SGCIB",
+            "bio": "Développeur Web & architecte technique à SGCIB",
             "picture": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/005/046/246/1b274c9.jpg",
             "websites": [
                 {
@@ -1518,10 +1518,6 @@ var data = {
             "mail": "linsolas@gmail.com",
             "location": "La Défense et alentours",
             "sessions": [
-                {
-                    "title": "Web components et Google Polymer",
-                    "summary": "Au cours de cette session, je vais vous présenter ce qu'est le futur standard W3C des Web Components, et vous pourrez également voir la facilité de création d'un nouveau composant grâce à la librairie Google Polymer."
-                },
                 {
                     "title": "Du JavaScript propre ? Challenge Accepted! - Avec Julien Jakubowski",
                     "summary": "Ecrire du code JavaScript propre, c'est aujourd'hui possible. L'écosystème autour de ce langage a atteint une maturité suffisante pour se lancer dans le développement de larges applications basées sur ce langage. Cette présentation est un tour d'horizon de cet écosystème, pour que vous n'ayez plus peur de coder en JavaScript !"
