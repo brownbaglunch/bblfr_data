@@ -346,7 +346,7 @@ var data = {
         {
             "since": "2014-05-23",
             "name": "Grégory Paul",
-            "bio": "Développeur (JS, Node, Java, ...) passionné par les technos web, l’Open Source et la sécurité informatique",
+            "bio": "Développeur (JS, Node) passionné par les technos web, l’Open Source et la sécurité informatique",
             "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/011/1d9/1ec0ed4.jpg",
             "websites": [
                 {
@@ -355,7 +355,7 @@ var data = {
                 },
                 {
                     "title": "Portfolio",
-                    "href": "http://paulgreg.me/"
+                    "href": "https://paulgreg.me/"
                 }
             ],
             "twitter": "paulgreg",
@@ -368,8 +368,8 @@ var data = {
                     "summary": "Session présentant les principes techniques derrière Bitcoin et les autres monnaies cryptographiques."
                 },
                 {
-                    "title": "Web Components",
-                    "summary": "Les Web Components permettent de définir vos propres balises HTML. Cette présentation illustre les principes sous-jacents (custom elements, templates, HTML imports, shadow DOM), les librairies (polymer, X-Tags, Bosonic) et la façon d’en construire."
+                    "title": "HTTPS n’aura plus de secret pour vous",
+                    "summary": "Je vous propose, à travers cette présentation, de vous démontrer l’intérêt de passer à HTTPS, de détailler l’établissement d’une connexion sécurisée, d’expliquer les failles de sécurité ayant défrayé les journaux et de vous présenter l’écosystème autour de HTTPS. A l’issue de cette présentation, les acronymes tels que TLS, MITM, CA, RSA, PFS, HSTS, CSP, BEAST, CRIME, BREACH et bien d’autres n’auront plus de secrets pour vous."
                 },
                 {
                     "title": "HTTP",
