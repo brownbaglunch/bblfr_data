@@ -3595,7 +3595,7 @@ var data = {
         {
             "since": "2014-04-05",
             "name": "Cyril Lakech",
-            "bio": "Développeur, Team Leader. Organisateur du Ch'ti JUG, de Devoxx4Kids Lill et de la conquête du monde par les développeurs!",
+            "bio": "Développeur, Tech Leader, organisateur du Ch'ti JUG et de la conquête du monde par les développeurs!",
             "picture": "https://s.gravatar.com/avatar/21843b4b8796bb4d73cbe48368eb5575?s=256",
             "websites": [
                 {
