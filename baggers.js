@@ -3595,7 +3595,7 @@ var data = {
         {
             "since": "2014-04-05",
             "name": "Cyril Lakech",
-            "bio": "Développeur, Team Leader. Organisateur du Ch'ti JUG, de Devoxx4Kids Lille, de Devoxx Belgique et de la conquête du monde par les développeurs!",
+            "bio": "Développeur, Team Leader. Organisateur du Ch'ti JUG, de Devoxx4Kids Lill et de la conquête du monde par les développeurs!",
             "picture": "https://s.gravatar.com/avatar/21843b4b8796bb4d73cbe48368eb5575?s=256",
             "websites": [
                 {
@@ -3603,8 +3603,8 @@ var data = {
                     "href": "http://chtijug.org/"
                 },
                 {
-                    "title": "Groupe Adeo",
-                    "href": "http://www.groupe-adeo.com/"
+                    "title": "AXA",
+                    "href": "https://blog.axawebcenter.fr/"
                 }
             ],
             "twitter": "cyril_lakech",
@@ -3613,23 +3613,15 @@ var data = {
             "location": "Lille",
             "sessions": [
                 {
-                    "title": "AngularJS",
-                    "summary": "Introduction à AngularJS pour comprendre les bases du framework et être capable après la présentation de savoir comment démarrer un projet et créer sa première application."
-                },
-                {
-                    "title": "Git++ : Passez au niveau supérieur de la gestion de version",
-                    "summary": "Vous utilisez tous Git ! Mais nous pensons que vous l’utilisez trop souvent comme un simple SVN! Avec Git rebase et un peu de volonté, vous obtiendrez un historique expressif qui vous aidera au quotidien. Vous pourrez aussi générer un changelog fonctionnel, récupérer des commits d'une branche sur l’autre et bien plus encore! Venez apprendre quelques astuces simples pour améliorer la manière de gérer votre code !"
-                },
-                {
-                    "title": "Le Ch'ti JUG c'est quoi?",
-                    "summary": "Présentation du Ch'ti JUG que j'anime avec une super équipe depuis 5 ans. Historique, objectifs et discussions autours des thèmes aborder pendant les sessions."
+                    "title": "HoL AWS",
+                    "summary": "Introduction à AWS."
                 }
             ],
             "tags": [
                 "JavaScript",
-                "Spring",
-                "Test",
-                "Java"
+                "NodeJS",
+                "Software Crafmanship",
+                "NoSQL"
             ],
             "cities": [
                 "Lille"
