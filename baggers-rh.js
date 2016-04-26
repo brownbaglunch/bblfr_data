@@ -97,7 +97,7 @@ var data = {
         {
             "name": "Arnaud Pottier Rossi",
             "bio": "Directeur associé de l’agence de communication d’influence Kalaapa (qui signifie en sanskrit : qui lie les choses entre-elles, qui crée du lien). J’ai acquis 16 ans d’expérience en communication corporate et marketing RH. Facilitateur et formateur (sur l'impact des Réseaux Sociaux dans les stratégies de communication)",
-            "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAS6AAAAJGUzMTNjZTAyLThiYjktNGQ4Ni05MDEwLWY1ZTMxZmUyMjhmYQ.jpg",
+            "picture": "https://media.licdn.com/media/p/7/000/268/086/32cf9f4.jpg",
             "websites": [
                 {
                     "title": "LinkedIn",
