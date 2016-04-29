@@ -7605,6 +7605,45 @@ var data = {
             "cities": [
                 "Paris"
             ]
+        },
+        {
+            "since": "2016-04-20",
+            "name": "Xavier Gouchet",
+            "bio": "Developpeur Senior Android chez Deezer, musicophile, passionné par l'architecture, l'algorithmique et les outils qui simplifient la vie du développeur",
+            "picture": "http://www.gravatar.com/avatar/2ecfc308b3401b0b9aa298f791044af1?s=256",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://www.linkedin.com/in/xgouchet"
+                }
+            ],
+            "twitter": "@xgouchet",
+            "contact": "brownbaglunch [at] xgouchet [dot] fr",
+            "mail": "brownbaglunch@xgouchet.fr",
+            "location": "Paris, Chartres, Le Mans, ...",
+            "sessions": [
+                {
+                    "title": "Programmation orientée aspects",
+                    "summary": "Les fondamentaux du développement orienté aspect, et surtout des exemples concrets pour aller plus loin que le traditionnel Hello World."
+                },
+                {
+                    "title": "Refactoring : le bon, la brute et le truand",
+                    "summary": "Quelques bonnes et mauvaises pratiques autour du refactoring, basé sur 3 refactorings vécus."
+                }
+            ],
+            "tags": [
+                "Java",
+                "Android",
+                "AOP",
+                "Aspect",
+                "Refactoring",
+                "Legacy"
+            ],
+            "cities": [
+                "Paris",
+                "Chartres",
+                "Le Mans"
+            ]
         }
     ],
     "cities": [
@@ -7757,6 +7796,12 @@ var data = {
             "ville_img": "img/villes/BBL_Montreal.jpg",
             "lat": 45.501689,
             "lng": -73.567256
+        },
+        {
+            "name": "Chartres",
+            "ville_img": "img/villes/BBL.jpg",
+            "lat": 48.4469,
+            "lng": 1.4892
         }
     ]
 };
