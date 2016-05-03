@@ -7654,6 +7654,10 @@ var data = {
                 {
                     "title": "LinkedIn",
                     "href": "https://www.linkedin.com/in/gaelprud"
+                },
+		{
+                    "title": "Website",
+                    "href": "http://www.alfa-safety.fr"
                 }
             ],
             "twitter": "@mr_Prud",
@@ -7670,8 +7674,8 @@ var data = {
                     "summary": "Le Cloud Public n'est pas un espace public, je vous présenterais comment recréer votre Fort Knox à moindre coût sur AWS"
                 },
                 {
-                    "title": "Pourquoi AWS séduit ?",
-                    "summary": "On naviguera via les grandes tendances sur les usages sur AWS, scalabilité, elsaticité, securité, serverless etc... "
+                    "title": "Mais pourquoi AWS séduit ?",
+                    "summary": "On naviguera via les grandes tendances sur les usages d'AWS, scalabilité, elasticité, securité, serverless etc... "
                 }
                 
             ],
