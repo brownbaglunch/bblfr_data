@@ -7644,6 +7644,50 @@ var data = {
                 "Chartres",
                 "Le Mans"
             ]
+        },
+	{
+            "since": "2016-05-03",
+            "name": "Gaël Prudhomme",
+            "bio": "Directeur Technique chez Alfa-safety, Boosteur AWS, va vous faire aimer le cloud",
+            "picture": "http://www.gravatar.com/avatar/88e825193cba7c1b64f6c1debeda061f?s=256",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://www.linkedin.com/in/gaelprud"
+                },
+		{
+                    "title": "Website",
+                    "href": "https://www.alfa-safety.fr"
+                }
+            ],
+            "twitter": "mr_Prud",
+            "contact": "gael+bbl@alfa-safety.fr",
+            "mail": "gael+bbl@alfa-safety.fr",
+            "location": "Nantes",
+            "sessions": [
+                {
+                    "title": "Premier pas de géant sur AWS",
+                    "summary": "Après une courte présentation, on foncera vers une mise en route concrète d'un site web à la sauce Cloud"
+                },
+                {
+                    "title": "Sécurité sur AWS",
+                    "summary": "Le Cloud public n'est pas un espace public ouvert au public, je vous présenterais comment recréer votre fort Knox à moindre cout sur AWS"
+                },
+                {
+                    "title": "Mais pourquoi AWS séduit ?",
+                    "summary": "On naviguera via les grandes tendances web/devops/startup sur les usages d'AWS, scalabilité, elasticité, securité, serverless etc... "
+                }
+                
+            ],
+            "tags": [
+                "AWS",
+                "DevOps",
+                "SysOps",
+                "Cloud"
+            ],
+            "cities": [
+                "Nantes"
+            ]
         }
     ],
     "cities": [
