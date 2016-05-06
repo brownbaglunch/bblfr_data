@@ -5689,6 +5689,10 @@ var data = {
                 {
                     "title": "Programmation Lock-Free : les techniques des pros",
                     "summary": "La scalabilité des applications est une préoccupation importante. Beaucoup de pertes en scalabilité proviennent de code contenant des locks qui produisent une importante contention en cas de forte charge. Dans cette présentation nous allons aborder différentes techniques (striping, copy-on-write, ring buffer, spinning, ...) qui vont nous permettre de réduire cette contention ou d'obtenir un code sans lock. Nous expliquerons aussi les concepts de Compare-And-Swap et de barrières mémoires."
+                },
+                {
+                    "title": "Coding & Performance : un parcours initiatique",
+                    "summary": "Lorsque l'on entre dans le domaine de la performance, un non-initié peut se retrouver perdu parmi les règles empiriques (rule of thumbs), les grand O, les benchmarks et autres optimisations prématurées. Cette présentation propose d'aider le développeur à acquérir les connaissances et l'expérience nécessaire pour affronter les défis permanents que posent l'élaboration et la maintenance d'une application performante."
                 }
             ],
             "tags": [
@@ -5698,6 +5702,7 @@ var data = {
                 "JVM",
                 "Low latency",
                 "Lock-free",
+                "Mémoire",
                 "Performance"
             ],
             "cities": [
