@@ -359,8 +359,8 @@ var data = {
                 }
             ],
             "twitter": "paulgreg",
-            "contact": "me [at] paulgreg.me",
-            "mail": "me@paulgreg.me",
+            "contact": "bbl [at] paulgreg.me",
+            "mail": "bbl@paulgreg.me",
             "location": "Paris",
             "sessions": [
                 {
@@ -378,8 +378,11 @@ var data = {
             ],
             "tags": [
                 "Bitcoin",
-                "Monnaie cryptographique",
                 "HTTP",
+                "HTTPS",
+                "SSL",
+                "TLS",
+                "sécurité",
                 "Web"
             ],
             "cities": [
