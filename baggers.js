@@ -5131,7 +5131,7 @@ var data = {
                 {
                     "title": "J'upgrade mon style de management avec Management 3.0",
                     "summary": "Au sein de nos organisations, la conception traditionnelle du management a montré ses limites. L'agilité pousse les managers vers de nouvelles fonctions de support plus que des fonctions de directions. De la délégation, aux remerciements, de l'organisation du travail au feedback, tour d'horizon de ces nouvelles pratiques."
-                }
+                },
                 {
                	    "title": "J'anime une rétrospective productive",
                	    "summary": "La rétrospective est un exercice important dans la démarche agile, elle permet la mise en oeuvre de la boucle d'amélioration continue. Cette cérémonie est souvent mal comprise, mal animée, ce qui génère de la frustration pour l'équipe, des actions peu intéressante et un abandon à plus ou moins court terme. Cette session propose de revenir sur les bases de la facilitation et de faire un tour d'horizon de quelques serious games à mettre en oeuvre."
