@@ -5109,7 +5109,7 @@ var data = {
         {
             "since": "2014-03-31",
             "name": "Maxime Bonnet",
-            "bio": "Scrum master, formateur certifié Innovation Games, Coach Agile",
+            "bio": "Coach Agile, j'accompagne des équipes de toutes tailles dans leur chemin vers l'agilité. Très joueur, je connais bien les Innovation Games ainsi que Lego Serious Play. Membre du réseau Happy Melly, j'aime partagé les pratiques de management 3.0 ",
             "picture": "http://www.gravatar.com/avatar/03314fcc147b87324941c0c6329d444b.png",
             "twitter": "maximebonnet",
             "contact": "maxime@bonnet.tel",
@@ -5129,14 +5129,19 @@ var data = {
                     "summary": "Quand l'un des plus grands fabriquants de jouets décide d'utiliser sa production pour faciliter ses réunions, cela donne Lego Serious Play (http://www.seriousplay.com). Le jeu pour stimuler la créativité, ce n'est pas une idée nouvelle, mais LSP propose une dynamique très particulière basé sur le toucher et la manipulation. Les résultats sont étonnant et l'outil très puissant. Pour cette session je vous propose une mise en pratique rapide d'un atelier type de Lego Serious Play. (cette session est limité à 6 personnes)"
                 },
                 {
-                    "title": "J'upgrade mon style de management",
+                    "title": "J'upgrade mon style de management avec Management 3.0",
                     "summary": "Au sein de nos organisations, la conception traditionnelle du management a montré ses limites. L'agilité pousse les managers vers de nouvelles fonctions de support plus que des fonctions de directions. De la délégation, aux remerciements, de l'organisation du travail au feedback, tour d'horizon de ces nouvelles pratiques."
+                },
+                {
+               	    "title": "J'anime une rétrospective productive",
+               	    "summary": "La rétrospective est un exercice important dans la démarche agile, elle permet la mise en oeuvre de la boucle d'amélioration continue. Cette cérémonie est souvent mal comprise, mal animée, ce qui génère de la frustration pour l'équipe, des actions peu intéressante et un abandon à plus ou moins court terme. Cette session propose de revenir sur les bases de la facilitation et de faire un tour d'horizon de quelques serious games à mettre en oeuvre."
                 }
             ],
             "tags": [
                 "Agilité",
                 "Serious Game",
                 "Developpement personnel",
+                "Management 3.0",
                 "Coaching"
             ],
             "cities": [
