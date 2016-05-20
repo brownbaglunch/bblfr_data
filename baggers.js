@@ -5779,8 +5779,8 @@ var data = {
                     "summary": "Envie d'accélérer votre cycle de développement ? Découvrez Vagrant, l'outil pour gérer vos machines virtuelles, écrire du code et devenir riche !"
                 },
                 {
-                    "title": "Les Application 12 factors",
-                    "summary": "Après les 12 points du manifeste Agile, découvrez le 12 factors pour les Applications. Apprenez à développer des applications compatibles avec vos infras et vos ops, et élargissez votre talent !"
+                    "title": "Les Applications 12 factors",
+                    "summary": "Après les 12 points du manifeste Agile, découvrez le 12-factors pour les Applications. Apprenez à développer des applications compatibles avec vos infras et vos ops, et élargissez votre talent !"
                 }
             ],
             "tags": [
