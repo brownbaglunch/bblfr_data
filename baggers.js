@@ -5754,7 +5754,7 @@ var data = {
         {
             "since": "2014-07-23",
             "name": "Pierre Baillet",
-            "bio": "Devops & Full stack developer at Fotopedia • Mauvais plaisantin mais bon vivant • ",
+            "bio": "Devops at IPPON Technologies • Mauvais plaisantin mais bon vivant • ",
             "picture": "https://www.gravatar.com/userimage/7364231/abcb8f5931db676141afd368fb844cc2.jpg?size=250",
             "websites": [
                 {"title": "Blog", "href": "http://oct.zoy.org"},
@@ -5767,23 +5767,26 @@ var data = {
             "location": "Paris",
             "sessions": [
                 {
+                    "title": "Des fossés et des trolls",
+                    "summary": "What is ze devops ? Concept nébuleux ou révolution industrielle ? Comment combler le fossé entre les développeurs et les opérationnels (avec autre choses que des trolls)."
+                },
+                {
                     "title": "Git pour les nuls",
                     "summary": "Débutant en SCM ou vétérans de SVN, le contrôle de source est quelque chose qui est cher à votre coeur. Passez à la vitesse supérieure avec Git, le système de contrôle de source décentralisé très déroutant au premier abord. Initiez-vous avec moi, en jouant avec git, son workflow et ses autres joyeusetés. Ne perdez plus de source, jamais !"
                 },
                 {
-                    "title": "Déploiement rapide, tips and tricks",
-                    "summary": "Passer sa durée de déploiement de plus de 10 minutes à moins de 80 secondes en rusant. Discutons déploiement ensemble !"
+                    "title": "Vagrant pour les développeurs",
+                    "summary": "Envie d'accélérer votre cycle de développement ? Découvrez Vagrant, l'outil pour gérer vos machines virtuelles, écrire du code et devenir riche !"
                 },
                 {
-                    "title": "Des fossés et des trolls",
-                    "summary": "What is ze devops ? Concept nébuleux ou révolution industrielle ? Comment combler le fossé entre les développeurs et les opérationnels (avec autre choses que des trolls)."
+                    "title": "Les Applications 12 factors",
+                    "summary": "Après les 12 points du manifeste Agile, découvrez le 12-factors pour les Applications. Apprenez à développer des applications compatibles avec vos infras et vos ops, et élargissez votre talent !"
                 }
             ],
             "tags": [
                 "Git",
                 "Deployment",
                 "DevOps",
-                "Fabric",
                 "Intégration continue"
             ],
             "cities": [
