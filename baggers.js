@@ -7704,6 +7704,38 @@ var data = {
             "cities": [
                 "Nantes"
             ]
+        },
+        {
+           "since": "2016-05-27",
+           "name": "Fabien Lamarque",
+           "bio": "Developpeur polyglote chez OCTO Technology, intéressé par le clean code, l'algorithmique et les outils qui simplifient la vie du développeur",
+           "picture": "https://pbs.twimg.com/profile_images/692350972778168320/V9OJENr0.jpg",
+           "websites": [
+               {
+                   "title": "LinkedIn",
+                   "href": "http://fr.linkedin.com/in/fabienlamarque"
+               }
+           ],
+           "twitter": "@Fabinout",
+           "contact": "fabien.lamarque + bbl [at] gmail [dot] com",
+           "mail": "fabien.lamarque+bbl@gmail.com",
+           "location": "Paris, Tours",
+           "sessions": [
+               {
+                   "title": "Refactoring et Clean code: quelles méthodes? quels outils?",
+                   "summary": "Quelques bonnes astuces autour du refactoring de legacy, des notions de clean code et de testing"
+               }
+           ],
+            "tags": [
+                "Java",
+                "Clean Code",
+                "Refactoring",
+                "Legacy"
+            ],
+            "cities": [
+                "Paris",
+                "Tours"
+            ]
         }
     ],
     "cities": [
