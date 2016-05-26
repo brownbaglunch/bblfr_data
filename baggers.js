@@ -3309,7 +3309,7 @@ var data = {
         {
             "since": "2013-03-01",
             "name": "Clément Delafargue",
-            "bio": "Consultant, développeur, entrepreneur, λ geek",
+            "bio": "CTO @ Clever Cloud, Consultant, λ geek",
             "picture": "http://clement.delafargue.name/profile_square.jpg",
             "websites": [
                 {
@@ -3331,22 +3331,23 @@ var data = {
             "location": "Nantes et environs.",
             "sessions": [
                 {
-                    "title": "FP Jedi tricks",
-                    "summary": "Apprentissage de la programmation fonctionnelle. Live coding autour de notions fonctionnelles."
+                    "title": "Designing apps for the cloud",
+                    "summary": "Patterns pour développer des applications cloud-ready (file storage, sessions, dbs, deployment)"
                 },
                 {
-                    "title": "Ma première REST API",
-                    "summary": "Live coding d'une petite API REST en scala"
+                    "title": "FP patterns for scala beginners",
+                    "summary": "Patterns et bonne pratiques pour les débutants en scala qui veulent se mettre à la programmation fonctionnelle"
                 },
                 {
-                    "title": "How I learned to stop worrying and love static typing",
-                    "summary": "Pourquoi et comment un bon système de type est votre meilleur ami pour écrire du code sans vous prendre la tête."
+                    "title": "Programmation Fonctionnelle Réactive avec Cycle.js",
+                    "summary": "Une nouvelle manière de créer des UI front avec RxJS et cycle.js"
                 }
             ],
             "tags": [
                 "Scala",
-                "Haskell",
-                "Programmation fonctionnelle"
+                "NodeJS",
+                "Programmation fonctionnelle",
+                "IT automation"
             ],
             "cities": [
                 "Nantes"
