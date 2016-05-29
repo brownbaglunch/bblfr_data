@@ -934,7 +934,7 @@ var data = {
         },
         {
             "since": "2015-02-04",
-            "name": "Maxime Sanglan",
+            "name": "Maxime Sanglan-Charlier",
             "bio": "Plus de 15 ans dans l'informatique et pas une ride (ou presque). Curieux de nature, je suis toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu'individu, en équipe ou au sein d'une organisation.",
             "picture": "img/baggers/photo_maxime_s.jpg",
             "websites": [
@@ -967,6 +967,10 @@ var data = {
                 {
                     "title": "Coding Dojo",
                     "summary": "Vous aimeriez organiser un Coding Dojo en interne mais vous ne savez pas comment vous y prendre ? Vous aimeriez découvrir la pratique de manière fun et ludique ? Ou vous êtes simplement à court d'idées pour le suivant ? Contactez-moi et on va arranger ça !"
+                },
+                {
+                    "title": "Mob Programming",
+                    "summary": "Le Mob Programming consiste à regrouper une équipe entière dans une pièce équipée d'un seul poste de travail pour tout le monde. Cette pratique vous promet entre autres une productivité accrue alors qu'une seule personne à la fois ne peut toucher le clavier ! Promesses tenues ?"
                 }
             ],
             "tags": [
@@ -977,7 +981,8 @@ var data = {
                 "C4",
                 "DDD",
                 "Dojo",
-                "Coding Dojo"
+                "Coding Dojo",
+                "Mob Programming"
             ],
             "cities": [
                 "Nantes"
