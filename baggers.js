@@ -7742,6 +7742,48 @@ var data = {
                 "Paris",
                 "Tours"
             ]
+        },
+        {
+            "since" : "2016-06-02",
+            "name" : "Kevin Davin",
+            "bio" : "Touche à tout, donc Full-stack dev et même Ops, agile addict et adepte de la qualité. Orga du JUG Toulousain et d'AngularToulouse",
+            "picture" : "https://www.gravatar.com/avatar/477389c44ffb21d82a4e05dd46f8aaa2?s=200",
+            "websites" : [
+                {
+                    "title" : "LinkedIn",
+                    "href" : "publichttps://fr.linkedin.com/in/kevin-davin-a8668a11"
+                },
+                {
+                    "title" : "Github",
+                    "href" : "http://github.com/davinkevin/"
+                }
+            ],
+            "twitter" : "@davinkevin",
+            "contact" : "davin.kevin + bbl [at] gmail [dot] com",
+            "mail" : "davin.kevin+bbl@gmail.com",
+            "location" : "Toulouse",
+            "sessions" : [
+                {
+                    "title" : "Introduction à Angular2",
+                    "summary" : "Introduction aux concepts et changements dans Angular2, vu par un développeur AngularJS"
+                },
+                {
+                    "title" : "Codez de l'Angular1 aujourd'hui avec les technos de demains...",
+                    "summary" : "Utilisez la puissance de l'ES2015 et + pour faire du code Angular1 de très haute qualité, testing inclus !"
+                }
+            ],
+            "tags": [
+                "Java",
+                "Javascript",
+                "Angular",
+                "test",
+                "docker",
+                "TDD",
+                "agile"
+            ],
+            "cities" : [
+                "Toulouse"
+            ]
         }
     ],
     "cities": [
