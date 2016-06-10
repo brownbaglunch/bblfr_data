@@ -7052,6 +7052,10 @@ var data = {
                 {
                     "title": "SBT et pourquoi pas?",
                     "summary": "SBT est un outil de build mais pas que,l'idée de cette présentation est de mettre en avant ce que SBT peut apporter en plus dans le quotidien du développeur comparé aux outils reconnus tel que maven. Nous parlerons ici de son utilisation au sein de projets Java même s'il s'est développé conjointement avec le language Scala. Durant cette présentation, nous verrons les fonctionnalités clefs qui pourront influencer vos choix sur vos projets présents ou futurs."
+                },
+                {
+                    "title": "Lagom, Architecture microservices réactive",
+                    "summary": "Connaissez-vous Lagom ? Le framework de microservice réactif. L'objectif de ce framework est de mettre en place une architecture autour des micro-services facilement, de manière asynchrone et basée sur l'approche CQRS et Event sourcing. Durant cette présentation, nous découvrirons la philosophie et les concepts clefs du framework. Nous verrons également les technologies, les librairies et l'architecture sur lesquels il repose. Nous verrons enfin la simplicité avec laquelle on peut implémenter et démarrer un ensemble de microservice au travers d’un exemple les mains dans le code."
                 }
             ],
             "tags": [
