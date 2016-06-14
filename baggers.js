@@ -7921,6 +7921,42 @@ var data = {
             "ville_img": "img/villes/BBL.jpg",
             "lat": 48.4469,
             "lng": 1.4892
+        },
+        {
+            "name": "Vesoul",
+            "ville_img": "img/villes/BBL.jpg",
+            "lat": 47.6323072,
+            "lng": 6.1347321
+        },
+        {
+            "name": "Besançon",
+            "ville_img": "img/villes/BBL.jpg",
+            "lat": 47.2601941,
+            "lng": 5.9420574
+        },
+        {
+            "name": "Belfort",
+            "ville_img": "img/villes/BBL.jpg",
+            "lat": 47.6456257,
+            "lng": 6.8060504
+        },
+        {
+            "name": "Mulhouse",
+            "ville_img": "img/villes/BBL.jpg",
+            "lat": 47.7526806,
+            "lng": 7.2905194
+        },
+        {
+            "name": "Nancy",
+            "ville_img": "img/villes/BBL.jpg",
+            "lat": 48.6880796,
+            "lng": 6.1558845
+        },
+        {
+            "name": "Orléans",
+            "ville_img": "img/villes/BBL.jpg",
+            "lat": 47.8733945,
+            "lng": 1.8419975
         }
     ]
 };
