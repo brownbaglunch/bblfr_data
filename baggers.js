@@ -7355,6 +7355,7 @@ var data = {
             ]
         },
         {
+            "since": "2016-01-21",
             "name": "Karol Chmist",
             "bio": "Independent Functional Software Developer. Après plusieurs années de développement Java, j’ai découvert la programmation fonctionnelle. Je suis convaincu qu’appliquer les bases mathématiques au code est la meilleure façon d’obtenir un résultat robuste et sûr. Au quotidien, je travaille avec Scala, mais je poursuis mes recherches sur d’autres langages (Haskell, SML, Nix, Idris).",
             "picture": "http://www.gravatar.com/avatar/757cdab5633c1935bb37b24b1fe2729f?s=250",
