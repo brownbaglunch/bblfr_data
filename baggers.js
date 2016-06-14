@@ -1,6 +1,40 @@
 var data = {
     "baggers": [
         {
+            "since": "2016-06-14",
+            "name": "Marc Dugué",
+            "bio": "Directeur de projet et facilitateur graphique",
+            "picture": "https://pbs.twimg.com/profile_images/578581421121351680/OL9d4QGA_400x400.jpeg",
+            "websites": [
+                {
+                    "title": "Twitter",
+                    "href": "https://twitter.com/Marc_DUGUE"
+                },
+                {
+                    "title": "Linkedin",
+                    "href": "https://fr.linkedin.com/in/marcdugue"
+                }
+            ],
+            "twitter": "@Marc_DUGUE",
+            "contact": "marc.dugue@gmail.com",
+            "mail": "marc.dugue@gmail.com",
+            "location": "Nantes",
+            "sessions": [
+                {
+                    "title": "Facilitation graphique et initiation aux Sketchnote",
+                    "summary": "Présentation de ce qu'est la facilitation graphique et initiation au vocabulaire graphique de base et à l'intérêt des sketchnotes. "
+                }
+            ],
+            "tags": [
+                "Sketchnote",
+                "Scribing",
+                "Facilitation graphique"
+            ],
+            "cities": [
+                "Nantes"
+            ]
+        },
+        {
             "since": "2016-02-08",
             "name": "Stanislas Chollet",
             "bio": "Fullstack software developer at Dailymotion. Passionate about functional programming, performance and happiness at work.",
