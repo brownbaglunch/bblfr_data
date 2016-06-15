@@ -13067,7 +13067,7 @@ var data = {
     },
     "Paris": {
       "name": "Paris",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Paris.jpg",
       "lat": 48.856614,
       "lng": 2.352222
     },
