@@ -12950,12 +12950,12 @@ var data = {
       "picture": "https://www.gravatar.com/avatar/63d261113651caa0dc887445c61ea48a?s=200",
       "websites": [
         {
-          "title": "Blog Xebia",
-          "href": "http://blog.xebia.fr/category/mobilite"
+          "name": "Web",
+          "url": "http://blog.xebia.fr/category/mobilite"
         },
         {
-          "title": "Github",
-          "href": "https://github.com/blacroix"
+          "name": "Github",
+          "url": "https://github.com/blacroix"
         }
       ],
       "location": "Paris",
