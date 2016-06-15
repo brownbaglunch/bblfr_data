@@ -12995,6 +12995,53 @@ var data = {
         "twitter": "benjlacroix",
         "mail": "blacroix@xebia.fr"
       }
+    },
+    {
+      "since": "2016-06-15",
+      "name": "Adrien Lecharpentier",
+      "bio": "Support Engineer chez CloudBees, je fais en sorte d'améliorer l'expérience qu'ont nos clients avec Jenkins en fixant des plugins si besoin.",
+      "picture": "https://www.gravatar.com/avatar/8254814a3136a30724cd428841f8e155?s=200",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://alecharp.fr"
+        },
+        {
+          "name": "Github",
+          "url": "https://github.com/alecharp"
+        }
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Jenkins Pipeline 101",
+          "abstract": "Jenkins Pipeline est l'une des plus grosse addition à l'écosystème Jenkins, mais comment s'en sert-on? Avec un live code d'un Pipeline, on voit les mots clé de base et voir plus loin avec Pipeline-as-Code.",
+          "tags": [
+            "Jenkins",
+            "Pipeline",
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Jenkins 2.0",
+          "abstract": "En Avril 2016, Jenkins a connu sa première release majeure depuis sa création. Mais est-ce juste un changement de numéro? Que contient cette version? On voit les différentes additions à Jenkins dans cette version mais aussi ce que l'on peut attendre de son avenir.",
+          "tags": [
+            "Jenkins",
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contact": {
+        "twitter": "alecharp",
+        "mail": "alecharpentier@cloudbees.com"
+      }
     }
   ],
   "cities": {
