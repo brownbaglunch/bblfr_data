@@ -13,7 +13,7 @@ that you need to add yourself at the end of this list.
 * `name`: your full name "First Last"
 * `bio`: some words about you
 * `picture`: a valid link to picture of yourself.
-* `cities`: an array of cities you want to appear in. Any city in that list should exist in the [ending city list](#cities_dataset).
+* `cities`: an array of cities you want to appear in. Any city in that list should exist in the [ending city list](#cities-dataset).
 * `contact`: [see below](#contact)
 * `sessions`: an array list of your sessions. [See below](#sessions)
 
