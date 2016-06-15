@@ -12950,7 +12950,7 @@ var data = {
       "picture": "https://www.gravatar.com/avatar/63d261113651caa0dc887445c61ea48a?s=200",
       "websites": [
         {
-          "name": "Blog Xebia",
+          "name": "Web",
           "url": "http://blog.xebia.fr/category/mobilite"
         },
         {
