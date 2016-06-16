@@ -13042,6 +13042,77 @@ var data = {
         "twitter": "alecharp",
         "mail": "alecharpentier@cloudbees.com"
       }
+    },
+    {
+      "since": "2016-06-16",
+      "name": "Qian Jin",
+      "bio": "Pythonista, Android app builder, IoT enthusiast, currently hacking things at Xebia",
+      "picture": "https://en.gravatar.com/userimage/100014788/0d3ac047c5fbce195a5f079c2c69d8e5?size=200",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://potatobon.com/"
+        },
+        {
+          "name": "Github",
+          "url": "https://github.com/jinqian"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://fr.linkedin.com/in/qian-jin-3951501b"
+        }
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Build your own connected thermometer",
+          "abstract": "Mini hacking session aims at setting up an IoT system using Raspberry Pi and temperature / humidity sensor, along with the chosen cloud service.",
+          "tags": [
+            "IoT",
+            "mqtt",
+            "Raspberry Pi"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "The Physical Web: the future of IoT",
+          "abstract": "The Physical Web uses beacons to broadcast URLs that any nearby device can pick. With this concept, The Physical Web bridges the physical world and the virtual world by bringing services to people.",
+          "tags": [
+            "Beacon",
+            "Mobile",
+            "IoT",
+            "Physical Web"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "Get ready for Android Wear 2.0",
+          "abstract": "With standalone apps, Complications API, messaging and other new features, Android Wear 2.0 will take Android smart watch apps to the next level. You definitely want to be ready for it.",
+          "tags": [
+            "Android",
+            "Android Wear",
+            "Mobile",
+            "Wearable"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contact": {
+        "twitter": "bonbonking",
+        "mail": "qjin@xebia.fr"
+      }
     }
   ],
   "cities": {
