@@ -13078,7 +13078,7 @@ var data = {
           ]
         },
         {
-          "title": "The Physical Web: the furture of IoT",
+          "title": "The Physical Web: the future of IoT",
           "abstract": "The Physical Web uses beacons to broadcast URLs that any nearby device can pick. With this concept, The Physical Web bridges the physical world and the virtual world by bringing services to people.",
           "tags": [
             "Beacon",
