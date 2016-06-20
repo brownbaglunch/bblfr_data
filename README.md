@@ -14,7 +14,7 @@ that you need to add yourself at the end of this list.
 * `bio`: some words about you
 * `picture`: a valid link to picture of yourself.
 * `cities`: an array of cities you want to appear in. Any city in that list should exist in the [ending city list](#cities-dataset).
-* `contact`: [see below](#contact)
+* `contacts`: [see below](#contacts)
 * `sessions`: an array list of your sessions. [See below](#sessions)
 
 **Optional fields:**
@@ -22,9 +22,9 @@ that you need to add yourself at the end of this list.
 * `location`: A string which describes where you'd like to speak (might be replaced in the future)
 * `websites`: [see below](#websites)
 
-### Contact
+### Contacts
 
-Contact field can contain your contacts on:
+Contacts field can contain your contacts on:
 
 * `twitter`: your twitter handle (without the `@`)
 * `mail`: your email address
@@ -188,7 +188,7 @@ Example:
   "cities": [
     "Paris"
   ],
-  "contact": {
+  "contacts": {
     "twitter": "fsarradin",
     "mail": "fsarradin@gmail.com"
   }
