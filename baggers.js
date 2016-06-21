@@ -10042,33 +10042,12 @@ var data = {
       "websites": [
         {
           "name": "Web",
-          "url": "https://onehundredacorns.wordpress.com/"
-        },
-        {
-          "name": "Web",
-          "url": "https://techblog.betclicgroup.com/author/m-sanglan/"
+          "url": "http://onehundredacorns.com/"
         }
       ],
       "location": "Nantes et alentours",
       "sessions": [
-        {
-          "title": "Does your code speak business?",
-          "abstract": "Dans cette présentation, j'entreprends de définir de manière concrète ce qu'est la valeur. Je livre une technique simple et efficace à mettre en place ainsi que celles à éviter, afin de se focaliser sur l'essentiel et d'apporter un maximum de valeur au sein du code et même de vos tests.",
-          "tags": [
-            "EventStorming",
-            "Ubiquitous Language",
-            "Workshop",
-            "Architecture",
-            "C4",
-            "DDD",
-            "Dojo",
-            "Coding Dojo",
-            "Mob Programming"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
+        
         {
           "title": "Event Storming Workshop",
           "abstract": "Un atelier pour découvrir cette technique collaborative qui vise à modéliser votre métier tout en réunissant ceux qui savent ce qu'il faut réaliser et ceux qui savent comment le faire. Mise en application en live sur votre propre métier.",
@@ -10126,6 +10105,39 @@ var data = {
         {
           "title": "Mob Programming",
           "abstract": "Le Mob Programming consiste à regrouper une équipe entière dans une pièce équipée d'un seul poste de travail pour tout le monde. Cette pratique vous promet entre autres une productivité accrue alors qu'une seule personne à la fois ne peut toucher le clavier ! Promesses tenues ?",
+          "tags": [
+            "EventStorming",
+            "Ubiquitous Language",
+            "Workshop",
+            "Architecture",
+            "C4",
+            "DDD",
+            "Dojo",
+            "Coding Dojo",
+            "Mob Programming"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Software Craftsmanship",
+          "abstract": "Même si le terme existe depuis environs 8 ans, on entend de plus en plus parler de Software Craftsmanship. De nombreuses sociétés mettent en avant le Software Craftsmanship comme un atout dans le recrutement. Mais que se cache t-il exactement derrière ce terme ? Dans cette présentation, j’entreprends de revenir aux bases du Software Craftsmanship, de définir les grands fondements de ce mouvement et de voir qui sont les crafts(wo)men aujourd’hui ?",
+          "tags": [
+            "Craftsmanship",
+            "Software Craftsmanship",
+            "Extreme Programming",
+            "Agile",
+            "Manifeste",
+            "XP"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Does your code speak business?",
+          "abstract": "Dans cette présentation, j'entreprends de définir de manière concrète ce qu'est la valeur. Je livre une technique simple et efficace à mettre en place ainsi que celles à éviter, afin de se focaliser sur l'essentiel et d'apporter un maximum de valeur au sein du code et même de vos tests.",
           "tags": [
             "EventStorming",
             "Ubiquitous Language",
