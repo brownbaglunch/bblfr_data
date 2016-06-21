@@ -73,7 +73,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "fsarradin",
         "mail": "fsarradin@gmail.com"
       }
@@ -149,7 +149,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "nrichand",
         "mail": "nrichand@brownbaglunch.fr"
       }
@@ -213,7 +213,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "mathildelemee",
         "mail": "mathilde.lemee@yahoo.fr"
       }
@@ -271,7 +271,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "rmat0n",
         "mail": "romain.maton@gmail.com"
       }
@@ -345,7 +345,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "notarianni",
         "mail": "bernard.notarianni@gmail.com"
       }
@@ -378,7 +378,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "romaintaz",
         "mail": "linsolas@gmail.com"
       }
@@ -410,7 +410,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "dadoonet",
         "mail": "david@pilato.fr"
       }
@@ -458,7 +458,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "jlrigau",
         "mail": "jeanlouis.rigau@gmail.com"
       }
@@ -602,7 +602,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ygrenzinger",
         "mail": "yannick.grenzinger@gmail.com"
       }
@@ -663,7 +663,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "m_gandin",
         "mail": "mathieu.gandin@gmail.com"
       }
@@ -721,7 +721,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ndeverge",
         "mail": "ndeverge@gmail.com"
       }
@@ -803,7 +803,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "bluxte",
         "mail": "sylvain@bluxte.net"
       }
@@ -877,7 +877,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "abelar_s",
         "mail": "sylvain.abelard@gmail.com"
       }
@@ -1005,7 +1005,7 @@ var data = {
       "cities": [
         "Lille"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "jak78",
         "mail": "jja@octo.com"
       }
@@ -1064,7 +1064,7 @@ var data = {
       "cities": [
         "Rennes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ndeloof",
         "mail": "nicolas.deloof@gmail.com"
       }
@@ -1112,7 +1112,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "Cecile_Especel",
         "mail": "cespecel@gmail.com"
       }
@@ -1174,7 +1174,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ceciliaBossard",
         "mail": "cecilia.bossard@gmail.com"
       }
@@ -1229,7 +1229,7 @@ var data = {
       "cities": [
         "Rennes"
       ],
-      "contact": {
+      "contacts": {
         "mail": "cbegot@gmail.com"
       }
     },
@@ -1314,7 +1314,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "hugolassiege",
         "mail": "hlassiege+bbl@gmail.com"
       }
@@ -1419,7 +1419,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "cedric_exbrayat",
         "mail": "contact+bbl@ninja-squad.com"
       }
@@ -1488,7 +1488,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "clementd",
         "mail": "clement+bbl@delafargue.name"
       }
@@ -1570,7 +1570,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "gcouprie",
         "mail": "contact@geoffroycouprie.com"
       }
@@ -1662,7 +1662,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "vhe74",
         "mail": "vhe@affini-tech.com"
       }
@@ -1736,7 +1736,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "karesti",
         "mail": "katia.aresti@gmail.com"
       }
@@ -1784,7 +1784,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "elefevre",
         "mail": "contact@ericlefevre.net"
       }
@@ -1853,7 +1853,7 @@ var data = {
       "cities": [
         "Montréal"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "henri_tremblay",
         "mail": "henri@tremblay.pro"
       }
@@ -2008,7 +2008,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "AlfredAlmendra",
         "mail": "alfred.almendra@gmail.com"
       }
@@ -2114,7 +2114,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "cyriux",
         "mail": "cyrillemartraire@gmail.com"
       }
@@ -2150,7 +2150,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "gtardif",
         "mail": "guillaume.tardif@gmail.com"
       }
@@ -2254,7 +2254,7 @@ var data = {
         "Nantes",
         "Rennes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "tgrall",
         "mail": "tugdual@gmail.com"
       }
@@ -2402,7 +2402,7 @@ var data = {
       "cities": [
         "Grenoble"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "xnopre",
         "mail": "xnopre@gmail.com"
       }
@@ -2471,7 +2471,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "dbaeli",
         "mail": "dbaeli@gmail.com"
       }
@@ -2519,7 +2519,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "SCogneau",
         "mail": "sebastien.cogneau@gmail.com"
       }
@@ -2577,7 +2577,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "benjaminmoitie",
         "mail": "benjamin.moitie@gmail.com"
       }
@@ -2689,7 +2689,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "Ouarzy",
         "mail": "epecoul@gmail.com"
       }
@@ -2745,7 +2745,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "glours",
         "mail": "g.lours@gmail.com"
       }
@@ -2876,7 +2876,7 @@ var data = {
       "cities": [
         "Vannes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ckeromen",
         "mail": "ckeromen@ckti.com"
       }
@@ -2967,7 +2967,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "agoncal",
         "mail": "antonio.goncalves@gmail.com"
       }
@@ -3037,7 +3037,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "thierryleriche",
         "mail": "thierryler@gmail.com"
       }
@@ -3099,7 +3099,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "fabrice31",
         "mail": "fabrice.bournisien@gmail.com"
       }
@@ -3209,7 +3209,7 @@ var data = {
       "cities": [
         "Grenoble"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ouelcum",
         "mail": "laurent.tardif@persistent.com"
       }
@@ -3295,7 +3295,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "avernois",
         "mail": "antoine@crafting-labs.fr"
       }
@@ -3370,7 +3370,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "bmathus",
         "mail": "bmathus@gmail.com"
       }
@@ -3442,7 +3442,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "MatthieuSegret",
         "mail": "matthieu@humancoders.com"
       }
@@ -3477,7 +3477,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "SergeStinckwich",
         "mail": "Serge.Stinckwich@gmail.com"
       }
@@ -3529,7 +3529,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "CedricChampeau",
         "mail": "cedric.champeau@gmail.com"
       }
@@ -3634,7 +3634,7 @@ var data = {
       "cities": [
         "Clermont-Ferrand"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "themouette",
         "mail": "julien@muetton.me"
       }
@@ -3711,7 +3711,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "arno_u_loginlux",
         "mail": "ronan.guilloux@gmail.com"
       }
@@ -3831,7 +3831,7 @@ var data = {
       "cities": [
         "Clermont-Ferrand"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "couac",
         "mail": "will+bbl@drnd.me"
       }
@@ -3891,7 +3891,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "xavier_seignard",
         "mail": "xavier.seignard@gmail.com"
       }
@@ -3985,7 +3985,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "yannickAmeur",
         "mail": "yannick.ameur@gmail.com"
       }
@@ -4090,7 +4090,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "matthieugarde",
         "mail": "matthieu.garde@gmail.com"
       }
@@ -4133,7 +4133,7 @@ var data = {
         "Montpellier",
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "CamilleRoux",
         "mail": "contact@camilleroux.com"
       }
@@ -4207,7 +4207,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "VincentFERRIES",
         "mail": "vincent.ferries@gmail.com"
       }
@@ -4333,7 +4333,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "nmartignole",
         "mail": "nicolas@touilleur-express.fr"
       }
@@ -4393,7 +4393,7 @@ var data = {
       "cities": [
         "Lille"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "mathieubolla"
       }
     },
@@ -4442,7 +4442,7 @@ var data = {
       "cities": [
         "Bordeaux"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "jlerbsc",
         "mail": "jean-pierre.lerbscher@jperf.com"
       }
@@ -4545,7 +4545,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "obazoud",
         "mail": "olivier.bazoud@gmail.com"
       }
@@ -4615,7 +4615,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "BitardMichael",
         "mail": "bitard.michael@gmail.com"
       }
@@ -4689,7 +4689,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "laurentmeurisse",
         "mail": "lmeurisse@ekito.fr"
       }
@@ -4754,7 +4754,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "s8bordes",
         "mail": "seb@jrebirth.org"
       }
@@ -4795,7 +4795,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "slandelle",
         "mail": "slandelle@gatling.io"
       }
@@ -4900,7 +4900,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ltearno",
         "mail": "arnaud.tournier@lteconsulting.fr"
       }
@@ -5001,7 +5001,7 @@ var data = {
       "cities": [
         "Brest"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "lostinbrittany",
         "mail": "horacio.gonzalez@gmail.com"
       }
@@ -5097,7 +5097,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "raphaelluta",
         "mail": "raphael.luta@aptiwan.com"
       }
@@ -5223,7 +5223,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "loicknuchel",
         "mail": "loicknuchel@gmail.com"
       }
@@ -5291,7 +5291,7 @@ var data = {
       "cities": [
         "Rennes"
       ],
-      "contact": {
+      "contacts": {
         "mail": "jfallet.pro@gmail.com"
       }
     },
@@ -5432,7 +5432,7 @@ var data = {
         "Saint Etienne",
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "guillaumeehret",
         "mail": "guillaume.ehret.java@gmail.com"
       }
@@ -5556,7 +5556,7 @@ var data = {
       "cities": [
         "Saint Etienne"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "agnes_crepet",
         "mail": "agnes@ninja-squad.com"
       }
@@ -5614,7 +5614,7 @@ var data = {
       "cities": [
         "Saint Etienne"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "cgrand",
         "mail": "christophe@cgrand.net"
       }
@@ -5750,7 +5750,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "florentpellet",
         "mail": "florent.pellet+bbl@gmail.com"
       }
@@ -5806,7 +5806,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "tpierrain",
         "mail": "thomas@pierrain.net"
       }
@@ -5900,7 +5900,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "iergo",
         "mail": "raphael@iergo.fr"
       }
@@ -6004,7 +6004,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "pprados",
         "mail": "brownbaglunch@prados"
       }
@@ -6109,7 +6109,7 @@ var data = {
       "cities": [
         "Versailles"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "gbitaudeau",
         "mail": "guillaume.bitaudeau@gmail.com"
       }
@@ -6220,7 +6220,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "matparisot",
         "mail": "mathieu.parisot+bbl@gmail.com"
       }
@@ -6294,7 +6294,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "mathrobin",
         "mail": "mthrobin@gmail.com"
       }
@@ -6408,7 +6408,7 @@ var data = {
       "cities": [
         "Bordeaux"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "borisschapira",
         "mail": "borisschapira@gmail.com"
       }
@@ -6485,7 +6485,7 @@ var data = {
       "cities": [
         "Bordeaux"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "magiccyril",
         "mail": "cyril@18ruedivona.eu"
       }
@@ -6537,7 +6537,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "doanduyhai",
         "mail": "doanduyhai@gmail.com"
       }
@@ -6597,7 +6597,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "simonbasle",
         "mail": "simon.basle@gmail.com"
       }
@@ -6636,7 +6636,7 @@ var data = {
       "cities": [
         "Sophia-Antipolis"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "youribm",
         "mail": "youribm@gmail.com"
       }
@@ -6703,7 +6703,7 @@ var data = {
       "cities": [
         "Rennes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "gcollic",
         "mail": "gcollic@gmail.com"
       }
@@ -6789,7 +6789,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "maximebonnet",
         "mail": "maxime@bonnet.tel"
       }
@@ -6832,7 +6832,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "dboukelmoune",
         "mail": "dridi.boukelmoune@gmail.com"
       }
@@ -6871,7 +6871,7 @@ var data = {
       "cities": [
         "Lille"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "cyril_lakech",
         "mail": "cyril.lakech@gmail.com"
       }
@@ -6944,7 +6944,7 @@ var data = {
         "Paris",
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "chanmix51",
         "mail": "gregoire.hubert@pragmafabrik.com"
       }
@@ -6999,7 +6999,7 @@ var data = {
         "Paris",
         "Lille"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "rodoq",
         "mail": "rodolphe@quiedeville.org"
       }
@@ -7077,7 +7077,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "mhausherr",
         "mail": "mhausherr@gmail.com"
       }
@@ -7135,7 +7135,7 @@ var data = {
       "cities": [
         "Bordeaux"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "k_strategy",
         "mail": "x.maurin@kstrategy.fr"
       }
@@ -7212,7 +7212,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "cyrdup",
         "mail": "dupdob@gmail.com"
       }
@@ -7299,7 +7299,7 @@ var data = {
         "Toulouse",
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ebonnet31",
         "mail": "emmanuel.bonnet@gmail.com"
       }
@@ -7348,7 +7348,7 @@ var data = {
         "Paris",
         "Versailles"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "pchaussalet",
         "mail": "pchaussalet@gmail.com"
       }
@@ -7446,7 +7446,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "jefBinomed",
         "mail": "jean.francois.garreau@gmail.com"
       }
@@ -7483,7 +7483,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "tchak13",
         "mail": "paul@chavard.net"
       }
@@ -7520,7 +7520,7 @@ var data = {
       "cities": [
         "Tours"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "huvw",
         "mail": "many@nowly.co"
       }
@@ -7545,7 +7545,7 @@ var data = {
       "cities": [
         "Tours"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "mattlawer",
         "mail": "mathieu@nowly.co"
       }
@@ -7623,7 +7623,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "dascritch",
         "mail": "xaviermd@gmail.com"
       }
@@ -7662,7 +7662,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "fdebane",
         "mail": "fdebane@gmail.com"
       }
@@ -7745,7 +7745,7 @@ var data = {
         "Tours",
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "juliendargaisse",
         "mail": "julien@nowly.co"
       }
@@ -7774,7 +7774,7 @@ var data = {
       "cities": [
         "Tours"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "jeromeheissler",
         "mail": "jerome@nowly.co"
       }
@@ -7878,7 +7878,7 @@ var data = {
       "cities": [
         "Tours"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "Cedric_Gatay",
         "mail": "cedric@gatay.fr"
       }
@@ -7939,7 +7939,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "fcabestre",
         "mail": "frederic.cabestre@free.fr"
       }
@@ -8050,7 +8050,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "jpbempel",
         "mail": "jpbempel@ullink.com"
       }
@@ -8189,7 +8189,7 @@ var data = {
       "cities": [
         "Rennes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "nledez",
         "mail": "brownbaglunch@ledez.net"
       }
@@ -8224,7 +8224,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "mail": "loic@dachary.org"
       }
     },
@@ -8297,7 +8297,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "paulgreg",
         "mail": "bbl@paulgreg.me"
       }
@@ -8411,7 +8411,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "tapoueh",
         "mail": "dim@tapoueh.org"
       }
@@ -8474,7 +8474,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "aseigneurin",
         "mail": "alexis@seigneurin.com"
       }
@@ -8544,7 +8544,7 @@ var data = {
         "Clermont-Ferrand",
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "manuraynaud",
         "mail": "manu@raynaud.io"
       }
@@ -8701,7 +8701,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "cltservices",
         "mail": "d.thouvenin@clt-services.com"
       }
@@ -8807,7 +8807,7 @@ var data = {
       "cities": [
         "Clermont-Ferrand"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "level5_c",
         "mail": "thomas.arnaud@level5.fr"
       }
@@ -8881,7 +8881,7 @@ var data = {
       "cities": [
         "Toulon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "providenz",
         "mail": "lp@providenz.fr"
       }
@@ -8914,7 +8914,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "olivier_etienne",
         "mail": "olivier.etienne@gmail.com"
       }
@@ -9017,7 +9017,7 @@ var data = {
         "Le Mans",
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "augustinmerle",
         "mail": "augustin@laveaucoupet.fr"
       }
@@ -9060,7 +9060,7 @@ var data = {
         "Strasbourg",
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "xcapetir",
         "mail": "contact@xavier-carpentier.com"
       }
@@ -9158,7 +9158,7 @@ var data = {
       "cities": [
         "Grenoble"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "johan_alps",
         "mail": "martinsson.johan@gmail.com"
       }
@@ -9240,7 +9240,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "octplane",
         "mail": "pierre@baillet.name"
       }
@@ -9301,7 +9301,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "PierMarquis",
         "mail": "pier.marquis@gmail.com"
       }
@@ -9351,7 +9351,7 @@ var data = {
       "cities": [
         "Tours"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "FlorianChauveau"
       }
     },
@@ -9427,7 +9427,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "tjaskula",
         "mail": "tjaskula@composeitsoft.com"
       }
@@ -9496,7 +9496,7 @@ var data = {
         "Lille",
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "thedamfr"
       }
     },
@@ -9549,7 +9549,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "leonardo_noleto"
       }
     },
@@ -9598,7 +9598,7 @@ var data = {
       "cities": [
         "Bordeaux"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "bodysplash",
         "mail": "jbdusseaut@arpinum.fr"
       }
@@ -9639,7 +9639,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "juliendubois",
         "mail": "julien.dubois@gmail.com"
       }
@@ -9701,7 +9701,7 @@ var data = {
       "cities": [
         "Rennes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "msieur_tim",
         "mail": "tchevrier@gmail.com"
       }
@@ -9757,7 +9757,7 @@ var data = {
       "cities": [
         "Bordeaux"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "XtlCnslt"
       }
     },
@@ -9850,7 +9850,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "cedricbodin",
         "mail": "contact@cedricbodin.net"
       }
@@ -10029,7 +10029,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "romaincouturier",
         "mail": "romain.couturier@terredagile.com"
       }
@@ -10145,7 +10145,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "__MaxS__",
         "mail": "maxime.sanglan@gmail.com"
       }
@@ -10199,7 +10199,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "vanr0y",
         "mail": "roy@ekino.com"
       }
@@ -10285,7 +10285,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "lothiraldan",
         "mail": "lothiraldan@gmail.com"
       }
@@ -10360,7 +10360,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "iamtzi",
         "mail": "hello@tzi.fr"
       }
@@ -10407,7 +10407,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "sebbrochet",
         "mail": "sebastien@cloudenza.com"
       }
@@ -10509,7 +10509,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "thomasg77",
         "mail": "contact@webgeodatavore.com"
       }
@@ -10608,7 +10608,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "cedriclombardot",
         "mail": "cedric@donkeycode.com"
       }
@@ -10710,7 +10710,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "gdebunne",
         "mail": "gilles.debunne@gmail.com"
       }
@@ -10751,7 +10751,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "adrienjoly",
         "mail": "contact@adrienjoly.com"
       }
@@ -10809,7 +10809,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "fchabanois",
         "mail": "flocha2000-bbl@yahoo.fr"
       }
@@ -10836,7 +10836,7 @@ var data = {
         "Monaco",
         "Nice"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "chadrien",
         "mail": "chadrien@chadrien.fr"
       }
@@ -11030,7 +11030,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "vincentdaviet",
         "mail": "vincent.daviet.pro@gmail.com"
       }
@@ -11071,7 +11071,7 @@ var data = {
       "cities": [
         "Avignon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ericmeallier",
         "mail": "eric@meallier.fr"
       }
@@ -11157,7 +11157,7 @@ var data = {
       "cities": [
         "Lille"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "iguane39",
         "mail": "sebastien@pesme.net"
       }
@@ -11217,7 +11217,7 @@ var data = {
         "Rennes",
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "_dmartin_",
         "mail": "dmartin.pro@gmail.com"
       }
@@ -11281,7 +11281,7 @@ var data = {
       "cities": [
         "Brest"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "jefflefoll",
         "mail": "jeff.lefoll@outlook.fr"
       }
@@ -11343,7 +11343,7 @@ var data = {
       "cities": [
         "Aix-en-Provence"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "zepouet",
         "mail": "n.muller@treeptik.fr"
       }
@@ -11402,7 +11402,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "jxerome",
         "mail": "jmainaud@ippon.fr"
       }
@@ -11508,7 +11508,7 @@ var data = {
       "cities": [
         "Rennes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "",
         "mail": "phenixdotnet@gmail.com"
       }
@@ -11595,7 +11595,7 @@ var data = {
         "Mulhouse",
         "Nancy"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "saschild",
         "mail": "s.schildknecht@loxodata.com"
       }
@@ -11627,7 +11627,7 @@ var data = {
       "cities": [
         "Montpellier"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "u2032",
         "mail": "cedric.longo@gmail.com"
       }
@@ -11705,7 +11705,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "Torlus",
         "mail": "gregory.estrade@gmail.com"
       }
@@ -11742,7 +11742,7 @@ var data = {
       "cities": [
         "Bordeaux"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "stephlag",
         "mail": "slagraulet@ippon.fr"
       }
@@ -11776,7 +11776,7 @@ var data = {
       "cities": [
         "Lille"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "tonton1728",
         "mail": "tonton1728@gmail.com"
       }
@@ -11832,7 +11832,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "fatenh",
         "mail": "faten.habachi@gmail.com"
       }
@@ -11876,7 +11876,7 @@ var data = {
       "cities": [
         "Lille"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "tduchateau",
         "mail": "thibault.duchateau@gmail.com"
       }
@@ -11913,7 +11913,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "sunsengdavidtan",
         "mail": "sunix@sunix.org"
       }
@@ -11967,7 +11967,7 @@ var data = {
       "cities": [
         "Lyon"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "xinity",
         "mail": "rzarouali+bbl@gmail.com"
       }
@@ -12021,7 +12021,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "viteinfinite",
         "mail": "scivetta+bbl@xebia.fr"
       }
@@ -12059,7 +12059,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "magici1",
         "mail": "fmirault+bbl@xebia.fr"
       }
@@ -12120,7 +12120,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "fsznajderman",
         "mail": "fabszn@gmail.com"
       }
@@ -12154,7 +12154,7 @@ var data = {
       "cities": [
         "Lille"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "EmmanuelDemey",
         "mail": "emmanuel.demey@zenika.com"
       }
@@ -12190,7 +12190,7 @@ var data = {
         "Paris",
         "Rouen"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "youen_chene",
         "mail": "youen.chene@gadz.org"
       }
@@ -12227,7 +12227,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "farrault",
         "mail": "farrault@ippon.fr"
       }
@@ -12326,7 +12326,7 @@ var data = {
         "Lyon",
         "Saint Etienne"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "karolchmist",
         "mail": "karolchmist+bbl@gmail.com"
       }
@@ -12404,7 +12404,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "esiber",
         "mail": "eric.siber@gmail.com"
       }
@@ -12447,7 +12447,7 @@ var data = {
         "Paris",
         "Orléans"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "tsunammis",
         "mail": "stanislas.chollet@gmail.com"
       }
@@ -12474,7 +12474,7 @@ var data = {
       "cities": [
         "Rouen"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "pierreleresteux",
         "mail": "pierre.leresteux@gmail.com"
       }
@@ -12548,7 +12548,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "FredericRivain",
         "mail": "frederic.rivain@gmail.com"
       }
@@ -12587,7 +12587,7 @@ var data = {
         "Paris",
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "logisima",
         "mail": "benoit.simard@neotechnology.com"
       }
@@ -12687,7 +12687,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "antoinepeze",
         "mail": "antoine.peze+bbl@gmail.com"
       }
@@ -12741,7 +12741,7 @@ var data = {
         "Chartres",
         "Le Mans"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "@xgouchet",
         "mail": "brownbaglunch@xgouchet.fr"
       }
@@ -12806,7 +12806,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "mr_Prud",
         "mail": "gael+bbl@alfa-safety.fr"
       }
@@ -12842,7 +12842,7 @@ var data = {
         "Paris",
         "Tours"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "@Fabinout",
         "mail": "fabien.lamarque+bbl@gmail.com"
       }
@@ -12900,7 +12900,7 @@ var data = {
       "cities": [
         "Toulouse"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "@davinkevin",
         "mail": "davin.kevin+bbl@gmail.com"
       }
@@ -12938,7 +12938,7 @@ var data = {
       "cities": [
         "Nantes"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "@Marc_DUGUE",
         "mail": "marc.dugue@gmail.com"
       }
@@ -12991,7 +12991,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "benjlacroix",
         "mail": "blacroix@xebia.fr"
       }
@@ -13038,7 +13038,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "alecharp",
         "mail": "alecharpentier@cloudbees.com"
       }
@@ -13109,7 +13109,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "bonbonking",
         "mail": "qjin@xebia.fr"
       }
@@ -13152,7 +13152,7 @@ var data = {
       "cities": [
         "Paris"
       ],
-      "contact": {
+      "contacts": {
         "twitter": "ishoun",
         "mail": "shoun@ichida.fr"
       }
