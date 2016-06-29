@@ -12421,7 +12421,7 @@ var data = {
             "Management",
             "Change Management",
             "Talent Management",
-            "Confiance"
+            "Confiance",
             "RSE",
             "Yammer"
           ],
@@ -12433,10 +12433,11 @@ var data = {
           "title": "Personal Kanban depuis les tranchées",
           "abstract": "Partage de mon expérience de la mise en oeuvre du Personal Kanban dans différents environnements (toujours avec le même support – à savoir Trello), de l’évolution de la pratique, et de mes réflexions sur le sujet.",
           "tags": [
+            "Développement personnel",
             "Agile",
             "Kanban",
             "Management Visuel",
-            "Personal Kanban"
+            "Personal Kanban",
             "Trello"
           ],
           "lang": [
