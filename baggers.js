@@ -12346,7 +12346,7 @@ var data = {
     {
       "since": "2016-01-31",
       "name": "Eric Siber",
-      "bio": "Agile Java Craftsman - Creative Ecosystem Architect. Intéressé également par la gestion des talents, le leadership, le bonheur au travail, ainsi que des mouvements comme la sociocratie, l'holacratie, l'entreprise libérée.",
+      "bio": "Agile Java Craftsman - Creative Ecosystem Organizer. Intéressé également par la gestion des talents, le leadership, le bonheur au travail, ainsi que des mouvements comme la sociocratie, l'holacratie, l'entreprise libérée.",
       "picture": "img/baggers/photo_esiber.jpg",
       "websites": [
         {
@@ -12411,7 +12411,38 @@ var data = {
           "lang": [
             "fr"
           ]
-        }
+        },
+        {
+          "title": "Libérez vos talents",
+          "abstract": "A travers cette présentation, je souhaite vous partager mon périple dans une transformation bottom up d'organisation vers plus de leadership, de liberté, et de joie dans le travail. Ce retour d'expérience est complété par un coup de projecteur sur diverses initiatives attribuables à d'autres sociétés françaises.",
+          "tags": [
+            "Agile",
+            "Leadership",
+            "Management",
+            "Change Management",
+            "Talent Management",
+            "Confiance"
+            "RSE",
+            "Yammer"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Personal Kanban depuis les tranchées",
+          "abstract": "Partage de mon expérience de la mise en oeuvre du Personal Kanban dans différents environnements (toujours avec le même support – à savoir Trello), de l’évolution de la pratique, et de mes réflexions sur le sujet.",
+          "tags": [
+            "Agile",
+            "Kanban",
+            "Management Visuel",
+            "Personal Kanban"
+            "Trello"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }        
       ],
       "cities": [
         "Paris"
