@@ -7147,7 +7147,7 @@ var data = {
       "picture": "http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&size=200",
       "websites": [
         {
-          "name": "Blog",
+          "name": "Web",
           "url": "http://dupdob.wordpress.com/"
         },
         {
