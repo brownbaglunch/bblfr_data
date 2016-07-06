@@ -24,7 +24,7 @@ var data = {
             "location": "Paris",
             "sessions": [
                 {
-                    "title": "Conseil en stratégie de web-marketing digitale ",
+                    "title": "Conseil en stratégie de web-marketing digitale",
                     "summary": "Comment élaborer et déployer une stratégie digitale pour améliorer la visibilité, notoriété, réputation d’une marque et/ou d’un individu."
                 },
                 {
@@ -44,6 +44,100 @@ var data = {
                 "Web-marketing",
                 "Community Management",
                 "Numérique"
+            ],
+            "cities": [
+                "Paris"
+            ]
+        },
+        {
+            "name": "Sophie Guenat",
+            "bio": "Agent Spécial @rmstouch. J'ai pour mission d'accompagner les professionnels RH dans leurs pratiques et faire évoluer le recrutement, le marketing employeur et la relation école-entreprise. Geekette enthousiaste je partage avec plaisir #innovation #social #digital",
+            "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAS6AAAAJGUzMTNjZTAyLThiYjktNGQ4Ni05MDEwLWY1ZTMxZmUyMjhmYQ.jpg",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://www.linkedin.com/in/sophieguenat/fr"
+                },
+                {
+                    "title": "Site web",
+                    "href": "http://www.rmstouch.fr"
+                },
+                {
+                    "title": "Média",
+                    "href": "http://www.rmsnews.fr"
+                }
+            ],
+            "twitter": "sophilantropy",
+            "contact": "sophie@rmstouch.fr",
+            "mail": "sophie@rmstouch.fr",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Sourcer sur LinkedIn",
+                    "summary": "Les bases d'une vraie recherche sur le 1er réseau professionnel :- comprendre, - construire, - créer du lien. Exemples concrets, retours d'expérience et réflexions collectives."
+                },
+                {
+                    "title": "Marketing Employeur Online",
+                    "summary": "L'image et la communication de votre entreprise lui appartiennent-elles encore ? Comment transformer vos collaborateurs en ambassadeurs ? Échanges & réflexion sur des solutions pratiques adaptées à votre équipe/boîte."
+                },
+                {
+                    "title": "Innovation RH",
+                    "summary": "Médias Sociaux, mobile, Big Data, VR... Où en est le recrutement en 2016 ? Etat des lieux, débats & pistes de réflexion sur le recrutement aujourd'hui, et demain."
+                }
+            ],
+            "tags": [
+                "Prospective",
+                "Transparence",
+                "Sourcing"
+            ],
+            "cities": [
+                "Paris"
+            ]
+        },
+        {
+            "name": "Arnaud Pottier Rossi",
+            "bio": "Directeur associé de l’agence de communication d’influence Kalaapa (qui signifie en sanskrit : qui lie les choses entre-elles, qui crée du lien). J’ai acquis 16 ans d’expérience en communication corporate et marketing RH. Facilitateur et formateur (sur l'impact des Réseaux Sociaux dans les stratégies de communication)",
+            "picture": "https://media.licdn.com/media/p/7/000/268/086/32cf9f4.jpg",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://fr.linkedin.com/in/arnaud-pottier-rossi-6a8ba16"
+                },
+                {
+                    "title": "Site web",
+                    "href": "http://www.kalaapa.com"
+                },
+                {
+                    "title": "Blog",
+                    "href": "http://www.breakingthewalls.fr"
+                }
+            ],
+            "twitter": "APottierRossi",
+            "contact": "arnaud.pottierrossi@kalaapa.com",
+            "mail": "arnaud.pottierrossi@kalaapa.com",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Adieu la marque employeur et vive la stratégie d’influence !",
+                    "summary": "Pourquoi et comment repenser sa marque employeur comme un tout, vécu et partagé par l’ensemble des parties prenantes de l’entreprise (collaborateurs, candidats, stagiaires, fournisseurs, clients…) ?"
+                },
+                {
+                    "title": "La Créativité, la clé de la conduite du changement et de la cohésion d’entreprise",
+                    "summary": "Comment utiliser les techniques créatives pour instaurer la bienveillance, faciliter les échanges, accompagner le changement au sein des entreprises."
+                },
+                {
+                    "title": "La quête du « sens »",
+                    "summary": "Comment les entreprises doivent-elles répondre à la tendance sociologique forte, le besoin de sens ? Que peuvent faire les directions des ressources humaines pour donner envie aux collaborateurs de s’engager !"
+                },
+                {
+                    "title": "La Kodakisation des RH",
+                    "summary": "Comment anticiper les révolutions technologiques, économiques et sociétales qui vont demander aux fonctions RH un changement radical de métier ? En quoi les Big Data, l’intelligence artificielle, la robotique et le revenu universel vont-ils bouleverser notre monde ?"
+                }
+            ],
+            "tags": [
+                "Marque employeur",
+                "Créativité",
+                "Sens"
             ],
             "cities": [
                 "Paris"
@@ -314,7 +408,7 @@ var data = {
         },
         {
             "name": "Shirley Almosni",
-            "bio": "Chasseur de tête dans la jungle de l’IT avec ses moutons à 5 pattes, ses pythons, ses perles rares certifiées Ruby, et C++ encore…",
+            "bio": "Chasseur de tête dans la jungle de l’IT avec ses moutons à 5 pattes, ses pythons, ses perles rares certifiées Ruby, et C++ encore… Responsable Développement RH de Carbon IT",
             "picture": "img/ShirleyAlmosni.jpg",
             "websites": [
                 {
@@ -482,9 +576,13 @@ var data = {
         },
         {
             "name": "Aude Amarrurtu",
-            "bio": "Dans les Ressources Humaines depuis 8 ans, j'ai mis en place la Direction Ressources Humaines d'Arolla en 2011.",
+            "bio": "Dans les Ressources Humaines depuis 8 ans, j'ai mis en place la Direction Ressources Humaines d'Arolla en 2011. J'ai intégré Itelios fin 2015 pour insuffler une nouvelle dynamique à la fonction RH, rebaptisée People & Culture Development",
             "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/05b/37b/234370e.jpg",
             "websites": [
+                {
+                    "title": "Blog",
+                    "href": "https://peopleandcultureblog.wordpress.com/"
+                },
                 {
                     "title": "LinkedIn",
                     "href": "http://fr.linkedin.com/pub/aude-amarrurtu/11/656/792/"
@@ -502,6 +600,10 @@ var data = {
                 {
                     "title": "Les RH en SSII (ESN): comment sortir du lot?",
                     "summary": "Comment un service RH peut-il apporter de la valeur à une SSII? Et surtout, comment les RH peuvent-ils accompagner les salariés de ce type de société comme il se doit? Je vous propose de faire le point sur les attentes des salariés, leurs appréhensions et réticences, mais également sur le véritable apport que peut représenter un bon service RH en SSII."
+                },
+                {
+                    "title": "Faire des RH autrement!",
+                    "summary": "Les RH à l'ancienne, coincées entre une rigidité juridique et de l'administratif toujours plus lourd, ça ne vous intéresse pas? Moi non plus, les RH, c'est tellement plus! Basculez avec moi dans la révolution People & Culture Development!"
                 }
             ],
             "tags": [
