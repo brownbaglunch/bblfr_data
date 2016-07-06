@@ -7147,12 +7147,16 @@ var data = {
       "picture": "http://gravatar.com/avatar/43022845c143b75a94c7c4b855975ee3&size=200",
       "websites": [
         {
-          "name": "Web",
+          "name": "Blog",
           "url": "http://dupdob.wordpress.com/"
         },
         {
           "name": "Web",
           "url": "http://www.n-fluent.net/"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/cyrille-dupuydauby-29885313"
         }
       ],
       "location": "Paris, La Défense et à proximité",
@@ -7161,14 +7165,12 @@ var data = {
           "title": "As if you meant it",
           "abstract": "Présentation de NFluent: l'outil .NET qu'il vous manquait pour booster le TDD dans votre équipe. Diapos et live coding inside.",
           "tags": [
-            "Reactive",
-            "Finance",
-            "Sequencer",
             "DDD",
             "TDD",
             "Fluent",
             ".NET",
-            "Test"
+            "Test",
+            "NFluent"
           ],
           "lang": [
             "fr"
@@ -7176,16 +7178,13 @@ var data = {
         },
         {
           "title": "Haut débit et faible latence",
-          "abstract": "Programmation réactive: cas concret de conception via un système de trading électronique.",
+          "abstract": "Programmation réactive: cas concret de conception via un système de trading électronique, le Pasta Pricer. Cette session interactive permet de découvrir et discuter des patterns fondamentaux de la programmation réactive.",
           "tags": [
             "Reactive",
             "Finance",
             "Sequencer",
-            "DDD",
-            "TDD",
-            "Fluent",
-            ".NET",
-            "Test"
+            "Conflation",
+            "Performance"
           ],
           "lang": [
             "fr"
@@ -7193,16 +7192,24 @@ var data = {
         },
         {
           "title": "Les clefs de la conduite du changement",
-          "abstract": "Présentation des fondamentaux de la conduite du changement pour maximiser les chances de réussites de tout changement.",
+          "abstract": "Présentation des fondamentaux de la conduite du changement. Ce BBL présente les principaux écueils qui font que 70% des transformations échouent et vous donne quelques techniques vous permettant d'améliorer les chances de réussites.",
           "tags": [
-            "Reactive",
-            "Finance",
-            "Sequencer",
-            "DDD",
+            "changement",
+            "Transformation",
+            "RH",
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Le Craftsmanship par les Lego",
+          "abstract": "Cet atelier propose de découvrir le clean code, refactoring, dette technique, approche iérative grâces à des exerices de construction. Adaptée à tous les profils, cette session est un moyen formidable de sensibiliser des équipes, sponsors, métiers aux bénéfices du Craftsmanship.",
+          "tags": [
+            "CleanCode",
             "TDD",
-            "Fluent",
-            ".NET",
-            "Test"
+            "Iteratif",
+            "Refactoring"
           ],
           "lang": [
             "fr"
@@ -10047,7 +10054,7 @@ var data = {
       ],
       "location": "Nantes et alentours",
       "sessions": [
-        
+
         {
           "title": "Event Storming Workshop",
           "abstract": "Un atelier pour découvrir cette technique collaborative qui vise à modéliser votre métier tout en réunissant ceux qui savent ce qu'il faut réaliser et ceux qui savent comment le faire. Mise en application en live sur votre propre métier.",
@@ -12443,7 +12450,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        }        
+        }
       ],
       "cities": [
         "Paris"
