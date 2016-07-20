@@ -12359,6 +12359,14 @@ var data = {
         {
           "name": "LinkedIn",
           "url": "https://fr.linkedin.com/in/siber"
+        },
+        {
+          "name": "Web",
+          "url": "https://eric.siber.fr"
+        },
+        {
+          "name": "Slideshare",
+          "url": "http://fr.slideshare.net/ericsiber/"
         }
       ],
       "location": "Paris et alentours",
