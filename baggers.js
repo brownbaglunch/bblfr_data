@@ -13216,7 +13216,7 @@ var data = {
       "websites": [
         {
           "name": "Lucca",
-          "url": "https://http://www.lucca.fr/"
+          "url": "https://www.lucca.fr/"
         }
       ],
       "location": "Nantes",
