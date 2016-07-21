@@ -12760,6 +12760,10 @@ var data = {
         {
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/xgouchet"
+        },
+        {
+          "name": "Github",
+          "url": "https://github.com/xgouchet"
         }
       ],
       "location": "Paris, Chartres, Le Mans, ...",
@@ -12771,27 +12775,38 @@ var data = {
             "Java",
             "Android",
             "AOP",
-            "Aspect",
-            "Refactoring",
-            "Legacy"
+            "Aspect"
           ],
           "lang": [
-            "fr"
+            "fr",
+            "en"
           ]
         },
         {
           "title": "Refactoring : le bon, la brute et le truand",
           "abstract": "Quelques bonnes et mauvaises pratiques autour du refactoring, basé sur 3 refactorings vécus.",
           "tags": [
-            "Java",
-            "Android",
-            "AOP",
-            "Aspect",
             "Refactoring",
             "Legacy"
           ],
           "lang": [
-            "fr"
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "Mutation Testing",
+          "abstract": "Avoir des tests, c'est bien. Avoir de bons tests, c'est mieux ! Cette presentation va répondre à la question : Comment mesurer les tests unitaires autrement qu'avec la couverture de code",
+          "tags": [
+            "Tests",
+            "Coverage",
+            "Mutation",
+            "Android",
+            "Java"
+          ],
+          "lang": [
+            "fr",
+            "en"
           ]
         }
       ],
@@ -12801,7 +12816,7 @@ var data = {
         "Le Mans"
       ],
       "contacts": {
-        "twitter": "@xgouchet",
+        "twitter": "xgouchet",
         "mail": "brownbaglunch@xgouchet.fr"
       }
     },
