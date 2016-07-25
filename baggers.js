@@ -10387,13 +10387,9 @@ var data = {
     {
       "since": "2015-03-09",
       "name": "Sébastien Brochet",
-      "bio": "Mi-Dev, mi-Ops, Consulting CTO & Founder @ Cloudenza, j'aide les entreprises à améliorer leurs processus",
+      "bio": "Mi-Dev, mi-Ops, ITSM Consultant @ Microsoft, j'aide les entreprises à améliorer leurs processus",
       "picture": "https://s.gravatar.com/avatar/9080bb346b547fd66c136e4f11d9cfaf?s=200",
       "websites": [
-        {
-          "name": "Web",
-          "url": "http://cloudenza.com/"
-        },
         {
           "name": "GitHub",
           "url": "https://github.com/sebbrochet/"
@@ -10414,9 +10410,8 @@ var data = {
           "abstract": "Ou comment mieux aligner les Dev et les Ops pour répondre aux besoins Métiers. Le DevOps, c'est le prolongement de l'Agilité aux Ops, je vous propose un panorama des pratiques pour y arriver dans de bonnes conditions !",
           "tags": [
             "DevOps",
-            "CTO",
-            "Python",
-            "Django"
+            "Azure",
+            "VSTS"
           ],
           "lang": [
             "fr"
@@ -10428,7 +10423,7 @@ var data = {
       ],
       "contacts": {
         "twitter": "sebbrochet",
-        "mail": "sebastien@cloudenza.com"
+        "mail": "contact@sebbrochet.com"
       }
     },
     {
