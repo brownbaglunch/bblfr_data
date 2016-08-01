@@ -13307,8 +13307,12 @@ var data = {
       "picture": "https://avatars1.githubusercontent.com/u/2751422?v=3&u=93aa7a0037a926090eb975aaf590840a069f6a44&s=140",
       "websites": [
         {
-          "name": "Lucca",
+          "name": "Web",
           "url": "https://www.lucca.fr/"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/frederic-pot-96777b1"
         }
       ],
       "location": "Nantes",
@@ -13332,7 +13336,7 @@ var data = {
         "Nantes"
       ],
       "contacts": {
-        "twitter": "@fpot",
+        "twitter": "fpot",
         "mail": "fpot@lucca.fr"
       }
     }
