@@ -7363,9 +7363,17 @@ var data = {
     {
       "since": "2014-04-25",
       "name": "Jean-françois Garreau",
-      "bio": "Consultant IT chez @SQLI et Leader du @GDGNantes. Je suis développeur depuis maintenant 10 ans. J'ai toujours évolué dans un monde java et j'ai découvert Android en 2009 avec la version 1.1. Depuis, je continue de suivre les évolutions de la plateforme. Depuis maintenant an et demi j'ai commencé à m'interesser plus en profondeur au Web avec des sujets comme AngularJS / WebRTC / WebSockets.",
+      "bio": "Ingénieur R&D chez @Luccan, GDE Web Technologies et Leader du @GDGNantes. Je suis développeur depuis maintenant plus de 10 ans. J'ai toujours évolué dans un monde java et j'ai découvert Android en 2009 avec la version 1.1. Depuis, je continue de suivre les évolutions de la plateforme. Depuis maintenant 2013 j'ai commencé à m'interesser plus en profondeur au Web avec des sujets comme AngularJS / WebRTC / WebSockets.",
       "picture": "http://www.gravatar.com/avatar/5713f6958d5be53307b0a5ae717ba767.png?size=256",
       "websites": [
+        {
+          "name": "Web",
+          "url": "http://jef.binomed.fr"
+        },
+        {
+          "name": "Web",
+          "url": "http://jef.binomed.fr/binomed_docs"
+        },
         {
           "name": "Web",
           "url": "http://lnkd.in/dSN8h9U"
@@ -7381,23 +7389,17 @@ var data = {
         {
           "name": "Google+",
           "url": "https://www.google.com/+JeanFrancoisGarreau"
-        },
-        {
-          "name": "Web",
-          "url": "http://blog.binomed.fr/binomed_docs"
         }
       ],
       "location": "Nantes et environs",
       "sessions": [
         {
-          "title": "Android pour les débutants",
-          "abstract": "Cette session vise à poser les base du développement sous Android en présentant les concepts liés à ce système.",
+          "title": "Les nouveaux supers pouvoirs du web",
+          "abstract": "Et si je vous disais que votre navigateur est doté de pouvoirs dont vous n’avez pas conscience ? Et si l’installation d’une application n’était plus nécessaire pour interagir de façon riche avec les objets qui nous entourent ? Bref, vous l’aurez compris dans ce talk, je vais vous parler des nouvelles possibilités qui s’offrent à vous en tant que développeur web et qui vont vous permettre de créer des applications web universelles ! Nous évoquerons donc Sensors, Bluetooth, Physical Web, Usb, AppManifest, ...",
           "tags": [
             "Mobile",
-            "Android",
-            "NFC",
             "HTML5",
-            "WebRTC",
+            "PhysicalWeb",
             "Sensors"
           ],
           "lang": [
@@ -7405,15 +7407,11 @@ var data = {
           ]
         },
         {
-          "title": "NFC for Android",
-          "abstract": "Cette session vous permet de comprendre ce qui se cache derrière ces 3 lettres et de savoir comment implémenter du NFC dans vos applications Android.",
+          "title": "Les Web DevTools en 2016",
+          "abstract": " Utiliser le debugger : [√] | Utiliser le sourcemapping pour voir mon sass au lieu de mon css : [√] | Utiliser le nouveau color picker pour tester des couleurs :  Quoi ? il y a un color picker dans les devtools. | Analyser les screenshots de mon site pour comprendre comment mon site s'affiche : Quoi ? Je peux faire ça ? Bon nombre des nouveautés des devtools restent encore inconnues du grand public. Venez dans ce talk pour découvrir et redécouvrir comment les devtools peuvent vous aider voir vous sauvez la vie !",
           "tags": [
-            "Mobile",
-            "Android",
-            "NFC",
-            "HTML5",
-            "WebRTC",
-            "Sensors"
+            "Web",
+            "DevTools"
           ],
           "lang": [
             "fr"
