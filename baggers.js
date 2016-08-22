@@ -13351,6 +13351,39 @@ var data = {
         "twitter": "fpot",
         "mail": "fpot@lucca.fr"
       }
+    },
+    {
+      "since": "2013-02-17",
+      "name": "Frédéric Menou",
+      "bio": "CTO Captain Train, développeur",
+      "picture": "https://secure.gravatar.com/avatar/252ef00042fda3ab4cf67a36b956fa33?size=200",
+      "websites": [
+        {
+          "name": "about.me",
+          "url": "http://about.me/ptitfred"
+        },
+      ],
+      "location": "Paris, proche banlieue et La Défense",
+      "sessions": [
+        {
+          "title": "Haskell pour les noobs",
+          "abstract": "1 heure pour apprendre un nouveau langage, c'est court. Et quand il s'agit d'un langage aussi particulier qu'Haskell, ça devient sportif ! Mais qu'à cela ne tienne, tentons le coup ! Commençons par étudier un cas topique : le parsing de fichiers texte.",
+          "tags": [
+            "Haskell",
+            "Programmation fonctionnelle"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "ptit_fred",
+        "mail": "frederic.menou@gmail.com"
+      }
     }
   ],
   "cities": {
