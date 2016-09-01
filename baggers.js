@@ -13352,39 +13352,67 @@ var data = {
         "mail": "fpot@lucca.fr"
       }
     },
-    {
-      "since": "2013-02-17",
-      "name": "Frédéric Menou",
-      "bio": "CTO Captain Train, développeur",
-      "picture": "https://secure.gravatar.com/avatar/252ef00042fda3ab4cf67a36b956fa33?size=200",
-      "websites": [
-        {
-          "name": "about.me",
-          "url": "http://about.me/ptitfred"
-        },
-      ],
-      "location": "Paris, proche banlieue et La Défense",
-      "sessions": [
-        {
-          "title": "Haskell pour les noobs",
-          "abstract": "1 heure pour apprendre un nouveau langage, c'est court. Et quand il s'agit d'un langage aussi particulier qu'Haskell, ça devient sportif ! Mais qu'à cela ne tienne, tentons le coup ! Commençons par étudier un cas topique : le parsing de fichiers texte.",
-          "tags": [
-            "Haskell",
-            "Programmation fonctionnelle"
+      {
+          "since": "2013-02-17",
+          "name": "Frédéric Menou",
+          "bio": "CTO Captain Train, développeur",
+          "picture": "https://secure.gravatar.com/avatar/252ef00042fda3ab4cf67a36b956fa33?size=200",
+          "websites": [
+              {
+                  "name": "about.me",
+                  "url": "http://about.me/ptitfred"
+              },
           ],
-          "lang": [
-            "fr"
-          ]
-        }
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "contacts": {
-        "twitter": "ptit_fred",
-        "mail": "frederic.menou@gmail.com"
+          "location": "Paris, proche banlieue et La Défense",
+          "sessions": [
+              {
+                  "title": "Haskell pour les noobs",
+                  "abstract": "1 heure pour apprendre un nouveau langage, c'est court. Et quand il s'agit d'un langage aussi particulier qu'Haskell, ça devient sportif ! Mais qu'à cela ne tienne, tentons le coup ! Commençons par étudier un cas topique : le parsing de fichiers texte.",
+                  "tags": [
+                      "Haskell",
+                      "Programmation fonctionnelle"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              }
+          ],
+          "cities": [
+              "Paris"
+          ],
+          "contacts": {
+              "twitter": "ptit_fred",
+              "mail": "frederic.menou@gmail.com"
+          }
+      },
+      {
+          "since": "2016-08-17",
+          "name": "Quentin Ambard",
+          "bio": "Developer big data, Java, Scala, Machine Learning",
+          "picture": "https://en.gravatar.com/userimage/5355706/f1d4dca3b11cb230b97facd2c8d093be.jpg?size=300",
+          "location": "Paris, proche banlieue et La Défense",
+          "sessions": [
+              {
+                  "title": "Intro au Machine Learning pour devs",
+                  "abstract": "1 heure pour parcourir les algos stars du machine learning. Pas de code, les grands concepts accompagnés d'un peu de maths. Au programme : regression linéaire, classification (regression logistique/svm/tree), réseau de neurones, deep learning.",
+                  "tags": [
+                      "Machine Learning",
+                      "Réseau de neurones",
+                      "Deep Learning"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              }
+          ],
+          "cities": [
+              "Paris"
+          ],
+          "contacts": {
+              "twitter": "qambard",
+              "mail": "quentin.ambard@gmail.com"
+          }
       }
-    }
   ],
   "cities": {
     "Aix-en-Provence": {
