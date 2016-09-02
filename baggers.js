@@ -13384,7 +13384,33 @@ var data = {
         "twitter": "ptit_fred",
         "mail": "frederic.menou@gmail.com"
       }
-    }
+    },
+    {
+     "since": "2016-08-17",
+     "name": "Quentin Ambard",
+     "bio": "Developer big data, Java, Scala, Machine Learning",
+     "picture": "https://en.gravatar.com/userimage/5355706/f1d4dca3b11cb230b97facd2c8d093be.jpg?size=300",
+     "location": "Paris, proche banlieue et La Défense",
+     "sessions": [
+         {
+             "title": "Intro au Machine Learning pour devs",
+             "abstract": "1 heure pour parcourir les algos stars du machine learning. Pas de code, les grands concepts accompagnés d'un peu de maths. Au programme : regression linéaire, classification (regression logistique/svm/tree), réseau de neurones, deep learning.",
+             "tags": [
+                 "Machine Learning",
+                 "Réseau de neurones",
+                 "Deep Learning"
+             ],
+             "lang": [
+                 "fr"
+             ]
+         }
+     ],
+     "cities": ["Paris"],
+     "contacts": {
+         "twitter": "qambard",
+         "mail": "quentin.ambard@gmail.com"
+     }
+   }
   ],
   "cities": {
     "Aix-en-Provence": {
