@@ -13410,7 +13410,50 @@ var data = {
          "twitter": "qambard",
          "mail": "quentin.ambard@gmail.com"
      }
-   }
+    },
+    {
+      "since": "2016-09-10",
+      "name": "Bruno Heridet",
+      "bio": "Codeur",
+      "picture": "http://www.gravatar.com/avatar/1de6337421c1eac0227c88502b275952?size=200",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://delapouite.com"
+        }
+      ],
+      "sessions": [
+        {
+          "title": "vim / neovim",
+          "abstract": "Armés de nos 10 doigts, nous essaierons de comprendre pourquoi cet éditeur préhistorique n'est toujours ni éclipsé, ni sublimé, ni atomisé.",
+          "tags": [
+            "vim",
+            "Outils"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Window managers & keyboards",
+          "abstract": "Stop à la souris ! Mort à l'Azerty ! Durant cette session nous tenterons d'optimiser la façon dont nous rangeons nos fênetres et tapotons sur nos claviers.",
+          "tags": [
+            "Outils"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Lyon",
+        "Nantes"
+      ],
+      "contacts": {
+        "twitter": "delapouite",
+        "mail": "delapouite@gmail.com"
+      }
+    }
   ],
   "cities": {
     "Aix-en-Provence": {
