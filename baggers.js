@@ -13013,7 +13013,7 @@ var data = {
     {
       "since": "2016-06-15",
       "name": "Benjamin Lacroix",
-      "bio": "Développeur Agile chez Xebia j'ai eu l'occasion d'intervenir sur des applications web, back et Android dans de nombreux environnements fonctionnels et technologiques. J'essai de tirer parti de ces expériences diverses pour apporter une vision différente",
+      "bio": "Développeur Agile chez Xebia j'ai eu l'occasion d'intervenir sur des applications web, back et Android dans de nombreux environnements fonctionnels et technologiques. J'essaie de tirer parti de ces expériences diverses pour apporter une vision différente",
       "picture": "https://www.gravatar.com/avatar/63d261113651caa0dc887445c61ea48a?s=200",
       "websites": [
         {
