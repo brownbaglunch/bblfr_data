@@ -13184,10 +13184,10 @@ var data = {
     {
       "since": "2016-06-17",
       "name": "Shoun Ichida",
-      "bio": "Développeur Java/Angular | Agiliste et Craftman au sein de VISEO Technologies",
+      "bio": "Développeur Java/Angular | Agiliste et Craftsman au sein de VISEO Technologies",
       "picture": "https://avatars1.githubusercontent.com/u/1797860",
       "websites": [],
-      "location": "Paris, et sa région",
+      "location": "Paris",
       "sessions": [
         {
           "title": "Réaliser une bonne recette grâce au concombre",
@@ -13452,6 +13452,65 @@ var data = {
       "contacts": {
         "twitter": "delapouite",
         "mail": "delapouite@gmail.com"
+      }
+    },
+    {
+      "since": "2016-09-19",
+      "name": "Jordane Grenat",
+      "bio": "Développeur JavaScript / Java | Fan de veille technologique et Craftsman chez VISEO Technologies",
+      "picture": "https://avatars1.githubusercontent.com/u/1797860",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://laveilleuse.io"
+        }
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Mettez votre JavaScript à jour !",
+          "abstract": "Après des années sans évolution pour JavaScript, l'arrivée d'ES2015 a apporté de nombreux outils qui facilitent considérablement la vie du développeur. Avec une nouvelle version tous les ans, il peut maintenant être compliqué de suivre les nouveautés et de comprendre comment utiliser tous ces nouveaux outils. Dans ce BBL, je vous propose un cours de rattrapage sur tous ces changements et sur les évolutions à venir !",
+          "tags": [
+            "JavaScript",
+            "ES6",
+            "ES2015"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Oubliez les migraines, faites de l'asynchrone... synchrone !",
+          "abstract": "Tout développeur JavaScript – même celui qui n'ose pas se l'avouer – a subi un jour le callback hell à cause de l'asynchrone. Aujourd'hui, de nouveaux outils du langage nous permettent de gérer bien plus élégamment nos appels asynchrones, à tel point qu'on en vient à faire de l'asynchrone... synchrone !\nJe vous propose de découvrir cela au travers d'un live coding en partant de la code base cauchemardesque héritée du stagiaire débutant le JavaScript ; si cela ne vous évoque rien, vous faites parti d'une minorité miraculée ! Nous utiliserons les promesses, les générateurs, les coroutines et les fonctions asynchrones pour l'améliorer progressivement, en notant au passage les pièges auxquels il ne faut pas succomber...",
+          "tags": [
+            "JavaScript",
+            "asynchrone",
+            "callback"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Reprenez le contrôle de votre historique Git !",
+          "abstract": "De tous les systèmes de gestion de version utilisés actuellement, Git est sans conteste le plus populaire. Il offre des outils très performants pour gérer son historique que je vous propose de découvrir.\nNous verrons dans un premier temps les différences entre des merges et des rebases et leurs cas d'utilisation, avant de voir comment nettoyer son historique Git et la valeur que cela peut apporter à une équipe.",
+          "tags": [
+            "Git",
+            "merge",
+            "rebase",
+            "historique"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "JoGrenat",
+        "mail": "jordan.grenat+bbl@gmail.com"
       }
     }
   ],
