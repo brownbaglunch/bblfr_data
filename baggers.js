@@ -13184,10 +13184,10 @@ var data = {
     {
       "since": "2016-06-17",
       "name": "Shoun Ichida",
-      "bio": "Développeur Java/Angular | Agiliste et Craftman au sein de VISEO Technologies",
+      "bio": "Développeur Java/Angular | Agiliste et Craftsman au sein de VISEO Technologies",
       "picture": "https://avatars1.githubusercontent.com/u/1797860",
       "websites": [],
-      "location": "Paris, et sa région",
+      "location": "Paris",
       "sessions": [
         {
           "title": "Réaliser une bonne recette grâce au concombre",
