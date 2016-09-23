@@ -13567,6 +13567,68 @@ var data = {
         "twitter": "GMouron",
         "mail": "gmouron@lucca.fr"
       }
+    },
+    {
+      "since": "2016-09-23",
+      "name": "Bruno CATTEAU",
+      "bio": "Associé chez Lucca, je suis responsable de l'infrastructure Saas et de la sécurité. Je suis fan d'automatisation, dans le domaine de l'informatique mais aussi dans la vraie vie. Ma deuxième passion est le bricolage.",
+      "picture": "https://avatars2.githubusercontent.com/u/2759474",
+      "websites": [
+        {
+          "name": "Lucca",
+          "url": "https://www.lucca.fr/"
+        },
+         {
+          "name": "Brico-info.com",
+          "url": "http://www.brico-info.com/"
+        }
+      
+      ],
+      "location": "Le Mans",
+      "sessions": [
+        {
+          "title": "Infrastructure scalable: Comment passer d'un mode licence à un mode Saas et comment moderniser son infrastructure avec les outils les plus efficaces du marché.",
+          "abstract": "Evolution illustrée sur 15 années. ",
+          "tags": [
+            "Windows",
+            "Unix",
+            "Linux",
+            "Wmware",
+            "pfsense",
+            "HAproxy",
+            "Nginx",
+            "IIS",
+            "Monitoring"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Surveillance d'une infrastructure",
+          "abstract": "Retour d'expérience sur la mise en place du monitoring et des logs exploitables sur une infrastructure hétérogène.",
+          "tags": [            
+            "Windows",
+            "Unix",
+            "Linux",
+            "Wmware",
+            "PRTG",
+            "Logmatic",
+            "Slack",
+            "Powershell"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Le Mans"
+      ],
+      "contacts": {
+        "twitter": "bcatteau",
+        "mail": "bcatteau@lucca.fr"
+      }
     }
   ],
   "cities": {
