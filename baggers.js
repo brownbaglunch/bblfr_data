@@ -13567,7 +13567,33 @@ var data = {
         "twitter": "GMouron",
         "mail": "gmouron@lucca.fr"
       }
-    }
+    },
+    {
+     "since": "2016-09-27",
+     "name": "Mélanie Foucher",
+     "bio": "Ux designer chez Lucca",
+     "picture": "http://fr.gravatar.com/melouleloup",
+     "location": "Nantes",
+     "sessions": [
+       {
+         "title": "Comment captiver votre public en montrant moins mais mieux ?",
+         "abstract": "Qu’il soit l’heure du déjeuner ou de la digestion assurez-vous que votre public suivra à la fois vos slides et votre propos.",
+         "tags": [
+           "Design",
+           "Présentation"
+         ],
+         "lang": [
+           "fr"
+         ]
+       }
+     ],
+     "cities": [
+       "Nantes"
+     ],
+     "contacts": {
+       "mail": "mfoucher@lucca.fr"
+     }
+    }    
   ],
   "cities": {
     "Aix-en-Provence": {
