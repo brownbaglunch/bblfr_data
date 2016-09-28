@@ -7363,7 +7363,7 @@ var data = {
     {
       "since": "2014-04-25",
       "name": "Jean-françois Garreau",
-      "bio": "Ingénieur R&D chez @Luccan, GDE Web Technologies et Leader du @GDGNantes. Je suis développeur depuis maintenant plus de 10 ans. J'ai toujours évolué dans un monde java et j'ai découvert Android en 2009 avec la version 1.1. Depuis, je continue de suivre les évolutions de la plateforme. Depuis maintenant 2013 j'ai commencé à m'interesser plus en profondeur au Web avec des sujets comme AngularJS / WebRTC / WebSockets.",
+      "bio": "Ingénieur R&D chez @LuccaSoftware, GDE Web Technologies et Leader du @GDGNantes. Je suis développeur depuis maintenant plus de 10 ans. J'ai toujours évolué dans un monde java et j'ai découvert Android en 2009 avec la version 1.1. Depuis, je continue de suivre les évolutions de la plateforme. Depuis maintenant 2013 j'ai commencé à m'interesser plus en profondeur au Web avec des sujets comme AngularJS / WebRTC / WebSockets.",
       "picture": "http://www.gravatar.com/avatar/5713f6958d5be53307b0a5ae717ba767.png?size=256",
       "websites": [
         {
@@ -7442,6 +7442,29 @@ var data = {
             "HTML5",
             "WebRTC",
             "Sensors"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "J'ai organisé un atelier pour les enfants",
+          "abstract": "Les Devoxx4Kids, vous connaissez ? Mais si vous savez, ces ateliers pour faire découvrir la programmation aux plus petits ? Je vais vous faire un petit retour d'expérience sur les choix que nous avons fait à Nantes et pourquoi nous les avons fait. Comment avons nous choisit le programme ? Combien de temps doit durer les ateliers ? .... \n Enfin je ferais une démo de scratch pour que vous puissiez expérimenter cet outils avec vos enfants",
+          "tags": [
+            "Enfants",
+            "Découverte",
+            "Devoxx4Kids"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Cursus Speaker",
+          "abstract": "Je croise souvent des sociétés et des personnes qui souhaiteraient passer le pas et devenir speaker, se mettre en avant pour partager leurs connaissances, leurs expériences. Mais bien souvent, personne ne sait par où commencer ni comment s'y prendre... Je vous propose donc de venir faire 4 ateliers de 1h30/2h pour y remédier. Au programme : \n 1. Comment Trouver son sujet \n 2. Comment Postuler ? Préparer ses Slides ? \n 3. Comment gérer sa carrière de speaker ? \n 4. Exercice pratique.",
+          "tags": [
+            "Conseils",
+            "Tech Talks"
           ],
           "lang": [
             "fr"
