@@ -13575,11 +13575,11 @@ var data = {
       "picture": "https://avatars2.githubusercontent.com/u/2759474",
       "websites": [
         {
-          "name": "Lucca",
+          "name": "Web",
           "url": "https://www.lucca.fr/"
         },
          {
-          "name": "Brico-info.com",
+          "name": "Web",
           "url": "http://www.brico-info.com/"
         }
       
