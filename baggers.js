@@ -419,7 +419,7 @@ var data = {
       "since": "2013-02-17",
       "name": "Jean-louis Rigau",
       "bio": "Développeur Java, Cloud Addict",
-      "picture": "http://m.c.lnkd.licdn.com/media/p/4/000/15f/25a/14e30e7.jpg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -611,7 +611,7 @@ var data = {
       "since": "2013-02-20",
       "name": "Mathieu Gandin",
       "bio": "Développeur, Technical Leader @lesfurets.com",
-      "picture": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/000/1a1/3d1/258cb42.jpg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -1183,7 +1183,7 @@ var data = {
       "since": "2013-02-26",
       "name": "Christophe Bégot",
       "bio": "Facilitateur Agile",
-      "picture": "http://timwi.com/img/team/cbegot.png",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -1428,7 +1428,7 @@ var data = {
       "since": "2013-03-01",
       "name": "Clément Delafargue",
       "bio": "CTO @ Clever Cloud, Consultant, λ geek",
-      "picture": "http://clement.delafargue.name/profile_square.jpg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -3720,7 +3720,7 @@ var data = {
       "since": "2013-09-08",
       "name": "William Durand",
       "bio": "Lifelong learner. Open Source evangelist. Traveler. Triathlete.",
-      "picture": "http://fr.gravatar.com/userimage/8198086/417f6125a7549374926e4935f9272ad6.jpg?size=500",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -4624,7 +4624,7 @@ var data = {
       "since": "2013-11-14",
       "name": "Laurent Meurisse",
       "bio": "Coach Agile & Dévelopement produit pour l'entreprise & startup",
-      "picture": "https://pbs.twimg.com/profile_images/2776155908/7a1460aa6728eda8e4a2ca56f425ac99.jpeg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -5565,7 +5565,7 @@ var data = {
       "since": "2013-12-19",
       "name": "Christophe Grand",
       "bio": "Clojuriste de la première heure (début 2008) et co-auteur de Clojure Programming (O'Reilly). Passionné par les API REST hypermedia. Dev indépendant et formateur au sein de LambdaNext.",
-      "picture": "http://lambdanext.eu/img/cgrand.png",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -7086,7 +7086,7 @@ var data = {
       "since": "2014-04-20",
       "name": "Xavier Maurin",
       "bio": "CEO de KStrategy, consultant UX (User eXperience), Co-Fondateur de UX Bordeaux",
-      "picture": "http://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/2b7/1f9/259b373.jpg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -7520,7 +7520,7 @@ var data = {
       "since": "2014-05-04",
       "name": "Manyssin Thin",
       "bio": "Entrepreneur et jeune papa passionné par le design et le numérique. CEO de www.nowly.co et lui même depuis 1985.",
-      "picture": "https://pbs.twimg.com/profile_images/3538863249/7c6adb61a6b0554c019b2a26711c7afd_400x400.jpeg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "LinkedIn",
@@ -7557,7 +7557,7 @@ var data = {
       "since": "2014-05-04",
       "name": "Mathieu Bolard",
       "bio": "Consultant en solutions mobiles, co-fondateur de Nowly",
-      "picture": "https://pbs.twimg.com/profile_images/1749868293/id-1_small.png",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -7699,7 +7699,7 @@ var data = {
       "since": "2014-05-08",
       "name": "Julien Dargaisse",
       "bio": "Tech Entrepreneur & UI/UX Designer. A l'initiative de PALO ALTOURS, La Cantine Numérique Tours, Startup Weekend Tours, Apéro Entrepreneurs Tours. #FBSAlumni",
-      "picture": "https://pbs.twimg.com/profile_images/2284064030/r1fue8rqkl904pvija46.jpeg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "LinkedIn",
@@ -9277,7 +9277,7 @@ var data = {
       "since": "2014-07-28",
       "name": "Pierre Marquis",
       "bio": "Scrum Master chez Mappy, Développeur C++, Python",
-      "picture": "https://media.licdn.com/media/p/8/000/1e1/205/29f40de.jpg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "LinkedIn",
@@ -9585,7 +9585,7 @@ var data = {
       "since": "2014-11-07",
       "name": "Jean-baptiste Dusseaut",
       "bio": "eXtreme Programmer, co-fondateur d'Arpinum",
-      "picture": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c0.0.320.320/p320x320/10614305_10152626338152508_5099752402465620281_n.jpg?oh=b9cfd579186930d98fec6ad42dfa9348&oe=54E99E54&__gda__=1425364962_ff9796691bbf73f194716cf5924b2d57",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -11552,7 +11552,7 @@ var data = {
       "since": "2015-08-12",
       "name": "Stéphane Schildknecht",
       "bio": "Spécialiste des bases de données et de PostgreSQL depuis plus de 15 ans. Membre fondateur et premier président de PostgreSQLFr. Dirigeant de Loxodata, société d'expertise autour de PostgreSQL.",
-      "picture": "http://www.loxodata.com/loxodata.v2/images/sas_277.jpg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "LinkedIn",
@@ -12065,7 +12065,7 @@ var data = {
       "since": "2015-11-26",
       "name": "Fabien Mirault",
       "bio": "Développeur iOS depuis 5 ans, Fabien a eu l'occasion de réaliser de nombreuses missions innovantes disposant d'une forte audience. Initialiement développeur AS3 (Flash / AIR), il reste curieux de tout ce qui se fait dans le milieu du mobile pour toujours chercher à en tirer des enseignements pour les projets futurs.",
-      "picture": "http://www.xebicon.fr/images/speaker/fabien_mirault.jpg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -12198,7 +12198,7 @@ var data = {
       "since": "2015-12-24",
       "name": "Youen Chéné",
       "bio": "CTO @ Creative Data / Saagie, activiste @normandyjug @codeursenseine @devoxx4kidsfr",
-      "picture": "https://www.creativedata.fr/bundles/app/img/team/youen.png",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
@@ -12999,7 +12999,7 @@ var data = {
       "since": "2016-06-14",
       "name": "Marc Dugué",
       "bio": "Directeur de projet et facilitateur graphique",
-      "picture": "https://pbs.twimg.com/profile_images/578581421121351680/OL9d4QGA_400x400.jpeg",
+      "picture": "img/baggers/unknown.png",
       "websites": [
         {
           "name": "Web",
