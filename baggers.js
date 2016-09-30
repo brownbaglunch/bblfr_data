@@ -13616,7 +13616,47 @@ var data = {
      "contacts": {
        "mail": "mfoucher@lucca.fr"
      }
-    }    
+    },
+    {
+      "since": "2016-09-29",
+      "name": "François-Xavier Thomassin",
+      "bio": "Ingénieur R&D chez Lucca, éditeur de logiciels SaaS de gestion RH.",
+      "picture": "https://avatars2.githubusercontent.com/u/5735635?s=200",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://www.lucca.fr/"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/thomaf"
+        }
+      ],
+      "location": "Nantes",
+      "sessions": [
+        {
+          "title": "Tester c'est douter !",
+          "abstract": "Incontournables, les tests sont souvent les grands absents dans le code des entreprises. Je vous propose quelques pistes pour initier la culture du test chez vous avec des exemples concrets.",
+          "tags": [
+            "Tests",
+            "Unit test",
+            "Quality",
+            "TDD",
+            "BDD",
+            "Mock"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+      ],
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "mail": "fx@lucca.fr"
+      }
+    }   
   ],
   "cities": {
     "Aix-en-Provence": {
