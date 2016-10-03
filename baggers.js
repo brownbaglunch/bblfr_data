@@ -13728,6 +13728,47 @@ var data = {
       "contacts": {
         "mail": "bbelz@lucca.fr"
       }
+    },
+    {
+      "since" : "2016-10-03",
+      "name" : "FRANCOIS Brice",
+      "bio" : "Développeur .Net et architecte technique - Lucca, éditeur de logiciels SaaS de gestion RH.",
+      "picture" : "https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/d/8/3/e/highres_246955358.jpeg",
+      "websites" : [{
+          "name" : "Web",
+          "url" : "http://www.lucca.fr/societe/equipe.php#bfrancois"
+        }, {
+          "name" : "Viadeo",
+          "url" : "http://www.viadeo.com/p/002fw6i7zkrayd8"
+        }
+      ],
+      "location" : "Nantes",
+      "sessions" : [{
+          "title" : "Pimp my SQL Server",
+          "abstract" : "De la conception à l'infrastructure en passant par le paramétrage, quelques bonnes pratiques et astuces pour optimiser sa Base de Données SQL Server",
+          "tags" : [
+            "sql",
+            "sqlserver",
+            "tuning",
+            "monitoring",
+            "sécurité",
+            "performance",
+            "best practices",
+            "index",
+            "plan d'exécution"
+          ],
+          "lang" : [
+            "fr"
+          ]
+        }
+      ],
+      "cities" : [
+        "Nantes"
+      ],
+      "contacts" : {
+        "twitter" : "bricenantes",
+        "mail" : "bfrancois@lucca.fr"
+      }
     }
   ],
   "cities": {
