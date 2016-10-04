@@ -13728,6 +13728,33 @@ var data = {
       "contacts": {
         "mail": "bbelz@lucca.fr"
       }
+    },
+    {
+      "since": "2016-10-04",
+      "name": "Alex Carpentieri",
+      "bio": "Ingénieur R&D chez Lucca, éditeur de logiciels SaaS de gestion RH.",
+      "picture": "https://secure.gravatar.com/avatar/58f2522ae863d49748f891dcaa34e7d1",
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "mail": "acarpentieri@lucca.fr",
+        "twitter": "alexcarpe"
+      },
+      "sessions": [
+        {
+          "title": "Pizza Robot Expert",
+          "abstract": "Introduction aux systèmes experts à travers la decouverte de CLIPS (http://www.clipsrules.net/) et la création d'un robot à pizza.",
+          "tags": [
+            "CLIPS",
+            "Expert System",
+            "Pizza"
+          ],
+          "lang": [
+            "fr", "en", "it"
+          ]
+        }
+      ],
     }
   ],
   "cities": {
