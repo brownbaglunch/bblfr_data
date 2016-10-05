@@ -13755,7 +13755,59 @@ var data = {
           ]
         }
       ],
-    }
+    }, {
+            "since": "2016-09-30",
+            "name": "Francois Wauquier",
+            "bio": "Developpeur, Scrum Master, Artisan du SI",
+            "picture": "https://www.gravatar.com/avatar/f2e8cfc6c2f76441b3b8c110fcb12b23?s=256",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://www.linkedin.com/in/francoiswauquier"
+                },
+                {
+                    "title": "Blog",
+                    "href": "http://wokier.blogspot.fr/"
+                }
+            ],
+            "twitter": "wokier",
+            "contact": "wokier@gmail.com",
+            "mail": "wokier@gmail.com",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Introduction agilité",
+                    "summary": "Vous démarrez ou voulez démarrer l'agilité en 2016. Il n'est pas trop tard. Je vous propose intro et discussions",
+                    "tags": [
+                        "Agile",
+                        "Scrum",
+                        "Kanban"
+                    ]
+                },
+                {
+                    "title": "Cross communication entre applications web",
+                    "summary": "Connaitre les limites du navigateur, et s'en rapprocher pour offrir une meilleure experience à vos utilisateurs",
+                    "tags": [
+                        "Web",
+                        "JavaScript",
+                        "Ergonomie"
+                    ]
+                },
+                {
+                    "title": "GWT",
+                    "summary": "Dévelopement Full Stack, client et serveur avec java 8",
+                    "tags": [
+                        "Web",
+                        "Open Source"
+                     ]
+                }
+            ],
+            "cities": [
+                "Paris",
+                "Versailles",
+                "Lille"
+            ]
+        }
   ],
   "cities": {
     "Aix-en-Provence": {
