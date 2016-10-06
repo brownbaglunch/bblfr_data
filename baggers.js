@@ -13756,7 +13756,7 @@ var data = {
         }
       ],
     }, {
-            "since": "2016-09-30",
+            "since": "2016-10-06",
             "name": "Francois Wauquier",
             "bio": "Developpeur, Scrum Master, Artisan du SI",
             "picture": "https://www.gravatar.com/avatar/f2e8cfc6c2f76441b3b8c110fcb12b23?s=256",
