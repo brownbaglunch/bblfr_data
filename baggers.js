@@ -13384,7 +13384,7 @@ var data = {
         {
           "name": "about.me",
           "url": "http://about.me/ptitfred"
-        },
+        }
       ],
       "location": "Paris, proche banlieue et La Défense",
       "sessions": [
@@ -13580,7 +13580,7 @@ var data = {
           "lang": [
             "fr", "en"
           ]
-        },
+        }
       ],
       "cities": [
         "Lyon",
@@ -13648,7 +13648,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        },
+        }
       ],
       "cities": [
         "Nantes"
@@ -13754,7 +13754,7 @@ var data = {
             "fr", "en", "it"
           ]
         }
-      ],
+      ]
     }, {
             "since": "2016-10-06",
             "name": "Francois Wauquier",
