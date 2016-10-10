@@ -12958,11 +12958,21 @@ var data = {
           "title": "Introduction à Angular2",
           "abstract": "Introduction aux concepts et changements dans Angular2, vu par un développeur AngularJS",
           "tags": [
-            "Java",
             "Javascript",
-            "Angular",
+            "Angular2",
+            "TypeScript"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Codez de l'Angular1 aujourd'hui avec les technos de demain...",
+          "abstract": "Utilisez la puissance de l'ES2015 et + pour faire du code Angular1 de très haute qualité, testing inclus !",
+          "tags": [
+            "Javascript",
+            "AngularJS",
             "test",
-            "docker",
             "TDD",
             "agile"
           ],
@@ -12971,14 +12981,29 @@ var data = {
           ]
         },
         {
-          "title": "Codez de l'Angular1 aujourd'hui avec les technos de demains...",
-          "abstract": "Utilisez la puissance de l'ES2015 et + pour faire du code Angular1 de très haute qualité, testing inclus !",
+          "title": "Démarrer un projet Angular2 avec l'AngularCLI aujourd'hui !",
+          "abstract": "Pourquoi vous embêter avec tout l'environnement Javscript alors que la CLI est faîtes pour vous aider à démarrer... voir même plus ! Vous ne la quitterez plus jamais ;)",
           "tags": [
-            "Java",
             "Javascript",
             "Angular",
+            "Angular2"
             "test",
-            "docker",
+            "deploy",
+            "TDD",
+            "agile"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Programmation fonctionnelle avec JavaSlang",
+          "abstract": "Vous êtes sur Java 8 et vous trouvez que les nouveautés auraient pû être meilleurs, découvrez le projet JavaSlang apportant un nouveau niveau de programmation fonctionnelle en Java !",
+          "tags": [
+            "Java",
+            "JavaSlang",
+            "Java 8"
+            "test",
             "TDD",
             "agile"
           ],
@@ -12991,7 +13016,7 @@ var data = {
         "Toulouse"
       ],
       "contacts": {
-        "twitter": "@davinkevin",
+        "twitter": "davinkevin",
         "mail": "davin.kevin+bbl@gmail.com"
       }
     },
