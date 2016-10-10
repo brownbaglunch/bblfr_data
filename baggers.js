@@ -12986,7 +12986,7 @@ var data = {
           "tags": [
             "Javascript",
             "Angular",
-            "Angular2"
+            "Angular2",
             "test",
             "deploy",
             "TDD",
@@ -13002,7 +13002,7 @@ var data = {
           "tags": [
             "Java",
             "JavaSlang",
-            "Java 8"
+            "Java 8",
             "test",
             "TDD",
             "agile"
