@@ -12064,8 +12064,8 @@ var data = {
     {
       "since": "2015-11-26",
       "name": "Fabien Mirault",
-      "bio": "Développeur iOS depuis 5 ans, Fabien a eu l'occasion de réaliser de nombreuses missions innovantes disposant d'une forte audience. Initialiement développeur AS3 (Flash / AIR), il reste curieux de tout ce qui se fait dans le milieu du mobile pour toujours chercher à en tirer des enseignements pour les projets futurs.",
-      "picture": "img/baggers/unknown.png",
+      "bio": "Développeur iOS depuis 6 ans, Fabien a eu l'occasion de réaliser de nombreuses missions innovantes disposant d'une forte audience. Initialiement développeur AS3 (Flash / AIR), il reste curieux de tout ce qui se fait dans le milieu du mobile pour toujours chercher à en tirer des enseignements pour les projets futurs.",
+      "picture": "http://training.xebia.fr/wp-content/uploads/2016/07/fabienmirault-200x200.jpg",
       "websites": [
         {
           "name": "Web",
@@ -12085,6 +12085,19 @@ var data = {
             "iOS",
             "Swift",
             "Mobile"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Le futur de la télévision : les applications !",
+          "abstract": "Les applications natives sont partout autour de nous, sur nos smartphones, tablettes, et depuis peu sur nos télévisions. Le nombre d'applications, et les communautés qui les propulsent, ne cessent de croitre. Les utilisateurs eux aussi suivent le mouvement, à la recherche d'expériences innovantes, en complément de celles vécues sur leurs autres terminaux. En prenant pour exemple le développement de l'application Xebia TV, nous reviendrons donc sur les intérêts et enjeux du développement TVOS et Android TV. Nous aborderons les quelques obstacles liés à la jeunesse de ces langages, et mettrons en lumière toutes les possibilités offertes par ces plateformes.",
+          "tags": [
+            "tvOS",
+            "Android TV",
+            "Objective-C",
+            "Swift",
           ],
           "lang": [
             "fr"
