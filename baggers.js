@@ -13800,12 +13800,12 @@ var data = {
             "picture": "https://www.gravatar.com/avatar/f2e8cfc6c2f76441b3b8c110fcb12b23?s=256",
             "websites": [
                 {
-                    "title": "LinkedIn",
-                    "href": "https://www.linkedin.com/in/francoiswauquier"
+                    "name": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/francoiswauquier"
                 },
                 {
-                    "title": "Blog",
-                    "href": "http://wokier.blogspot.fr/"
+                    "name": "Blog",
+                    "url": "http://wokier.blogspot.fr/"
                 }
             ],
             "contacts": {
@@ -13853,12 +13853,12 @@ var data = {
             "picture": "https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thumb,g_auto/nmsr9gkp89ch0dz7cyzt.jpg",
             "websites": [
                 {
-                    "title": "Linkedin",
-                    "href": "https://www.linkedin.com/in/julien-sebrien-878218a"
+                    "name": "Linkedin",
+                    "url": "https://www.linkedin.com/in/julien-sebrien-878218a"
                 },
                 {
-                    "title": "Blog",
-                    "href": "https://genetic.io/fr/blog/"
+                    "name": "Blog",
+                    "url": "https://genetic.io/fr/blog/"
                 }
             ],
             "contacts": {
