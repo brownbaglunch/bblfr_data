@@ -13808,9 +13808,10 @@ var data = {
                     "href": "http://wokier.blogspot.fr/"
                 }
             ],
-            "twitter": "wokier",
-            "contact": "wokier@gmail.com",
-            "mail": "wokier@gmail.com",
+            "contacts": {
+              "mail": "wokier@gmail.com",
+              "twitter": "wokier"
+            },
             "location": "Paris",
             "sessions": [
                 {
@@ -13860,9 +13861,10 @@ var data = {
                     "href": "https://genetic.io/fr/blog/"
                 }
             ],
-            "twitter": "jsebrien",
-            "contact": "julien.sebrien@genetic.io",
-            "mail": "julien.sebrien@genetic.io",
+            "contacts": {
+              "mail": "julien.sebrien@genetic.io",
+              "twitter": "jsebrien"
+            },
             "location": "Paris",
             "sessions": [
                 {
