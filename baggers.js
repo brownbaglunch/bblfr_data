@@ -13845,6 +13845,42 @@ var data = {
                 "Versailles",
                 "Lille"
             ]
+        },{
+            "since": "2016-10-12",
+            "name": "Julien Sebrien",
+            "bio": "CTO Geneticio, Developpeur",
+            "picture": "https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thumb,g_auto/nmsr9gkp89ch0dz7cyzt.jpg",
+            "websites": [
+                {
+                    "title": "Linkedin",
+                    "href": "https://www.linkedin.com/in/julien-sebrien-878218a"
+                },
+                {
+                    "title": "Blog",
+                    "href": "https://genetic.io/fr/blog/"
+                }
+            ],
+            "twitter": "jsebrien",
+            "contact": "julien.sebrien@genetic.io",
+            "mail": "julien.sebrien@genetic.io",
+            "location": "Paris",
+            "sessions": [
+                {
+                    "title": "Introduction aux algorithmes génétiques",
+                    "summary": "Présentation des algorithmes génétiques, appartenant à la famille des algorithmes évolutionnistes, et de cas d'études pédagogiques (tobeornottobe, smart rockets).",
+                    "tags": [
+                        "algorithmes génétiques",
+                        "intelligence artificielle",
+                        "évolution"
+                    ],
+                    "lang": [
+                             "fr"
+                           ]
+                }
+            ],
+            "cities": [
+                "Paris"
+            ]
         }
   ],
   "cities": {
