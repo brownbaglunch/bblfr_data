@@ -13794,96 +13794,105 @@ var data = {
         }
       ]
     }, {
-            "since": "2016-10-06",
-            "name": "Francois Wauquier",
-            "bio": "Developpeur, Scrum Master, Artisan du SI",
-            "picture": "https://www.gravatar.com/avatar/f2e8cfc6c2f76441b3b8c110fcb12b23?s=256",
-            "websites": [
-                {
-                    "name": "LinkedIn",
-                    "url": "https://www.linkedin.com/in/francoiswauquier"
-                },
-                {
-                    "name": "Blog",
-                    "url": "http://wokier.blogspot.fr/"
-                }
-            ],
-            "contacts": {
-              "mail": "wokier@gmail.com",
-              "twitter": "wokier"
-            },
-            "location": "Paris",
-            "sessions": [
-                {
-                    "title": "Introduction agilité",
-                    "summary": "Vous démarrez ou voulez démarrer l'agilité en 2016. Il n'est pas trop tard. Je vous propose intro et discussions",
-                    "tags": [
-                        "Agile",
-                        "Scrum",
-                        "Kanban"
-                    ]
-                },
-                {
-                    "title": "Cross communication entre applications web",
-                    "summary": "Connaitre les limites du navigateur, et s'en rapprocher pour offrir une meilleure experience à vos utilisateurs",
-                    "tags": [
-                        "Web",
-                        "JavaScript",
-                        "Ergonomie"
-                    ]
-                },
-                {
-                    "title": "GWT",
-                    "summary": "Dévelopement Full Stack, client et serveur avec java 8",
-                    "tags": [
-                        "Web",
-                        "Open Source"
-                     ]
-                }
-            ],
-            "cities": [
-                "Paris",
-                "Versailles",
-                "Lille"
-            ]
-        },{
-            "since": "2016-10-12",
-            "name": "Julien Sebrien",
-            "bio": "CTO Geneticio, Developpeur",
-            "picture": "https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thumb,g_auto/nmsr9gkp89ch0dz7cyzt.jpg",
-            "websites": [
-                {
-                    "name": "Linkedin",
-                    "url": "https://www.linkedin.com/in/julien-sebrien-878218a"
-                },
-                {
-                    "name": "Blog",
-                    "url": "https://genetic.io/fr/blog/"
-                }
-            ],
-            "contacts": {
-              "mail": "julien.sebrien@genetic.io",
-              "twitter": "jsebrien"
-            },
-            "location": "Paris",
-            "sessions": [
-                {
-                    "title": "Introduction aux algorithmes génétiques",
-                    "summary": "Présentation des algorithmes génétiques, appartenant à la famille des algorithmes évolutionnistes, et de cas d'études pédagogiques (tobeornottobe, smart rockets).",
-                    "tags": [
-                        "algorithmes génétiques",
-                        "intelligence artificielle",
-                        "évolution"
-                    ],
-                    "lang": [
-                             "fr"
-                           ]
-                }
-            ],
-            "cities": [
-                "Paris"
-            ]
+      "since": "2016-10-06",
+      "name": "Francois Wauquier",
+      "bio": "Developpeur, Scrum Master, Artisan du SI",
+      "picture": "https://www.gravatar.com/avatar/f2e8cfc6c2f76441b3b8c110fcb12b23?s=256",
+      "websites": [
+          {
+              "name": "LinkedIn",
+              "url": "https://www.linkedin.com/in/francoiswauquier"
+          },
+          {
+              "name": "Blog",
+              "url": "http://wokier.blogspot.fr/"
+          }
+      ],
+      "contacts": {
+        "mail": "wokier@gmail.com",
+        "twitter": "wokier"
+      },
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Introduction agilité",
+          "abstract": "Vous démarrez ou voulez démarrer l'agilité en 2016. Il n'est pas trop tard. Je vous propose intro et discussions",
+          "tags": [
+            "Agile",
+            "Scrum",
+            "Kanban"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Cross communication entre applications web",
+          "abstract": "Connaitre les limites du navigateur, et s'en rapprocher pour offrir une meilleure experience à vos utilisateurs",
+          "tags": [
+            "Web",
+            "JavaScript",
+            "Ergonomie"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "GWT",
+          "abstract": "Dévelopement Full Stack, client et serveur avec java 8",
+          "tags": [
+            "Web",
+            "Open Source"
+          ],
+          "lang": [
+            "fr"
+          ]
         }
+      ],
+      "cities": [
+          "Paris",
+          "Versailles",
+          "Lille"
+      ]
+    },{
+        "since": "2016-10-12",
+        "name": "Julien Sebrien",
+        "bio": "CTO Geneticio, Developpeur",
+        "picture": "https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thumb,g_auto/nmsr9gkp89ch0dz7cyzt.jpg",
+        "websites": [
+            {
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/julien-sebrien-878218a"
+            },
+            {
+                "name": "Blog",
+                "url": "https://genetic.io/fr/blog/"
+            }
+        ],
+        "contacts": {
+          "mail": "julien.sebrien@genetic.io",
+          "twitter": "jsebrien"
+        },
+        "location": "Paris",
+        "sessions": [
+            {
+                "title": "Introduction aux algorithmes génétiques",
+                "abstract": "Présentation des algorithmes génétiques, appartenant à la famille des algorithmes évolutionnistes, et de cas d'études pédagogiques (tobeornottobe, smart rockets).",
+                "tags": [
+                    "algorithmes génétiques",
+                    "intelligence artificielle",
+                    "évolution"
+                ],
+                "lang": [
+                    "fr"
+                ]
+            }
+        ],
+        "cities": [
+            "Paris"
+        ]
+    }
   ],
   "cities": {
     "Aix-en-Provence": {
