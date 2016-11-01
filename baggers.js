@@ -13519,7 +13519,7 @@ var data = {
       "since": "2016-09-19",
       "name": "Jordane Grenat",
       "bio": "Développeur JavaScript / Java | Fan de veille technologique et Craftsman chez VISEO Technologies",
-      "picture": "https://avatars1.githubusercontent.com/u/1797860",
+      "picture": "http://image.noelshack.com/fichiers/2016/44/1478037566-13769637-10155147885584768-4943264862180673598-n.jpg",
       "websites": [
         {
           "name": "Web",
