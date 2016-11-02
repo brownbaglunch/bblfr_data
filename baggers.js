@@ -13892,7 +13892,37 @@ var data = {
         "cities": [
             "Paris"
         ]
-    }
+    }, {	
+		    "since": "2016-10-31",
+        "name": "Cédrick Lunven",
+        "bio": "Developpeur, Créateur de FF4J",
+        "picture": "https://avatars3.githubusercontent.com/u/726536?v=3&s=466",
+        "websites": [
+            {   "name": "Linkedin",
+                "url": "https://fr.linkedin.com/in/clunven" },
+            {   "name": "FF4J WebSite",
+                "url": "http://ff4j.org" } ],
+        "contacts": {
+          "mail": "cedrick.lunven@gmail.com",
+          "twitter": "clunven"
+         },
+        "location": "Paris",
+        "sessions": [
+            {   "title": "Présentation de FF4J, Proposition de Feature Toggle pour Java",
+                "abstract": "Le feature toggle, ou la capacité à activer ou désactiver une fonctionnalité à chaud, est souvent associée à une astuce de développement au service du Continuous Delivery. On peut pousser du code en production qui n'est pas complètement finalisé et introduire de la dette technique... mais il peut être tellement plus utile !!!!! Après un panorama de quelques cas d'usages très concrets, je vous propose de détailler les capacités du framework FF4J, les choix d'implémentation, les références en production, les killers features ainsi que les prochaines évolutions.",
+                "tags": [ "feature toggle","feature flipping","aop", "aspect oriented programming" ],
+                "lang": [ "fr" ]
+             }, 
+             {  "title": "Microservices, ce que FF4J peut faire pour vous",
+                "abstract": "Au travers d'un exemple concret nous ferons une revue des différentes fonctionnalités offertes sur le feature toggle d'abord mais également la gestion des properties, le monitoring, les déploiements, la consistance",
+                "tags": [ "feature toggle","feature flipping","microservice" ],
+                "lang": [ "fr" ]
+            }
+        ],
+        "cities": [
+            "Paris"
+        ]
+	   }
   ],
   "cities": {
     "Aix-en-Provence": {
