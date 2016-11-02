@@ -6644,7 +6644,7 @@ var data = {
     {
       "since": "2014-03-29",
       "name": "Guillaume Collic",
-      "bio": "Développeur agiliste passionné. Impliqué dans plusieurs initiatives de l'ouest autour du code ou de l'agilité. Indépendant (Sodewiva, Software Development With Values).",
+      "bio": "Développeur agiliste passionné. Impliqué dans plusieurs initiatives de l'ouest autour du code ou de l'agilité.",
       "picture": "http://www.gravatar.com/avatar/bb477281f4de9e113b37d74c949d6ee5?s=512",
       "websites": [
         {
@@ -6655,8 +6655,8 @@ var data = {
       "location": "Rennes, Nantes, Saint Malo, Vannes, ...",
       "sessions": [
         {
-          "title": "Intérêt des DVCS en entreprise",
-          "abstract": "On parle de plus en plus des gestionnaires de version « distribués » (DVCS), et de Git en particulier. Pourquoi cet engouement, en quoi sont-ils intéréssants en entreprise ? (session plébiscitée au BreizhCamp, à Agile Tour, et aux TechDays)",
+          "title": "Intérêt de Git en entreprise",
+          "abstract": "On parle de plus en plus des gestionnaires de version « distribués » (DVCS), Git en particulier. Pourquoi cet engouement, en quoi sont-ils intéréssants en entreprise ?",
           "tags": [
             "Agile",
             "Kanban",
@@ -6671,7 +6671,7 @@ var data = {
         },
         {
           "title": "Introduction au TDD par la pratique",
-          "abstract": "Mis en pratique du TDD sur un petit exercise collectif, qui peut être isolé, ou le lancement de Coding Dojo réguliers. ",
+          "abstract": "Mis en pratique du TDD sur un petit exercice collectif, qui peut être isolé, ou le lancement de Coding Dojo réguliers. ",
           "tags": [
             "Agile",
             "Kanban",
@@ -6686,7 +6686,7 @@ var data = {
         },
         {
           "title": "Tour d'horizon des méthodes agiles",
-          "abstract": "Pourquoi les méthodes agiles ? Que partagent t'elles ? Approfondissement de 3 d'entre elles : Scrum, eXtreme Programming, et Kanban",
+          "abstract": "Pourquoi les méthodes agiles ? Que partagent-elles ? Approfondissement de 3 d'entre elles : Scrum, eXtreme Programming, et Kanban",
           "tags": [
             "Agile",
             "Kanban",
