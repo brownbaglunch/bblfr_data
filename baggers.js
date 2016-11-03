@@ -7312,55 +7312,6 @@ var data = {
       }
     },
     {
-      "since": "2014-04-23",
-      "name": "Pierre Chaussalet",
-      "bio": "Admin système, développeur (Java, JS, Python, Node, Go...), site reliability engineer...",
-      "picture": "http://www.gravatar.com/avatar/1f2e936f67858671246fd07f4068640e.png?s=200",
-      "websites": [
-        {
-          "name": "LinkedIn",
-          "url": "https://fr.linkedin.com/in/pchaussalet"
-        },
-        {
-          "name": "GitHub",
-          "url": "https://github.com/pchaussalet"
-        }
-      ],
-      "location": "Paris",
-      "sessions": [
-        {
-          "title": "Au secours, mon portable part en prod ! (ou presque)",
-          "abstract": "Voyons comment Docker peut être utilisé non seulement sur vos projets de développement pour de l'intégration continue, mais aussi sur votre propre poste de développement pour recréer un environnement identique à la production à tout moment.",
-          "tags": [
-            "Docker",
-            "DevOps"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Dr Devops ou: Comment j'ai arrêté de m'en faire et j'ai appris à aimer la prod",
-          "abstract": "Les devs, des punks qui ne pensent qu'à produire du code sans réflexion sur son impact en production ? Les ops, des dinosaures qui ne comprennent rien au sens de l'histoire et refusent toute évolution ? (et autres idées reçues...) Ensemble, essayons de démêler un peu le vrai du faux et de comprendre comment une démarche devops peut permettre de faire travailler tout le monde dans le même sens. Nous verrons également comment répondre à deux besoins antinomiques du métier : un produit stable et un produit évolutif.",
-          "tags": [
-            "Docker",
-            "DevOps"
-          ],
-          "lang": [
-            "fr"
-          ]
-        }
-      ],
-      "cities": [
-        "Paris",
-        "Versailles"
-      ],
-      "contacts": {
-        "twitter": "pchaussalet",
-        "mail": "pchaussalet@gmail.com"
-      }
-    },
-    {
       "since": "2014-04-25",
       "name": "Jean-françois Garreau",
       "bio": "Ingénieur R&D chez @LuccaSoftware, GDE Web Technologies et Leader du @GDGNantes. Je suis développeur depuis maintenant plus de 10 ans. J'ai toujours évolué dans un monde java et j'ai découvert Android en 2009 avec la version 1.1. Depuis, je continue de suivre les évolutions de la plateforme. Depuis maintenant 2013 j'ai commencé à m'interesser plus en profondeur au Web avec des sujets comme AngularJS / WebRTC / WebSockets.",
