@@ -12749,7 +12749,7 @@ var data = {
       "location": "Paris, Chartres, Le Mans, ...",
       "sessions": [
         {
-          "title": "Programmation orientée aspects",
+          "title": "Programmation orientée aspects (Java/Android)",
           "abstract": "Les fondamentaux du développement orienté aspect, et surtout des exemples concrets pour aller plus loin que le traditionnel Hello World.",
           "tags": [
             "Java",
@@ -12775,12 +12775,28 @@ var data = {
           ]
         },
         {
-          "title": "Mutation Testing",
+          "title": "Mutation Testing (Java/Android)",
           "abstract": "Avoir des tests, c'est bien. Avoir de bons tests, c'est mieux ! Cette presentation va répondre à la question : Comment mesurer les tests unitaires autrement qu'avec la couverture de code",
           "tags": [
             "Tests",
             "Coverage",
             "Mutation",
+            "Android",
+            "Java"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "10 choses que vous ne savez (probablement) pas sur les ContentProviders (Android)",
+          "abstract": "L'un des piliers de la communication inter-application sur Android est assez méconnu. Je vous propose d'explorer des points de détails sur les ContentProviders et leur utilisation.",
+          "tags": [
+            "ContentProvider",
+            "Inter Process Communication",
+            "SQLite",
+            "Database",
             "Android",
             "Java"
           ],
