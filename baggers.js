@@ -13901,11 +13901,11 @@ var data = {
         ]
     },
     {
-      "since": "2016-11-10",
+      "since": "2016-11-20",
       "name": "Jean-Baptiste Beuzelin",
       "bio": "Ingénieur R&D chez Lucca, je m'occupe de développer une solution interne de gestion de parc client et de facturation.",
       "picture": "http://www.lucca.fr/img/equipe/jbeuzelin.png",
-      "websites": [
+      "Web": [
         {
           "name": "Lucca",
           "url": "https://www.lucca.fr/"
