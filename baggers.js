@@ -13905,9 +13905,9 @@ var data = {
       "name": "Jean-Baptiste Beuzelin",
       "bio": "Ingénieur R&D chez Lucca, je m'occupe de développer une solution interne de gestion de parc client et de facturation.",
       "picture": "http://www.lucca.fr/img/equipe/jbeuzelin.png",
-      "Web": [
+      "websites": [
         {
-          "name": "Lucca",
+          "name": "Web",
           "url": "https://www.lucca.fr/"
         },
         {
