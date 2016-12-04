@@ -5814,7 +5814,7 @@ var data = {
     {
       "since": "2014-01-15",
       "name": "Raphaël Yharrassarry",
-      "bio": "Ergonome, UX Designer, Psychologue, en freelance depuis le dernier millénaire",
+      "bio": "Lead UX Designer, Psychologue, en freelance depuis le dernier millénaire",
       "picture": "img/baggers/photo_ry.jpg",
       "websites": [
         {
@@ -5830,7 +5830,7 @@ var data = {
           "url": "http://fr.linkedin.com/in/raphaelyharrassarry/"
         }
       ],
-      "location": "Paris, Banlieue ouest",
+      "location": "Paris, Banlieue ouest, Bayonne, Pays basque",
       "sessions": [
         {
           "title": "Introduction au Persuasive Design",
@@ -5898,7 +5898,7 @@ var data = {
         }
       ],
       "cities": [
-        "Paris"
+        "Paris, Pays basque"
       ],
       "contacts": {
         "twitter": "iergo",
