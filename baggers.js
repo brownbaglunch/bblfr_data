@@ -12128,7 +12128,7 @@ var data = {
       "since": "2015-12-23",
       "name": "Emmanuel Demey",
       "bio": "Consultant et Formateur Web - Zenika Lille",
-      "picture": "https://pbs.twimg.com/profile_images/628190699951923200/vS3yoC1K.jpg",
+      "picture": "https://pbs.twimg.com/profile_images/799175687097688064/Y2TWhwYL.jpg",
       "websites": [
         {
           "name": "Web",
