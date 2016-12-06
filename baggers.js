@@ -2697,23 +2697,15 @@ var data = {
     {
       "since": "2013-05-27",
       "name": "Guillaume Lours",
-      "bio": "Freelance, Tech lead Java & Coaching Agile. Organisateur/Membre de @NormandyAgile, @LeanKanbanFr, @DevoxxFr Track Lead",
+      "bio": "Développeur plateforme chez Saagie. Participation aux communautés @NormandyAgile, @LeanKanbanFr, @DevoxxFr, @CodeursEnSeine",
       "picture": "http://www.gravatar.com/avatar/cb17294de56e44d18f1ab0dc966101a7.png",
       "websites": [
         {
           "name": "Web",
-          "url": "http://www.agileit.fr"
-        },
-        {
-          "name": "Web",
-          "url": "http://www.leankanban.fr"
-        },
-        {
-          "name": "Web",
-          "url": "http://www.codeursenseine.com"
+          "url": "http://www.saagie.com"
         }
       ],
-      "location": "Paris, Défense, Rouen",
+      "location": "Rouen",
       "sessions": [
         {
           "title": "Kanban pour les nuls",
