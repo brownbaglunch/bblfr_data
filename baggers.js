@@ -13375,7 +13375,7 @@ var data = {
     {
       "since": "2013-02-17",
       "name": "Frédéric Menou",
-      "bio": "CTO Captain Train, développeur",
+      "bio": "CTO FretLink",
       "picture": "https://secure.gravatar.com/avatar/252ef00042fda3ab4cf67a36b956fa33?size=200",
       "websites": [
         {
@@ -13383,7 +13383,7 @@ var data = {
           "url": "http://about.me/ptitfred"
         }
       ],
-      "location": "Paris, proche banlieue et La Défense",
+      "location": "Paris",
       "sessions": [
         {
           "title": "Haskell pour les noobs",
