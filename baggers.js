@@ -12040,7 +12040,7 @@ var data = {
             "tvOS",
             "Android TV",
             "Objective-C",
-            "Swift",
+            "Swift"
           ],
           "lang": [
             "fr"
