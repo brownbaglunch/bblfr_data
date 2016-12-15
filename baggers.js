@@ -13933,7 +13933,7 @@ var data = {
     },{
         "since": "2016-12-15",
         "name": "Igor Laborie",
-        "bio": "Développeur passioné, je suis expert Java et Web chez MonkeyPatch",
+        "bio": "Développeur passionné, je suis expert Java et Web chez MonkeyPatch",
         "picture": "https://ilaborie.org/images/947f7969.me.jpg",
         "websites": [
             {
@@ -13957,7 +13957,7 @@ var data = {
         "sessions": [
             {
                 "title": "Micorservices & Feign",
-                "abstract": "Petite intro sur les microservices, avant de présenter le client REST Java : Feign. Beaucoup de live coding, avec beacoup de Java 8, un peu de CircuitBreaker, du RxJava, ...",
+                "abstract": "Petite intro sur les microservices, avant de présenter le client REST Java : Feign. Beaucoup de live coding, avec beaucoup de Java 8, un peu de CircuitBreaker, du RxJava, ...",
                 "tags": [
                     "REST",
                     "HTTP",
@@ -13980,7 +13980,7 @@ var data = {
                 ]
               }, {
                 "title": "Les nouveautés de Java 8",
-                "abstract": "Tour d'horizon des nouveautés apporter par cette version majeur de Java",
+                "abstract": "Tour d'horizon des nouveautés apportées par cette version majeure de Java",
                 "tags": [
                     "Java"
                 ],
