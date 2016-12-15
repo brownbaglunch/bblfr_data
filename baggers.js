@@ -13930,6 +13930,68 @@ var data = {
         "twitter": "JB_Beuzelin",
         "mail": "jbbeuzelin@gmail.com"
       }
+    },{
+        "since": "2016-12-15",
+        "name": "Igor Laborie",
+        "bio": "Développeur passioné, je suis expert Java et Web chez MonkeyPatch",
+        "picture": "https://ilaborie.org/images/947f7969.me.jpg",
+        "websites": [
+            {
+                "name": "Web",
+                "url": "http://ilaborie.org"
+            },
+            {
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/igor-laborie-080ab78"
+            },
+            {
+                "name": "Blog",
+                "url": "http://www.monkeypatch.io/blog/"
+            }
+        ],
+        "contacts": {
+          "mail": "igor@monkeypatch.io",
+          "twitter": "ilaborie"
+        },
+        "location": "Toulouse",
+        "sessions": [
+            {
+                "title": "Micorservices & Feign",
+                "abstract": "Petite intro sur les microservices, avant de présenter le client REST Java : Feign. Beaucoup de live coding, avec beacoup de Java 8, un peu de CircuitBreaker, du RxJava, ...",
+                "tags": [
+                    "REST",
+                    "HTTP",
+                    "Feign",
+                    "Java"
+                ],
+                "lang": [
+                    "fr"
+                ]
+            }, {
+                "title": "JavaScript pour les développeurs Java",
+                "abstract": "Pourquoi JavaScript est un langage difficile à appréhender pour les développeur(es) Java. On en profitera pour voir les bases de NodeJS, et les apports intéressants de ES2015.",
+                "tags": [
+                    "JavaScript",
+                    "ES6",
+                    "NodeJS"
+                ],
+                "lang": [
+                    "fr"
+                ]
+              }, {
+                "title": "Les nouveautés de Java 8",
+                "abstract": "Tour d'horizon des nouveautés apporter par cette version majeur de Java",
+                "tags": [
+                    "Java"
+                ],
+                "lang": [
+                    "fr"
+                ]
+            }
+        ],
+        "cities": [
+            "Toulouse"
+        ]
     }
   ],
   "cities": {
