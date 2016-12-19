@@ -13992,6 +13992,39 @@ var data = {
         "cities": [
             "Toulouse"
         ]
+    },
+    {
+      "since": "2017-01-01",
+      "name": "Harrich S",
+      "bio": "Ingénieur R&D chez Lucca, éditeur de logiciel SaaS de gestion RH. Je m'occupe principalement de développer Figgo, le logiciel de pose des congés. Avant ça, J'ai passé 9 ans à améliorer la vie des généalogistes avec Geneanet.",
+      "picture": "img/baggers/unknown.png",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://www.lucca.fr"
+        }
+      ],
+      "location": "Nantes, Paris",
+      "sessions": [
+        {
+          "title": "Réécrivez l'histoire avec git",
+          "abstract": "Les commandes git (rebase, push --force, ...) vous font peur ? Nous allons voir ensemble les différentes possibilités offertes par git pour le faire tout simplement.",
+          "tags": [
+            "git",
+            "rebase",
+            "push"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "mail": "harrich@lucca.fr"
+      }
     }
   ],
   "cities": {
