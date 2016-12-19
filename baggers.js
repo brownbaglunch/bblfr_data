@@ -14004,7 +14004,7 @@ var data = {
           "url": "https://www.lucca.fr"
         }
       ],
-      "location": "Nantes, Paris",
+      "location": "Nantes",
       "sessions": [
         {
           "title": "Réécrivez l'histoire avec git",
