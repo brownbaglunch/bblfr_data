@@ -4,7 +4,7 @@ var data = {
       "since": "2013-02-09",
       "name": "François Sarradin",
       "bio": "Consultant Java/Scala/&#955; | Manager technique capitalisation chez Ippon Technologies",
-      "picture": "https://fr.gravatar.com/userimage/14188452/66f640699084b5d57856723e7e20505c.jpg?size=200",
+      "picture": "https://fr.gravatar.com/userimage/14188452/90d16f0a978342383d8c5b392238a010.jpg?size=200",
       "websites": [
         {
           "name": "Web",
@@ -14,31 +14,29 @@ var data = {
       "location": "Paris, Ouest parisien (+ Nantes), remote",
       "sessions": [
         {
-          "title": "A Web Framework in Scala from Scratch in One Hour",
-          "abstract": "(live coding - en/fr) Discover Scala through the development of an efficient small tested Web framework.",
+          "title": "Que comprenez-vous de la programmation fonctionnelle ?",
+          "abstract": "Dans cette session interactive et improvisée, je vous propose de partir de ce que vous savez de la programmation fonctionnelle, de vous montrer ce que elle est sensée être, sont utilité et de vous donner des directions pour aller toujours plus loin dans l'exploration de ce paradigme.",
           "tags": [
             "Java",
             "Scala",
-            "Programmation fonctionnelle",
-            "Scrum",
-            "Agilité"
+            "Haskell",
+            "OCaml",
+            "Clojure",
+            "Programmation fonctionnelle"
           ],
           "lang": [
             "fr"
           ]
         },
         {
-          "title": "Kata : un type Option en Java",
-          "abstract": "(live coding) Tests unitaires et refactoring pour un type Option en Java",
+          "title": "A Web Framework in Scala from Scratch in One Hour",
+          "abstract": "(live coding) Discover Scala through the development of an efficient small tested Web framework.",
           "tags": [
-            "Java",
             "Scala",
-            "Programmation fonctionnelle",
-            "Scrum",
-            "Agilité"
+            "Programmation fonctionnelle"
           ],
           "lang": [
-            "fr"
+            "fr", "en"
           ]
         },
         {
@@ -47,23 +45,7 @@ var data = {
           "tags": [
             "Java",
             "Scala",
-            "Programmation fonctionnelle",
-            "Scrum",
-            "Agilité"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Scrum Under Pressure",
-          "abstract": "Découvrez Scrum, sa mise en place et les pratiques annexes de l'agilité à travers un véritable retour d'expérience qui ne vous laissera pas indifférent.",
-          "tags": [
-            "Java",
-            "Scala",
-            "Programmation fonctionnelle",
-            "Scrum",
-            "Agilité"
+            "Programmation fonctionnelle"
           ],
           "lang": [
             "fr"
