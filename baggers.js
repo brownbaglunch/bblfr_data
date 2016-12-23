@@ -12737,11 +12737,24 @@ var data = {
           ]
         },
         {
-          "title": "Refactoring : le bon, la brute et le truand",
+          "title": "Refactoring : le bon, la brute et le truand (général)",
           "abstract": "Quelques bonnes et mauvaises pratiques autour du refactoring, basé sur 3 refactorings vécus.",
           "tags": [
             "Refactoring",
             "Legacy"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "Les code reviews zen (général)",
+          "abstract": "Les code reviews font parties de ces bonnes pratiques qui, si elles sont mal encadrées, peuvent devenir un poison pour une équipe. Je vous propose de détailler les bonnes et mauvaises pratiques autour des code reviews, et de voir quelques conseils pour limiter les frictions qui en résultent.",
+          "tags": [
+            "Code review",
+            "team",
+            "git"
           ],
           "lang": [
             "fr",
