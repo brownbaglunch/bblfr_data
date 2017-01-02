@@ -14020,6 +14020,65 @@ var data = {
       "contacts": {
         "mail": "harrich@lucca.fr"
       }
+    },
+    {
+      "since": "2017-01-02",
+      "name": "Mickael Metesreau",
+      "bio": "Développeur .NET et F# addict",
+      "picture": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/c/0/8/c/highres_261349292.jpeg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://www.metesreau.com"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mickaelmetesreau"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/MiKaDoO"
+        },
+        {
+          "name": "Speakerdeck",
+          "url": "https://speakerdeck.com/mikadoo"
+        }
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Actor model et Akka.NET",
+          "abstract": "Introduction au modèle Acteur et à la création de système distribué avec Akka.NET",
+          "tags": [
+            ".NET",
+            "Akka",
+            "Actor",
+            "Model"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Fear the ponies!!!",
+          "abstract": "Les poneys viennent de forger une alliance secrète pour conquérir le monde. Vous n'avez plus que quelques heures pour déjouer le complot en (re)découvrant quelques basiques de la cryptographie.",
+          "tags": [
+            "Code",
+            "Dojo",
+            "Cryptographie"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "@MiKaDo_O",
+        "mail": "mickael.metesreau@gmail.com"
+      }
     }
   ],
   "cities": {
