@@ -14076,7 +14076,7 @@ var data = {
         "Paris"
       ],
       "contacts": {
-        "twitter": "@MiKaDo_O",
+        "twitter": "MiKaDo_O",
         "mail": "mickael.metesreau@gmail.com"
       }
     }
