@@ -14079,6 +14079,42 @@ var data = {
         "twitter": "MiKaDo_O",
         "mail": "mickael.metesreau@gmail.com"
       }
+    },
+    {
+      "since": "2017-01-15",
+      "name": "Rap2h",
+      "bio": "Editeur de code procédural",
+      "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdYAAAAJDVhMmI5NWNkLTE1MjgtNDhhNC04ZGI4LTVhNDA5MDViYjk5MA.jpg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://raph.site"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/rap2hpoutre"
+        },
+      ],
+      "location": "Nantes",
+      "sessions": [
+        {
+          "title": "Startups",
+          "abstract": "Je peux vous raconter mes échecs en startup. Après avoir construit une architecture discutable chez ornikar et mis fin à plusieurs périodes d'essais, je suis aujourd'hui CTO sur un produit que je ne comprends pas.",
+          "tags": [
+            "fail"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "mail": "raphaelht@gmail.com",
+        "twitter": "rap2h"
+      }
     }
   ],
   "cities": {
