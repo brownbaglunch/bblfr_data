@@ -2392,7 +2392,7 @@ var data = {
     {
       "since": "2013-05-08",
       "name": "Dimitri Baeli",
-      "bio": "Chien de berger agile, développeur de plus de 30 ans, joyeux testeur et sérieusement ops chez LesFurets.com. Organisateur AgileTour/CodeursEnSeine à Rouen, Lean Kanban France à Paris",
+      "bio": "CTO LesFurets.com, ex-Chien de berger agile, mais toujours l'ame d'un développeur à plus de 40 ans, joyeux testeur et sérieusement ops. Organisateur AgileTour/CodeursEnSeine à Rouen, Lean Kanban France à Paris",
       "picture": "http://gravatar.com/avatar/7f73df517fdea1028d28f39980edf441.png",
       "websites": [
         {
@@ -2412,38 +2412,13 @@ var data = {
       "sessions": [
         {
           "title": "Kanban pour les nuls",
-          "abstract": "Découvrez Kanban et quelques principes fondamentaux du développement en flux tiré.",
+          "abstract": "REX sur les pratiques et l'organisation du Delivery chez LesFurets (Continuous Delivery, Kanban, Feature Branching, Software Factory, ...)",
           "tags": [
             "Kanban",
             "Agile",
-            "Java",
-            "DevOps"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Miss i18n, Mr APT loves you !",
-          "abstract": "Découvrez le processing d'annotation et une façon moderne de localiser une application java via @Message",
-          "tags": [
-            "Kanban",
-            "Agile",
-            "Java",
-            "DevOps"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Mercenaire Devops replay !",
-          "abstract": "Un condensé de la présentation Devops Mercenaries faite à Devoxx, déploiement continu avec tests gatling, thucydides, ... work in progress",
-          "tags": [
-            "Kanban",
-            "Agile",
-            "Java",
-            "DevOps"
+            "Continuous Delivery",
+            "DevOps",
+            "Git"
           ],
           "lang": [
             "fr"
