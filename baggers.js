@@ -5186,10 +5186,6 @@ var data = {
         {
           "name": "Web",
           "url": "https://jfallet.wordpress.com/"
-        },
-        {
-          "name": "Web",
-          "url": "http://blog.sii-ouest.fr/"
         }
       ],
       "location": "Rennes et alentours, possibilités sur la Bretagne",
@@ -5209,14 +5205,12 @@ var data = {
           ]
         },
         {
-          "title": "Améliorer vos pratiques grace au kanban",
-          "abstract": "Découvrir les principes kanban et comment ils peuvent améliorer vos pratiques actuelles sans rupture forte",
+          "title": "Facilitation graphique",
+          "abstract": "Découvrir par la pratique les outils et techniques de facilitation graphique pour animer vos reflexions collective et partager clairemen une situation.",
           "tags": [
-            "Agile",
-            "Scrum",
-            "Kanban",
-            "Produit",
-            "Product Owner"
+            "Scribing",
+            "Sketchnote",
+            "Pensée visuelle"
           ],
           "lang": [
             "fr"
@@ -5231,6 +5225,44 @@ var data = {
             "Kanban",
             "Produit",
             "Product Owner"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Agile et UX",
+          "abstract": "Transposer les leçons du LeanStartup dans votre écosystème afin de créer un cadre facilitant la construction de prosuits innovants",
+          "tags": [
+            "Stratégie produit",
+            "User eXperience",
+            "Design Thinking",
+            "Agile",
+            "DevOps"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "L'aventure intérieure",
+          "abstract": "Mieux appréhender, grace aux neurosciences et à la méditation, ce qui peut nous apparaître difficile dans le changement et identifier des pistes pour dépasser nos structures mentales et/ou émotionnelles.",
+          "tags": [
+            "Neurosciences",
+            "Méditation",
+            "Agilité"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Extreme Serious Game",
+          "abstract": "Le jeu et l'Entreprise : Une expérience pour questionner la place du jeu en entreprise",
+          "tags": [
+            "Communication",
+            "Coopération",
+            "Stratégie"
           ],
           "lang": [
             "fr"
