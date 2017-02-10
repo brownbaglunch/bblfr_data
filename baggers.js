@@ -11,17 +11,15 @@ var data = {
           "url": "http://kerflyn.wordpress.com/"
         }
       ],
-      "location": "Paris, Ouest parisien (+ Nantes), remote",
+      "location": "Paris, remote",
       "sessions": [
         {
-          "title": "Que comprenez-vous de la programmation fonctionnelle ?",
-          "abstract": "Dans cette session interactive et improvisée, je vous propose de partir de ce que vous savez de la programmation fonctionnelle, de vous montrer ce que elle est sensée être, sont utilité et de vous donner des directions pour aller toujours plus loin dans l'exploration de ce paradigme.",
+          "title": "Découverte de la programmation fonctionnelle",
+          "abstract": "Je vous propose de découvrir ensemble la programmation fonctionnelle à travers des types comme List, Option ou Either et des opérations comme map, flatMap et fold (collect, reduce). Nous baserons cette découverte sur un live coding avec comme choix de langage : Java 8+ (avec Javaslang), Scala, Haskell. Cette session s'adresse au débutant comme aux expérimentés.",
           "tags": [
             "Java",
             "Scala",
             "Haskell",
-            "OCaml",
-            "Clojure",
             "Programmation fonctionnelle"
           ],
           "lang": [
