@@ -14194,6 +14194,102 @@ var data = {
         "mail": "audrey.neveu@streamdata.io"
       }
     }
+    {
+      "since": "2017-02-10",
+      "name": "François Liot",
+      "bio": "Expert Java JEE, Devops jedi, Open Source evangelist, et Offshore programming",
+      "picture": "https://www.wareld.com/public/photo.jpg",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/fliot"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://fr.linkedin.com/in/francois-liot-6523b66"
+        },
+        {
+          "name": "Upwork",
+          "url": "https://www.upwork.com/freelancers/_~011c45b9d11b7dc110/"
+        }
+      ],
+      "location": "Saint-Jean-de-Luz",
+      "sessions": [
+        {
+          "title": "SOA libre et efficace",
+          "abstract": "Apache Servicemix, Apache Activemq, Apache Camel, Hawtio, en architecture OSGI et microservices, parce que l'on a toujours besoin de communiquer entre plusieurs applications, découvrez la puissance et la simplicité de Servicemix.",
+          "tags": [ "API", "Agile", "Asynchrone", "Continuous Delivery", "DevOps", "Industrialisation", "Ingénierie agile", "Intégration", "Java", "Maven", "Micro-Services", "Open Source", "Ops", "Outils", "Stratégie" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Crawling",
+          "abstract": "Outlis de crawling, mémoire/stockage/reprise des éléments déjà crawlés, difficultés javascript/DOM, Selenium, Webdriver, PhantomJS, Nutch...",
+          "tags": [ "Agile", "Architecture", "Asynchrone", "Automatisation", "Big Data", "Cloud", "Continuous Delivery", "Data Mining", "Elasticsearch", "Intégration", "Monitoring", "NoSQL", "Nutch", "Open Source", "SolR", "supervision", "Watir", "Webdriver" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Appropriation de données, parsing, formatting",
+          "abstract": "Aller chercher, parser, reconnaitre, stocker, restituer, utiliser le web comme une immense base de données formatée ouverte c'est maintenant possible. Présentation des outils Nutch, Parsing en XPatch, Solr, ElasticSearch, Kibana, Cassandra...",
+          "tags": [ "Agile", "Asynchrone", "Big Data", "Data Mining", "Elasticsearch", "Ingénierie agile", "Kibana", "KPI", "Machine learning", "NoSQL", "Nutch", "Open Source", "Scalabilité", "SolR", "Webdriver" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Introduction aux Big Data avec Hadoop",
+          "abstract": "Hadoop permet de travailler sur des petaoctets de données en des temps records grâce à son architecture distribuée. Découvrez comment cela fonctionne. Au programme : Architecture, HDFS, Map/Reduce, Impala, Scoop, Spark et pourquoi pas R :-)",
+          "tags": [ "Architecture", "Big Data", "Data Mining", "Hadoop", "HDFS", "Impala", "Java", "NoSQL", "Open Source", "Scalabilité", "SolR", "Spark" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Git & GitHub & Open Source",
+          "abstract": "Présentation de Git, des différences par rapport à d'autres systèmes tels que Subversion, de son écosystème.",
+          "tags": [ "Agile", "Automatisation", "Build", "Continuous Delivery", "Git", "Industrialisation", "Ingénierie agile", "IT automation", "Java", "Jenkins", "Maven", "Open Source", "Stratégie", "TDD", "Test" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Devops et Integration Continue",
+          "abstract": "Outils et méthodes pour les équipes de développement qui veulent réussir opérationnellement dans l'agilité.",
+          "tags": [ "Agile", "Architecture", "Automatisation", "Build", "Cloud", "Continuous Delivery", "DevOps", "Docker", "Git", "Industrialisation", "Ingénierie agile", "Jenkins", "KPI", "Open Source", "Ops", "Outils", "TDD", "Test", "Tests unitaires", "Usine logicielle" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Les tests automatisés, ça n'est pas possible chez moi...",
+          "abstract": "...vraiment ? Et si on regardait ?",
+          "tags": [ "Agile", "Automatisation", "Build", "Continuous Delivery", "Ingénierie agile", "Outils", "TDD", "Test", "Tests unitaires", "Usine logicielle", "Watir", "Webdriver" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Virtualisation d'accord, mais après",
+          "abstract": "VMWare, OpenStack, AWS, Google Cloud Platform, Azure, Heroku, VirtualBox, Hyper-V, OVH Cloud, Docker et Vagrant... Au delà du <a href='https://www.cloudorado.com/cloud_server_comparison.jsp' target='_blank'>coût facial</a>  je vous présente mes retours d'expérience en terme de prix final, qualité de service, complexité de scalabilité et exploitation en production.",
+          "tags": [ "Agile", "Amazon", "Architecture", "Automatisation", "AWS", "Azure", "Cloud", "Continuous Delivery", "DevOps", "Docker", "Git", "Ingénierie agile", "IT automation", "Monitoring", "Ops", "Outils", "Performance", "Scalabilité", "Sécurité", "Stratégie", "supervision", "Usine logicielle" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Monitoring et Alerting opensource",
+          "abstract": "Si vous pensez qu'une solution de monitoring est forcement payante et/ou en mode SaaS ? Je vous propose de vous prouver le contraire ou comment via des outils opensource simple, puissants et ouverts, vous pouvez adresser vos problématiques de qualité de service.",
+          "tags": [ "Architecture", "Asynchrone", "Automatisation", "Cloud", "Elasticsearch", "Ingénierie agile", "IT automation", "Kibana", "KPI", "Métrique", "Monitoring", "Open Source", "Outils", "Performance", "Scalabilité", "supervision" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Opensource pour les administrations et les collectivités locales",
+          "abstract": "En France, au Royaume Uni, aux Etats Unis et partout dans l’Union Européenne, les gouvernements ont formulé des recommandations favorables à l’usage de logiciels open source dans leurs administrations. Le choix de systèmes d'information et l'interoperabilité de ceux-ci, sont la trâme future de notre bien commun numérique national. Maintenant comment on fait ;-) ?",
+          "tags": [ "Architecture", "Asynchrone", "Automatisation", "Build", "Cloud", "Continuous Delivery", "Cryptographie", "DevOps", "Git", "Industrialisation", "Ingénierie agile", "Intégration", "IT automation", "Micro-Services", "MicroServices", "Outils", "Sécurité", "Stratégie", "Usine logicielle" ],
+          "lang": [ "fr", "en", "es" ]
+        },
+        {
+          "title": "Offshore programming",
+          "abstract": "20 années d'expérience en Offshore programming (Biélorussie, Ukraine, Egypte, Chine, Inde, Maroc, Colombie, Sri Lanka....). Le pays et la langue importent beaucoup moins que la démarche, les outils de suivi, et l'adéquation entre votre niveau d'industrialisation informatique et le processus que vous allez mettre en place !",
+          "tags": [ "Agile", "Architecture", "Automatisation", "Build", "Continuous Delivery", "DevOps", "Industrialisation", "Intégration", "IT automation", "Open Source", "Ops", "Outils", "Performance", "Scalabilité", "Sécurité", "Stratégie", "supervision", "TDD", "Test", "Tests unitaires", "Usine logicielle" ],
+          "lang": [ "fr", "en", "es" ]
+        }
+      ],
+      "cities": [
+        "Bayonne", "Biarritz", "Saint-Jean-de-Luz", "Bordeaux", "Paris", "San Sebastian"
+      ],
+      "contacts": {
+        "skype": "francois_liot",
+        "mail": "francois@liot.org"
+      }
+    }
   ],
   "cities": {
     "Aix-en-Provence": {
@@ -14208,6 +14304,12 @@ var data = {
       "lat": 43.941557,
       "lng": 4.8332525
     },
+    "Bayonne": {
+      "name": "Bayonne",
+      "ville_img": "img/villes/BBL.jpg",
+      "lat": 43.4843941,
+      "lng": -1.4961697
+    },
     "Belfort": {
       "name": "Belfort",
       "ville_img": "img/villes/BBL.jpg",
@@ -14219,6 +14321,12 @@ var data = {
       "ville_img": "img/villes/BBL.jpg",
       "lat": 47.2601941,
       "lng": 5.9420574
+    },
+    "Biarritz": {
+      "name": "Biarritz",
+      "ville_img": "img/villes/BBL.jpg",
+      "lat": 43.4709797,
+      "lng": -1.573345
     },
     "Bordeaux": {
       "name": "Bordeaux",
@@ -14339,6 +14447,18 @@ var data = {
       "ville_img": "img/villes/BBL_SaintEtienne.jpg",
       "lat": 45.439695,
       "lng": 4.387178
+    },
+    "Saint-Jean-de-Luz": {
+      "name": "Saint-Jean-de-Luz",
+      "ville_img": "img/villes/BBL.jpg",
+      "lat": 43.3933872,
+      "lng": -1.6514175
+    },
+    "San Sebastian": {
+      "name": "San Sebastian",
+      "ville_img": "img/villes/BBL.jpg",
+      "lat": 43.3072913,
+      "lng": -1.9914354
     },
     "Sophia-Antipolis": {
       "name": "Sophia-Antipolis",
