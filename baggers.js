@@ -14193,7 +14193,7 @@ var data = {
         "twitter": "Audrey_Neveu",
         "mail": "audrey.neveu@streamdata.io"
       }
-    }
+    },
     {
       "since": "2017-02-10",
       "name": "François Liot",
@@ -14207,10 +14207,6 @@ var data = {
         {
           "name": "LinkedIn",
           "url": "https://fr.linkedin.com/in/francois-liot-6523b66"
-        },
-        {
-          "name": "Upwork",
-          "url": "https://www.upwork.com/freelancers/_~011c45b9d11b7dc110/"
         }
       ],
       "location": "Saint-Jean-de-Luz",
@@ -14286,7 +14282,6 @@ var data = {
         "Bayonne", "Biarritz", "Saint-Jean-de-Luz", "Bordeaux", "Paris", "San Sebastian"
       ],
       "contacts": {
-        "skype": "francois_liot",
         "mail": "francois@liot.org"
       }
     }
