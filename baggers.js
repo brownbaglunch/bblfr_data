@@ -10780,33 +10780,6 @@ var data = {
       }
     },
     {
-      "since": "2015-05-18",
-      "name": "Hadrien De Cuzey",
-      "bio": "Développeur, option web",
-      "picture": "https://en.gravatar.com/userimage/15042699/8ff3f5d999096f04a7e7352ce4a8b930.jpeg?size=200",
-      "location": "Nice",
-      "sessions": [
-        {
-          "title": "Docker par l'exemple",
-          "abstract": "Dans la théorie, Docker c'est vachement bien. Dans la pratique aussi ! Je vais donc vous montrer de A à Z comment mettre en place une architecture Docker simple, composée de 2 conteneurs communiquant entre eux pour faire un \"Hello World\". Effet Popopo©® garanti.",
-          "tags": [
-            "Docker"
-          ],
-          "lang": [
-            "fr"
-          ]
-        }
-      ],
-      "cities": [
-        "Monaco",
-        "Nice"
-      ],
-      "contacts": {
-        "twitter": "chadrien",
-        "mail": "chadrien@chadrien.fr"
-      }
-    },
-    {
       "since": "2015-05-21",
       "name": "Vincent Daviet",
       "bio": "Coach et Formateur en Agilité",
