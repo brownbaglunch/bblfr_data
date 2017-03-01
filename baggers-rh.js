@@ -74,6 +74,43 @@ var data = {
 			}
 		},
 		{
+			"since": "2017-03-01",
+			"name": "Laure Lepers & Elise Tavernier",
+			"bio": "Toutes les deux passionnées par les relations humaines, nous avons voulu pratiquer un métier tourné vers l'autre. C'est ainsi que nous exerçons dans les RH (comme 'Rendre Heureux'!) depuis 8 ans. Nous nous sommes connues à D2SI où nous occupons le poste de Chargées de recrutement et de développement humain.",
+			"picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAg-AAAAJDMyNTg1MzUxLTlhMzAtNDEzMS1hNWM0LThlZDU1NGQwMzJiZQ.jpg",
+			"websites": [
+				{
+					"name": "LinkedIn",
+					"url": "https://www.linkedin.com/in/elise-tavernier-a5643250/"
+				},
+				{
+					"name": "LinkedIn",
+					"url": "https://www.linkedin.com/in/lauresalou/"
+				}
+							],
+			"location": "Paris",
+			"sessions": [
+				{
+					"title": "Le feedback, j'apprends!",
+					"abstract": "Nous sommes animées par la conviction qu'instaurer une culture du feedback peut être bénéfique pour l'organisation, l'équipe et l'individu. Dire les choses au fur et à mesure, dans un état d'esprit bienveillant, permet d'éviter ou d'amoindrir des conflits. C'est ce que nous nous efforçons de faire dans notre société. En venant à votre rencontre nous proposons de vous partager notre expérience sur le sujet et de répondre ensemble aux questions suivantes : quel est l'intérêt d'intégrer le feedback dans nos modes de communication ? Qu'est-ce que le feedback? Comment en donner et comment en recevoir ? Chacun pourra partager ses difficultés à donner ou recevoir du feedback... et si vous le souhaitez, on pourra même essayer de s'améliorer en pratiquant !",
+					"tags": [
+						"Feedback",
+						"Communication"
+					],
+					"lang": [
+						"fr"
+					]
+				}
+							],
+			"cities": [
+				"Paris"
+			],
+			"contacts": {
+				"twitter": "ETavernierRH",
+				"mail": "elise.tavernier@d2-si.eu"
+			}
+		},
+		{
 			"since": "2016-04-15",
 			"name": "Sophie Guenat",
 			"bio": "Agent Spécial @rmstouch. J'ai pour mission d'accompagner les professionnels RH dans leurs pratiques et faire évoluer le recrutement, le marketing employeur et la relation école-entreprise. Geekette enthousiaste je partage avec plaisir #innovation #social #digital",
