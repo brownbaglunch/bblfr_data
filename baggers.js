@@ -14257,6 +14257,50 @@ var data = {
       "contacts": {
         "mail": "francois@liot.org"
       }
+    },
+    {
+      "since": "2017-03-02",
+      "name": "Jean-Baptiste Cazaux",
+      "bio": "Développeur full stack Java/JS, Formateur JS",
+      "picture": "https://avatars2.githubusercontent.com/u/576429?v=3&s=460",
+      "websites": [
+          {
+              "name": "GitHub",
+              "url": "https://github.com/jbcazaux/"
+          },
+          {
+              "name": "Web",
+              "url": "http://codox.fr/cv/"
+          },
+          {
+              "name": "Web",
+              "url": "http://codox.fr/react-ts-bbl"
+          }
+
+      ],
+      "location": "Paris",
+      "sessions": [
+          {
+              "title": "ReactJS avec Typescript2 et ES6",
+              "abstract": "Vue d'ensemble de React avec le langage typé Typescript. Exemples, best practices, et comparaisons avec Angular",
+              "tags": [
+                  "React",
+                  "Typescript",
+                  "ES6",
+                  "Angular"
+              ],
+              "lang": [
+                  "fr"
+              ]
+          }
+      ],
+      "cities": [
+          "Paris"
+      ],
+      "contacts": {
+          "twitter": "jbcazaux",
+          "mail": "jbcazaux@gmail.com"
+      }
     }
   ],
   "cities": {
