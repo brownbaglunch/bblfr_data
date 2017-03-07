@@ -1100,27 +1100,41 @@ var data = {
     {
       "since": "2013-02-26",
       "name": "Cécilia Bossard",
-      "bio": "Développeuse, agiliste convaincue et joueuse invétérée. Membre d'Agile Nantes et de l'équipe organisatrice de l'Agile Tour nantais. Membre fondatrice des Women In Technology et organisatrice des coding goûters sur Nantes",
-      "picture": "https://www.dropbox.com/sc/49fry4gnzw21hbd/AADvAfjSQC85XcjToo2tbumKa",
+      "bio": "Développeuse, agiliste convaincue et joueuse invétérée. Dev au CHU de Nantes.Membre d'Agile Nantes et de l'équipe organisatrice de l'Agile Tour nantais. Organisatrice des coding goûters sur Nantes",
+      "picture": "https://dl.dropboxusercontent.com/u/23663360/Cecilia%20Bossard.jpg",
       "websites": [
-        {
-          "name": "Web",
-          "url": "http://timwi.com/"
-        },
         {
           "name": "Web",
           "url": "http://javagile.wordpress.com/"
         }
       ],
-      "location": "Nantes et environs. Possible à Rennes",
+      "location": "Nantes et environs.",
       "sessions": [
+        {
+          "title": "GitFlow in Action",
+          "abstract": "Vous cherchez un modèle de gestion des branches pour Git facile et pratique à utiliser ? Vous souhaitez avoir un workflow simple et agile pour gérer vos versions ? Venez jeter un oeil à GitFlow ! Je vous présenterai ce workflow qui nous a permis de mieux organiser nos versions et de remplacer SVN par Git sans regret.",
+          "tags": [
+            "Git"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Code like a child",
+          "abstract": "La programmation visuelle, vous connaissez ? Nous utilisons régulièrement ces langages avec les enfants pour les initier à la programmation. Mais avez-vous déjà songé à les utiliser avec les non-dev ?",
+          "tags": [
+            "Programmation visuelle"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
         {
           "title": "Introduction aux méthodes agiles",
           "abstract": "L'agilité, vous en entendez beaucoup parler, mais concrètement, qu'est ce que c'est ?",
           "tags": [
-            "Agile",
-            "Serious Game",
-            "Diversité"
+            "Agile"
           ],
           "lang": [
             "fr"
@@ -1131,8 +1145,7 @@ var data = {
           "abstract": "Possibilité de réaliser plusieurs jeux agiles afin de découvrir l'agilité ou d'approfondir certains concepts.",
           "tags": [
             "Agile",
-            "Serious Game",
-            "Diversité"
+            "Serious Game"
           ],
           "lang": [
             "fr"
@@ -1142,8 +1155,6 @@ var data = {
           "title": "Et la diversité dans tout ça ?",
           "abstract": "On entend beaucoup parler en ce moment du besoin d’avoir plus de femmes dans les métiers du numérique. Mais la diversité ne s’arrête pas là. Qu'est ce qu’on entend par diversité ? Qu'est ce que ça peut apporter à mon équipe ? Quelles sont les bonnes pratiques ? Nous tenterons de répondre à ces questions lors de cette présentation qui ne se veut pas moralisatrice, mais souhaite juste proposer des pistes de réflexions sur ce débat.",
           "tags": [
-            "Agile",
-            "Serious Game",
             "Diversité"
           ],
           "lang": [
