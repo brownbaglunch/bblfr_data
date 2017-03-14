@@ -2149,91 +2149,57 @@ var data = {
     {
       "since": "2013-05-03",
       "name": "Tugdual Grall",
-      "bio": "Technical Evangelist at MongoDB",
-      "picture": "https://en.gravatar.com/userimage/8542283/391edf1f953af25695d4088c627cc539.jpg",
+      "bio": "Chief Technical Evangelist at MapR",
+      "picture": "https://en.gravatar.com/userimage/8542283/4fdcd1b7fa69ee477087e6bbcedf695e.jpg",
       "websites": [
         {
           "name": "Web",
-          "url": "http://tugdualgrall.blogspot.com"
+          "url": "http://tgrall.github.io/"
         }
       ],
       "location": "Nantes, Paris, Rennes et toute l'Europe",
       "sessions": [
         {
-          "title": "Introduction au NoSQL avec MongoDB",
-          "abstract": "Après une introduction rapide sur le NoSQL, et l'explication de problèmes résolus par ces bases de données, je me ferais un plaisir de vous presenter MongoDB. MongoDB est une base de données NoSQL orientée Document développée en Open Source. Cette présentation s'appuie principalement sur des démonstrations, du live coding et se fait dans un mode questions/réponses",
+          "title": "Introduction au Big Data et NosQL",
+          "abstract": "Introduction au Big Data et NoSQL: pourquoi? comment?<br/>Durant cette présentation je vous propose de discuter les cas d'usages, technologies de facon interactive.",
           "tags": [
+            "Big Data",
             "NoSQL",
-            "MongoDB",
-            "MapReduce",
-            "JSON",
-            "Java",
-            "JavaScript",
-            "NodeJS"
+            "MapR",
+            "Streaming",
+            "Hadoop"
           ],
           "lang": [
             "fr"
           ]
         },
         {
-          "title": "BigData, NoSQL... ou Hadoop et MongoDB",
-          "abstract": "Pourquoi et comment faut-il integrer votre (future?) infrastructure BigData basée sur MongoDB et/ou Hadoop?",
+          "title": "Fast Cars, Big Data: ou comment le streaming peut aider la formule 1",
+          "abstract": "Les voitures, et tout particulièrement les voitures de courses, génèrent énormément de données, qui doivent être capturées, stockées et traitées en temps réel avec l'aide de Kafka, Spark/Flink, NoSQL, et DFS",
           "tags": [
+            "Big Data",
             "NoSQL",
-            "MongoDB",
-            "MapReduce",
-            "JSON",
-            "Java",
-            "JavaScript",
-            "NodeJS"
+            "MapR",
+            "Streaming",
+            "Apache Kafka",
+            "Apache Flink",
+            "Apache Spark"
           ],
           "lang": [
             "fr"
           ]
         },
         {
-          "title": "MongoDB : Bonnes Pratiques",
-          "abstract": "Une presentation sous forme de questions/réponses autour des bonnes pratiques pour les projets MongoDB: modélisation des documents, deploiement, clustering, management et monitoring, ...",
+          "title": "Stream Processing avec Apache Flink",
+          "abstract": "Presentation de l'architecture 'streaming first' et du projet Apache Flink",
           "tags": [
+            "Big Data",
             "NoSQL",
-            "MongoDB",
-            "MapReduce",
-            "JSON",
-            "Java",
-            "JavaScript",
-            "NodeJS"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "MongoDB et Java",
-          "abstract": "Tour d'horizon des API Java pour les developpeurs MongoDB : Java Driver, Morphia, Jongo, Hibernate OGM, ....",
-          "tags": [
-            "NoSQL",
-            "MongoDB",
-            "MapReduce",
-            "JSON",
-            "Java",
-            "JavaScript",
-            "NodeJS"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "I MEAN it! ",
-          "abstract": "MEAN : MongoDB ExpressJS, AngularJS et Node.js : Le developpement rapide d'application, et pour une fois c'est vrai!",
-          "tags": [
-            "NoSQL",
-            "MongoDB",
-            "MapReduce",
-            "JSON",
-            "Java",
-            "JavaScript",
-            "NodeJS"
+            "MapR",
+            "Streaming",
+            "Apache Kafka",
+            "Apache Flink",
+            "Apache Spark"
           ],
           "lang": [
             "fr"
