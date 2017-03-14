@@ -14340,7 +14340,86 @@ var data = {
         "twitter": "alvinberthelot",
         "mail": "alvin.berthelot+bblunch@webyousoon.com"
       }
-    }
+    },
+    {
+          "since": "2017-03-14",
+          "name": "Riadh MNASRI",
+          "bio": "Architecte/Développeur Java/JS, Freelance",
+          "picture": "https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200",
+          "websites": [
+              {
+                  "name": "Web",
+                  "url": "http://www.riadh-mnasri.com"
+              }
+          ],
+          "location": "Paris, remote",
+          "sessions": [
+              {
+                  "title": "Initiation Spring Boot",
+                  "abstract": "Une session d'initiation à Spring boot avec une séance de live coding",
+                  "tags": [
+                      "Java",
+                      "Spring"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },
+              {
+                  "title": "Bonnes pratiques tests unitaires en Java",
+                  "abstract": "Je vous propose une séance de bonnes pratiques tests unitaires JUnit, AssertJ, ...",
+                  "tags": [
+                      "Tests unitaires",
+                      "Junit",
+                      "AssertJ"
+                  ],
+                  "lang": [
+                      "fr", "en"
+                  ]
+              },
+              {
+                  "title": "Initiation Docker",
+                  "abstract": "Une sécance d'initiation à Docker du concept à la pratique",
+                  "tags": [
+                      "Docker",
+                      "Container"
+                  ],
+                  "lang": [
+                      "fr", "en"
+                  ]
+              },
+              {
+                  "title": "Ma première application Angular",
+                  "abstract": "Développer votre première application Angular 2",
+                  "tags": [
+                      "Angular",
+                      "TypeScript"
+                  ],
+                  "lang": [
+                      "fr", "en"
+                  ]
+              },
+              {
+                  "title": "Comprendre les nouveautés Java 8",
+                  "abstract": "Comprendre l'utilisation des stream, des lambda, ....",
+                  "tags": [
+                      "Java 8",
+                      "Lambda",
+                      "Stream"
+                  ],
+                  "lang": [
+                      "fr", "en"
+                  ]
+              }
+          ],
+          "cities": [
+              "Paris"
+          ],
+          "contacts": {
+              "twitter": "riadhmnasri",
+              "mail": "riadh.mnasri@gmail.com"
+          }
+      }
   ],
   "cities": {
     "Aix-en-Provence": {
