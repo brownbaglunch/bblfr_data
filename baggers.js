@@ -14424,7 +14424,7 @@ var data = {
           "since": "2017-03-14",
           "name": "Nicolas Steinmetz",
           "bio": "Architecte Web & DevOps, CérénIT",
-          "picture": "https://fr.gravatar.com/userimage/14188452/66f640699084b5d57856723e7e20505c.jpg?size=200",
+          "picture": "https://nicolas.steinmetz.fr/public/ns_240x160.jpg",
           "websites": [
               {
                   "name": "Web",
