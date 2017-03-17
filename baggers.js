@@ -14419,7 +14419,104 @@ var data = {
               "twitter": "riadhmnasri",
               "mail": "riadh.mnasri@gmail.com"
           }
-      }
+      },
+      {
+          "since": "2017-03-14",
+          "name": "Nicolas Steinmetz",
+          "bio": "Architecte Web & DevOps, CérénIT",
+          "picture": "https://fr.gravatar.com/userimage/14188452/66f640699084b5d57856723e7e20505c.jpg?size=200",
+          "websites": [
+              {
+                  "name": "Web",
+                  "url": "https://www.cerenit.fr/"
+              },
+              {
+                  "name": "Web",
+                  "url": "https://nicolas.steinmetz.fr/"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "https://linkedin.com/in/nicolassteinmetz/"
+              },    
+              {
+                  "name": "HopWork",
+                  "url": "https://www.hopwork.fr/profile/nicolassteinmetz"
+              },
+          ],
+          "location": "Ouest parisien (proche Versailles) , remote",
+          "sessions": [
+              {
+                  "title": "Introduction à la plateforme Docker",
+                  "abstract": "Introduction et présentation interactive sur Docker et son écosystème (docker-compose, docker swarm, docker machine, registry, etc) pour permettre de mieux appréhender l'intérêt des containers.",
+                  "tags": [
+                      "docker",
+                      "container",
+                      "devops",
+                      "administration système"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },
+              {
+                  "title": "Introduction à Ansible",
+                  "abstract": "Introduction et présentation interactive sur Ansible et retour d'expérience sur l'utilisation d'Ansible sur de nombreux projets",
+                  "tags": [
+                      "automatisation",
+                      "industrialisation",
+                      "ansible",
+                      "devops",
+                      "administration système"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },    
+              {
+                  "title": "TICK-tac, collecter et exploiter vos données temporelles",
+                  "abstract": "Introduction et présentation interactive de la plateforme TICK (Telegraf, InfluxDB, Chronograf, Kapacitor) et de Grafana pour vous permettre de collecter et exploiter facilement des données temporelles (monitoring, etc) sous la forme de graphs, tableaux, dashboards et d'interagir avec celles-ci.",
+                  "tags": [
+                      "tick",
+                      "telegraf",
+                      "influxdb",
+                      "chronograf",
+                      "kapacitor",
+                      "grafana",
+                      "time series",
+                      "données temporelles"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },
+              {
+                  "title": "Le Reverse Proxy - ce majordome à votre service",
+                  "abstract": "Le Reverse Proxy est un composant souvent mal aimé ou ignoré des développeurs. Pourtant, il peut être utile dans de nombreux cas. Je vous propose de revoir ces cas ensemble.",
+                  "tags": [
+                      "proxy",
+                      "apache",
+                      "nginx",
+                      "traefik",
+                      "devops",
+                      "web",
+                      "reverse proxy",
+                      "administration système",
+                      "sécurité"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },    
+          ],
+          "cities": [
+              "Versailles",
+              "Saint-Quentin-En-Yvelines"
+          ],
+          "contacts": {
+              "twitter": "_CerenIT",
+              "mail": "contact@cerenit.fr"
+          }
+      }      
   ],
   "cities": {
     "Aix-en-Provence": {
@@ -14595,6 +14692,12 @@ var data = {
       "ville_img": "img/villes/BBL.jpg",
       "lat": 43.616354,
       "lng": 7.055222
+    },
+    "Saint-Quentin-En-Yvelines": {
+      "name": "Saint-Quentin-En-Yvelines",
+      "ville_img": "img/villes/BBL.jpg",
+      "lat": 48.77186,
+      "lng": 2.01891
     },
     "Strasbourg": {
       "name": "Strasbourg",
