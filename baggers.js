@@ -11281,10 +11281,9 @@ var data = {
       "location": "Paris, Sud parisien",
       "sessions": [
         {
-          "title": "Elasticsearch: De l'importance du mapping",
-          "abstract": "Exemples de recherches exécutées en direct pour comprendre qu'avec Elasticsearch la définition d'un mapping c'est pas obligatoire, mais seulement indispensable.",
+          "title": "Introduction à Apache Cassandra",
+          "abstract": "Initiation au fonctionnement de Cassandra, cette présentation a pour vocation de présenterer au développeur ou à l'administrateur novice les concepts et le fonctionnement d'une des plus importantes bases NoSQL actuelles.",
           "tags": [
-            "Elasticsearch",
             "Cassandra"
           ],
           "lang": [
@@ -11292,11 +11291,10 @@ var data = {
           ]
         },
         {
-          "title": "Recherche multi-critère avec Cassandra",
-          "abstract": "Histoire du développement d'un micro-service de recherche multi-critères basé sur Cassandra avec des morceaux de code Java 8 dedans.",
+          "title": "Elasticsearch: De l'importance du mapping",
+          "abstract": "Exemples de recherches exécutées en direct pour comprendre qu'avec Elasticsearch la définition d'un mapping c'est pas obligatoire, mais seulement indispensable.",
           "tags": [
-            "Elasticsearch",
-            "Cassandra"
+            "Elasticsearch"
           ],
           "lang": [
             "fr"
@@ -11306,8 +11304,7 @@ var data = {
           "title": "Elasticsearch, au fait, comment ça marche ?",
           "abstract": "Voyage pour découvrir les notions mises en œuvre dans un moteur de recherche comme Elasticsearch.",
           "tags": [
-            "Elasticsearch",
-            "Cassandra"
+            "Elasticsearch"
           ],
           "lang": [
             "fr"
