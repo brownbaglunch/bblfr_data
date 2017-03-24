@@ -13702,7 +13702,8 @@ var data = {
           ]
         }
       ]
-    }, {
+    },
+    {
       "since": "2016-10-06",
       "name": "Francois Wauquier",
       "bio": "Developpeur, Scrum Master, Artisan du SI",
@@ -13764,7 +13765,8 @@ var data = {
           "Versailles",
           "Lille"
       ]
-    },{
+    },
+    {
         "since": "2016-10-12",
         "name": "Julien Sebrien",
         "bio": "CTO Geneticio, Developpeur",
@@ -13801,7 +13803,8 @@ var data = {
         "cities": [
             "Paris"
         ]
-    },{
+    },
+    {
         "since": "2016-10-26",
         "name": "Yoann Buch",
         "bio": "Co-fondateur de Flow (http://findtheflow.io), Développeur",
@@ -13880,7 +13883,8 @@ var data = {
         "twitter": "JB_Beuzelin",
         "mail": "jbbeuzelin@gmail.com"
       }
-    },{
+    },
+    {
         "since": "2016-12-15",
         "name": "Igor Laborie",
         "bio": "Développeur passionné, je suis expert Java et Web chez MonkeyPatch",
@@ -14070,7 +14074,8 @@ var data = {
         "mail": "raphaelht@gmail.com",
         "twitter": "rap2h"
       }
-    }, {
+    },
+    {
       "since": "2017-01-16",
       "name": "Frédéric Camblor",
       "bio": "Java & Frontend Web dev, Créateur de la conférence BDX I/O, Commiter RestX, travaille pour 4SH France",
@@ -14516,7 +14521,66 @@ var data = {
               "twitter": "_CerenIT",
               "mail": "contact@cerenit.fr"
           }
-      }      
+      },
+      {
+          "since": "2017-03-21",
+          "name": "Guillaume Wallet",
+          "bio": "Software Craftsman, agiliste et développeur passioné, Ch'ti JUG zealot, clean code addict, zythophile",
+          "picture": "https://s.gravatar.com/avatar/af22c5952fd5e43d12016def954cf503?s=216",
+          "cities": [
+              "Lille"
+          ],
+          "contacts": {
+              "twitter": "GuillaumeWallet",
+              "mail": "wallet.guillaume+bblfr@gmail.com"
+          },
+          "sessions": [
+              {
+                  "title": "Le code source c'est comme les toilettes: c'est bien quand ça marche, c'est mieux quand c'est propre!",
+                  "abstract": "Parce qu'une base de code sait nous retourner le respect qu'on lui montre, voyons comment lui témoigner un peu plus notre amour ... <3",
+                  "tags": [
+                      "Clean Code",
+                      "Refactoring",
+                      "Design Patterns"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },
+              {
+                  "title": "Ça ne coûte pas plus cher de bien tester!",
+                  "abstract": "Il y a peut-être un juste milieu entre: 0. ne rien tester du tout et 1. tout tester pour rien ?",
+                  "tags": [
+                      "JUnit",
+                      "JBehave",
+                      "Serenity BDD",
+                      "T.D.D.",
+                      "B.D.D.",
+                      "Tests Unitaires",
+                      "Tests d'Integration",
+                      "Tests End to End"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              }
+          ],
+          "location": "Lille",
+          "websites": [
+              {
+                  "name": "GitHub",
+                  "url": "https://github.com/gwallet"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "https://www.linkedin.com/in/guillaumewallet/"
+              },
+              {
+                  "name": "Web",
+                  "url": "http://walletguillaume.blogspot.fr/"
+              }
+          ]
+      }
   ],
   "cities": {
     "Aix-en-Provence": {
