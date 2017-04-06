@@ -14577,6 +14577,81 @@ var data = {
                   "url": "http://walletguillaume.blogspot.fr/"
               }
           ]
+      },
+      {
+          "since": "2017-04-06",
+          "name": "Arnaud Bailly",
+          "bio": "Couteau suisse du code",
+          "picture": "http://drcode.io/images/arnaud_hero_white.png",
+          "cities": [
+              "Nantes", "Rennes", "Bordeaux", "Tours", "Vannes", "Paris", "Lille"
+          ],
+          "contacts": {
+              "twitter": "dr_c0d3",
+              "mail": "arnaud@drcode.io"
+          },
+          "sessions": [
+              {
+                  "title": "Coding Dojo",
+                  "abstract": "Mettre en place un 'coding dojo' c'est très simple, cela demande uniquement un peu de temps, de bonne volonté et surtout beaucoup de bienveillance et de curiosité.",
+                  "tags": [
+                      "Clean Code",
+                      "TDD",
+                      "XP"
+                  ],
+                  "lang": [
+                      "fr", "en"
+                  ]
+              },
+              {
+                  "title": "TDD à tous les étages",
+                  "abstract": "TDD != tests unitaires. Comment appliquer le cycle du TDD (red-green-refactor) à toutes les étapes du développement et à différents niveaux de granularité, des tests unitaires aux tests d'acceptation et de performance.",
+                  "tags": [
+                      "Tests",
+                      "TDD",
+                      "XP",
+                      "CI"
+                  ],
+                  "lang": [
+                      "fr", "en"
+                  ]
+              },
+              {
+                  "title": "Haskell pour les nuls",
+                  "abstract": "La programmation fonctionnelle, c'est hype, c'est cool, ça groove... mais ça fait peur, surtout en Haskell, un langage réputé pour les matheux. Je vous propose de découvrir ce langage fascinant et le monde merveilleux des types par la pratique.",
+                  "tags": [
+                      "FP", "Haskell", "Type Driven Development"
+                  ],
+                  "lang": [
+                      "fr", "en"
+                  ]
+              },
+              {
+                  "title": "Event Sourcing, Functionally",
+                  "abstract": "L'Event Sourcing est une technique de modélisation et de stockage des données puissante et extrêmement flexible. Comment la mettre en oeuvre en pratique et comment elle entre en résonnance avec les principes de la programmation fonctionnelle, là est la question!",
+                  "tags": [
+                      "FP","EventSourcing", "DDD"
+                  ],
+                  "lang": [
+                      "fr", "en"
+                  ]
+              }
+          ],
+          "location": "Lille",
+          "websites": [
+              {
+                  "name": "GitHub",
+                  "url": "https://github.com/gwallet"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "https://www.linkedin.com/in/guillaumewallet/"
+              },
+              {
+                  "name": "Web",
+                  "url": "http://walletguillaume.blogspot.fr/"
+              }
+          ]
       }
   ],
   "cities": {
