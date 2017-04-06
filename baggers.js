@@ -14637,19 +14637,23 @@ var data = {
                   ]
               }
           ],
-          "location": "Lille",
+          "location": "Nantes",
           "websites": [
               {
                   "name": "GitHub",
-                  "url": "https://github.com/gwallet"
+                  "url": "https://github.com/abailly"
               },
               {
                   "name": "LinkedIn",
-                  "url": "https://www.linkedin.com/in/guillaumewallet/"
+                  "url": "https://www.linkedin.com/in/arnaudbailly/"
               },
               {
                   "name": "Web",
-                  "url": "http://walletguillaume.blogspot.fr/"
+                  "url": "http://abailly.github.io/"
+              },
+              {
+                  "name": "Web",
+                  "url": "http://drcode.io/"
               }
           ]
       }
