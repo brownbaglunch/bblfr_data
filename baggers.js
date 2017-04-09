@@ -14656,6 +14656,36 @@ var data = {
                   "url": "http://drcode.io/"
               }
           ]
+      },
+      {
+          "since": "2017-04-09",
+          "name": "Jean Bisutti",
+          "bio": "Développeur Java",
+          "picture": "https://pbs.twimg.com/profile_images/606213307507351552/IJcDzWZo.jpg",
+          "websites": [
+          ],
+          "location": "Paris",
+          "sessions": [
+              {
+                  "title": "Boîte à outils d'investigation des soucis de mémoire JVM",
+                  "abstract": "Votre JVM se met à faire des GC à toute allure? Out Of Memory Error ! Que s'est il passé ? Comment s'y prendre pour mener l'enquête ? Nous allons utiliser différents outils (lignes de commande, profiler, Memory Analyzer Tool, ...) afin de débusquer l'origine des soucis de mémoire causés par quelques classes Java.",
+                  "tags": [
+                      "Java",
+                      "JVM",
+                      "Performances"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              }
+          ],
+          "cities": [
+              "Paris"
+          ],
+          "contacts": {
+              "twitter": "jean_bisutti",
+              "mail": "jean.bisutti@gmail.com"
+          }
       }
   ],
   "cities": {
