@@ -4324,7 +4324,7 @@ var data = {
     {
       "since": "2013-11-04",
       "name": "Jean-pierre Lerbscher",
-      "bio": "Foundateur JavaPerf Consulting, expert performance & JEE",
+      "bio": "Fondateur JavaPerf Consulting, expert performance & JEE",
       "picture": "http://www.jperf.com/images/jpl.jpg",
       "websites": [
         {
@@ -4352,7 +4352,7 @@ var data = {
         },
         {
           "title": "Audit de performance",
-          "abstract": "Démarrer un audit de performance (comment s'organiser, quels outils?, quelle méthodologie?)",
+          "abstract": "Démarrer un audit de performance (comment s'organiser?, quels outils?, quelle méthodologie?)",
           "tags": [
             "Performance",
             "JEE",
