@@ -333,7 +333,7 @@ var data = {
     {
       "since": "2013-02-15",
       "name": "Romain Linsolas",
-      "bio": "Développeur Web & architecte technique à SGCIB",
+      "bio": "Développeur Web & leader technique à SGCIB",
       "picture": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/005/046/246/1b274c9.jpg",
       "websites": [
         {
@@ -341,10 +341,22 @@ var data = {
           "url": "http://linsolas.github.com/"
         }
       ],
-      "location": "La Défense et alentours",
+      "location": "La Défense et Paris",
       "sessions": [
         {
-          "title": "Du JavaScript propre ? Challenge Accepted! - Avec Julien Jakubowski",
+          "title": "10 méthodes pour rendre heureux les développeurs, la 7e va vous étonner ! (avec Cyril Lakech)",
+          "abstract": "Il est impératif d'attirer les meilleurs développeurs, mais également de savoir les garder au sein de son entreprise. Si cela est simple à dire, réussir à le faire correctement et à maintenir un tel contexte attractif n'est pas chose facile. Voici 10 choses qu'il convient de mettre en place chez vous pour rendre vos développeurs heureux.",
+          "tags": [
+            "Développeur",
+            "Recrutement",
+            "Carrière"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Du JavaScript propre ? Challenge Accepted!",
           "abstract": "Ecrire du code JavaScript propre, c'est aujourd'hui possible. L'écosystème autour de ce langage a atteint une maturité suffisante pour se lancer dans le développement de larges applications basées sur ce langage. Cette présentation est un tour d'horizon de cet écosystème, pour que vous n'ayez plus peur de coder en JavaScript !",
           "tags": [
             "JavaScript",
