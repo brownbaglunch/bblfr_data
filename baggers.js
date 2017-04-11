@@ -10141,6 +10141,20 @@ var data = {
           ]
         },
         {
+          "title": "Spring Data : Une API, quinze possibilités",
+          "abstract": "Vous avez besoin d’intégrer une nouveau type de stockage ( Elasticsearch, Cassandra, Redis, Neo4j ) dans votre application mais l’apprentissage d’une nouvelle API vous fait hésiter ? Spring Data est fait pour vous ! Grâce à Spring Data, vous avez à disposition une interface unique pour communiquer avec tous vos backends. Venez découvrir comment faire un stream de données depuis Postgresql, faire des agrégations avec Elasticsearch, enregistrer des documents dans MongoDB, le tout en quelques lignes de code et sans efforts. Cette session se termine en détaillant les nouveautés apportées par la version 2.0 autour de la programmation réactive.",
+          "tags": [
+            "Code",
+            "Java",
+            "Spring",
+            "Spring Boot",
+            "Productivité"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
           "title": "Se lancer dans l'aventure microservices avec Spring Cloud",
           "abstract": "Vous êtes convaincus par l’architecture microservices et vous souhaitez vous lancer dans l'aventure. Durant cette session, nous expliquons comment démarrer concrètement,  quelles sont les nouvelles problématiques que soulève cette architecture et comment les résoudre. Nous détaillons à travers une application de démonstration qui implémente les concepts de Service Discovery, Circuit Breaker, Routing et Client Side Load Balancing l'utilisation de la libraire Spring Cloud Netflix (Eureka, Hystrix, Ribbon , ...). Nous survolerons aussi les différentes alternatives développées par les autres géants du Web tels que HashiCorp et Airbnb.",
           "tags": [
