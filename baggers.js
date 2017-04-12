@@ -1673,7 +1673,7 @@ var data = {
     {
       "since": "2013-03-11",
       "name": "Katia Aresti",
-      "bio": "Développeuse - Freelance",
+      "bio": "Développeuse - Red Hat",
       "picture": "http://www.gravatar.com/avatar/04e3a46efd2e243319b1bf9f7ef316f7.png",
       "websites": [
         {
@@ -1684,26 +1684,21 @@ var data = {
       "location": "Paris, La Défense",
       "sessions": [
         {
-          "title": "MongoDB from scratch",
-          "abstract": "Live coding MongoDB (avec Java). Création d'une application from scratch",
+          "title": "Découvrez Infinispan",
+          "abstract": "Découvrez ce qu'un cache distribué peut faire pour vous",
           "tags": [
+            "Infinispan",
+            "Cache",
+            "Datagrid",
+            "Streaming",
+            "Haut disponibilité",
             "MongoDB",
             "Refactoring",
             "Code",
-            "Test"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "From SQL to MongoDB",
-          "abstract": "Présentation formelle de MongoDB pour les développeurs. Présentation de la base de données, cas d'utilisation réels, et ensemble de bonnes pratiques",
-          "tags": [
-            "MongoDB",
-            "Refactoring",
-            "Code",
-            "Test"
+            "Test",
+            "TDD",
+            "Craftsmanship",
+            "Reactive"
           ],
           "lang": [
             "fr"
@@ -1713,23 +1708,39 @@ var data = {
           "title": "Gym TDD",
           "abstract": "Kata TDD pour aprendre la technique de base.",
           "tags": [
+            "Infinispan",
+            "Cache",
+            "Datagrid",
+            "Streaming",
+            "Haut disponibilité",
             "MongoDB",
             "Refactoring",
             "Code",
-            "Test"
+            "Test",
+            "TDD",
+            "Craftsmanship",
+            "Reactive"
           ],
           "lang": [
             "fr"
           ]
         },
         {
-          "title": "J'irai coder chez vous",
-          "abstract": "(Experimental) Je viens coder chez vous pendant une matinée sur une story lambda, en TDD !!",
+          "title": "J'ai raté ma carrière. J'ai plus de 35 et je code encore",
+          "abstract": "Et il est fort probable que j'arrive à mes 40 ans et que ce soit toujours le cas. Quand j'étais étudiante, on m'a indiqué que je devais être manager ou chef de projet avant 30 ans. En toute honnêteté, je n'ai même pas essayé car ce n'est pas ce que je veux (du moins pour le moment). Y-a-t-il quelque chose qui cloche en moi ? Brissons les mythes. Dans cette conférence je vous partagerai à travers mes 10 ans d'expérience, les leçons que j'ai apprise et ce que signifie réellement d'être développeur/euse. Je vous donnerai quelques astuces pour vous aider à sortir de votre zone de confort et devenir de vrais crafts(wo)mens du code. Pour qu'un jour nous portions tous et toutes avec orgueil l'insigne de codeur(euse) sur notre veste : Yes we code !",
           "tags": [
+            "Infinispan",
+            "Cache",
+            "Datagrid",
+            "Streaming",
+            "Haut disponibilité",
             "MongoDB",
             "Refactoring",
             "Code",
-            "Test"
+            "Test",
+            "TDD",
+            "Craftsmanship",
+            "Reactive"
           ],
           "lang": [
             "fr"
