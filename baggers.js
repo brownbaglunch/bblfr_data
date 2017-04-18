@@ -12478,7 +12478,7 @@ var data = {
       "websites": [
         {
           "name": "Web",
-          "url": "http://blog.dashlane.com/"
+          "url": "https://blog.dashlane.com/author/frederic-rivain/"
         },
         {
           "name": "LinkedIn",
@@ -12500,12 +12500,12 @@ var data = {
           ]
         },
         {
-          "title": "Manager dans un environnement Agile",
-          "abstract": "Comment se positionner en tant que Manager au sein d'une organisation Agile. Quel nouveau rôle pour un Agile Manager?",
+          "title": "From feature factory to business-oriented teams with OKR",
+          "abstract": "Où on parle d'organisation des équipes et comment avoir une orientation business appuyée sur une gestion des objectifs via les OKR",
           "tags": [
             "Management",
             "Agile",
-            "Continuous Learning"
+            "OKR"
           ],
           "lang": [
             "fr"
@@ -12516,8 +12516,8 @@ var data = {
           "abstract": "Tips and tricks pour croître sainement",
           "tags": [
             "Management",
-            "Agile",
-            "Continuous Learning"
+            "Scale",
+            "Organization"
           ],
           "lang": [
             "fr"
@@ -12527,9 +12527,9 @@ var data = {
           "title": "Gérer un portfolio Agile",
           "abstract": "Comment mettre en place et gérer un portfolio d'entreprise en complément des backlogs d'équipes Agile",
           "tags": [
-            "Management",
+            "Roadmap",
             "Agile",
-            "Continuous Learning"
+            "Portfolio"
           ],
           "lang": [
             "fr"
