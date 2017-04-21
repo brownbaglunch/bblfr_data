@@ -14712,6 +14712,62 @@ var data = {
               "twitter": "jean_bisutti",
               "mail": "jean.bisutti@gmail.com"
           }
+      },
+      {
+        "since": "2017-04-21",
+        "name": "Julien Tanguy",
+        "bio": "Développeur backend/frontend - Valwin",
+        "picture": "https://pbs.twimg.com/profile_images/711247904661499907/NyupMTjB_400x400.jpg",
+        "websites": [
+          {
+            "name": "Web",
+            "url": "https://jtanguy.cleverapps.io"
+          }
+        ],
+        "cities": [
+          "Nantes"
+        ],
+        "contacts": [
+          "twitter": "jutanguy",
+          "mail": "julien.tanguy@jhome.fr"
+        ],
+        "sessions": [
+          {
+            "title": "Débuter en React/Redux",
+            "abstract": "Quels sont les concepts clés derrière React/Redux ? Comment débuter un nouveau projet? Comment architecturer de plus grosses applications ?",
+            "tags": [
+              "JavaScript",
+              "React",
+              "Redux",
+              "Programmation fonctionnelle"
+            ],
+            "lang": [
+              "fr"
+            ]
+          },
+          {
+            "title": "Créer des applications frontend en Elm",
+            "abstract": "Elm (elm-lang.org) est un language de programmation pour créer des applications web facile à prendre en main. Compilé en JS, il peut être embarqué dans de nombreuses applications et sites web.",
+            "tags": [
+              "Elm",
+              "Programmation fonctionnelle"
+            ],
+            "lang": [
+              "fr"
+            ]
+          },
+          {
+            "title": "Introduction à Webpack",
+            "abstract": "Webpack est un packager qui vous permet de gérer tout votre arbre de dépendances JS/(S)CSS/Images/Json, idéal pour les frameworks javascript frontend.",
+            "tags": [
+              "JavaScript",
+              "Webpack"
+            ],
+            "lang": [
+              "fr"
+            ]
+          }
+        ]
       }
   ],
   "cities": {
