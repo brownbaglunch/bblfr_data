@@ -14727,10 +14727,10 @@ var data = {
         "cities": [
           "Nantes"
         ],
-        "contacts": [
+        "contacts": {
           "twitter": "jutanguy",
           "mail": "julien.tanguy@jhome.fr"
-        ],
+        },
         "sessions": [
           {
             "title": "Débuter en React/Redux",
