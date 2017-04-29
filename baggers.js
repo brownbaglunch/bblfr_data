@@ -492,48 +492,33 @@ var data = {
           "title": "Développer le bon produit",
           "abstract": "A une époque où tout business peut être rapidement concurrencé par une startup, il faut savoir créer le bon produit. C’est la où les principes et les outils de Lean Startup (mais aussi Design Thinking ou encore de l'effectuation) viennent nous aider. Je propose une intro rapide et un atelier purement pratique autour de Lean Canvas que j'ai eu l'occasion de pratiquer de nombreuses fois en tant qu'Advisor Lean Startup",
           "tags": [
-            "Design",
-            "Expérience utilisateur",
-            "Ergonomie",
-            "Lean Startup",
-            "AngularJS",
-            "JavaScript",
-            "MongoDB",
-            "NodeJS"
+            "produit",
+            "lean startup",
+            "lean canvas"
           ],
           "lang": [
-            "fr"
+            "fr", "en"
           ]
         },
         {
           "title": "Apprendre à apprendre",
           "abstract": "Apprendre est la compétence essentielle à connaître au 21ème siècle. Accro au MOOC (une trentaine de certifications en 2 ans) et développant un PersonalMBA, je vous propose de découvrir et discuter les moyens d’apprendre rapidement aussi bien au niveau personnel, de votre produit/startup et même de votre organisation.",
           "tags": [
-            "Design",
-            "Expérience utilisateur",
-            "Ergonomie",
-            "Lean Startup",
-            "AngularJS",
-            "JavaScript",
-            "MongoDB",
-            "NodeJS"
+            "apprentissage",
+            "organisation",
+            "management"
           ],
           "lang": [
-            "fr"
+            "fr", "en"
           ]
         },
         {
           "title": "Découvrir la spirale dynamique et des principes pour une organisation adaptée au 21ème siècle",
           "abstract": "Nos organisations sont en train de vivre une crise existentielle majeure. Pour preuve, l'engouement pour le documentaire 'le bonheur au travail' ou le mouvement des 'entreprises libérées'. Mais plus que la libération de l'entreprise, l'important est de comprendre comment donner des bases solides à nos organisations. Pour ça, je me baserai sur la spirale dynamique, modèle d'évolution individuelle et collective, afin de mieux comprendre et mettre en place les différentes étapes d'une organisation efficace.",
           "tags": [
-            "Design",
-            "Expérience utilisateur",
-            "Ergonomie",
-            "Lean Startup",
-            "AngularJS",
-            "JavaScript",
-            "MongoDB",
-            "NodeJS"
+            "organisation",
+            "management",
+            "agile"
           ],
           "lang": [
             "fr"
@@ -543,51 +528,58 @@ var data = {
           "title": "Inspirez vous de la psychologie et du design pour améliorer votre code",
           "abstract": "Le but est de présenter les grands principes du design (eux-même basés sur notre psychologie) pour améliorer votre code. Au passage, vous pouvez même apprendre à améliorer votre UI car ce sont les mêmes principes ;)",
           "tags": [
-            "Design",
-            "Expérience utilisateur",
-            "Ergonomie",
-            "Lean Startup",
-            "AngularJS",
-            "JavaScript",
-            "MongoDB",
-            "NodeJS"
+            "design",
+            "ergonomie",
+            "code"
           ],
           "lang": [
-            "fr"
+            "fr", "en"
           ]
         },
         {
           "title": "Faites (re)vivre vos spécifications",
           "abstract": "Vous avez écrit des centaines de pages de spécifications mais personne ne les a lues et elles sont déjà désuètes ? La solution se trouve dans la spécification par l'exemple qui permet de mettre en pratique l'ATDD, le BDD et surtout la co-création en créant le dialogue et un langage commun avec le métier. Nous baserons sur l'outil Serenity-BDD pour la mise en pratique",
           "tags": [
-            "Design",
-            "Expérience utilisateur",
-            "Ergonomie",
-            "Lean Startup",
-            "AngularJS",
-            "JavaScript",
-            "MongoDB",
-            "NodeJS"
+            "tests",
+            "spécifications",
+            "BDD"
           ],
           "lang": [
             "fr"
           ]
         },
         {
-          "title": "Comment développer rapidement une webapp ?",
-          "abstract": "Dans ce BBL, j’aimerais vous montrer comment MongoDB, NodeJS et une pointe d'AngularJS (mais pas obligatoirement) vous permettent de construire très rapidement une webapp. Idéal pour prototyper et lancer rapidement de nouveaux produits.",
+          "title": "Du monolithe aux micro services depuis les tranchées.",
+          "abstract": "Le but de ce BBL est vous faire un retour d’expérience sur le passage d’une application monolithique à une architecture sous forme de micro-services. Quels sont les éléments de réflexion à mettre en place avant de se lancer? Quelles sont les difficultés? Les choix techniques possibles? Nous verrons aussi bien sur pourquoi et à quelle moment passer à une architecture micro-services car peut être n’est-ce pas finalement la «silver bullet» qu’on espère?",
           "tags": [
-            "Design",
-            "Expérience utilisateur",
-            "Ergonomie",
-            "Lean Startup",
-            "AngularJS",
-            "JavaScript",
-            "MongoDB",
-            "NodeJS"
+            "monolithe",
+            "microservices"
           ],
           "lang": [
-            "fr"
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Continuous Delivery to Lean Enterprise.",
+          "abstract": "J’organise régulièrement des soirées autour du Continuous Delivery. C’est une pratique qu’il devient indispensable  de maitriser face à la concurrence mais cette pratique demande un très bon niveau technique ainsi qu’un management moderne. Le but de ce BBL est de présenter comment mettre en place cette pratique et quels sont les éléments à considérer pour y arriver. Nous y parlerons de Continuous Integration,  Continuous Delivery, Continuous Deployment, de Devops et peut être même de Lean Enterprise.",
+          "tags": [
+            "continuous delivery",
+            "devops"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Software craftsmanship.",
+          "abstract": "Software craftsmanship? Encore un buzzword pour vendre des certifications? Mis en avant par des célébrités comme Robert Martin ou Sandro Mancuso, condensé dans un Manifeste, l’idée est de relever le niveau du développement professionnel de logiciels. Dans ce BBL, j’aimerais vous présenter les éléments théoriques et pratiques qui pourraient constituer cet artisanat logiciel ainsi que de réaliser un petit kata en démo ou ensemble (à définir avant le BBL). Je pourrais aussi vous parler de mon expérience de Coach Craft.",
+          "tags": [
+            "code",
+            "qualité",
+            "clean code"
+          ],
+          "lang": [
+            "fr", "en"
           ]
         }
       ],
