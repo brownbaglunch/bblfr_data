@@ -14771,7 +14771,30 @@ var data = {
             ]
           }
         ]
-      }
+      },
+      {
+        "since": "2017-05-01",
+        "name": "Vincent Spiewak",
+        "bio": "Innovation Energyzer @ DailyBrain",
+        "picture": "https://www.gravatar.com/avatar/9a7fcd04ab29f4aa26d57fa7f208f908?s=250",
+        "cities": [ "Paris" ],
+        "contacts": { "twitter": "vspiewak", "mail": "vspiewak+bbl@dailybrain.fr" },
+        "location": "Paris et alentours",
+        "websites": [
+          { "name": "Web", "url": "http://dailybrain.fr" },
+          { "name": "LinkedIn", "url": "https://www.linkedin.com/in/vincentspiewak/" },
+          { "name": "GitHub", "url": "https://github.com/vspiewak" },
+          { "name": "Hopwork", "url": "https://www.hopwork.fr/profile/vincentspiewak" }
+        ],
+        "sessions": [
+          {
+            "title": "Continuous Delivery avec GoCD",
+            "abstract": "Présentation de GoCD, outil remplacant avantageusement ce bon vieux Jenkins :D",
+            "tags": [ "Agile", "Lean", "Startup", "Continuous Delivery", "DevOps" ],
+            "lang": [ "fr" ]
+          }
+        ]
+     }    
   ],
   "cities": {
     "Aix-en-Provence": {
