@@ -6528,40 +6528,23 @@ var data = {
           "url": "http://www.linkedin.com/in/simonbasle"
         }
       ],
-      "location": "Paris et la Défense",
+      "location": "Paris, remote",
       "sessions": [
         {
-          "title": "JavaFX 2, un tour d'horizon",
-          "abstract": "Malgré la popularité d'HTML5, le desktop n'est pas tout à fait mort, mais il se fait tremblotant... Heureusement, un effort a été entrepris avec JavaFX pour lui redonner du dynamisme. On peut retrouver du fun à coder un client riche, visuellement moderne et adapté à une application pérenne. Je vous propose donc d'embarquer pour un tour d'horizon de JavaFX pour essayer de vous en convaincre.",
+          "title": "Programmation Réactive avec Reactor (ou RxJava)",
+          "abstract": "Déjà eu à travailler avec des callbacks de callbacks de callbacks de...? Découvrez comment le paradigme de programmation réactive et la librairie Reactor (ou RxJava) peuvent vous aider à sortir de cet enfer, sous Java 8.",
           "tags": [
             "Java",
-            "Client riche",
-            "Desktop",
-            "JavaFX",
+            "Reactive Programming",
             "Reactive",
+            "Reactor",
             "RxJava",
             "Java 8",
             "Asynchrone"
           ],
           "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "RxJava et Java 8 pour sortir de l'enfer des callbacks",
-          "abstract": "Déjà eu à travailler avec des callbacks de callbacks de callbacks de...? Découvrez comment la synergie entre le paradigme de programmation fonctionnelle réactive de RxJava et les lambdas de Java 8 peuvent vous aider à sortir de cet enfer.",
-          "tags": [
-            "Java",
-            "Client riche",
-            "Desktop",
-            "JavaFX",
-            "Reactive",
-            "RxJava",
-            "Java 8",
-            "Asynchrone"
-          ],
-          "lang": [
-            "fr"
+            "fr",
+            "en"
           ]
         }
       ],
