@@ -14894,6 +14894,63 @@ var data = {
             "twitter": "CharlesBouttaz",
             "mail": "c.bouttaz+bbl@gmail.com"
         }
+      },
+      {
+          "since": "2017-05-19",
+          "name": "Sébastien Friess",
+          "bio": "Développeur, formateur, team leader et vélotafeur - SFEIR",
+          "picture": "https://en.gravatar.com/userimage/61906989/1de60a01c2a5061f2538aadc2eea8b71.jpg?size=200",
+          "websites": [
+              {
+                  "name": "Web",
+                  "url": "https://sebastienfr.fr"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "https://fr.linkedin.com/in/sebastienfr"
+              },
+              {
+                  "name": "GitHub",
+                  "url": "https://github.com/sebastienfr"
+              }
+          ],
+          "location": "Lille",
+          "sessions": [
+              {
+                  "title": "Microservice, comment peler le monolith et en faire de bonnes frites",
+                  "abstract": "Les monoliths ont la vie de plus en plus dure, les microservices deviennent une réalité mais à quoi faut-il faire attention pour aborder ce virage architectural ?",
+                  "tags": [
+                      "Microservice",
+                      "Architecture",
+                      "Monolith"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },
+              {
+                  "title": "Voyage au coeur de Go, ou le périple d'un nouveau langage",
+                  "abstract": "Retour d'expérience d'une année de microservices Golang en production, comment démarrer, Go ses forces et ses faiblesses",
+                  "tags": [
+                      "Go",
+                      "Golang",
+                      "REX",
+                      "Google"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              }
+          ],
+          "cities": [
+              "Paris",
+              "Lille",
+              "Strasbourg"
+          ],
+          "contacts": {
+              "twitter": "sebastienfriess",
+              "mail": "sebastienfr@gmail.com"
+          }
       }
   ],
   "cities": {
