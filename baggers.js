@@ -14838,7 +14838,63 @@ var data = {
          "twitter": "simplygreenit",
          "mail": "ophilippot@greenspector.com"
        }
-     }
+     },
+      {
+        "since": "2017-05-19",
+        "name": "Charles Bouttaz",
+        "bio": "Developer, Agile & Software Craftsmanship advocate. Co-organisateur du LyonJUG et de la conférence MiXiT.",
+        "picture": "https://www.gravatar.com/avatar/bd0f602050b2f95901199d3a3789eb56?size=200",
+        "websites": [
+            {
+                "name": "Web",
+                "url": "http://charles-bouttaz.com"
+            }
+        ],
+        "location": "Lyon",
+        "sessions": [
+            {
+                "title": "Tests unitaires et TDD",
+                "abstract": "Vous aimeriez tester votre code mais vous ne savez pas par ou commencer ? Introduction en douceur à la démarche avec tous les outils (JVM) nécessaires.",
+                "tags": [
+                    "TDD",
+                    "Test",
+                    "Java"
+                ],
+                "lang": [
+                    "fr"
+                ]
+            },
+            {
+                "title": "Coding Dojo",
+                "abstract": "Vous avez envie de découvrir ou d’approfondir des techniques de codes mais vous manquez de temps ? Un coding dojo c’est l’occasion de progresser en groupe et par la pratique. Je peux animer les sujets suivants : TDD, refactoring, clean code, SOLID, design patterns",
+                "tags": [
+                    "Dojo",
+                    "Refactoring",
+                    "Clean Code"
+                ],
+                "lang": [
+                    "fr"
+                ]
+            },
+            {
+                "title": "Le versionning avec Git",
+                "abstract": "Au choix en fonction du niveau : Introduction à Git - les concepts. Git avancé - les trucs et astuces qui changent tout. Git sous le capot - fonctionnement interne de Git.",
+                "tags": [
+                    "Git"
+                ],
+                "lang": [
+                    "fr"
+                ]
+            }
+        ],
+        "cities": [
+            "Lyon"
+        ],
+        "contacts": {
+            "twitter": "CharlesBouttaz",
+            "mail": "c.bouttaz+bbl@gmail.com"
+        }
+      }
   ],
   "cities": {
     "Aix-en-Provence": {
