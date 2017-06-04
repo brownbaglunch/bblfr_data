@@ -14451,7 +14451,7 @@ var data = {
               {
                   "name": "LinkedIn",
                   "url": "https://linkedin.com/in/nicolassteinmetz/"
-              },    
+              },
               {
                   "name": "HopWork",
                   "url": "https://www.hopwork.fr/profile/nicolassteinmetz"
@@ -14485,7 +14485,7 @@ var data = {
                   "lang": [
                       "fr"
                   ]
-              },    
+              },
               {
                   "title": "TICK-tac, collecter et exploiter vos données temporelles",
                   "abstract": "Introduction et présentation interactive de la plateforme TICK (Telegraf, InfluxDB, Chronograf, Kapacitor) et de Grafana pour vous permettre de collecter et exploiter facilement des données temporelles (monitoring, etc) sous la forme de graphs, tableaux, dashboards et d'interagir avec celles-ci.",
@@ -14520,7 +14520,7 @@ var data = {
                   "lang": [
                       "fr"
                   ]
-              },    
+              },
           ],
           "cities": [
               "Versailles",
@@ -14950,6 +14950,100 @@ var data = {
           "contacts": {
               "twitter": "sebastienfriess",
               "mail": "sebastienfr@gmail.com"
+          }
+      },
+      {
+          "since": "2017-06-04",
+          "name": "Philippe Charrière",
+          "bio": "Tech evangelist, Resp. Commercial 🙀, Développeur, ex Chef de projet, ex Manager, ...  - CLEVER-CLOUD",
+          "picture": "https://www.clever-cloud.com//images/team/philippe-charriere.jpg?size=200",
+          "websites": [
+              {
+                  "name": "Blog",
+                  "url": "http://k33g.github.io/all.html"
+              },
+              {
+                  "name": "LinkedIn",
+                  "url": "https://www.linkedin.com/in/phcharriere/"
+              },
+              {
+                  "name": "GitHub",
+                  "url": "https://github.com/k33g"
+              }
+          ],
+          "location": "Lyon",
+          "sessions": [
+              {
+                  "title": "Microservices, choisir le bon cheval: Vert.X",
+                  "abstract": "Il n'y a pas encore de standard 🤔, mais il faut être prêt. Vert.X ❤️ permet de construire des solutions 'plateform agnostic' et vous offre quelques helpers sympathiques (Discovery, Circuit Breaker,...). Cette session est l'occasion de voir comment initialiser le code des composants d'une architecture microservices en Vert.x (mais pas que 😉)",
+                  "tags": [
+                      "Microservices",
+                      "Architecture",
+                      "Patterns",
+                      "JavaScript",
+                      "Scala",
+                      "Java"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },
+              {
+                  "title": "Programmation Fonctionnelle en JavaScript",
+                  "abstract": "Le JavaScript est fonctionnel probablement depuis le début, mais c'est aussi un très bon langage pour s'initier à d'autres concepts comme les Functors, les Monades, les Unions Types ... ou en mode Vanilla ou avec Monet (un petit framework fonctionnel simple et très pratique) et d'autres. Cette session est l'occasion de démystifier certains concepts, de voir pourquoi ils sont utiles... A la fin vous pourriez vouloir faire du Scala 😜",
+                  "tags": [
+                      "Programmation Fonctionnelle",
+                      "JavaScript",
+                      "Scala"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },
+              {
+                  "title": "CI, CD ??? Finalement ce n'est pas dur",
+                  "abstract": "Intégration continue, déploiement continu (et d'autres termes) sont des concepts que j'ai utilisé longtemps sans savoir les mettre réellement en oeuvre: j'étais chef de projet 😉 donc c'était l'équipe qui faisait le boulot que j'avais vendu au client 🕺. Mes dernières expériences professionnelles m'ont obligé à le faire moi-même, et finalement j'ai aimé ❤️. Sans être LE spécialiste du domaine, cette session me permet de présenter quelques éléments pour s'y mettre en douceur. Cette session est plutôt pour ceux qui ne se sente pas à l'aise avec le sujet. Nous parlerons de GitHub, Jenkins, et d'autres outils plus ou moins incontournables de nos jour (et un exemple simple de mise en oeuvre reproductible chez vous), mais on ne parlera pas que technique.",
+                  "tags": [
+                      "Intégration Continue",
+                      "Déploiement Continue",
+                      "Jenkins",
+                      "GitHub",
+                      "GitLab",
+                      "Git",
+                      "DEVOPS",
+                      "ChatOps",
+                      "Workflow"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              },
+              {
+                  "title": "Utilisez votre DVCS comme un Intranet (pour autre chose que du code)",
+                  "abstract": "Un an chez GitHub, ça marque 😉 et j'ai découvert que finalement un DVCS (distributed version control system), on peut l'utiliser pour autre chose que du code, et en plus on n'est pas obligé d'être développeur: c'est bon aussi pour les RH (onboarding), les commerciaux 😱 (préparer une réponse à plusieurs), ... Et c'est un super outil collaboratif, de veille, de partage d'informations (gain de temps), de documentation ... de rangement aussi: je suis devenu tellement addict que j'en ai un qui tourne en local pour mes docs, snippets, sides projects, ... L'utiliser comme ceci c'est aussi un moyen doux pour apprendre à s'en servir et en montrer l'intérêt aux populations non techniques.",
+                  "tags": [
+                      "DVCS",
+                      "Gestion de configuration",
+                      "Git",
+                      "RH",
+                      "GitHub",
+                      "GitLab",
+                      "Commerciaux"
+                  ],
+                  "lang": [
+                      "fr"
+                  ]
+              }
+          ],
+          "cities": [
+              "Lyon",
+              "Grenoble",
+              "Nantes",
+              "Paris"
+          ],
+          "contacts": {
+              "twitter": "@k33g_org",
+              "mail": "ph.charriere@gmail.com"
           }
       }
   ],
