@@ -13309,19 +13309,19 @@ var data = {
           ]
         },
         {
-           "title": "3 axes pour l’engagement au travail racontés en 20 minutes",
-           "abstract": "Le désengagement des collaborateurs est un sujet d’inquiétude dans de nombreuses entreprises. Cependant, le management ne peut pas décréter l’engagement des équipes. Vous pouvez être moteur en travaillant autour de 3 axes : le recrutement des équipes, la transparence et le team building. Pas de blabla juste des exemples concrets mis en place chez Lucca.",
-           "tags": [
-             "engagement",
-             "team building",
-             "recrutement",
-             "transparence",
-             "management"
-           ],
-           "lang": [
-             "fr"
-           ]
-         }
+          "title": "3 axes pour l’engagement au travail racontés en 20 minutes",
+          "abstract": "Le désengagement des collaborateurs est un sujet d’inquiétude dans de nombreuses entreprises. Cependant, le management ne peut pas décréter l’engagement des équipes. Vous pouvez être moteur en travaillant autour de 3 axes : le recrutement des équipes, la transparence et le team building. Pas de blabla juste des exemples concrets mis en place chez Lucca.",
+          "tags": [
+            "engagement",
+            "team building",
+            "recrutement",
+            "transparence",
+            "management"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
       ],
       "cities": [
         "Nantes"
@@ -13365,30 +13365,30 @@ var data = {
       }
     },
     {
-     "since": "2016-08-17",
-     "name": "Quentin Ambard",
-     "bio": "Developer big data, Java, Scala, Machine Learning",
-     "picture": "https://en.gravatar.com/userimage/5355706/f1d4dca3b11cb230b97facd2c8d093be.jpg?size=300",
-     "location": "Paris, proche banlieue et La Défense",
-     "sessions": [
-         {
-             "title": "Intro au Machine Learning pour devs",
-             "abstract": "1 heure pour parcourir les algos stars du machine learning. Pas de code, les grands concepts accompagnés d'un peu de maths. Au programme : regression linéaire, classification (regression logistique/svm/tree), réseau de neurones, deep learning.",
-             "tags": [
-                 "Machine Learning",
-                 "Réseau de neurones",
-                 "Deep Learning"
-             ],
-             "lang": [
-                 "fr"
-             ]
-         }
-     ],
-     "cities": ["Paris"],
-     "contacts": {
-         "twitter": "qambard",
-         "mail": "quentin.ambard@gmail.com"
-     }
+      "since": "2016-08-17",
+      "name": "Quentin Ambard",
+      "bio": "Developer big data, Java, Scala, Machine Learning",
+      "picture": "https://en.gravatar.com/userimage/5355706/f1d4dca3b11cb230b97facd2c8d093be.jpg?size=300",
+      "location": "Paris, proche banlieue et La Défense",
+      "sessions": [
+        {
+          "title": "Intro au Machine Learning pour devs",
+          "abstract": "1 heure pour parcourir les algos stars du machine learning. Pas de code, les grands concepts accompagnés d'un peu de maths. Au programme : regression linéaire, classification (regression logistique/svm/tree), réseau de neurones, deep learning.",
+          "tags": [
+            "Machine Learning",
+            "Réseau de neurones",
+            "Deep Learning"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": ["Paris"],
+      "contacts": {
+        "twitter": "qambard",
+        "mail": "quentin.ambard@gmail.com"
+      }
     },
     {
       "since": "2016-09-10",
@@ -13548,30 +13548,30 @@ var data = {
       }
     },
     {
-     "since": "2016-09-27",
-     "name": "Mélanie Foucher",
-     "bio": "Ux designer chez Lucca",
-     "picture": "http://fr.gravatar.com/melouleloup",
-     "location": "Nantes",
-     "sessions": [
-       {
-         "title": "Comment captiver votre public en montrant moins mais mieux ?",
-         "abstract": "Qu’il soit l’heure du déjeuner ou de la digestion assurez-vous que votre public suivra à la fois vos slides et votre propos.",
-         "tags": [
-           "Design",
-           "Présentation"
-         ],
-         "lang": [
-           "fr"
-         ]
-       }
-     ],
-     "cities": [
-       "Nantes"
-     ],
-     "contacts": {
-       "mail": "mfoucher@lucca.fr"
-     }
+      "since": "2016-09-27",
+      "name": "Mélanie Foucher",
+      "bio": "Ux designer chez Lucca",
+      "picture": "http://fr.gravatar.com/melouleloup",
+      "location": "Nantes",
+      "sessions": [
+        {
+          "title": "Comment captiver votre public en montrant moins mais mieux ?",
+          "abstract": "Qu’il soit l’heure du déjeuner ou de la digestion assurez-vous que votre public suivra à la fois vos slides et votre propos.",
+          "tags": [
+            "Design",
+            "Présentation"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "mail": "mfoucher@lucca.fr"
+      }
     },
     {
       "since": "2016-09-29",
@@ -13718,14 +13718,14 @@ var data = {
       "bio": "Developpeur, Scrum Master, Artisan du SI",
       "picture": "https://www.gravatar.com/avatar/f2e8cfc6c2f76441b3b8c110fcb12b23?s=256",
       "websites": [
-          {
-              "name": "LinkedIn",
-              "url": "https://www.linkedin.com/in/francoiswauquier"
-          },
-          {
-              "name": "Blog",
-              "url": "http://wokier.blogspot.fr/"
-          }
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/francoiswauquier"
+        },
+        {
+          "name": "Blog",
+          "url": "http://wokier.blogspot.fr/"
+        }
       ],
       "contacts": {
         "mail": "wokier@gmail.com",
@@ -13770,89 +13770,89 @@ var data = {
         }
       ],
       "cities": [
-          "Paris",
-          "Versailles",
-          "Lille"
+        "Paris",
+        "Versailles",
+        "Lille"
       ]
     },
     {
-        "since": "2016-10-12",
-        "name": "Julien Sebrien",
-        "bio": "CTO Geneticio, Developpeur",
-        "picture": "https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thumb,g_auto/nmsr9gkp89ch0dz7cyzt.jpg",
-        "websites": [
-            {
-                "name": "Linkedin",
-                "url": "https://www.linkedin.com/in/julien-sebrien-878218a"
-            },
-            {
-                "name": "Blog",
-                "url": "https://genetic.io/fr/blog/"
-            }
-        ],
-        "contacts": {
-          "mail": "julien.sebrien@genetic.io",
-          "twitter": "jsebrien"
+      "since": "2016-10-12",
+      "name": "Julien Sebrien",
+      "bio": "CTO Geneticio, Developpeur",
+      "picture": "https://cloudinary-a.akamaihd.net/hopwork/image/upload/w_360,h_340,c_thumb,g_auto/nmsr9gkp89ch0dz7cyzt.jpg",
+      "websites": [
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/julien-sebrien-878218a"
         },
-        "location": "Paris",
-        "sessions": [
-            {
-                "title": "Introduction aux algorithmes génétiques",
-                "abstract": "Présentation des algorithmes génétiques, appartenant à la famille des algorithmes évolutionnistes, et de cas d'études pédagogiques (tobeornottobe, smart rockets).",
-                "tags": [
-                    "algorithmes génétiques",
-                    "intelligence artificielle",
-                    "évolution"
-                ],
-                "lang": [
-                    "fr"
-                ]
-            }
-        ],
-        "cities": [
-            "Paris"
-        ]
+        {
+          "name": "Blog",
+          "url": "https://genetic.io/fr/blog/"
+        }
+      ],
+      "contacts": {
+        "mail": "julien.sebrien@genetic.io",
+        "twitter": "jsebrien"
+      },
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Introduction aux algorithmes génétiques",
+          "abstract": "Présentation des algorithmes génétiques, appartenant à la famille des algorithmes évolutionnistes, et de cas d'études pédagogiques (tobeornottobe, smart rockets).",
+          "tags": [
+            "algorithmes génétiques",
+            "intelligence artificielle",
+            "évolution"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ]
     },
     {
-        "since": "2016-10-26",
-        "name": "Yoann Buch",
-        "bio": "Co-fondateur de Flow (http://findtheflow.io), Développeur",
-        "picture": "https://www.gravatar.com/avatar/e600f3739070d957a1393e02c935bacc?s=250",
-        "websites": [
-            {
-                "name": "Web",
-                "url": "http://findtheflow.io"
-            },
-            {
-                "name": "Linkedin",
-                "url": "https://fr.linkedin.com/in/yoannbuch"
-            }
-        ],
-        "contacts": {
-          "mail": "yoann.buch@gmail.com",
-          "twitter": "YoannBuch"
+      "since": "2016-10-26",
+      "name": "Yoann Buch",
+      "bio": "Co-fondateur de Flow (http://findtheflow.io), Développeur",
+      "picture": "https://www.gravatar.com/avatar/e600f3739070d957a1393e02c935bacc?s=250",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://findtheflow.io"
         },
-        "location": "Paris, Lyon",
-        "sessions": [
-            {
-                "title": "Comprendre rapidement une application legacy",
-                "abstract": "Que le but soit de débugger, refactorer, migrer ou encore étendre une application il faut nécessairement comprendre comment elle fonctionne. Et ce n’est pas gagné, surtout si on ne connaît pas bien le code, la documentation n’est pas à jour et les experts sont partis. Pour s’en sortir on a recours à nos outils de toujours : la lecture de code, l’ajout de print/log, le debugger ou encore le profiler. Malheureusement ils ne répondent pas à toutes nos questions de manière efficace. C’est pour aller aux delà de leurs limites que Flow (http://findtheflow.io) a été créé. Il aide les développeurs à comprendre plus rapidement la structure et le comportement de leurs applications Java en leur permettant d’explorer visuellement les exécutions. Ce BBL sera animé par Yoann Buch et Yiquan Zhou tous les deux créateurs de Flow. Il s’adresse aux développeurs Java mais aussi, plus généralement, à tous ceux qui veulent mieux comprendre leurs applications.",
-                "tags": [
-                    "Code Legacy",
-                    "Legacy",
-                    "Agile",
-                    "Java",
-                    "Craftmanship"
-                ],
-                "lang": [
-                    "fr"
-                ]
-            }
-        ],
-        "cities": [
-            "Paris",
-            "Lyon"
-        ]
+        {
+          "name": "Linkedin",
+          "url": "https://fr.linkedin.com/in/yoannbuch"
+        }
+      ],
+      "contacts": {
+        "mail": "yoann.buch@gmail.com",
+        "twitter": "YoannBuch"
+      },
+      "location": "Paris, Lyon",
+      "sessions": [
+        {
+          "title": "Comprendre rapidement une application legacy",
+          "abstract": "Que le but soit de débugger, refactorer, migrer ou encore étendre une application il faut nécessairement comprendre comment elle fonctionne. Et ce n’est pas gagné, surtout si on ne connaît pas bien le code, la documentation n’est pas à jour et les experts sont partis. Pour s’en sortir on a recours à nos outils de toujours : la lecture de code, l’ajout de print/log, le debugger ou encore le profiler. Malheureusement ils ne répondent pas à toutes nos questions de manière efficace. C’est pour aller aux delà de leurs limites que Flow (http://findtheflow.io) a été créé. Il aide les développeurs à comprendre plus rapidement la structure et le comportement de leurs applications Java en leur permettant d’explorer visuellement les exécutions. Ce BBL sera animé par Yoann Buch et Yiquan Zhou tous les deux créateurs de Flow. Il s’adresse aux développeurs Java mais aussi, plus généralement, à tous ceux qui veulent mieux comprendre leurs applications.",
+          "tags": [
+            "Code Legacy",
+            "Legacy",
+            "Agile",
+            "Java",
+            "Craftmanship"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris",
+        "Lyon"
+      ]
     },
     {
       "since": "2016-11-20",
@@ -13894,67 +13894,67 @@ var data = {
       }
     },
     {
-        "since": "2016-12-15",
-        "name": "Igor Laborie",
-        "bio": "Développeur passionné, je suis expert Java et Web chez MonkeyPatch",
-        "picture": "https://ilaborie.org/images/947f7969.me.jpg",
-        "websites": [
-            {
-                "name": "Web",
-                "url": "http://ilaborie.org"
-            },
-            {
-                "name": "Linkedin",
-                "url": "https://www.linkedin.com/in/igor-laborie-080ab78"
-            },
-            {
-                "name": "Blog",
-                "url": "http://www.monkeypatch.io/blog/"
-            }
-        ],
-        "contacts": {
-          "mail": "igor@monkeypatch.io",
-          "twitter": "ilaborie"
+      "since": "2016-12-15",
+      "name": "Igor Laborie",
+      "bio": "Développeur passionné, je suis expert Java et Web chez MonkeyPatch",
+      "picture": "https://ilaborie.org/images/947f7969.me.jpg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://ilaborie.org"
         },
-        "location": "Toulouse",
-        "sessions": [
-            {
-                "title": "Micorservices & Feign",
-                "abstract": "Petite intro sur les microservices, avant de présenter le client REST Java : Feign. Beaucoup de live coding, avec beaucoup de Java 8, un peu de CircuitBreaker, du RxJava, ...",
-                "tags": [
-                    "REST",
-                    "HTTP",
-                    "Feign",
-                    "Java"
-                ],
-                "lang": [
-                    "fr"
-                ]
-            }, {
-                "title": "JavaScript pour les développeurs Java",
-                "abstract": "Pourquoi JavaScript est un langage difficile à appréhender pour les développeur(es) Java. On en profitera pour voir les bases de NodeJS, et les apports intéressants de ES2015.",
-                "tags": [
-                    "JavaScript",
-                    "ES6",
-                    "NodeJS"
-                ],
-                "lang": [
-                    "fr"
-                ]
-              }, {
-                "title": "Les nouveautés de Java 8",
-                "abstract": "Tour d'horizon des nouveautés apportées par cette version majeure de Java",
-                "tags": [
-                    "Java"
-                ],
-                "lang": [
-                    "fr"
-                ]
-            }
-        ],
-        "cities": [
-            "Toulouse"
-        ]
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/igor-laborie-080ab78"
+        },
+        {
+          "name": "Blog",
+          "url": "http://www.monkeypatch.io/blog/"
+        }
+      ],
+      "contacts": {
+        "mail": "igor@monkeypatch.io",
+        "twitter": "ilaborie"
+      },
+      "location": "Toulouse",
+      "sessions": [
+        {
+          "title": "Micorservices & Feign",
+          "abstract": "Petite intro sur les microservices, avant de présenter le client REST Java : Feign. Beaucoup de live coding, avec beaucoup de Java 8, un peu de CircuitBreaker, du RxJava, ...",
+          "tags": [
+            "REST",
+            "HTTP",
+            "Feign",
+            "Java"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }, {
+          "title": "JavaScript pour les développeurs Java",
+          "abstract": "Pourquoi JavaScript est un langage difficile à appréhender pour les développeur(es) Java. On en profitera pour voir les bases de NodeJS, et les apports intéressants de ES2015.",
+          "tags": [
+            "JavaScript",
+            "ES6",
+            "NodeJS"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }, {
+          "title": "Les nouveautés de Java 8",
+          "abstract": "Tour d'horizon des nouveautés apportées par cette version majeure de Java",
+          "tags": [
+            "Java"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Toulouse"
+      ]
     },
     {
       "since": "2017-01-01",
@@ -14178,68 +14178,68 @@ var data = {
         {
           "title": "SOA libre et efficace",
           "abstract": "Apache Servicemix, Apache Activemq, Apache Camel, Hawtio, en architecture OSGI et microservices, parce que l'on a toujours besoin de communiquer entre plusieurs applications, découvrez la puissance et la simplicité de Servicemix.",
-          "tags": [ "API", "Agile", "Asynchrone", "Continuous Delivery", "DevOps", "Industrialisation", "Ingénierie agile", "Intégration", "Java", "Maven", "Micro-Services", "Open Source", "Ops", "Outils", "Stratégie" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["API", "Agile", "Asynchrone", "Continuous Delivery", "DevOps", "Industrialisation", "Ingénierie agile", "Intégration", "Java", "Maven", "Micro-Services", "Open Source", "Ops", "Outils", "Stratégie"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Crawling",
           "abstract": "Outlis de crawling, mémoire/stockage/reprise des éléments déjà crawlés, difficultés javascript/DOM, Selenium, Webdriver, PhantomJS, Nutch...",
-          "tags": [ "Agile", "Architecture", "Asynchrone", "Automatisation", "Big Data", "Cloud", "Continuous Delivery", "Data Mining", "Elasticsearch", "Intégration", "Monitoring", "NoSQL", "Nutch", "Open Source", "SolR", "supervision", "Watir", "Webdriver" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Agile", "Architecture", "Asynchrone", "Automatisation", "Big Data", "Cloud", "Continuous Delivery", "Data Mining", "Elasticsearch", "Intégration", "Monitoring", "NoSQL", "Nutch", "Open Source", "SolR", "supervision", "Watir", "Webdriver"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Appropriation de données, parsing, formatting",
           "abstract": "Aller chercher, parser, reconnaitre, stocker, restituer, utiliser le web comme une immense base de données formatée ouverte c'est maintenant possible. Présentation des outils Nutch, Parsing en XPatch, Solr, ElasticSearch, Kibana, Cassandra...",
-          "tags": [ "Agile", "Asynchrone", "Big Data", "Data Mining", "Elasticsearch", "Ingénierie agile", "Kibana", "KPI", "Machine learning", "NoSQL", "Nutch", "Open Source", "Scalabilité", "SolR", "Webdriver" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Agile", "Asynchrone", "Big Data", "Data Mining", "Elasticsearch", "Ingénierie agile", "Kibana", "KPI", "Machine learning", "NoSQL", "Nutch", "Open Source", "Scalabilité", "SolR", "Webdriver"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Introduction aux Big Data avec Hadoop",
           "abstract": "Hadoop permet de travailler sur des petaoctets de données en des temps records grâce à son architecture distribuée. Découvrez comment cela fonctionne. Au programme : Architecture, HDFS, Map/Reduce, Impala, Scoop, Spark et pourquoi pas R :-)",
-          "tags": [ "Architecture", "Big Data", "Data Mining", "Hadoop", "HDFS", "Impala", "Java", "NoSQL", "Open Source", "Scalabilité", "SolR", "Spark" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Architecture", "Big Data", "Data Mining", "Hadoop", "HDFS", "Impala", "Java", "NoSQL", "Open Source", "Scalabilité", "SolR", "Spark"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Git & GitHub & Open Source",
           "abstract": "Présentation de Git, des différences par rapport à d'autres systèmes tels que Subversion, de son écosystème.",
-          "tags": [ "Agile", "Automatisation", "Build", "Continuous Delivery", "Git", "Industrialisation", "Ingénierie agile", "IT automation", "Java", "Jenkins", "Maven", "Open Source", "Stratégie", "TDD", "Test" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Agile", "Automatisation", "Build", "Continuous Delivery", "Git", "Industrialisation", "Ingénierie agile", "IT automation", "Java", "Jenkins", "Maven", "Open Source", "Stratégie", "TDD", "Test"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Devops et Integration Continue",
           "abstract": "Outils et méthodes pour les équipes de développement qui veulent réussir opérationnellement dans l'agilité.",
-          "tags": [ "Agile", "Architecture", "Automatisation", "Build", "Cloud", "Continuous Delivery", "DevOps", "Docker", "Git", "Industrialisation", "Ingénierie agile", "Jenkins", "KPI", "Open Source", "Ops", "Outils", "TDD", "Test", "Tests unitaires", "Usine logicielle" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Agile", "Architecture", "Automatisation", "Build", "Cloud", "Continuous Delivery", "DevOps", "Docker", "Git", "Industrialisation", "Ingénierie agile", "Jenkins", "KPI", "Open Source", "Ops", "Outils", "TDD", "Test", "Tests unitaires", "Usine logicielle"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Les tests automatisés, ça n'est pas possible chez moi...",
           "abstract": "...vraiment ? Et si on regardait ?",
-          "tags": [ "Agile", "Automatisation", "Build", "Continuous Delivery", "Ingénierie agile", "Outils", "TDD", "Test", "Tests unitaires", "Usine logicielle", "Watir", "Webdriver" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Agile", "Automatisation", "Build", "Continuous Delivery", "Ingénierie agile", "Outils", "TDD", "Test", "Tests unitaires", "Usine logicielle", "Watir", "Webdriver"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Virtualisation d'accord, mais après",
           "abstract": "VMWare, OpenStack, AWS, Google Cloud Platform, Azure, Heroku, VirtualBox, Hyper-V, OVH Cloud, Docker et Vagrant... Au delà du <a href='https://www.cloudorado.com/cloud_server_comparison.jsp' target='_blank'>coût facial</a>  je vous présente mes retours d'expérience en terme de prix final, qualité de service, complexité de scalabilité et exploitation en production.",
-          "tags": [ "Agile", "Amazon", "Architecture", "Automatisation", "AWS", "Azure", "Cloud", "Continuous Delivery", "DevOps", "Docker", "Git", "Ingénierie agile", "IT automation", "Monitoring", "Ops", "Outils", "Performance", "Scalabilité", "Sécurité", "Stratégie", "supervision", "Usine logicielle" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Agile", "Amazon", "Architecture", "Automatisation", "AWS", "Azure", "Cloud", "Continuous Delivery", "DevOps", "Docker", "Git", "Ingénierie agile", "IT automation", "Monitoring", "Ops", "Outils", "Performance", "Scalabilité", "Sécurité", "Stratégie", "supervision", "Usine logicielle"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Monitoring et Alerting opensource",
           "abstract": "Si vous pensez qu'une solution de monitoring est forcement payante et/ou en mode SaaS ? Je vous propose de vous prouver le contraire ou comment via des outils opensource simple, puissants et ouverts, vous pouvez adresser vos problématiques de qualité de service.",
-          "tags": [ "Architecture", "Asynchrone", "Automatisation", "Cloud", "Elasticsearch", "Ingénierie agile", "IT automation", "Kibana", "KPI", "Métrique", "Monitoring", "Open Source", "Outils", "Performance", "Scalabilité", "supervision" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Architecture", "Asynchrone", "Automatisation", "Cloud", "Elasticsearch", "Ingénierie agile", "IT automation", "Kibana", "KPI", "Métrique", "Monitoring", "Open Source", "Outils", "Performance", "Scalabilité", "supervision"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Opensource pour les administrations et les collectivités locales",
           "abstract": "En France, au Royaume Uni, aux Etats Unis et partout dans l’Union Européenne, les gouvernements ont formulé des recommandations favorables à l’usage de logiciels open source dans leurs administrations. Le choix de systèmes d'information et l'interoperabilité de ceux-ci, sont la trâme future de notre bien commun numérique national. Maintenant comment on fait ;-) ?",
-          "tags": [ "Architecture", "Asynchrone", "Automatisation", "Build", "Cloud", "Continuous Delivery", "Cryptographie", "DevOps", "Git", "Industrialisation", "Ingénierie agile", "Intégration", "IT automation", "Micro-Services", "MicroServices", "Outils", "Sécurité", "Stratégie", "Usine logicielle" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Architecture", "Asynchrone", "Automatisation", "Build", "Cloud", "Continuous Delivery", "Cryptographie", "DevOps", "Git", "Industrialisation", "Ingénierie agile", "Intégration", "IT automation", "Micro-Services", "MicroServices", "Outils", "Sécurité", "Stratégie", "Usine logicielle"],
+          "lang": ["fr", "en", "es"]
         },
         {
           "title": "Offshore programming",
           "abstract": "20 années d'expérience en Offshore programming (Biélorussie, Ukraine, Egypte, Chine, Inde, Maroc, Colombie, Sri Lanka....). Le pays et la langue importent beaucoup moins que la démarche, les outils de suivi, et l'adéquation entre votre niveau d'industrialisation informatique et le processus que vous allez mettre en place !",
-          "tags": [ "Agile", "Architecture", "Automatisation", "Build", "Continuous Delivery", "DevOps", "Industrialisation", "Intégration", "IT automation", "Open Source", "Ops", "Outils", "Performance", "Scalabilité", "Sécurité", "Stratégie", "supervision", "TDD", "Test", "Tests unitaires", "Usine logicielle" ],
-          "lang": [ "fr", "en", "es" ]
+          "tags": ["Agile", "Architecture", "Automatisation", "Build", "Continuous Delivery", "DevOps", "Industrialisation", "Intégration", "IT automation", "Open Source", "Ops", "Outils", "Performance", "Scalabilité", "Sécurité", "Stratégie", "supervision", "TDD", "Test", "Tests unitaires", "Usine logicielle"],
+          "lang": ["fr", "en", "es"]
         }
       ],
       "cities": [
@@ -14255,42 +14255,42 @@ var data = {
       "bio": "Développeur full stack Java/JS, Formateur JS",
       "picture": "https://avatars2.githubusercontent.com/u/576429?v=3&s=460",
       "websites": [
-          {
-              "name": "GitHub",
-              "url": "https://github.com/jbcazaux/"
-          },
-          {
-              "name": "Web",
-              "url": "http://codox.fr/cv/"
-          },
-          {
-              "name": "Web",
-              "url": "http://codox.fr/react-ts-bbl"
-          }
+        {
+          "name": "GitHub",
+          "url": "https://github.com/jbcazaux/"
+        },
+        {
+          "name": "Web",
+          "url": "http://codox.fr/cv/"
+        },
+        {
+          "name": "Web",
+          "url": "http://codox.fr/react-ts-bbl"
+        }
 
       ],
       "location": "Paris",
       "sessions": [
-          {
-              "title": "ReactJS avec Typescript2 et ES6",
-              "abstract": "Vue d'ensemble de React avec le langage typé Typescript. Exemples, best practices, et comparaisons avec Angular",
-              "tags": [
-                  "React",
-                  "Typescript",
-                  "ES6",
-                  "Angular"
-              ],
-              "lang": [
-                  "fr"
-              ]
-          }
+        {
+          "title": "ReactJS avec Typescript2 et ES6",
+          "abstract": "Vue d'ensemble de React avec le langage typé Typescript. Exemples, best practices, et comparaisons avec Angular",
+          "tags": [
+            "React",
+            "Typescript",
+            "ES6",
+            "Angular"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
       ],
       "cities": [
-          "Paris"
+        "Paris"
       ],
       "contacts": {
-          "twitter": "jbcazaux",
-          "mail": "jbcazaux@gmail.com"
+        "twitter": "jbcazaux",
+        "mail": "jbcazaux@gmail.com"
       }
     },
     {
@@ -14325,26 +14325,26 @@ var data = {
         {
           "title": "La programmation fonctionnelle (en JavaScript) pour les nuls",
           "abstract": "Découvrir les concepts de base de la programmation fonctionnelle avec JavaScript et comprendre quel est l'intérêt de ce paradigme de programmation.",
-          "tags": [ "JavaScript", "Programmation fonctionnelle" ],
-          "lang": [ "fr" ]
+          "tags": ["JavaScript", "Programmation fonctionnelle"],
+          "lang": ["fr"]
         },
         {
           "title": "Sass, pratique tout de suite",
           "abstract": "Sass est devenu en peu de temps le pré-processeur CSS le plus populaire. Vous ne l’utilisez pas encore ?! Plus pour longtemps, car cet atelier vous apprendra à utiliser Sass, de manière progressive, pour tirer pleinement profit de ses possibilités.",
-          "tags": [ "Atelier", "Sass", "CSS", "Pré-processeur" ],
-          "lang": [ "fr" ]
+          "tags": ["Atelier", "Sass", "CSS", "Pré-processeur"],
+          "lang": ["fr"]
         },
         {
           "title": "Let's sketch together",
           "abstract": "Un véritable atelier de collaboration entre les différents profils (métiers, développeurs, graphistes, ergonomes) participant à l'élaboration d'un produit numérique.",
-          "tags": [ "Atelier", "Agile", "Collaboration", "Sketching", "UX" ],
-          "lang": [ "fr" ]
+          "tags": ["Atelier", "Agile", "Collaboration", "Sketching", "UX"],
+          "lang": ["fr"]
         },
         {
           "title": "Lego4Scrum",
           "abstract": "L'atelier de référence pour vous sensibiliser à une approche Agile / Scrum, le tout avec des Lego.",
-          "tags": [ "Atelier", "Agile", "Scrum", "Collaboration", "Lego" ],
-          "lang": [ "fr" ]
+          "tags": ["Atelier", "Agile", "Scrum", "Collaboration", "Lego"],
+          "lang": ["fr"]
         }
       ],
       "cities": [
@@ -14356,696 +14356,769 @@ var data = {
       }
     },
     {
-          "since": "2017-03-14",
-          "name": "Riadh MNASRI",
-          "bio": "Architecte/Développeur Java/JS, Freelance",
-          "picture": "https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200",
-          "websites": [
-              {
-                  "name": "Web",
-                  "url": "http://www.riadh-mnasri.com"
-              }
-          ],
-          "location": "Paris, remote",
-          "sessions": [
-              {
-                  "title": "Initiation Spring Boot",
-                  "abstract": "Une session d'initiation à Spring boot avec une séance de live coding",
-                  "tags": [
-                      "Java",
-                      "Spring"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "Bonnes pratiques tests unitaires en Java",
-                  "abstract": "Je vous propose une séance de bonnes pratiques tests unitaires JUnit, AssertJ, ...",
-                  "tags": [
-                      "Tests unitaires",
-                      "Junit",
-                      "AssertJ"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              },
-              {
-                  "title": "Initiation Docker",
-                  "abstract": "Une sécance d'initiation à Docker du concept à la pratique",
-                  "tags": [
-                      "Docker",
-                      "Container"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              },
-              {
-                  "title": "Ma première application Angular",
-                  "abstract": "Développer votre première application Angular 2",
-                  "tags": [
-                      "Angular",
-                      "TypeScript"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              },
-              {
-                  "title": "Comprendre les nouveautés Java 8",
-                  "abstract": "Comprendre l'utilisation des stream, des lambda, ....",
-                  "tags": [
-                      "Java 8",
-                      "Lambda",
-                      "Stream"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              }
-          ],
-          "cities": [
-              "Paris"
-          ],
-          "contacts": {
-              "twitter": "riadhmnasri",
-              "mail": "riadh.mnasri@gmail.com"
-          }
-      },
-      {
-          "since": "2017-03-14",
-          "name": "Nicolas Steinmetz",
-          "bio": "Architecte Web & DevOps, CérénIT",
-          "picture": "https://nicolas.steinmetz.fr/public/ns_240x160.jpg",
-          "websites": [
-              {
-                  "name": "Web",
-                  "url": "https://www.cerenit.fr/"
-              },
-              {
-                  "name": "Web",
-                  "url": "https://nicolas.steinmetz.fr/"
-              },
-              {
-                  "name": "LinkedIn",
-                  "url": "https://linkedin.com/in/nicolassteinmetz/"
-              },
-              {
-                  "name": "HopWork",
-                  "url": "https://www.hopwork.fr/profile/nicolassteinmetz"
-              },
-          ],
-          "location": "Ouest parisien (proche Versailles) , remote",
-          "sessions": [
-              {
-                  "title": "Introduction à la plateforme Docker",
-                  "abstract": "Introduction et présentation interactive sur Docker et son écosystème (docker-compose, docker swarm, docker machine, registry, etc) pour permettre de mieux appréhender l'intérêt des containers.",
-                  "tags": [
-                      "docker",
-                      "container",
-                      "devops",
-                      "administration système"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "Introduction à Ansible",
-                  "abstract": "Introduction et présentation interactive sur Ansible et retour d'expérience sur l'utilisation d'Ansible sur de nombreux projets",
-                  "tags": [
-                      "automatisation",
-                      "industrialisation",
-                      "ansible",
-                      "devops",
-                      "administration système"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "TICK-tac, collecter et exploiter vos données temporelles",
-                  "abstract": "Introduction et présentation interactive de la plateforme TICK (Telegraf, InfluxDB, Chronograf, Kapacitor) et de Grafana pour vous permettre de collecter et exploiter facilement des données temporelles (monitoring, etc) sous la forme de graphs, tableaux, dashboards et d'interagir avec celles-ci.",
-                  "tags": [
-                      "tick",
-                      "telegraf",
-                      "influxdb",
-                      "chronograf",
-                      "kapacitor",
-                      "grafana",
-                      "time series",
-                      "données temporelles"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "Le Reverse Proxy - ce majordome à votre service",
-                  "abstract": "Le Reverse Proxy est un composant souvent mal aimé ou ignoré des développeurs. Pourtant, il peut être utile dans de nombreux cas. Je vous propose de revoir ces cas ensemble.",
-                  "tags": [
-                      "proxy",
-                      "apache",
-                      "nginx",
-                      "traefik",
-                      "devops",
-                      "web",
-                      "reverse proxy",
-                      "administration système",
-                      "sécurité"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-          ],
-          "cities": [
-              "Versailles",
-              "Saint-Quentin-En-Yvelines"
-          ],
-          "contacts": {
-              "twitter": "_CerenIT",
-              "mail": "contact@cerenit.fr"
-          }
-      },
-      {
-          "since": "2017-03-21",
-          "name": "Guillaume Wallet",
-          "bio": "Software Craftsman, agiliste et développeur passioné, Ch'ti JUG zealot, clean code addict, zythophile",
-          "picture": "https://s.gravatar.com/avatar/af22c5952fd5e43d12016def954cf503?s=216",
-          "cities": [
-              "Lille"
-          ],
-          "contacts": {
-              "twitter": "GuillaumeWallet",
-              "mail": "wallet.guillaume+bblfr@gmail.com"
-          },
-          "sessions": [
-              {
-                  "title": "Le code source c'est comme les toilettes: c'est bien quand ça marche, c'est mieux quand c'est propre!",
-                  "abstract": "Parce qu'une base de code sait nous retourner le respect qu'on lui montre, voyons comment lui témoigner un peu plus notre amour ... <3",
-                  "tags": [
-                      "Clean Code",
-                      "Refactoring",
-                      "Design Patterns"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "Ça ne coûte pas plus cher de bien tester!",
-                  "abstract": "Il y a peut-être un juste milieu entre: 0. ne rien tester du tout et 1. tout tester pour rien ?",
-                  "tags": [
-                      "JUnit",
-                      "JBehave",
-                      "Serenity BDD",
-                      "T.D.D.",
-                      "B.D.D.",
-                      "Tests Unitaires",
-                      "Tests d'Integration",
-                      "Tests End to End"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              }
-          ],
-          "location": "Lille",
-          "websites": [
-              {
-                  "name": "GitHub",
-                  "url": "https://github.com/gwallet"
-              },
-              {
-                  "name": "LinkedIn",
-                  "url": "https://www.linkedin.com/in/guillaumewallet/"
-              },
-              {
-                  "name": "Web",
-                  "url": "http://walletguillaume.blogspot.fr/"
-              }
-          ]
-      },
-      {
-          "since": "2017-04-06",
-          "name": "Arnaud Bailly",
-          "bio": "Couteau suisse du code",
-          "picture": "http://drcode.io/images/arnaud_hero_white.png",
-          "cities": [
-              "Nantes", "Rennes", "Bordeaux", "Tours", "Vannes", "Paris", "Lille"
-          ],
-          "contacts": {
-              "twitter": "dr_c0d3",
-              "mail": "arnaud@drcode.io"
-          },
-          "sessions": [
-              {
-                  "title": "Coding Dojo",
-                  "abstract": "Mettre en place un 'coding dojo' c'est très simple, cela demande uniquement un peu de temps, de bonne volonté et surtout beaucoup de bienveillance et de curiosité.",
-                  "tags": [
-                      "Clean Code",
-                      "TDD",
-                      "XP"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              },
-              {
-                  "title": "TDD à tous les étages",
-                  "abstract": "TDD != tests unitaires. Comment appliquer le cycle du TDD (red-green-refactor) à toutes les étapes du développement et à différents niveaux de granularité, des tests unitaires aux tests d'acceptation et de performance.",
-                  "tags": [
-                      "Tests",
-                      "TDD",
-                      "XP",
-                      "CI"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              },
-              {
-                  "title": "Haskell pour les nuls",
-                  "abstract": "La programmation fonctionnelle, c'est hype, c'est cool, ça groove... mais ça fait peur, surtout en Haskell, un langage réputé pour les matheux. Je vous propose de découvrir ce langage fascinant et le monde merveilleux des types par la pratique.",
-                  "tags": [
-                      "FP", "Haskell", "Type Driven Development"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              },
-              {
-                  "title": "Event Sourcing, Functionally",
-                  "abstract": "L'Event Sourcing est une technique de modélisation et de stockage des données puissante et extrêmement flexible. Comment la mettre en oeuvre en pratique et comment elle entre en résonnance avec les principes de la programmation fonctionnelle, là est la question!",
-                  "tags": [
-                      "FP","EventSourcing", "DDD"
-                  ],
-                  "lang": [
-                      "fr", "en"
-                  ]
-              }
-          ],
-          "location": "Nantes",
-          "websites": [
-              {
-                  "name": "GitHub",
-                  "url": "https://github.com/abailly"
-              },
-              {
-                  "name": "LinkedIn",
-                  "url": "https://www.linkedin.com/in/arnaudbailly/"
-              },
-              {
-                  "name": "Web",
-                  "url": "http://abailly.github.io/"
-              },
-              {
-                  "name": "Web",
-                  "url": "http://drcode.io/"
-              }
-          ]
-      },
-      {
-          "since": "2017-04-09",
-          "name": "Jean Bisutti",
-          "bio": "Développeur Java",
-          "picture": "https://pbs.twimg.com/profile_images/606213307507351552/IJcDzWZo.jpg",
-          "websites": [
-          ],
-          "location": "Paris",
-          "sessions": [
-              {
-                  "title": "Boîte à outils d'investigation des soucis de mémoire JVM",
-                  "abstract": "Votre JVM se met à faire des GC à toute allure? Out Of Memory Error ! Que s'est il passé ? Comment s'y prendre pour mener l'enquête ? Nous allons utiliser différents outils (lignes de commande, profiler, Memory Analyzer Tool, ...) afin de débusquer l'origine des soucis de mémoire causés par quelques classes Java.",
-                  "tags": [
-                      "Java",
-                      "JVM",
-                      "Performances"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              }
-          ],
-          "cities": [
-              "Paris"
-          ],
-          "contacts": {
-              "twitter": "jean_bisutti",
-              "mail": "jean.bisutti@gmail.com"
-          }
-      },
-      {
-        "since": "2017-04-21",
-        "name": "Julien Tanguy",
-        "bio": "Développeur backend/frontend - Valwin",
-        "picture": "https://pbs.twimg.com/profile_images/711247904661499907/NyupMTjB_400x400.jpg",
-        "websites": [
-          {
-            "name": "Web",
-            "url": "https://jtanguy.cleverapps.io"
-          }
-        ],
-        "cities": [
-          "Nantes"
-        ],
-        "contacts": {
-          "twitter": "jutanguy",
-          "mail": "julien.tanguy@jhome.fr"
-        },
-        "sessions": [
-          {
-            "title": "Débuter en React/Redux",
-            "abstract": "Quels sont les concepts clés derrière React/Redux ? Comment débuter un nouveau projet? Comment architecturer de plus grosses applications ?",
-            "tags": [
-              "JavaScript",
-              "React",
-              "Redux",
-              "Programmation fonctionnelle"
-            ],
-            "lang": [
-              "fr"
-            ]
-          },
-          {
-            "title": "Créer des applications frontend en Elm",
-            "abstract": "Elm (elm-lang.org) est un language de programmation pour créer des applications web facile à prendre en main. Compilé en JS, il peut être embarqué dans de nombreuses applications et sites web.",
-            "tags": [
-              "Elm",
-              "Programmation fonctionnelle"
-            ],
-            "lang": [
-              "fr"
-            ]
-          },
-          {
-            "title": "Introduction à Webpack",
-            "abstract": "Webpack est un packager qui vous permet de gérer tout votre arbre de dépendances JS/(S)CSS/Images/Json, idéal pour les frameworks javascript frontend.",
-            "tags": [
-              "JavaScript",
-              "Webpack"
-            ],
-            "lang": [
-              "fr"
-            ]
-          }
-        ]
-      },
-      {
-        "since": "2017-05-01",
-        "name": "Vincent Spiewak",
-        "bio": "Innovation Energyzer @ DailyBrain",
-        "picture": "https://www.gravatar.com/avatar/9a7fcd04ab29f4aa26d57fa7f208f908?s=250",
-        "cities": [ "Paris" ],
-        "contacts": { "twitter": "vspiewak", "mail": "vspiewak+bbl@dailybrain.fr" },
-        "location": "Paris et alentours",
-        "websites": [
-          { "name": "Web", "url": "http://dailybrain.fr" },
-          { "name": "LinkedIn", "url": "https://www.linkedin.com/in/vincentspiewak/" },
-          { "name": "GitHub", "url": "https://github.com/vspiewak" },
-          { "name": "Hopwork", "url": "https://www.hopwork.fr/profile/vincentspiewak" }
-        ],
-        "sessions": [
-          {
-            "title": "Continuous Delivery avec GoCD",
-            "abstract": "Présentation de GoCD, outil remplacant avantageusement ce bon vieux Jenkins :D",
-            "tags": [ "Agile", "Lean", "Startup", "Continuous Delivery", "DevOps" ],
-            "lang": [ "fr" ]
-          }
-        ]
-     },
-     {
-       "since": "2017-05-03",
-       "name": "Olivier Philippot",
-       "bio": "Consultant eco-conception logicielle; |CTO chez Greenspector",
-       "picture": "https://avatars0.githubusercontent.com/u/28344074?v=3&s=460",
-       "websites": [
-         {
-           "name": "Web",
-           "url": "https://greenspector.com/"
-         }
-       ],
-       "location": "Nantes",
-       "sessions": [
-         {
-           "title": "Comment être un développeur ethique et green ? Dilemne entre la course technologique et mon impact sur la société.",
-           "abstract": "Le logiciel est partout. Il est clair que le logiciel a un impact réel sur le monde... Nous, développeurs sommes les architectes du monde virtuel au service du réel. Nos actions ont un effet bien réel. Bénéfique mais aussi néfaste. Exclusion sociale, impact environnemental, obsolescence sont des effets bien réel de nos logiciels. Mais avons nous le choix face au demandes de nos utilisateurs et clients et aux contraintes associées (planning, sécurité...) Et bien oui, c'est le choix qui est fait par de nombreuses sociétés et développeurs : bénévolat comme code for America, Eco-conception de logiciel publique... Etre développeur ethique et green est possibles, nous verrons concretement comme faire cela au jour le jour.",
-           "tags": [
-             "Green",
-             "Eco-conception",
-             "Ethique"           ],
-           "lang": [
-             "fr"
-           ]
-         },
-         {
-           "title": "Iotception : Mesure de l'énergie d'Android Things sur Raspberry avec Arduino",
-           "abstract": "(introduction / live coding / présentation) Découvrez l'IoT avec cette session qui mèle hardware, DIY et logiciel avec l'angle green. Session jouée à Breizhcamp, Android Maker",
-           "tags": [
-             "IoT",
-             "Android Things",
-             "Green",
-             "Raspberry"
-           ],
-           "lang": [
-             "fr"
-           ]
-         },
-         {
-           "title": "Mesurez votre consommation d'énergie sur Android et sur HTML5",
-           "abstract": "L'autonomie est un critère important pour les utilisateurs mobiles mais aussi pour l'iOT. Mais elle est très rarement mesurée par les développeurs d'application ou même de site web ou d'application. On ne découvre des problèmes que trop tard (ou jamais). Les plateformes actuelles fournissent cependant des API permettant de récupérer des données. Android, HTML5... En 5 mn, vous pouvez avoir une donnée d'énergie. Je vous expliquerai comment utiliser ces API, comment utiliser et interpréter les données, et les utiliser dans vos tests.",
-           "tags": [
-             "Android",
-             "HTML5",
-             "Green",
-             "Energie"
-           ],
-           "lang": [
-             "fr"
-           ]
-         }
-       ],
-       "cities": [
-         "Paris",
-         "Nantes",
-         "Rennes"
-       ],
-       "contacts": {
-         "twitter": "simplygreenit",
-         "mail": "ophilippot@greenspector.com"
-       }
-     },
-      {
-        "since": "2017-05-19",
-        "name": "Charles Bouttaz",
-        "bio": "Developer, Agile & Software Craftsmanship advocate. Co-organisateur du LyonJUG et de la conférence MiXiT.",
-        "picture": "https://www.gravatar.com/avatar/bd0f602050b2f95901199d3a3789eb56?size=200",
-        "websites": [
-            {
-                "name": "Web",
-                "url": "http://charles-bouttaz.com"
-            }
-        ],
-        "location": "Lyon",
-        "sessions": [
-            {
-                "title": "Tests unitaires et TDD",
-                "abstract": "Vous aimeriez tester votre code mais vous ne savez pas par ou commencer ? Introduction en douceur à la démarche avec tous les outils (JVM) nécessaires.",
-                "tags": [
-                    "TDD",
-                    "Test",
-                    "Java"
-                ],
-                "lang": [
-                    "fr"
-                ]
-            },
-            {
-                "title": "Coding Dojo",
-                "abstract": "Vous avez envie de découvrir ou d’approfondir des techniques de codes mais vous manquez de temps ? Un coding dojo c’est l’occasion de progresser en groupe et par la pratique. Je peux animer les sujets suivants : TDD, refactoring, clean code, SOLID, design patterns",
-                "tags": [
-                    "Dojo",
-                    "Refactoring",
-                    "Clean Code"
-                ],
-                "lang": [
-                    "fr"
-                ]
-            },
-            {
-                "title": "Le versionning avec Git",
-                "abstract": "Au choix en fonction du niveau : Introduction à Git - les concepts. Git avancé - les trucs et astuces qui changent tout. Git sous le capot - fonctionnement interne de Git.",
-                "tags": [
-                    "Git"
-                ],
-                "lang": [
-                    "fr"
-                ]
-            }
-        ],
-        "cities": [
-            "Lyon"
-        ],
-        "contacts": {
-            "twitter": "CharlesBouttaz",
-            "mail": "c.bouttaz+bbl@gmail.com"
+      "since": "2017-03-14",
+      "name": "Riadh MNASRI",
+      "bio": "Architecte/Développeur Java/JS, Freelance",
+      "picture": "https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://www.riadh-mnasri.com"
         }
-      },
-      {
-          "since": "2017-05-19",
-          "name": "Sébastien Friess",
-          "bio": "Développeur, formateur, team leader et vélotafeur - SFEIR",
-          "picture": "https://en.gravatar.com/userimage/61906989/1de60a01c2a5061f2538aadc2eea8b71.jpg?size=200",
-          "websites": [
-              {
-                  "name": "Web",
-                  "url": "https://sebastienfr.fr"
-              },
-              {
-                  "name": "LinkedIn",
-                  "url": "https://fr.linkedin.com/in/sebastienfr"
-              },
-              {
-                  "name": "GitHub",
-                  "url": "https://github.com/sebastienfr"
-              }
+      ],
+      "location": "Paris, remote",
+      "sessions": [
+        {
+          "title": "Initiation Spring Boot",
+          "abstract": "Une session d'initiation à Spring boot avec une séance de live coding",
+          "tags": [
+            "Java",
+            "Spring"
           ],
-          "location": "Lille",
-          "sessions": [
-              {
-                  "title": "Microservice, comment peler le monolith et en faire de bonnes frites",
-                  "abstract": "Les monoliths ont la vie de plus en plus dure, les microservices deviennent une réalité mais à quoi faut-il faire attention pour aborder ce virage architectural ?",
-                  "tags": [
-                      "Microservice",
-                      "Architecture",
-                      "Monolith"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "Voyage au coeur de Go, ou le périple d'un nouveau langage",
-                  "abstract": "Retour d'expérience d'une année de microservices Golang en production, comment démarrer, Go ses forces et ses faiblesses",
-                  "tags": [
-                      "Go",
-                      "Golang",
-                      "REX",
-                      "Google"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              }
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Bonnes pratiques tests unitaires en Java",
+          "abstract": "Je vous propose une séance de bonnes pratiques tests unitaires JUnit, AssertJ, ...",
+          "tags": [
+            "Tests unitaires",
+            "Junit",
+            "AssertJ"
           ],
-          "cities": [
-              "Paris",
-              "Lille",
-              "Strasbourg"
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Initiation Docker",
+          "abstract": "Une sécance d'initiation à Docker du concept à la pratique",
+          "tags": [
+            "Docker",
+            "Container"
           ],
-          "contacts": {
-              "twitter": "sebastienfriess",
-              "mail": "sebastienfr@gmail.com"
-          }
-      },
-      {
-          "since": "2017-06-04",
-          "name": "Philippe Charrière",
-          "bio": "Tech evangelist, Resp. Commercial 🙀, Développeur, ex Chef de projet, ex Manager, ...  - CLEVER-CLOUD",
-          "picture": "https://www.clever-cloud.com//images/team/philippe-charriere.jpg?size=200",
-          "websites": [
-              {
-                  "name": "Blog",
-                  "url": "http://k33g.github.io/all.html"
-              },
-              {
-                  "name": "LinkedIn",
-                  "url": "https://www.linkedin.com/in/phcharriere/"
-              },
-              {
-                  "name": "GitHub",
-                  "url": "https://github.com/k33g"
-              }
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Ma première application Angular",
+          "abstract": "Développer votre première application Angular 2",
+          "tags": [
+            "Angular",
+            "TypeScript"
           ],
-          "location": "Lyon",
-          "sessions": [
-              {
-                  "title": "Microservices, choisir le bon cheval: Vert.X",
-                  "abstract": "Il n'y a pas encore de standard 🤔, mais il faut être prêt. Vert.X ❤️ permet de construire des solutions 'plateform agnostic' et vous offre quelques helpers sympathiques (Discovery, Circuit Breaker,...). Cette session est l'occasion de voir comment initialiser le code des composants d'une architecture microservices en Vert.x (mais pas que 😉)",
-                  "tags": [
-                      "Microservices",
-                      "Architecture",
-                      "Patterns",
-                      "JavaScript",
-                      "Scala",
-                      "Java"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "Programmation Fonctionnelle en JavaScript",
-                  "abstract": "Le JavaScript est fonctionnel probablement depuis le début, mais c'est aussi un très bon langage pour s'initier à d'autres concepts comme les Functors, les Monades, les Unions Types ... ou en mode Vanilla ou avec Monet (un petit framework fonctionnel simple et très pratique) et d'autres. Cette session est l'occasion de démystifier certains concepts, de voir pourquoi ils sont utiles... A la fin vous pourriez vouloir faire du Scala 😜",
-                  "tags": [
-                      "Programmation Fonctionnelle",
-                      "JavaScript",
-                      "Scala"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "CI, CD ??? Finalement ce n'est pas dur",
-                  "abstract": "Intégration continue, déploiement continu (et d'autres termes) sont des concepts que j'ai utilisé longtemps sans savoir les mettre réellement en oeuvre: j'étais chef de projet 😉 donc c'était l'équipe qui faisait le boulot que j'avais vendu au client 🕺. Mes dernières expériences professionnelles m'ont obligé à le faire moi-même, et finalement j'ai aimé ❤️. Sans être LE spécialiste du domaine, cette session me permet de présenter quelques éléments pour s'y mettre en douceur. Cette session est plutôt pour ceux qui ne se sente pas à l'aise avec le sujet. Nous parlerons de GitHub, Jenkins, et d'autres outils plus ou moins incontournables de nos jour (et un exemple simple de mise en oeuvre reproductible chez vous), mais on ne parlera pas que technique.",
-                  "tags": [
-                      "Intégration Continue",
-                      "Déploiement Continue",
-                      "Jenkins",
-                      "GitHub",
-                      "GitLab",
-                      "Git",
-                      "DEVOPS",
-                      "ChatOps",
-                      "Workflow"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              },
-              {
-                  "title": "Utilisez votre DVCS comme un Intranet (pour autre chose que du code)",
-                  "abstract": "Un an chez GitHub, ça marque 😉 et j'ai découvert que finalement un DVCS (distributed version control system), on peut l'utiliser pour autre chose que du code, et en plus on n'est pas obligé d'être développeur: c'est bon aussi pour les RH (onboarding), les commerciaux 😱 (préparer une réponse à plusieurs), ... Et c'est un super outil collaboratif, de veille, de partage d'informations (gain de temps), de documentation ... de rangement aussi: je suis devenu tellement addict que j'en ai un qui tourne en local pour mes docs, snippets, sides projects, ... L'utiliser comme ceci c'est aussi un moyen doux pour apprendre à s'en servir et en montrer l'intérêt aux populations non techniques.",
-                  "tags": [
-                      "DVCS",
-                      "Gestion de configuration",
-                      "Git",
-                      "RH",
-                      "GitHub",
-                      "GitLab",
-                      "Commerciaux"
-                  ],
-                  "lang": [
-                      "fr"
-                  ]
-              }
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Comprendre les nouveautés Java 8",
+          "abstract": "Comprendre l'utilisation des stream, des lambda, ....",
+          "tags": [
+            "Java 8",
+            "Lambda",
+            "Stream"
           ],
-          "cities": [
-              "Lyon",
-              "Grenoble",
-              "Nantes",
-              "Paris"
-          ],
-          "contacts": {
-              "twitter": "@k33g_org",
-              "mail": "ph.charriere@gmail.com"
-          }
+          "lang": [
+            "fr", "en"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "riadhmnasri",
+        "mail": "riadh.mnasri@gmail.com"
       }
+    },
+    {
+      "since": "2017-03-14",
+      "name": "Nicolas Steinmetz",
+      "bio": "Architecte Web & DevOps, CérénIT",
+      "picture": "https://nicolas.steinmetz.fr/public/ns_240x160.jpg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://www.cerenit.fr/"
+        },
+        {
+          "name": "Web",
+          "url": "https://nicolas.steinmetz.fr/"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://linkedin.com/in/nicolassteinmetz/"
+        },
+        {
+          "name": "HopWork",
+          "url": "https://www.hopwork.fr/profile/nicolassteinmetz"
+        },
+      ],
+      "location": "Ouest parisien (proche Versailles) , remote",
+      "sessions": [
+        {
+          "title": "Introduction à la plateforme Docker",
+          "abstract": "Introduction et présentation interactive sur Docker et son écosystème (docker-compose, docker swarm, docker machine, registry, etc) pour permettre de mieux appréhender l'intérêt des containers.",
+          "tags": [
+            "docker",
+            "container",
+            "devops",
+            "administration système"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Introduction à Ansible",
+          "abstract": "Introduction et présentation interactive sur Ansible et retour d'expérience sur l'utilisation d'Ansible sur de nombreux projets",
+          "tags": [
+            "automatisation",
+            "industrialisation",
+            "ansible",
+            "devops",
+            "administration système"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "TICK-tac, collecter et exploiter vos données temporelles",
+          "abstract": "Introduction et présentation interactive de la plateforme TICK (Telegraf, InfluxDB, Chronograf, Kapacitor) et de Grafana pour vous permettre de collecter et exploiter facilement des données temporelles (monitoring, etc) sous la forme de graphs, tableaux, dashboards et d'interagir avec celles-ci.",
+          "tags": [
+            "tick",
+            "telegraf",
+            "influxdb",
+            "chronograf",
+            "kapacitor",
+            "grafana",
+            "time series",
+            "données temporelles"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Le Reverse Proxy - ce majordome à votre service",
+          "abstract": "Le Reverse Proxy est un composant souvent mal aimé ou ignoré des développeurs. Pourtant, il peut être utile dans de nombreux cas. Je vous propose de revoir ces cas ensemble.",
+          "tags": [
+            "proxy",
+            "apache",
+            "nginx",
+            "traefik",
+            "devops",
+            "web",
+            "reverse proxy",
+            "administration système",
+            "sécurité"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+      ],
+      "cities": [
+        "Versailles",
+        "Saint-Quentin-En-Yvelines"
+      ],
+      "contacts": {
+        "twitter": "_CerenIT",
+        "mail": "contact@cerenit.fr"
+      }
+    },
+    {
+      "since": "2017-03-21",
+      "name": "Guillaume Wallet",
+      "bio": "Software Craftsman, agiliste et développeur passioné, Ch'ti JUG zealot, clean code addict, zythophile",
+      "picture": "https://s.gravatar.com/avatar/af22c5952fd5e43d12016def954cf503?s=216",
+      "cities": [
+        "Lille"
+      ],
+      "contacts": {
+        "twitter": "GuillaumeWallet",
+        "mail": "wallet.guillaume+bblfr@gmail.com"
+      },
+      "sessions": [
+        {
+          "title": "Le code source c'est comme les toilettes: c'est bien quand ça marche, c'est mieux quand c'est propre!",
+          "abstract": "Parce qu'une base de code sait nous retourner le respect qu'on lui montre, voyons comment lui témoigner un peu plus notre amour ... <3",
+          "tags": [
+            "Clean Code",
+            "Refactoring",
+            "Design Patterns"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Ça ne coûte pas plus cher de bien tester!",
+          "abstract": "Il y a peut-être un juste milieu entre: 0. ne rien tester du tout et 1. tout tester pour rien ?",
+          "tags": [
+            "JUnit",
+            "JBehave",
+            "Serenity BDD",
+            "T.D.D.",
+            "B.D.D.",
+            "Tests Unitaires",
+            "Tests d'Integration",
+            "Tests End to End"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "location": "Lille",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/gwallet"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/guillaumewallet/"
+        },
+        {
+          "name": "Web",
+          "url": "http://walletguillaume.blogspot.fr/"
+        }
+      ]
+    },
+    {
+      "since": "2017-04-06",
+      "name": "Arnaud Bailly",
+      "bio": "Couteau suisse du code",
+      "picture": "http://drcode.io/images/arnaud_hero_white.png",
+      "cities": [
+        "Nantes", "Rennes", "Bordeaux", "Tours", "Vannes", "Paris", "Lille"
+      ],
+      "contacts": {
+        "twitter": "dr_c0d3",
+        "mail": "arnaud@drcode.io"
+      },
+      "sessions": [
+        {
+          "title": "Coding Dojo",
+          "abstract": "Mettre en place un 'coding dojo' c'est très simple, cela demande uniquement un peu de temps, de bonne volonté et surtout beaucoup de bienveillance et de curiosité.",
+          "tags": [
+            "Clean Code",
+            "TDD",
+            "XP"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "TDD à tous les étages",
+          "abstract": "TDD != tests unitaires. Comment appliquer le cycle du TDD (red-green-refactor) à toutes les étapes du développement et à différents niveaux de granularité, des tests unitaires aux tests d'acceptation et de performance.",
+          "tags": [
+            "Tests",
+            "TDD",
+            "XP",
+            "CI"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Haskell pour les nuls",
+          "abstract": "La programmation fonctionnelle, c'est hype, c'est cool, ça groove... mais ça fait peur, surtout en Haskell, un langage réputé pour les matheux. Je vous propose de découvrir ce langage fascinant et le monde merveilleux des types par la pratique.",
+          "tags": [
+            "FP", "Haskell", "Type Driven Development"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Event Sourcing, Functionally",
+          "abstract": "L'Event Sourcing est une technique de modélisation et de stockage des données puissante et extrêmement flexible. Comment la mettre en oeuvre en pratique et comment elle entre en résonnance avec les principes de la programmation fonctionnelle, là est la question!",
+          "tags": [
+            "FP", "EventSourcing", "DDD"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        }
+      ],
+      "location": "Nantes",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/abailly"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/arnaudbailly/"
+        },
+        {
+          "name": "Web",
+          "url": "http://abailly.github.io/"
+        },
+        {
+          "name": "Web",
+          "url": "http://drcode.io/"
+        }
+      ]
+    },
+    {
+      "since": "2017-04-09",
+      "name": "Jean Bisutti",
+      "bio": "Développeur Java",
+      "picture": "https://pbs.twimg.com/profile_images/606213307507351552/IJcDzWZo.jpg",
+      "websites": [
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Boîte à outils d'investigation des soucis de mémoire JVM",
+          "abstract": "Votre JVM se met à faire des GC à toute allure? Out Of Memory Error ! Que s'est il passé ? Comment s'y prendre pour mener l'enquête ? Nous allons utiliser différents outils (lignes de commande, profiler, Memory Analyzer Tool, ...) afin de débusquer l'origine des soucis de mémoire causés par quelques classes Java.",
+          "tags": [
+            "Java",
+            "JVM",
+            "Performances"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "jean_bisutti",
+        "mail": "jean.bisutti@gmail.com"
+      }
+    },
+    {
+      "since": "2017-04-21",
+      "name": "Julien Tanguy",
+      "bio": "Développeur backend/frontend - Valwin",
+      "picture": "https://pbs.twimg.com/profile_images/711247904661499907/NyupMTjB_400x400.jpg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://jtanguy.cleverapps.io"
+        }
+      ],
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "twitter": "jutanguy",
+        "mail": "julien.tanguy@jhome.fr"
+      },
+      "sessions": [
+        {
+          "title": "Débuter en React/Redux",
+          "abstract": "Quels sont les concepts clés derrière React/Redux ? Comment débuter un nouveau projet? Comment architecturer de plus grosses applications ?",
+          "tags": [
+            "JavaScript",
+            "React",
+            "Redux",
+            "Programmation fonctionnelle"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Créer des applications frontend en Elm",
+          "abstract": "Elm (elm-lang.org) est un language de programmation pour créer des applications web facile à prendre en main. Compilé en JS, il peut être embarqué dans de nombreuses applications et sites web.",
+          "tags": [
+            "Elm",
+            "Programmation fonctionnelle"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Introduction à Webpack",
+          "abstract": "Webpack est un packager qui vous permet de gérer tout votre arbre de dépendances JS/(S)CSS/Images/Json, idéal pour les frameworks javascript frontend.",
+          "tags": [
+            "JavaScript",
+            "Webpack"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ]
+    },
+    {
+      "since": "2017-05-01",
+      "name": "Vincent Spiewak",
+      "bio": "Innovation Energyzer @ DailyBrain",
+      "picture": "https://www.gravatar.com/avatar/9a7fcd04ab29f4aa26d57fa7f208f908?s=250",
+      "cities": ["Paris"],
+      "contacts": { "twitter": "vspiewak", "mail": "vspiewak+bbl@dailybrain.fr" },
+      "location": "Paris et alentours",
+      "websites": [
+        { "name": "Web", "url": "http://dailybrain.fr" },
+        { "name": "LinkedIn", "url": "https://www.linkedin.com/in/vincentspiewak/" },
+        { "name": "GitHub", "url": "https://github.com/vspiewak" },
+        { "name": "Hopwork", "url": "https://www.hopwork.fr/profile/vincentspiewak" }
+      ],
+      "sessions": [
+        {
+          "title": "Continuous Delivery avec GoCD",
+          "abstract": "Présentation de GoCD, outil remplacant avantageusement ce bon vieux Jenkins :D",
+          "tags": ["Agile", "Lean", "Startup", "Continuous Delivery", "DevOps"],
+          "lang": ["fr"]
+        }
+      ]
+    },
+    {
+      "since": "2017-05-03",
+      "name": "Olivier Philippot",
+      "bio": "Consultant eco-conception logicielle; |CTO chez Greenspector",
+      "picture": "https://avatars0.githubusercontent.com/u/28344074?v=3&s=460",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://greenspector.com/"
+        }
+      ],
+      "location": "Nantes",
+      "sessions": [
+        {
+          "title": "Comment être un développeur ethique et green ? Dilemne entre la course technologique et mon impact sur la société.",
+          "abstract": "Le logiciel est partout. Il est clair que le logiciel a un impact réel sur le monde... Nous, développeurs sommes les architectes du monde virtuel au service du réel. Nos actions ont un effet bien réel. Bénéfique mais aussi néfaste. Exclusion sociale, impact environnemental, obsolescence sont des effets bien réel de nos logiciels. Mais avons nous le choix face au demandes de nos utilisateurs et clients et aux contraintes associées (planning, sécurité...) Et bien oui, c'est le choix qui est fait par de nombreuses sociétés et développeurs : bénévolat comme code for America, Eco-conception de logiciel publique... Etre développeur ethique et green est possibles, nous verrons concretement comme faire cela au jour le jour.",
+          "tags": [
+            "Green",
+            "Eco-conception",
+            "Ethique"],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Iotception : Mesure de l'énergie d'Android Things sur Raspberry avec Arduino",
+          "abstract": "(introduction / live coding / présentation) Découvrez l'IoT avec cette session qui mèle hardware, DIY et logiciel avec l'angle green. Session jouée à Breizhcamp, Android Maker",
+          "tags": [
+            "IoT",
+            "Android Things",
+            "Green",
+            "Raspberry"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Mesurez votre consommation d'énergie sur Android et sur HTML5",
+          "abstract": "L'autonomie est un critère important pour les utilisateurs mobiles mais aussi pour l'iOT. Mais elle est très rarement mesurée par les développeurs d'application ou même de site web ou d'application. On ne découvre des problèmes que trop tard (ou jamais). Les plateformes actuelles fournissent cependant des API permettant de récupérer des données. Android, HTML5... En 5 mn, vous pouvez avoir une donnée d'énergie. Je vous expliquerai comment utiliser ces API, comment utiliser et interpréter les données, et les utiliser dans vos tests.",
+          "tags": [
+            "Android",
+            "HTML5",
+            "Green",
+            "Energie"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris",
+        "Nantes",
+        "Rennes"
+      ],
+      "contacts": {
+        "twitter": "simplygreenit",
+        "mail": "ophilippot@greenspector.com"
+      }
+    },
+    {
+      "since": "2017-05-19",
+      "name": "Charles Bouttaz",
+      "bio": "Developer, Agile & Software Craftsmanship advocate. Co-organisateur du LyonJUG et de la conférence MiXiT.",
+      "picture": "https://www.gravatar.com/avatar/bd0f602050b2f95901199d3a3789eb56?size=200",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://charles-bouttaz.com"
+        }
+      ],
+      "location": "Lyon",
+      "sessions": [
+        {
+          "title": "Tests unitaires et TDD",
+          "abstract": "Vous aimeriez tester votre code mais vous ne savez pas par ou commencer ? Introduction en douceur à la démarche avec tous les outils (JVM) nécessaires.",
+          "tags": [
+            "TDD",
+            "Test",
+            "Java"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Coding Dojo",
+          "abstract": "Vous avez envie de découvrir ou d’approfondir des techniques de codes mais vous manquez de temps ? Un coding dojo c’est l’occasion de progresser en groupe et par la pratique. Je peux animer les sujets suivants : TDD, refactoring, clean code, SOLID, design patterns",
+          "tags": [
+            "Dojo",
+            "Refactoring",
+            "Clean Code"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Le versionning avec Git",
+          "abstract": "Au choix en fonction du niveau : Introduction à Git - les concepts. Git avancé - les trucs et astuces qui changent tout. Git sous le capot - fonctionnement interne de Git.",
+          "tags": [
+            "Git"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Lyon"
+      ],
+      "contacts": {
+        "twitter": "CharlesBouttaz",
+        "mail": "c.bouttaz+bbl@gmail.com"
+      }
+    },
+    {
+      "since": "2017-05-19",
+      "name": "Sébastien Friess",
+      "bio": "Développeur, formateur, team leader et vélotafeur - SFEIR",
+      "picture": "https://en.gravatar.com/userimage/61906989/1de60a01c2a5061f2538aadc2eea8b71.jpg?size=200",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://sebastienfr.fr"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://fr.linkedin.com/in/sebastienfr"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/sebastienfr"
+        }
+      ],
+      "location": "Lille",
+      "sessions": [
+        {
+          "title": "Microservice, comment peler le monolith et en faire de bonnes frites",
+          "abstract": "Les monoliths ont la vie de plus en plus dure, les microservices deviennent une réalité mais à quoi faut-il faire attention pour aborder ce virage architectural ?",
+          "tags": [
+            "Microservice",
+            "Architecture",
+            "Monolith"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Voyage au coeur de Go, ou le périple d'un nouveau langage",
+          "abstract": "Retour d'expérience d'une année de microservices Golang en production, comment démarrer, Go ses forces et ses faiblesses",
+          "tags": [
+            "Go",
+            "Golang",
+            "REX",
+            "Google"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris",
+        "Lille",
+        "Strasbourg"
+      ],
+      "contacts": {
+        "twitter": "sebastienfriess",
+        "mail": "sebastienfr@gmail.com"
+      }
+    },
+    {
+      "since": "2017-06-04",
+      "name": "Philippe Charrière",
+      "bio": "Tech evangelist, Resp. Commercial 🙀, Développeur, ex Chef de projet, ex Manager, ...  - CLEVER-CLOUD",
+      "picture": "https://www.clever-cloud.com//images/team/philippe-charriere.jpg?size=200",
+      "websites": [
+        {
+          "name": "Blog",
+          "url": "http://k33g.github.io/all.html"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/phcharriere/"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/k33g"
+        }
+      ],
+      "location": "Lyon",
+      "sessions": [
+        {
+          "title": "Microservices, choisir le bon cheval: Vert.X",
+          "abstract": "Il n'y a pas encore de standard 🤔, mais il faut être prêt. Vert.X ❤️ permet de construire des solutions 'plateform agnostic' et vous offre quelques helpers sympathiques (Discovery, Circuit Breaker,...). Cette session est l'occasion de voir comment initialiser le code des composants d'une architecture microservices en Vert.x (mais pas que 😉)",
+          "tags": [
+            "Microservices",
+            "Architecture",
+            "Patterns",
+            "JavaScript",
+            "Scala",
+            "Java"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Programmation Fonctionnelle en JavaScript",
+          "abstract": "Le JavaScript est fonctionnel probablement depuis le début, mais c'est aussi un très bon langage pour s'initier à d'autres concepts comme les Functors, les Monades, les Unions Types ... ou en mode Vanilla ou avec Monet (un petit framework fonctionnel simple et très pratique) et d'autres. Cette session est l'occasion de démystifier certains concepts, de voir pourquoi ils sont utiles... A la fin vous pourriez vouloir faire du Scala 😜",
+          "tags": [
+            "Programmation Fonctionnelle",
+            "JavaScript",
+            "Scala"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "CI, CD ??? Finalement ce n'est pas dur",
+          "abstract": "Intégration continue, déploiement continu (et d'autres termes) sont des concepts que j'ai utilisé longtemps sans savoir les mettre réellement en oeuvre: j'étais chef de projet 😉 donc c'était l'équipe qui faisait le boulot que j'avais vendu au client 🕺. Mes dernières expériences professionnelles m'ont obligé à le faire moi-même, et finalement j'ai aimé ❤️. Sans être LE spécialiste du domaine, cette session me permet de présenter quelques éléments pour s'y mettre en douceur. Cette session est plutôt pour ceux qui ne se sente pas à l'aise avec le sujet. Nous parlerons de GitHub, Jenkins, et d'autres outils plus ou moins incontournables de nos jour (et un exemple simple de mise en oeuvre reproductible chez vous), mais on ne parlera pas que technique.",
+          "tags": [
+            "Intégration Continue",
+            "Déploiement Continue",
+            "Jenkins",
+            "GitHub",
+            "GitLab",
+            "Git",
+            "DEVOPS",
+            "ChatOps",
+            "Workflow"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Utilisez votre DVCS comme un Intranet (pour autre chose que du code)",
+          "abstract": "Un an chez GitHub, ça marque 😉 et j'ai découvert que finalement un DVCS (distributed version control system), on peut l'utiliser pour autre chose que du code, et en plus on n'est pas obligé d'être développeur: c'est bon aussi pour les RH (onboarding), les commerciaux 😱 (préparer une réponse à plusieurs), ... Et c'est un super outil collaboratif, de veille, de partage d'informations (gain de temps), de documentation ... de rangement aussi: je suis devenu tellement addict que j'en ai un qui tourne en local pour mes docs, snippets, sides projects, ... L'utiliser comme ceci c'est aussi un moyen doux pour apprendre à s'en servir et en montrer l'intérêt aux populations non techniques.",
+          "tags": [
+            "DVCS",
+            "Gestion de configuration",
+            "Git",
+            "RH",
+            "GitHub",
+            "GitLab",
+            "Commerciaux"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Lyon",
+        "Grenoble",
+        "Nantes",
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "@k33g_org",
+        "mail": "ph.charriere@gmail.com"
+      }
+    },
+    {
+      "since": "2017-06-06",
+      "name": "Christophe Furmaniak",
+      "bio": "Consultant Architecture et Culture DevOps chez Zenika",
+      "picture": "https://722.kalaari.net/wp-content/uploads/2017/06/Zenika-16-cropped-400x400.png",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://722.kalaari.net/"
+        }
+      ],
+      "location": "Lille",
+      "sessions": [
+        {
+          "title": "Rancher, le (petit) orchestrateur docker qui vous veut du bien",
+          "abstract": "Les orchestrateurs comme Kubernetes ou Mesos peuvent faire peur de part leur potentielle complexité à être mis en oeuvre et intégrés dans une infrastructure existante. Nous découvrirons ensemble Rancher, un autre orchestrateur, plus facile à intégrer, mais tout aussi puissant.",
+          "tags": [
+            "Docker",
+            "Rancher",
+            "Orchestrateur"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Orchestration de conteneurs : DC/OS Mesos, Kubernetes ou Swarm?",
+          "abstract": "Cette présentation propose de démystifier la notion d’orchestration de conteneurs et d’en comparer quelques uns parmi les plus (re)connus: Mesos, Kubernetes et Swarm.",
+          "tags": [
+            "Docker",
+            "Orchestrateur",
+            "Mesos",
+            "DC/OS",
+            "Kubernetes",
+            "Swarm"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Containers et configuration: des promesses au concret avec git et confd",
+          "abstract": "Docker (et le principe des conteneurs en général) est fortement lié à la promesse d’une image unique qui peut tourner partout et que le même artféfact peut être utilisé sur n’importe quel environnement “runtime” (du poste de développement jusqu’en production!) sans avoir à reconstruire une image à chaque fois. Mais comment atteindre cet objectif de manière pratique et efficace tout en étant capable de conserver l’historique de la configuration de vos applications sur les différents environnements?",
+          "tags": [
+            "Docker",
+            "configuration",
+            "git",
+            "confd"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Docker en prod? Bonnes pratiques et points d'attention",
+          "abstract": "Utiliser des containers Docker en prod, c'est top...si vous n'oubliez pas qu'il faudra prendre en compte de nouvelles contraintes. Parlons-en.",
+          "tags": [
+            "Docker",
+            "Production"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Lille"
+      ],
+      "contacts": {
+        "twitter": "cfurmaniak",
+        "mail": "christophe.furmaniak@zenika.com"
+      }
+    }
   ],
   "cities": {
     "Aix-en-Provence": {
