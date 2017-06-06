@@ -15172,8 +15172,8 @@ var data = {
     "Caen": {
       "name": "Caen",
       "ville_img": "img/villes/BBL.jpg",
-      "lat": 49.0784,
-      "lng": 0.0687
+      "lat": 49.1846,
+      "lng": -0.3723
     },
     "Chartres": {
       "name": "Chartres",
