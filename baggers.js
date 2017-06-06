@@ -15118,6 +15118,89 @@ var data = {
         "twitter": "cfurmaniak",
         "mail": "christophe.furmaniak@zenika.com"
       }
+    },
+    {
+      "since": "2017-05-25",
+      "name": "Romain Tartière",
+      "bio": "FreeBSD / Hacker / Sysadmin / FLOSS / BOFH / Vie privée",
+      "picture": "https://www.gravatar.com/avatar/3e8420016e2c1f4c6e7d8f526f96baeb?s=200",
+      "websites": [
+        {
+          "name": "Site personnel",
+          "url": "https://romain.blogreen.org/"
+        },
+        {
+          "name": "Mastodon",
+          "url": "https://mamot.fr/@smortex"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/smortex"
+        },
+        {
+          "name": "Open Hub",
+          "url": "https://www.openhub.net/accounts/smortex"
+        }
+      ],
+      "location": "Caen",
+      "sessions": [
+        {
+          "title": "FreeBSD",
+          "abstract": "Mais qui sont ces infâme BSDistes ?  Pourquoi diable utilisent-ils un système dérivé du mamouth préhistorique des années 70 qu'est UNIX alors que bon, Linux, c'est moderne… Non ? Tout public (barbu·e·s… psychologiquement si pas physiquement).",
+          "tags": [
+            "FreeBSD",
+            "UNIX",
+            "POSIX"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Tester, c'est douter !",
+          "abstract": "Personellement, je doute souvent… donc je teste tout ce qui peut l'être…  Des fois, c'est simple…  Mais parfois, c'est plus compliqué (vous avez déjà fait des tests unitaires en C ?).  Cette conférence s'adresse à des développeureuses déprimé·e·s par la maintenance de code défraîchi d'une application monolithique et qui aspirent à une réduction de sa dette techniqe.",
+          "tags": [
+            "TDD",
+            "BDD",
+            "Ruby",
+            "RSpec",
+            "Cucumber"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },        {
+          "title": "Puppet / Marionette Collective",
+          "abstract": "Qu'est-ce-que l'Infrastructure as Code peut apport à votre organisation ?  L'homogénéisation de la configuration de vos machines ?  La facilité du redéploiement de vos services ?  La rapidité du déploiement des mises à jour de sécurité d'OpenSSL ?  Cette conférence à comme objectif de vous présenter Puppet et Marionette Collective pour que vous puissiez identifier les briques qui vous intéresseront, vous donner quelques pointeurs pour bien débuter et mettre en avant quelques points de vigilance. Public: celles et ceux qui gèrent plus de 3 machines.",
+          "tags": [
+            "Puppet",
+            "Marionette Collective"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Démystification des Infrastructures à Clé Publiques (PKI)",
+          "abstract": "« Les PKI c'est peut-être évident pour vous, mais ça ne l'est pas pour tout le monde. », c'est en substance ce que m'a dit le responsable d'une société agréé pour l'hébergement de données de santé quand je lui faisais remarquer quelques difficultés de compréhension avec ses équipes techniques…  Pourtant, la complexité des infrastructure à clés publiques ne vient pas des technologies utilisées, mais plutôt de l'empilement des concepts qui y sont associés.  Bref, quand on a compris à quel rôle joue chaque brique, tout s'assemble comme par magie et devient très digeste.  Remise à niveau.  Tout public qui manipule des certificats (développeurs et sysadmins).",
+          "tags": [
+            "Cryptographie",
+            "Sécurité",
+            "PKI",
+            "SSL",
+            "X.509"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Caen"
+      ],
+      "contacts": {
+        "mail": "romain+bbl@blogreen.org"
+      }
     }
   ],
   "cities": {
