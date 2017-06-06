@@ -15126,11 +15126,11 @@ var data = {
       "picture": "https://www.gravatar.com/avatar/3e8420016e2c1f4c6e7d8f526f96baeb?s=200",
       "websites": [
         {
-          "name": "Site personnel",
+          "name": "Web",
           "url": "https://romain.blogreen.org/"
         },
         {
-          "name": "Mastodon",
+          "name": "Web",
           "url": "https://mamot.fr/@smortex"
         },
         {
@@ -15138,7 +15138,7 @@ var data = {
           "url": "https://github.com/smortex"
         },
         {
-          "name": "Open Hub",
+          "name": "Web",
           "url": "https://www.openhub.net/accounts/smortex"
         }
       ],
