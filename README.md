@@ -51,14 +51,14 @@ Example:
 
 ```
 "websites": [
-	{
-	  "name": "Web",
-	  "url": "http://link.to/site1"
-	},
-	{
-	  "name": "Web",
-	  "url": "http://link.to/site2"
-	}
+  {
+    "name": "Web",
+    "url": "http://link.to/site1"
+  },
+  {
+    "name": "Web",
+    "url": "http://link.to/site2"
+  }
 ]
 ```
 
@@ -194,3 +194,7 @@ Example:
   }
 }
 ```
+
+## Formatting
+
+Please use/apply the [editorconfig](http://editorconfig.org/) configuration provided.
