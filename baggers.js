@@ -15045,7 +15045,80 @@ var data = {
               "twitter": "@k33g_org",
               "mail": "ph.charriere@gmail.com"
           }
-      }
+      },
+      {
+          "since": "2017-06-06",
+          "name": "Christophe Furmaniak",
+          "bio": "Consultant Architecture et Culture DevOps chez Zenika",
+          "picture": "https://722.kalaari.net/wp-content/uploads/2017/06/Zenika-16-cropped-400x400.png",
+          "websites": [
+	    {
+	      "name": "Web",
+	      "url": "https://722.kalaari.net/"
+    	    }
+          ],
+          "location": "Lille",
+          "sessions": [
+	    {
+	      "title": "Rancher, le (petit) orchestrateur docker qui vous veut du bien",
+	      "abstract": "Les orchestrateurs comme Kubernetes ou Mesos peuvent faire peur de part leur potentielle complexité à être mis en oeuvre et intégrés dans une infrastructure existante. Nous découvrirons ensemble Rancher, un autre orchestrateur, plus facile à intégrer, mais tout aussi puissant.",
+	      "tags": [
+	        "Docker",
+	        "Rancher",
+	        "Orchestrateur"
+	      ],
+	      "lang": [
+	        "fr"
+	      ]
+	    },
+	    {
+	      "title": "Orchestration de conteneurs : DC/OS Mesos, Kubernetes ou Swarm?",
+	      "abstract": "Cette présentation propose de démystifier la notion d’orchestration de conteneurs et d’en comparer quelques uns parmi les plus (re)connus: Mesos, Kubernetes et Swarm.",
+	      "tags": [
+	        "Docker",
+	        "Orchestrateur",
+	        "Mesos",
+	        "DC/OS",
+	        "Kubernetes",
+	        "Swarm"
+	      ],
+	      "lang": [
+	        "fr"
+	      ]
+	    },
+	    {
+	      "title": "Containers et configuration: des promesses au concret avec git et confd",
+	      "abstract": "Docker (et le principe des conteneurs en général) est fortement lié à la promesse d’une image unique qui peut tourner partout et que le même artféfact peut être utilisé sur n’importe quel environnement “runtime” (du poste de développement jusqu’en production!) sans avoir à reconstruire une image à chaque fois. Mais comment atteindre cet objectif de manière pratique et efficace tout en étant capable de conserver l’historique de la configuration de vos applications sur les différents environnements?",
+	      "tags": [
+	        "Docker",
+	        "configuration",
+	        "git",
+	        "confd"
+	      ],
+	      "lang": [
+	        "fr"
+	      ]
+	    },
+	    {
+	      "title": "Docker en prod? Bonnes pratiques et points d'attention",
+	      "abstract": "Utiliser des containers Docker en prod, c'est top...si vous n'oubliez pas qu'il faudra prendre en compte de nouvelles contraintes. Parlons-en.",
+	      "tags": [
+	        "Docker",
+	        "Production"
+	      ],
+	      "lang": [
+	        "fr"
+	      ]
+	    }
+          ],
+          "cities": [
+	    "Lille"
+          ],
+          "contacts": {
+	    "twitter": "cfurmaniak",
+	    "mail": "christophe.furmaniak@zenika.com"
+          }
+    }
   ],
   "cities": {
     "Aix-en-Provence": {
