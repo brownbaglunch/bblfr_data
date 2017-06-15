@@ -15201,7 +15201,65 @@ var data = {
       "contacts": {
         "mail": "romain+bbl@blogreen.org"
       }
-    }
+    },
+    {
+     "since": "2017-06-15",
+     "name": "Eve Vinclair-Berkemeier",
+     "bio": "People Manager & Coach Agile",
+     "picture": "https://fr.gravatar.com/userimage/14188452/90d16f0a978342383d8c5b392238a010.jpg?size=200",
+     "websites": [
+       {
+         "name": "Web",
+         "url": "http://www.knplabs.com/"
+       }
+     ],
+     "location": "Caen, remote",
+     "sessions": [
+       {
+         "title": "Découvrir la gestion de projet agile avec Scrum et Kanban",
+         "abstract": "Petite présentation théorique des méthodes agiles et surtout, discuter et échanger autour de vos expériences sur vos projets !",
+         "tags": [
+           "Scrum",
+           "Kanban",
+           "Gestion de projet agile"
+           ],
+         "lang": [
+           "fr"
+         ]
+       },
+       {
+         "title": "Le Sprint 0",
+         "abstract": "Pour les confirmés en gestion de projet agile : préparer un Sprint 0 en utilisant le BDD",
+         "tags": [
+           "Gestion de projet agile",
+           "BDD"
+         ],
+         "lang": [
+           "fr"
+         ]
+       },
+       {
+         "title": "Happiness au travail - aussi en remote",
+         "abstract": "Présentation du Happiness Management chez KNPLabs. Je vais vous montrer ma petite boîte à outils de happiness management pour des équipes sur place et en remote.",
+         "tags": [
+           "Management 3.0",
+           "Happiness",
+           "Remote",
+           "TeamBuilding"
+         ],
+         "lang": [
+           "fr"
+         ]
+       }
+     ],
+     "cities": [
+       "Caen"
+     ],
+     "contacts": {
+       "twitter": "@Evey_Online",
+       "mail": "eve.vinclair@knplabs.com"
+     }
+   }
   ],
   "cities": {
     "Aix-en-Provence": {
