@@ -4154,7 +4154,7 @@ var data = {
     {
       "since": "2013-10-30",
       "name": "Nicolas Martignole",
-      "bio": "Développeur indépendant et passionné. Auteur du Touilleur Express, co-organisateur et fondateur de Devoxx France, fondateur de l'eXpress-Board",
+      "bio": "Auteur du Touilleur Express, co-organisateur et fondateur de Devoxx France, chez Lunatech France depuis avril 2017",
       "picture": "https://fr.gravatar.com/userimage/4295265/c50510bb451992bde6f3add1a10525dd.jpg?size=256",
       "websites": [
         {
@@ -4163,7 +4163,7 @@ var data = {
         },
         {
           "name": "Web",
-          "url": "http://www.express-board.fr"
+          "url": "http://www.lunatech.fr"
         },
         {
           "name": "Web",
@@ -4239,22 +4239,6 @@ var data = {
         {
           "title": "HTTP et architectures orientées Webs",
           "abstract": "HTTP, HATEOAS, REST... (re)découvrez les bases du protocole HTTP et comment en tirer partie dans votre architecture logicielle.",
-          "tags": [
-            "Présentation",
-            "Startup",
-            "Web",
-            "Scala",
-            "Programmation fonctionnelle",
-            "Lean Canvas",
-            "Running Lean"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Zaptravel, une aventure dans le monde des startups",
-          "abstract": "Témoignage et retour d'expériences sur mon aventure en tant que responsable technique et développeur chez Zaptravel. Play2, Amazon, Redis, gérer des développeurs, Scala, les galères et les belles histoires d'un gars qui passe par la case Startup",
           "tags": [
             "Présentation",
             "Startup",
