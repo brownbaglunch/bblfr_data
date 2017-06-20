@@ -15311,6 +15311,63 @@ var data = {
         "twitter": "@gweinbach",
         "mail": "gwe@thegreendata.com"
       }
+    },
+    {
+      "since": "2017-06-20",
+      "name": "Adrien Pessu",
+      "bio": "Développeur, geek, etc",
+      "picture": "img/baggers/unknown.png",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://adrien.pessu.net/"
+        },
+        {
+          "name": "Web",
+          "url": "github.com/adrienpessu/"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/adrien-pessu/"
+        }
+      ],
+      "location": "Nantes et environs.",
+      "sessions": [
+        {
+          "title": "DropWizard for the REST of us",
+          "abstract": "Avec l'essor de l’architecture Microservice, DropWizard est un framework idéal pour développer des services REST. Je vous présenterai la simplicité de mise en place d'un microservice REST, ainsi que les possibilités du framework léger et robuste de ce Micro-Framework",
+          "tags": [
+            "Java",
+            "REST",
+            "Microservices"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Pourquoi ai-je choisi BitBucket Pipeline pour ma CI?",
+          "abstract": "Je vais vous raconter l'histoire de mon choix d'un outil d'intégration et de déploiement continue. Spoiler alert! C'est BitBucket",
+          "tags": [
+            "BitBucket",
+            "Git",
+            "Intégration continue",
+            "CI",
+            "CD",
+            "Déploiement continue"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "twitter": "adrien_pe",
+        "mail": "a.pessu@gmail.com"
+      }
     }
   ],
   "cities": {
