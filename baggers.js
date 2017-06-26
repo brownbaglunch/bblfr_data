@@ -12569,7 +12569,7 @@ var data = {
     {
       "since": "2016-03-22",
       "name": "Antoine Pezé",
-      "bio": "UX Designer, je vous propose des talks centrés sur l'intégration de l'UX dans vos équipes. Agilité et Lean sont donc au programme",
+      "bio": "UX Designer chez Atecna, je vous propose des talks centrés sur l'intégration de l'UX dans vos équipes. Agilité et Lean sont donc au programme",
       "picture": "http://antoinepeze.com/images/antoine-peze.png",
       "websites": [
         {
@@ -12588,13 +12588,42 @@ var data = {
       "location": "Paris",
       "sessions": [
         {
+          "title": "Ecoute active et émotions, la force des interviews exploratoires",
+          "abstract": "Qu'est-ce que l'écoute active et en quoi peut-elle aider mes équipes à construire des produits vraiment pertinents ?",
+          "tags": [
+            "UX",
+            "design thinking",
+            "ecoute active",
+            "emotion",
+            "interview",
+            "experience map"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
           "title": "Hackathon, 3 jours chez les bricoleurs",
-          "abstract": "Découvrez une face cahcée des hackathons : les hackathons en entreprise. Venez comprendre pourquoi le profil d'UX designer est essentiel dans ce type d'expérience et comment il permet de valoriser les équipes.",
+          "abstract": "Découvrez une face cachée des hackathons : les hackathons en entreprise. Venez comprendre la force d'un profil d'UX designer dans ce type d'expérience.",
           "tags": [
             "UX",
-            "tests utilisateurs",
+            "hackathon",
             "Sprint",
             "hackathon",
+            "tests utilisateurs"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Le Design Thinking au service de votre innovation !",
+          "abstract": "1. Commencer par l'humain, 2. Designer pour réfléchir. Voici les 2 préceptes du Design Thinking. Comment cette méthode peut-elle servir l'innovation ?",
+          "tags": [
+            "UX",
+            "innovation",
+            "design",
+            "design thinking",
             "interview"
           ],
           "lang": [
@@ -12602,27 +12631,13 @@ var data = {
           ]
         },
         {
-          "title": "De l'UX dans mon équipe Agile !",
-          "abstract": "Mais que peux apporter un UX Designer dans une équipe Agile ? Découvrez une autre manière de concevoir de l'UX, plus Agile, plus ",
+          "title": "Le Design Sprint, cette méthodo coup de point pour avancer",
+          "abstract": "Découvrez le Design Sprint, cette nouvelle méthodologie, inspirée par Google Ventures, qui permet de concrétiser et de tester en 5 jours une idée.",
           "tags": [
             "UX",
             "tests utilisateurs",
             "Sprint",
-            "hackathon",
-            "interview"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Retour d'expérience : le Sprint, chez les virtuoses",
-          "abstract": "Découvrez le Sprint, cette nouvelle méthodologie, inspirée par Google Ventures, qui permet de concrétiser en 5 jours une idée. A travers un retour d'expérience, venez comprendre les enjeux ainsi que les objectifs de cette méthode.",
-          "tags": [
-            "UX",
-            "tests utilisateurs",
-            "Sprint",
-            "hackathon",
+            "design sprint",
             "interview"
           ],
           "lang": [
@@ -12631,13 +12646,13 @@ var data = {
         },
         {
           "title": "Lean UX : Dérisquer la situation le plus tôt possible",
-          "abstract": "A travers des Retours d’Expérience, nous aborderons cette méthodologie basée sur le triptyque “Think”, “Make”, “Check”. Qu’est-ce que le Lean UX ? Qu’apporte cette méthodologie dans la création d’un produit ? Comment la mettre en oeuvre pour créer de la valeur ?",
+          "abstract": "A travers des Retours d’Expérience, nous aborderons cette méthodologie basée sur le triptyque “Think”, “Make”, “Check”. Qu’est-ce que le Lean UX ? Qu’apporte cette méthodologie dans la création d’un produit ?",
           "tags": [
             "UX",
-            "tests utilisateurs",
-            "Sprint",
-            "hackathon",
-            "interview"
+            "lean UX",
+            "lean startup",
+            "methodo",
+            "rex"
           ],
           "lang": [
             "fr"
@@ -12649,8 +12664,8 @@ var data = {
           "tags": [
             "UX",
             "tests utilisateurs",
-            "Sprint",
-            "hackathon",
+            "ecoute",
+            "méthodo",
             "interview"
           ],
           "lang": [
@@ -12659,7 +12674,8 @@ var data = {
         }
       ],
       "cities": [
-        "Paris"
+        "Paris", 
+        "Lille"
       ],
       "contacts": {
         "twitter": "antoinepeze",
