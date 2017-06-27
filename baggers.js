@@ -15407,6 +15407,10 @@ var data = {
         {
           "name": "Web",
           "url": "http://www.pagesjaunes.fr/"
+        },
+        {
+          "name": "Viadeo",
+          "url": "http://www.viadeo.com/p/002typxcger1kb8"
         }
       ],
       "location": "Rennes et environs",
@@ -15454,8 +15458,7 @@ var data = {
       ],
       "contacts": {
         "twitter": "dedece35",
-        "mail": "ddecarvalho@pagesjaunes.fr",
-        "Viadeo": "http://www.viadeo.com/p/002typxcger1kb8"
+        "mail": "ddecarvalho@pagesjaunes.fr"
       }
     }
   ],
