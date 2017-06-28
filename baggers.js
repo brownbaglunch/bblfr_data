@@ -15397,6 +15397,69 @@ var data = {
         "twitter": "adrien_pe",
         "mail": "a.pessu@gmail.com"
       }
+    },
+    {
+      "since": "2017-06-26",
+      "name": "David DE CARVALHO",
+      "bio": "Technical Leader et Ingénieur Développeur 'touche-à-tout' depuis une dizaine d'années (13 ans). @PagesJaunes (depuis 7 ans)",
+      "picture": "img/baggers/unknown.png",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://www.pagesjaunes.fr/"
+        },
+        {
+          "name": "Viadeo",
+          "url": "http://www.viadeo.com/p/002typxcger1kb8"
+        }
+      ],
+      "location": "Rennes et environs",
+      "sessions": [
+        {
+          "title": "Retour d'EXperience PagesJaunes : les transactions dans une architecture microservices",
+          "abstract": "Comment sécuriser les transactions dans une architecture distribuée (microservices) sans que cela coûte un bras ? Découvrons ensemble comment chez PagesJaunes nous avons mis en place une architecture distribuée basée sur l’asynchronisme et la reprise de données automatique.",
+          "tags": [
+            "Java",
+            "REST",
+            "Microservices",
+            "RabbitMQ",
+            "MOM",
+            "Message-Oriented-Middleware",
+            "Cassandra",
+            "Asynchrone",
+            "Assynchronisme",
+            "Architecture"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Pimentez votre 'carto' avec du temps réel",
+          "abstract": "Le temps réel : c'est facile et rapide avec le protocole ServerSentEvent - (NodeJS, RabbitMQ, protocole SSE). Partez d’une base Node, saupoudrez d’un peu de RabbitMQ, puis ajoutez du SSE et vous obtiendrez une belle carte interactive temps réel. Session en live-coding.",
+          "tags": [
+            "SSE",
+            "ServerSentEvent",
+            "Node",
+            "NodeJS",
+            "RabbitMQ",
+            "MOM",
+            "Message-Oriented-Middleware",
+            "Asynchrone",
+            "Assynchronisme"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Rennes"
+      ],
+      "contacts": {
+        "twitter": "dedece35",
+        "mail": "ddecarvalho@pagesjaunes.fr"
+      }
     }
   ],
   "cities": {
