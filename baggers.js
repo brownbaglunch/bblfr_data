@@ -96,28 +96,8 @@ var data = {
           ]
         },
         {
-          "title": "Dojo tests unitaires et TDD",
-          "abstract": "Je vous propose un Dojo pour mettre en pratique des tests unitaires en Java. Je compte sur vous pour m'aider à rajouter des tests sur une application existante et qui en a bien besoin! Buzzword à découvrir : test unitaire, fest assert, mockito, TDD, pair programming, pair hero, clean test, ...",
-          "tags": [
-            "Agile"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
           "title": "Plus de fun et de diversité dans vos rétrospectives",
           "abstract": "Discussion sur comment bien animer une rétrospective et présentation de nombreux formats.",
-          "tags": [
-            "Agile"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Introduction au Lean Startup",
-          "abstract": "Présentation des concepts et de quelques outils phares du Lean Startup.",
           "tags": [
             "Agile"
           ],
