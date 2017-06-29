@@ -15553,12 +15553,6 @@ var data = {
       "lat": 45.764043,
       "lng": 4.835659
     },
-    "Monaco": {
-      "name": "Monaco",
-      "ville_img": "img/villes/BBL_Monaco.png",
-      "lat": 43.7383225,
-      "lng": 7.4157033
-    },
     "Montpellier": {
       "name": "Montpellier",
       "ville_img": "img/villes/BBL_Montpellier.jpg",
@@ -15588,12 +15582,6 @@ var data = {
       "ville_img": "img/villes/BBL_Nantes.jpg",
       "lat": 47.219102,
       "lng": -1.551132
-    },
-    "Nice": {
-      "name": "Nice",
-      "ville_img": "img/villes/BBL_Nice.jpg",
-      "lat": 43.7031691,
-      "lng": 7.1827776
     },
     "Orléans": {
       "name": "Orléans",
