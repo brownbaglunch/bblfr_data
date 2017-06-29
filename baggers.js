@@ -15465,7 +15465,7 @@ var data = {
   "cities": {
     "Aix-en-Provence": {
       "name": "Aix-en-Provence",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Aix-en-provence.png",
       "lat": 43.529742,
       "lng": 5.447427
     },
@@ -15477,25 +15477,25 @@ var data = {
     },
     "Bayonne": {
       "name": "Bayonne",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Bayonne.png",
       "lat": 43.4843941,
       "lng": -1.4961697
     },
     "Belfort": {
       "name": "Belfort",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Belfort.png",
       "lat": 47.6456257,
       "lng": 6.8060504
     },
     "Besançon": {
       "name": "Besançon",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Besancon.png",
       "lat": 47.2601941,
       "lng": 5.9420574
     },
     "Biarritz": {
       "name": "Biarritz",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Biarritz.png",
       "lat": 43.4709797,
       "lng": -1.573345
     },
@@ -15513,13 +15513,13 @@ var data = {
     },
     "Caen": {
       "name": "Caen",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Caen.png",
       "lat": 49.1846,
       "lng": -0.3723
     },
     "Chartres": {
       "name": "Chartres",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Chartres.png",
       "lat": 48.4469,
       "lng": 1.4892
     },
@@ -15555,7 +15555,7 @@ var data = {
     },
     "Monaco": {
       "name": "Monaco",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Monaco.png",
       "lat": 43.7383225,
       "lng": 7.4157033
     },
@@ -15573,13 +15573,13 @@ var data = {
     },
     "Mulhouse": {
       "name": "Mulhouse",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Mulhouse.png",
       "lat": 47.7526806,
       "lng": 7.2905194
     },
     "Nancy": {
       "name": "Nancy",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Nancy.png",
       "lat": 48.6880796,
       "lng": 6.1558845
     },
@@ -15591,13 +15591,13 @@ var data = {
     },
     "Nice": {
       "name": "Nice",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Nice.jpg",
       "lat": 43.7031691,
       "lng": 7.1827776
     },
     "Orléans": {
       "name": "Orléans",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Orleans.png",
       "lat": 47.8733945,
       "lng": 1.8419975
     },
@@ -15627,31 +15627,31 @@ var data = {
     },
     "Saint-Jean-de-Luz": {
       "name": "Saint-Jean-de-Luz",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Saint-Jean-De-Luz.png",
       "lat": 43.3933872,
       "lng": -1.6514175
     },
     "San Sebastian": {
       "name": "San Sebastian",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_San-Sebastian.png",
       "lat": 43.3072913,
       "lng": -1.9914354
     },
     "Sophia-Antipolis": {
       "name": "Sophia-Antipolis",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Sophia.png",
       "lat": 43.616354,
       "lng": 7.055222
     },
     "Saint-Quentin-En-Yvelines": {
       "name": "Saint-Quentin-En-Yvelines",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_SaintQuentin.png",
       "lat": 48.77186,
       "lng": 2.01891
     },
     "Strasbourg": {
       "name": "Strasbourg",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Strasbourg.png",
       "lat": 48.583148,
       "lng": 7.747882
     },
@@ -15687,7 +15687,7 @@ var data = {
     },
     "Vesoul": {
       "name": "Vesoul",
-      "ville_img": "img/villes/BBL.jpg",
+      "ville_img": "img/villes/BBL_Vesoul.png",
       "lat": 47.6323072,
       "lng": 6.1347321
     }
