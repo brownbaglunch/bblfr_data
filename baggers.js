@@ -8819,12 +8819,12 @@ var data = {
     {
       "since": "2014-06-12",
       "name": "Augustin De Laveaucoupet",
-      "bio": "Lead Développeur Symfony2, Statupeur et amateur de Raspberry.",
+      "bio": "Freelance Lead Développeur Symfony2, Statupeur et amateur de Raspberry.",
       "picture": "http://www.gravatar.com/avatar/1374695123503482a838cf9fc9701b21.png?s=200",
       "websites": [
         {
           "name": "Web",
-          "url": "http://www.atc.agency/"
+          "url": "http://www.atc-it.fr/"
         },
         {
           "name": "GitHub",
@@ -8834,16 +8834,16 @@ var data = {
       "location": "Le Mans / Paris",
       "sessions": [
         {
-          "title": "Vagrant sur votre poste de dev comme en Prod",
-          "abstract": "Decouverte de Vagrant et l'utilité d'avoir la meme archi entre  les devs et la prod.",
+          "title": "Docker sur votre poste de dev comme en Prod",
+          "abstract": "Decouverte de Docker à travers une approche kubernetes.",
           "tags": [
             "Symfony2",
             "Performance",
             "DevOps",
             "Behat",
-            "Vagrant",
+            "Docker",
             "Scrum",
-            "Chef",
+            "kubernetes",
             "Apple",
             "Debian",
             "Proxmox"
@@ -8879,9 +8879,9 @@ var data = {
             "Performance",
             "DevOps",
             "Behat",
-            "Vagrant",
+            "Docker",
             "Scrum",
-            "Chef",
+            "Capistrano",
             "Apple",
             "Debian",
             "Proxmox"
@@ -8892,13 +8892,13 @@ var data = {
         },
         {
           "title": "Discussions libre sur la qualité Logiciel",
-          "abstract": "Un truc qui me passionne en se moment on parlera Jenkins, insight et autres.",
+          "abstract": "On parlera des outils d'audit de code généraliste et orientés symfony.",
           "tags": [
             "Symfony2",
             "Performance",
             "DevOps",
             "Behat",
-            "Vagrant",
+            "Docker",
             "Scrum",
             "Chef",
             "Apple",
