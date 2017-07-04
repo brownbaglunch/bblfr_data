@@ -12828,7 +12828,7 @@ var data = {
     {
       "since": "2016-05-27",
       "name": "Fabien Lamarque",
-      "bio": "Developpeur polyglote chez OCTO Technology, intéressé par le clean code, l'algorithmique et les outils qui simplifient la vie du développeur",
+      "bio": "TechLead de 28 ans, intéressé par le clean code, l'agile (le vrai), l'algorithmique et les outils qui simplifient la vie du développeur",
       "picture": "https://pbs.twimg.com/profile_images/692350972778168320/V9OJENr0.jpg",
       "websites": [
         {
@@ -12836,11 +12836,11 @@ var data = {
           "url": "http://fr.linkedin.com/in/fabienlamarque"
         }
       ],
-      "location": "Paris, Tours",
+      "location": "Bordeaux",
       "sessions": [
         {
-          "title": "Refactoring et Clean code: quelles méthodes? quels outils?",
-          "abstract": "Quelques bonnes astuces autour du refactoring de legacy, des notions de clean code et de testing",
+          "title": "Gilded-Rose-Inn, comment refactorer un code legacy",
+          "abstract": "L'auberge de Gilded-Rose est situé au cœur de Hurlevent, et propose aux voyageurs de tout Azeroth (le monde de Warcraft) des objets rares et des mets délicats.\n Le but de ce kata est d'entreprendre un refactoring afin d'apporter sereinement des évolutions à ce code legacy",
           "tags": [
             "Java",
             "Clean Code",
@@ -12853,11 +12853,10 @@ var data = {
         }
       ],
       "cities": [
-        "Paris",
-        "Tours"
+        "Bordeaux"
       ],
       "contacts": {
-        "twitter": "@Fabinout",
+        "twitter": "Fabinout",
         "mail": "fabien.lamarque+bbl@gmail.com"
       }
     },
