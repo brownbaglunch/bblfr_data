@@ -12654,7 +12654,7 @@ var data = {
         }
       ],
       "cities": [
-        "Paris", 
+        "Paris",
         "Lille"
       ],
       "contacts": {
@@ -15525,6 +15525,91 @@ var data = {
         "twitter": "yannickda",
         "mail": "yannick@idvive.com"
       }
+    },
+    {
+      "bio": "Développeur Craftsman passionné - Tech Lead/Scrum Master chez Ogury.",
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "mail": "david.caramelo83@gmail.com",
+        "twitter": "David_Caramelo"
+      },
+      "location": "Paris",
+      "name": "David Caramelo",
+      "picture": "http://fr.gravatar.com/avatar/422304dc5c24f5b91234052347770cb7?size=400",
+      "sessions": [
+        {
+          "abstract": "Ogury est la plateforme de data mobile qui permet d’accéder aux données comportementales des profils de plus de 400 millions de mobinautes répartis dans plus de 120 pays. Monter une stack haute fréquence n’est pas facile, David et Carles vous parleront de leur retour d'expérience. Durant cette présentation, Carles et David vous propose de revivre avec eux l’évolution de l’architecture d’Ogury. D’un POC monolite à une architecture micro-service orienté perf, constituée des 700 instances chez AWS.",
+          "lang": [
+            "fr"
+          ],
+          "tags": [
+            "AWS",
+            "Architecture",
+            "Optimisation",
+            "Evolution",
+            "Big Data"
+          ],
+          "title": "Optimisations et Performances d'un POC en prod @ plusieurs milliards de requêtes"
+        }
+      ],
+      "since": "2017-07-06",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/dcaramelo"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/david-caramelo-1691b21a/"
+        }
+      ]
+    },
+    {
+      "bio": "Développeur Craftsman passionné - Tech Lead chez Docapost.",
+      "cities": [
+        "Nice",
+        "Sophia-Antipolis"
+      ],
+      "contacts": {
+        "mail": "jpasseron@gmail.com",
+        "twitter": "jeremp"
+      },
+      "location": "Nice",
+      "name": "Jeremy Passeron",
+      "picture": "https://www.gravatar.com/avatar/60c25d9d63a09faa99ea6a5f34dc3356?size=200",
+      "sessions": [
+        {
+          "abstract": "Plus de 15 ans après la révolution du Manifeste Agile, de nombreux projets informatiques continuent d'échouer, pourquoi ? Venez découvrir le mouvement Software Craftsmanship qui tente d'en identifier les causes et d'y apporter des solutions.",
+          "lang": [
+            "fr"
+          ],
+          "tags": [
+            "Code Legacy",
+            "Legacy",
+            "Agile",
+            "TDD",
+            "Craftmanship"
+          ],
+          "title": "Software Craftsmanship : Make programming great again"
+        }
+      ],
+      "since": "2017-07-07",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/jeremp"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeremypasseron/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/jeremp"
+        }
+      ]
     }
   ],
   "cities": {
@@ -15750,45 +15835,5 @@ var data = {
       "lat": 47.6323072,
       "lng": 6.1347321
     }
-  },
-  {
-    "bio": "Développeur Craftsman passionné - Tech Lead/Scrum Master chez Ogury.",
-    "cities": [
-      "Paris"
-    ],
-    "contacts": {
-      "mail": "david.caramelo83@gmail.com",
-      "twitter": "David_Caramelo"
-    },
-    "location": "Paris",
-    "name": "David Caramelo",
-    "picture": "http://fr.gravatar.com/avatar/422304dc5c24f5b91234052347770cb7?size=400",
-    "sessions": [
-      {
-        "abstract": "Ogury est la plateforme de data mobile qui permet d’accéder aux données comportementales des profils de plus de 400 millions de mobinautes répartis dans plus de 120 pays. Monter une stack haute fréquence n’est pas facile, David et Carles vous parleront de leur retour d'expérience. Durant cette présentation, Carles et David vous propose de revivre avec eux l’évolution de l’architecture d’Ogury. D’un POC monolite à une architecture micro-service orienté perf, constituée des 700 instances chez AWS.",
-        "lang": [
-          "fr"
-        ],
-        "tags": [
-          "AWS",
-          "Architecture",
-          "Optimisation",
-          "Evolution",
-          "Big Data"
-        ],
-        "title": "Optimisations et Performances d'un POC en prod @ plusieurs milliards de requêtes"
-      }
-    ],
-    "since": "2017-07-06",
-    "websites": [
-      {
-        "name": "GitHub",
-        "url": "https://github.com/dcaramelo"
-      },
-      {
-        "name": "LinkedIn",
-        "url": "https://www.linkedin.com/in/david-caramelo-1691b21a/"
-      }
-    ]
   }
 };
