@@ -15739,6 +15739,12 @@ var data = {
       "lat": 47.219102,
       "lng": -1.551132
     },
+     "Nice": {
+      "name": "Nice",
+      "ville_img": "img/villes/BBL_Sophia.png",
+      "lat": 43.695719,
+      "lng": 7.264419
+    },
     "Orléans": {
       "name": "Orléans",
       "ville_img": "img/villes/BBL_Orleans.png",
