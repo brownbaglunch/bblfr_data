@@ -15565,6 +15565,51 @@ var data = {
           "url": "https://www.linkedin.com/in/david-caramelo-1691b21a/"
         }
       ]
+    },
+    {
+      "bio": "Développeur Craftsman passionné - Tech Lead chez Docapost.",
+      "cities": [
+        "Nice",
+        "Sophia-Antipolis"
+      ],
+      "contacts": {
+        "mail": "jpasseron@gmail.com",
+        "twitter": "jeremp"
+      },
+      "location": "Nice",
+      "name": "Jeremy Passeron",
+      "picture": "https://www.gravatar.com/avatar/60c25d9d63a09faa99ea6a5f34dc3356?size=200",
+      "sessions": [
+        {
+          "abstract": "Plus de 15 ans après la révolution du Manifeste Agile, de nombreux projets informatiques continuent d'échouer, pourquoi ? Venez découvrir le mouvement Software Craftsmanship qui tente d'en identifier les causes et d'y apporter des solutions.",
+          "lang": [
+            "fr"
+          ],
+          "tags": [
+            "Code Legacy",
+            "Legacy",
+            "Agile",
+            "TDD",
+            "Craftmanship"
+          ],
+          "title": "Software Craftsmanship : Make programming great again"
+        }
+      ],
+      "since": "2017-07-07",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/jeremp"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jeremypasseron/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/jeremp"
+        }
+      ]
     }
   ],
   "cities": {
