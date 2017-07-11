@@ -14890,7 +14890,7 @@ var data = {
     {
       "since": "2017-05-19",
       "name": "Sébastien Friess",
-      "bio": "Développeur, formateur, team leader et vélotafeur - SFEIR",
+      "bio": "Développeur, formateur, team leader et vélotafeur 🚴 - SFEIR",
       "picture": "https://en.gravatar.com/userimage/61906989/1de60a01c2a5061f2538aadc2eea8b71.jpg?size=200",
       "websites": [
         {
@@ -14928,6 +14928,21 @@ var data = {
             "Golang",
             "REX",
             "Google"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Live coding, servir du HTTP en Go",
+          "abstract": "Session de live coding d'un serveur web HTTP et HTTP/2 push en Go avec les API natives du langage",
+          "tags": [
+            "Go",
+            "Golang",
+            "HTTP",
+            "HTTP/2",
+            "HTTPS",
+            "push"
           ],
           "lang": [
             "fr"
