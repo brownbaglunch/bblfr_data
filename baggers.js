@@ -12044,8 +12044,36 @@ var data = {
           "abstract": "BBL permettant de présenter les nouvelles fonctionnalités d'Angular2. A la fin de cette session, vous connaîtrez comment faciliter la migration de votre application AngularJS existante, en implémentant tout d'abord les bonnes pratiques reconnues par la communauté, puis en migrant composant par composant l'ensemble de votre application",
           "tags": [
             "AngularJS",
-            "Accessibilité",
-            "NodeJS"
+            "Angular",
+            "TypeScript"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Il n'y a pas que React et Angular dans la vie, voici VueJS",
+          "abstract": "A travers ce BBL, je ferai un livecoding permettant de présenter les différents concepts de la librairie VueJS",
+          "tags": [
+            "AngularJS",
+            "Angular",
+            "React",
+            "JavaScript",
+            "VueJS"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Les progressive webapp, à quoi ça sert ? ",
+          "abstract": "A travers ce BBL, nous allons rendre une application existante compatible avec les standards derrière le terme Progressive Webapp",
+          "tags": [
+            "JavaScript",
+            "PWA",
+            "Offline",
+            "Mobile",
+            "ServiceWorker"
           ],
           "lang": [
             "fr"
