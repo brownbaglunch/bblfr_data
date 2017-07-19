@@ -15653,7 +15653,7 @@ var data = {
           "url": "https://twitter.com/jeremp"
         }
       ]
-    }
+    },
     {
       "since": "2017-07-19",
       "name": "Nicolas Joseph",
