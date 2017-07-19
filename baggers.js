@@ -15654,6 +15654,59 @@ var data = {
         }
       ]
     }
+    {
+      "since": "2017-07-19",
+      "name": "Nicolas Joseph",
+      "bio": "Developpeur PHP",
+      "picture": "https://nicolas.joseph.pro/avatar",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://sanpi.homecomputing.fr"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/sanpii"
+        },
+        {
+          "name": "Speakerdeck",
+          "url": "https://speakerdeck.com/sanpii"
+        }
+      ],
+      "location": "Nantes",
+      "sessions": [
+        {
+          "title": "Vos premiers pas avec Rust",
+          "abstract": "Langage le plus apprécié par les <a href='https://insights.stackoverflow.com/survey/2017#most-loved-dreaded-and-wanted'>utilisateurs de stackoverflow</a> pour la seconde année, rust a profondément amélioré mon quotidien de développeur/bidouilleur. Malheureusement sa courbe d’apprentissage peut en rebuter plus d’un·e, je vous propose donc de passer ces premiers instants difficiles ensemble.",
+          "tags": [
+            "Rust"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Autre chose ?",
+          "abstract": "N’hésitez pas à piocher dans les <a href='https://github.com/sanpii/slides/releases'>sujets dont j’ai déjà parlés</a>.",
+          "tags": [
+            "Behat",
+            "Embarqué",
+            "PHP",
+            "Symfony"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+      ],
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "twitter": "sanpi_",
+        "mail": "nicolas+bbl@joseph.pro"
+      }
+    }
   ],
   "cities": {
     "Aix-en-Provence": {
