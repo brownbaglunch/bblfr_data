@@ -15752,6 +15752,57 @@ var data = {
         "twitter": "smonteillet",
         "mail": "sylvain.monteillet@gmail.com"
       }
+    },
+    {
+      "since": "2017-08-29",
+      "name": "Julien Danjou",
+      "bio": "Free Software hacker, développeur Python, auteur de awesomewm",
+      "picture": "https://julien.danjou.info/media/images/jd.jpg",
+        "websites": [
+        {
+          "name": "Web & blog",
+          "url": "https://julien.danjou.info"
+        },
+
+        {
+          "name": "GitHub",
+          "url": "https://github.com/jd"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/juliendanjou"
+        }
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Produire des applications Python scalable",
+          "abstract": "Dans cette présentation, je présente des méthodes et des outils qui permettent d'écrire des applications Python qui sont scalable à grande échelle.",
+          "tags": [
+            "Python"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Enregistrement de séries temporelles à grande échelle avec Gnocchi",
+          "abstract": "Dans cette présentation, je présente Gnocchi, un projet libre de gestion de séries temporelles (timeseries) à grande échelle (scalable).",
+          "tags": [
+            "Python"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "juldanjou",
+        "mail": "julien@danjou.info"
+      }
     }
   ],
   "cities": {
