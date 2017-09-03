@@ -114,7 +114,7 @@ var data = {
       "since": "2016-04-15",
       "name": "Sophie Guenat",
       "bio": "Agent Spécial @rmstouch. J'ai pour mission d'accompagner les professionnels RH dans leurs pratiques et faire évoluer le recrutement, le marketing employeur et la relation école-entreprise. Geekette enthousiaste je partage avec plaisir #innovation #social #digital",
-      "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAS6AAAAJGUzMTNjZTAyLThiYjktNGQ4Ni05MDEwLWY1ZTMxZmUyMjhmYQ.jpg",
+      "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAe0AAAAJDcyNDc2NGNiLTE5YjktNGEzMy04ZjNkLTUyMmI5NDY4ODllOQ.jpg",
       "websites": [
         {
           "name": "LinkedIn",
@@ -249,7 +249,7 @@ var data = {
       "since": "2014-06-24",
       "name": "Pauline Tabet-Canova",
       "bio": "Consultante en recrutement, plus de 16 ans d’expériences en Suisse romande",
-      "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/091/3ae/1b2a077.jpg",
+      "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAc-AAAAJDE4ODNlYTU4LWU4YTEtNDhhNC1hN2JhLTdiN2Y1YTE1YzcxYg.jpg",
       "websites": [
         {
           "name": "LinkedIn",
@@ -429,7 +429,7 @@ var data = {
       "since": "2014-04-02",
       "name": "Arlette Gelabert",
       "bio": "Formatrice à Form’En Scène, je mise sur le capital humain pour optimiser le potentiel professionnel de chacun, parce que l’humain est le premier vecteur de l’image de marque de votre entreprise et le moteur indispensable à son bon fonctionnement. Je fonde ma pédagogie sur 30 ans de pratique théâtrale comme comédienne et animatrice (en compagnies privées et ateliers théâtre) et 20 ans d’expérience en entreprise au sein de services administratifs et commerciaux.",
-      "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/06f/03c/2b94d4f.jpg",
+      "picture": "hhttps://media.licdn.com/media/AAEAAQAAAAAAAAkVAAAAJDIyZDE5ZmM3LWE3MzAtNGJkZS04MWIwLTdkM2Y1YjQ1Y2QzYQ.jpg",
       "websites": [
         {
           "name": "Viadeo",
@@ -488,7 +488,7 @@ var data = {
       "since": "2013-12-16",
       "name": "Nicolas Robin",
       "bio": "Consultant en recrutement spécialisé dans les métiers Sales, Marketing et Digital",
-      "picture": "http://m.c.lnkd.licdn.com/media/p/3/000/1f4/247/2b2f6e1.jpg",
+      "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAXPAAAAJDk3Mzk2YTJiLTg5ZDYtNDBhNi05YjMyLWQxOWY1ZjZmMWIwOQ.jpg",
       "websites": [
         {
           "name": "LinkedIn",
@@ -578,14 +578,14 @@ var data = {
         "Paris"
       ],
       "contacts": {
-        "mail": "nrobin@morganmckinley.fr"
+        "mail": "robin.nikolas@gmail.com"
       }
     },
     {
       "since": "2014-01-29",
       "name": "Stanislas de Germay",
       "bio": "20 ans d'expérience dans les ressources humaines, la communication et la conduite de projet",
-      "picture": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/005/033/05d/3aec98b.jpg",
+      "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAkRAAAAJDFhZTg1MGU3LWE4OWYtNDYwZS1iZGQ5LWFmNGI1NGMxN2E3NQ.jpg",
       "websites": [
         {
           "name": "LinkedIn",
@@ -656,7 +656,7 @@ var data = {
       "since": "2013-11-22",
       "name": "Shirley Almosni",
       "bio": "Chasseur de tête dans la jungle de l’IT avec ses moutons à 5 pattes, ses pythons, ses perles rares certifiées Ruby, et C++ encore… Responsable Développement RH de Carbon IT",
-      "picture": "http://rh.brownbaglunch.fr/img/ShirleyAlmosni.jpg",
+      "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAlyAAAAJDRmYjI2NmMyLWE2YTYtNDMxNC1iMjYyLWZiMmI4MDNkYTllNg.jpg",
       "websites": [
         {
           "name": "Google+",
@@ -717,7 +717,7 @@ var data = {
       "since": "2013-12-02",
       "name": "Jean-Marie Caillaud",
       "bio": "Psychologue du travail et Responsable Recrutement international",
-      "picture": "https://media.licdn.com/mpr/mpr/shrink_400_400/p/3/005/085/295/0faace6.jpg",
+      "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAphAAAAJGU5OTk5N2JkLTg1YTctNDJjYy1iODRmLThlZTFiOTE1ZGUzMw.jpg",
       "websites": [
         {
           "name": "LinkedIn",
@@ -837,7 +837,7 @@ var data = {
       "since": "2013-11-25",
       "name": "Betty Moreau",
       "bio": "Coach, Formatrice depuis 2008",
-      "picture": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/005/03f/305/0bcbf8f.jpg",
+      "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAu8AAAAJDc0NDk5ZDJkLTk1ZDMtNDRmOS1iNTdjLTNmMmJmN2YwNTAxNw.jpg",
       "websites": [
         {
           "name": "Web",
