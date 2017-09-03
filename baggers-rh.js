@@ -894,7 +894,7 @@ var data = {
     {
       "since": "2013-11-24",
       "name": "Aude Amarrurtu",
-      "bio": "Dans les Ressources Humaines depuis 8 ans, j'ai mis en place la Direction Ressources Humaines d'Arolla en 2011. J'ai intégré Itelios fin 2015 pour insuffler une nouvelle dynamique à la fonction RH, rebaptisée People & Culture Development",
+      "bio": "Dans les Ressources Humaines depuis 10 ans, j'ai mis en place la Direction Ressources Humaines d'Arolla en 2011. J'ai intégré Itelios fin 2015 pour insuffler une nouvelle dynamique à la fonction RH, rebaptisée People & Culture Development, très axée sur la Qualité de Vie au Travail (QVT)",
       "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/05b/37b/234370e.jpg",
       "websites": [
         {
@@ -908,6 +908,30 @@ var data = {
       ],
       "location": "Paris",
       "sessions": [
+          {
+          "title": "Faire des RH autrement!",
+          "abstract": "Les RH à l'ancienne, coincées entre une rigidité juridique et de l'administratif toujours plus lourd, ça ne vous intéresse pas? Moi non plus, les RH, c'est tellement plus! Basculez avec moi dans la révolution People & Culture Development!",
+          "tags": [
+            "DRH",
+            "People & Culture Develoment",
+            "People & Culture"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+          {
+          "title": "La Qualité de Vie au Travail: comment s'engager dans cette voie sans que ce soit du flan",
+          "abstract": "La Qualité de Vie au Travail est à la mode. Si on en croit la presse, il suffit de faire une déco sympa et d'installer une salle de sieste... et si c'était bien plus que ça? Je vous propose de réfléchir au sens profond de la QVT et de vous donner des exemples concrets issus de différentes entreprises.",
+          "tags": [
+            "DRH",
+            "Qualité de Vie au Travail",
+            "QVT"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
         {
           "title": "Mettre en place une Direction des Ressources Humaines dans une TPE/PME/start up",
           "abstract": "Vous envisagez de mettre en place une direction RH dans votre TPE/PME/start up, ou vos salariés en réclament une à cor et à cris. A quoi sert donc cette fameuse Direction des Ressources Humaines que vous souhaiteriez mettre en place? Quels sont ses enjeux? Comment s'y prendre concrètement? Quelques clés pour partir du bon pied!",
@@ -915,7 +939,8 @@ var data = {
             "DRH",
             "PME",
             "TPE",
-            "Création"
+            "Création",
+            "Start Up"
           ],
           "lang": [
             "fr"
@@ -926,22 +951,14 @@ var data = {
           "abstract": "Comment un service RH peut-il apporter de la valeur à une SSII? Et surtout, comment les RH peuvent-ils accompagner les salariés de ce type de société comme il se doit? Je vous propose de faire le point sur les attentes des salariés, leurs appréhensions et réticences, mais également sur le véritable apport que peut représenter un bon service RH en SSII.",
           "tags": [
             "DRH",
-            "ESN"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Faire des RH autrement!",
-          "abstract": "Les RH à l'ancienne, coincées entre une rigidité juridique et de l'administratif toujours plus lourd, ça ne vous intéresse pas? Moi non plus, les RH, c'est tellement plus! Basculez avec moi dans la révolution People & Culture Development!",
-          "tags": [
-            "DRH"
+            "ESN",
+            "SSII"
           ],
           "lang": [
             "fr"
           ]
         }
+      
       ],
       "cities": [
         "Paris"
