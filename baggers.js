@@ -1730,16 +1730,12 @@ var data = {
     {
       "since": "2013-03-29",
       "name": "Eric Lefevre-ardant",
-      "bio": "Consultant Java - Freelance",
+      "bio": "Développeur chez leboncoin",
       "picture": "img/baggers/photo_eric.jpg",
       "websites": [
         {
           "name": "Web",
           "url": "http://ericlefevre.net/"
-        },
-        {
-          "name": "Podcast",
-          "url": "http://unetassedethepodcast.com/"
         }
       ],
       "location": "Paris",
@@ -1764,6 +1760,16 @@ var data = {
           ],
           "lang": [
             "fr"
+          ]
+        },
+        {
+          "title": "Introduction à la Philosophie de l'intelligence artificielle",
+          "abstract": "Les machines peuvent-elles être intelligentes ? Que signifie être intelligent, pour une machine ? Dans cette présentation, nous explorerons les principes et les limitations du Test de Turing. Nous évoquerons également la Chambre chinoise, une expérience de pensée qui peut être vue comme une réponse à Turing. A l'issue de cette session, nous aurons une meilleure idée de ce qu'est l'intelligence artificielle dans son sens fort... et de sa faisabilité.",
+          "tags": [
+            "intelligence artificielle"
+          ],
+          "lang": [
+            "fr", "en"
           ]
         }
       ],
