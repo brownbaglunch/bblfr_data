@@ -14,12 +14,10 @@ var data = {
       "location": "Paris, remote",
       "sessions": [
         {
-          "title": "Découverte de la programmation fonctionnelle",
-          "abstract": "Je vous propose de découvrir ensemble la programmation fonctionnelle à travers des types comme List, Option ou Either et des opérations comme map, flatMap et fold (collect, reduce). Nous baserons cette découverte sur un live coding avec comme choix de langage : Java 8+ (avec Javaslang), Scala, Haskell. Cette session s'adresse au débutant comme aux expérimentés.",
+          "title": "Ce que vous devez savoir de la programmation fonctionnelle",
+          "abstract": "La programmation fonctionnelle est un paradigme qui est beaucoup plus ancien que vous ne le pensez et qui a eu des impacts assez importants dans le domaine du développement en général. Pourtant, ce n'est que très récemment que ce paradigme a commencé à émerger auprès des développeurs de tout bord. Je vous propose de découvrir ce qui définit la programmation fonctionnelle, les critiques qu'elle fait concernant le développement traditionnel et comment elle permet de répondre aux enjeux des projets les plus récents. Cette présentation s'adresse aussi bien à un public développeur ou non.",
           "tags": [
-            "Java",
             "Scala",
-            "Haskell",
             "Programmation fonctionnelle"
           ],
           "lang": [
