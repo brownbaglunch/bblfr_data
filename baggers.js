@@ -15757,68 +15757,119 @@ var data = {
       }
     },
     {
-      "since": "2017-10-01",
-      "name": "Charles Sabourdin",
-      "bio": "Consultant Architecture/DevOps chez Ippon Technologies",
-      "picture": "https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg",
-      "websites": [
-        {
-          "name": "Web",
-          "url": "http://kanedafromparis.github.io/"
+        "since": "2017-10-01",
+        "name": "Charles Sabourdin",
+        "bio": "Consultant Architecture/DevOps chez Ippon Technologies",
+        "picture": "https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg",
+        "websites": [
+          {
+            "name": "Web",
+            "url": "http://kanedafromparis.github.io/"
+          }
+        ],
+        "location": "Paris, remote",
+        "sessions": [
+          {
+            "title": "Introduction a openshift",
+            "abstract": "Il s'agit d'une presentation de l'outils openshift et d'un certain nombre de ces concepts",
+            "tags": [
+              "Openshift",
+              "kubernetes",
+              "Docker",
+              "DevOps"
+              
+            ],
+            "lang": [
+              "fr","en"
+            ]
+          },
+          {
+            "title": "Java dans docker",
+            "abstract": "Pourquoi quand vous demandez à mettre en production java dans docker, on vous fait la grimace ? Pourquoi vos "container" crashent si souvent et pourquoi vos node swapent-ils autant ? Partageons ensemble nos découvertes et réflexions sur java dans docker.",
+            "tags": [
+              "Openshift",
+              "kubernetes",
+              "Docker",
+              "DevOps",
+              "java",
+              "JVM"
+            ],
+            "lang": [
+              "fr", "en"
+            ]
+          },
+          {
+            "title": "Premiers pas avec Docker",
+            "abstract": "Il s’agit dans un premier temps de présenter Docker, ses cas d’usage et quelques bonnes pratiques d’utilisation. Le but est de présenter Docker, son mode de fonctionnement et son écosystème. Ce qu’il peut apporter et les pièges à éviter",
+            "tags": [
+              "Openshift",
+              "kubernetes",
+              "Docker",
+              "DevOps",
+              "Securité"
+            ],
+            "lang": [
+              "fr"
+            ]
+          }
+        ],
+        "cities": [
+          "Paris"
+        ],
+        "contacts": {
+          "twitter": "kanedafromparis",
+          "mail": "kanedafromparis@gmail.com"
         }
-      ],
-      "location": "Paris, remote",
-      "sessions": [
+    },
+    {
+      "since": "2017-08-29",
+      "name": "Julien Danjou",
+      "bio": "Free Software hacker, développeur Python, auteur de awesomewm",
+      "picture": "https://julien.danjou.info/media/images/jd.jpg",
+        "websites": [
         {
-          "title": "Introduction a openshift",
-          "abstract": "Il s'agit d'une presentation de l'outils openshift et d'un certain nombre de ces concepts",
-          "tags": [
-            "Openshift",
-            "kubernetes",
-            "Docker",
-            "DevOps"
-            
-          ],
-          "lang": [
-            "fr","en"
-          ]
+          "name": "Web & blog",
+          "url": "https://julien.danjou.info"
+        },
+
+        {
+          "name": "GitHub",
+          "url": "https://github.com/jd"
         },
         {
-          "title": "Java dans docker",
-          "abstract": "Pourquoi quand vous demandez à mettre en production java dans docker, on vous fait la grimace ? Pourquoi vos "container" crashent si souvent et pourquoi vos node swapent-ils autant ? Partageons ensemble nos découvertes et réflexions sur java dans docker.",
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/juliendanjou"
+        }
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Produire des applications Python scalable",
+          "abstract": "Dans cette présentation, je présente des méthodes et des outils qui permettent d'écrire des applications Python qui sont scalable à grande échelle.",
           "tags": [
-            "Openshift",
-            "kubernetes",
-            "Docker",
-            "DevOps",
-            "java",
-            "JVM"
+            "Python"
           ],
           "lang": [
             "fr", "en"
           ]
         },
         {
-          "title": "Premiers pas avec Docker",
-          "abstract": "Il s’agit dans un premier temps de présenter Docker, ses cas d’usage et quelques bonnes pratiques d’utilisation. Le but est de présenter Docker, son mode de fonctionnement et son écosystème. Ce qu’il peut apporter et les pièges à éviter",
+          "title": "Enregistrement de séries temporelles à grande échelle avec Gnocchi",
+          "abstract": "Dans cette présentation, je présente Gnocchi, un projet libre de gestion de séries temporelles (timeseries) à grande échelle (scalable).",
           "tags": [
-            "Openshift",
-            "kubernetes",
-            "Docker",
-            "DevOps",
-            "Securité"
+            "Python"
           ],
           "lang": [
-            "fr"
+            "fr", "en"
           ]
-        }
+        },
       ],
       "cities": [
         "Paris"
       ],
       "contacts": {
-        "twitter": "kanedafromparis",
-        "mail": "kanedafromparis@gmail.com"
+        "twitter": "juldanjou",
+        "mail": "julien@danjou.info"
       }
     }
   ],
