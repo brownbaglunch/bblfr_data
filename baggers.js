@@ -15757,6 +15757,71 @@ var data = {
       }
     },
     {
+        "since": "2017-10-01",
+        "name": "Charles Sabourdin",
+        "bio": "Consultant Architecture/DevOps chez Ippon Technologies",
+        "picture": "https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg",
+        "websites": [
+          {
+            "name": "Web",
+            "url": "http://kanedafromparis.github.io/"
+          }
+        ],
+        "location": "Paris, remote",
+        "sessions": [
+          {
+            "title": "Introduction a openshift",
+            "abstract": "Il s'agit d'une presentation de l'outils openshift et d'un certain nombre de ces concepts",
+            "tags": [
+              "Openshift",
+              "kubernetes",
+              "Docker",
+              "DevOps"
+              
+            ],
+            "lang": [
+              "fr","en"
+            ]
+          },
+          {
+            "title": "Java dans docker",
+            "abstract": "Pourquoi quand vous demandez à mettre en production java dans docker, on vous fait la grimace ? Pourquoi vos "container" crashent si souvent et pourquoi vos node swapent-ils autant ? Partageons ensemble nos découvertes et réflexions sur java dans docker.",
+            "tags": [
+              "Openshift",
+              "kubernetes",
+              "Docker",
+              "DevOps",
+              "java",
+              "JVM"
+            ],
+            "lang": [
+              "fr", "en"
+            ]
+          },
+          {
+            "title": "Premiers pas avec Docker",
+            "abstract": "Il s’agit dans un premier temps de présenter Docker, ses cas d’usage et quelques bonnes pratiques d’utilisation. Le but est de présenter Docker, son mode de fonctionnement et son écosystème. Ce qu’il peut apporter et les pièges à éviter",
+            "tags": [
+              "Openshift",
+              "kubernetes",
+              "Docker",
+              "DevOps",
+              "Securité"
+            ],
+            "lang": [
+              "fr"
+            ]
+          }
+        ],
+        "cities": [
+          "Paris"
+        ],
+        "contacts": {
+          "twitter": "kanedafromparis",
+          "mail": "kanedafromparis@gmail.com"
+        }
+    },
+    {
       "since": "2017-08-29",
       "name": "Julien Danjou",
       "bio": "Free Software hacker, développeur Python, auteur de awesomewm",
