@@ -3260,7 +3260,7 @@ var data = {
         },
         {
           "title": "Git avancé",
-          "abstract": "Vous utilisez déjà Git, mais les commandes git rebase -i, git bisect ou ce qu'est un cherry-pick, ou triturer l'historique de vos commits vous inquiètent encore ? Vous aimeriez maîtriser bien plus que commit et push et arrêter le svn-like ? Cette session est pour vous. Note: cette session est ajustable à vos besoins/questions, suffit de demander :-).",
+          "abstract": "Vous utilisez déjà Git, mais les commandes git rebase -i, git bisect ou ce qu'est un cherry-pick, ou triturer l'historique de vos commits vous inquiètent encore ? Vous aimeriez maîtriser bien plus que commit et push et arrêter le svn-like ? Cette session est pour vous. Note: cette session est ajustable à vos besoins/questions, suffit de demander :-).",
           "tags": [
             "Jenkins",
             "Docker",
@@ -9468,7 +9468,7 @@ var data = {
       "sessions": [
         {
           "title": "Coding Dojo",
-          "abstract": "Comment apprendre à devenir de meilleurs développeurs ou développeuses si nous ne prenons jamais le temps d'apprendre ? Le but d'un coding dojo est de créer en environnement d'apprentissage ou nous pouvons sans vergogne nous entrainer au TDD et autres pratiques cabalistiques sans peur de l'échec.",
+          "abstract": "Comment apprendre à devenir de meilleurs développeurs ou développeuses si nous ne prenons jamais le temps d'apprendre ? Le but d'un coding dojo est de créer en environnement d'apprentissage ou nous pouvons sans vergogne nous entrainer au TDD et autres pratiques cabalistiques sans peur de l'échec.",
           "tags": [
             "TDD",
             "Extreme Programming",
@@ -9482,7 +9482,7 @@ var data = {
         },
         {
           "title": "Introduction au Test Driven Development",
-          "abstract": "Vous avez peut être entendu dire que le TDD est une pratique magique qui va résoudre tous vos problèmes. Oui mais en attentant, le concept vous parrez un peu fumeux et vous ne voyez pas très bien comment ça marche. Le but ici est de faire une session de live coding démontrant le béaba de l'approche.",
+          "abstract": "Vous avez peut être entendu dire que le TDD est une pratique magique qui va résoudre tous vos problèmes. Oui mais en attentant, le concept vous parrez un peu fumeux et vous ne voyez pas très bien comment ça marche. Le but ici est de faire une session de live coding démontrant le béaba de l'approche.",
           "tags": [
             "TDD",
             "Extreme Programming",
@@ -11261,7 +11261,7 @@ var data = {
       "sessions": [
         {
           "title": "Introduction à Apache Cassandra",
-          "abstract": "Initiation au fonctionnement de Cassandra, cette présentation a pour vocation de présenterer au développeur ou à l'administrateur novice les concepts et le fonctionnement d'une des plus importantes bases NoSQL actuelles.",
+          "abstract": "Initiation au fonctionnement de Cassandra, cette présentation a pour vocation de présenterer au développeur ou à l'administrateur novice les concepts et le fonctionnement d'une des plus importantes bases NoSQL actuelles.",
           "tags": [
             "Cassandra"
           ],
@@ -15331,7 +15331,7 @@ var data = {
         },
         {
           "title": "Il n'y a pas de bon modèle métier",
-          "abstract": "On vous le répète : une application répond bien aux besoins de ses utilisateurs si elle reflète bien leur métier. Les approches du développement centrées sur l'Utilisateur sont d'ailleurs faites pour ça : le DDD d'Eric Evans concentre ses efforts sur la modélisation du &ldquo;Coeur du Domaine&rdquo;.<br\>En pratique, comment faire un &ldquo;bon&rdquo; Modèle Métier ?<br/>Traditionnellement, on dit qu'il faut représenter au mieux la réalité de ce métier : faire &ldquo;coller&rdquo; le code au plus près du monde réel pour garantir l'adéquation au besoin.<br/>Malheureusement, cette approche naïve est mauvaise ! Pourquoi ? Parce qu'un logiciel ne représente pas le monde réel, il informatise des services rendus.<br/>Parce qu'un Modèle de Domaine n'est pas un Modèle du Métier, c'est un modèle de conception répondant à des exigences de codage.<br/>Et je vous montrerai, à partir d'exemples, pourquoi il ne doit pas être construit en observant le monde réel mais à partir des besoins de présentation ou de services.",
+          "abstract": "On vous le répète : une application répond bien aux besoins de ses utilisateurs si elle reflète bien leur métier. Les approches du développement centrées sur l'Utilisateur sont d'ailleurs faites pour ça : le DDD d'Eric Evans concentre ses efforts sur la modélisation du &ldquo;Coeur du Domaine&rdquo;.<br/>En pratique, comment faire un &ldquo;bon&rdquo; Modèle Métier ?<br/>Traditionnellement, on dit qu'il faut représenter au mieux la réalité de ce métier : faire &ldquo;coller&rdquo; le code au plus près du monde réel pour garantir l'adéquation au besoin.<br/>Malheureusement, cette approche naïve est mauvaise ! Pourquoi ? Parce qu'un logiciel ne représente pas le monde réel, il informatise des services rendus.<br/>Parce qu'un Modèle de Domaine n'est pas un Modèle du Métier, c'est un modèle de conception répondant à des exigences de codage.<br/>Et je vous montrerai, à partir d'exemples, pourquoi il ne doit pas être construit en observant le monde réel mais à partir des besoins de présentation ou de services.",
           "tags": [
             "Modèle",
             "Bounded Context",
@@ -15700,7 +15700,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        },
+        }
       ],
       "cities": [
         "Nantes"
@@ -15862,7 +15862,7 @@ var data = {
           "lang": [
             "fr", "en"
           ]
-        },
+        }
       ],
       "cities": [
         "Paris"
