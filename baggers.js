@@ -14084,7 +14084,7 @@ var data = {
         {
           "name": "GitHub",
           "url": "https://github.com/rap2hpoutre"
-        },
+        }
       ],
       "location": "Nantes",
       "sessions": [
@@ -14478,7 +14478,7 @@ var data = {
         {
           "name": "HopWork",
           "url": "https://www.hopwork.fr/profile/nicolassteinmetz"
-        },
+        }
       ],
       "location": "Ouest parisien (proche Versailles) , remote",
       "sessions": [
@@ -14543,7 +14543,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        },
+        }
       ],
       "cities": [
         "Versailles",
