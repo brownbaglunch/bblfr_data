@@ -15871,6 +15871,80 @@ var data = {
         "twitter": "juldanjou",
         "mail": "julien@danjou.info"
       }
+    },
+    {
+      "since": "2017-09-28",
+      "name": "Haja Rambelontsalama",
+      "bio": "Ingénieur Architecte et Coach technique, agiliste de coeur, crafteur d'esprit, le partage de passions est ce qui m'anime.",
+      "picture": "http://gravatar.com/avatar/a3378480b86e303c3fdb639a4bca6312?s=512",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://hrambelo.com/"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hrambelo/"
+        }
+      ],
+      "location": "Rennes, Nantes, Saint Malo, Vannes, ...",
+      "sessions": [
+        {
+          "title": "Mon équipe se focalise sur la valeur métier ... grâce au code",
+          "abstract": "S'adressant à tous les professionnels du numérique, avec ou sans background technique, cette conférence fait le tour de plusieurs pratiques d'utilisation du code pour les différentes parties de la création de produit numérique depuis les spécifications fonctionnelles ou la documentation jusqu'à l'infrastructure.",
+          "tags": [
+            "Agile",
+            "DevOps",
+            "ALM",
+            "Cloud",
+            "Infra as Code",
+            "Doc as Code",
+            "Conf as Code",
+            "Spec as Code",
+            "Pipeline as Code",
+            "Craftsmanship",
+            "Software Craftsmanship",
+            "TDD"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Retour vers le passé|futur avec Git",
+          "abstract": "Retour sur les forces et killer features de Git, possiblité de faire un coding dojo. ",
+          "tags": [
+            "Agile",
+            "VCS",
+            "DVCS",
+            "Git",
+            "Coding Dojo"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Lego4DevOps",
+          "abstract": "Sensibilisation à l'intérêt du DevOps à travers un jeu Lego visant à reconcilier développeurs et opérationnels.",
+          "tags": [
+            "Agile",
+            "DevOps",
+            "ALM",
+            "Atelier"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Rennes"
+      ],
+      "contacts": {
+        "twitter": "hrambelo",
+        "mail": "bensmania@gmail.com"
+      }
     }
   ],
   "cities": {
