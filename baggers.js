@@ -15945,6 +15945,61 @@ var data = {
         "twitter": "hrambelo",
         "mail": "bensmania@gmail.com"
       }
+    },
+    {
+      "since": "2017-09-29",
+      "name": "Clément Danjou",
+      "bio": "Front-end Consultant, Javascript developer",
+      "picture": "https://www.gravatar.com/avatar/7c78e70c64fe464a708c465cdbcc5432?s=200",
+        "websites": [
+        {
+          "name": "Web & blog",
+          "url": "https://clement.danjou.io"
+        },
+
+        {
+          "name": "GitHub",
+          "url": "https://github.com/birdy-"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/clementdanjou"
+        }
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Migration d'AngularJS vers React",
+          "abstract": "Dans cette présentation, j'explique les différentes étapes nécessaires pour pouvoir migrer une application AngularJS vers React de façon itérative.",
+          "tags": [
+            "React",
+            "AngularJS",
+            "Javascript"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        },
+        {
+          "title": "Internationalisation du front-end",
+          "abstract": "De l'outil de traduction aux librairies JS en passant par l'intégration continue, je présente un workflow qui permet de fluidifier l'internationalisation d'une plateforme et éviter quelques écueils.",
+          "tags": [
+            "Internationalisation",
+            "i18n",
+            "Front-end"
+          ],
+          "lang": [
+            "fr", "en"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "cledanjou",
+        "mail": "clement@danjou.io"
+      }
     }
   ],
   "cities": {
