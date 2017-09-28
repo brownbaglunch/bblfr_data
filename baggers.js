@@ -15678,6 +15678,53 @@ var data = {
     },
     {
       "since": "2017-09-28",
+      "name": "Amrouche Hamza",
+      "bio": "Lead Dev @ Les-Tilleuls.coop | Core Member API-Platform",
+      "picture": "https://les-tilleuls.coop/client/a46ea2d55c88fdb3d284dae09ff0d984.jpg",
+      "websites": [
+          {
+              "name": "Web",
+              "url": "https://github.com/Simperfit"
+          }
+      ],
+      "location": "Amiens, Lille, remote",
+      "sessions": [
+          {
+              "title": "Api-Platform, fast web APIs",
+              "abstract": "Un petit workshop autour d'API-Platform, lancement du projet jusqu'au concept d'api hypermedia",
+              "tags": [
+                  "API",
+                  "PHP"
+              ],
+              "lang": [
+                  "fr"
+              ]
+          },
+          {
+              "title": "Déploiement continu d'application API-centric avec Kubernetes",
+              "abstract": "Savez-vous ce qu’est un POD ? Souhaitez-vous utiliser votre Dockerfile en production facilement ?, Oubliez les pertes de temps et d’énergie dûs aux processus de déploiement complexes. Aujourd’hui, avec Docker et Kubernetes, vous pouvez consacrer votre temps à des choses plus intéressantes et productives. En pratiquant l’intégration continue à partir du Dockerfile à la production, voyons comment déployer des applications API-centric sur Kubernetes en prenant exemple sur la démo d’API Platform.",
+              "tags": [
+                  "PHP",
+                  "Kubernetes",
+                  "Docker",
+                  "DevOps",
+              ],
+              "lang": [
+                  "fr"
+              ]
+          }
+      ],
+      "cities": [
+          "Amiens",
+          "Lille"
+      ],
+      "contacts": {
+          "twitter": "cDaed",
+          "mail": "hamza@les-tilleuls.coop"
+      }
+    },
+    {
+      "since": "2017-09-28",
       "name": "Haja Rambelontsalama",
       "bio": "Ingénieur Architecte et Coach technique, agiliste de coeur, crafteur d'esprit, le partage de passions est ce qui m'anime.",
       "picture": "http://gravatar.com/avatar/a3378480b86e303c3fdb639a4bca6312?s=512",
