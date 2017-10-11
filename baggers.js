@@ -15879,7 +15879,7 @@ var data = {
             "fr"
           ]
         }
-      ]
+      ],
       "contacts": {
         "twitter": "romaintouze",
         "mail": "contact@rtodev.tech"
