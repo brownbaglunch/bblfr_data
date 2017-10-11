@@ -15829,7 +15829,7 @@ var data = {
       "name": "Romain Touzé",
       "bio": "Développeur fullstack",
       "picture": "https://s3-eu-west-1.amazonaws.com/rtodev.tech/img/avatar_tourne.jpg",
-        "websites": [
+      "websites": [
         {
           "name": "Web",
           "url": "http://rtodev.tech"
@@ -15838,7 +15838,7 @@ var data = {
           "name": "GitHub",
           "url": "https://github.com/rtouze"
         },
-          {
+        {
           "name": "Speakerdeck",
           "url": "https://speakerdeck.com/rtouze"
         }
