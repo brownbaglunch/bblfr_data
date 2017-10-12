@@ -15880,6 +15880,9 @@ var data = {
           ]
         }
       ],
+      "cities": [
+        "Brest"
+      ],
       "contacts": {
         "twitter": "romaintouze",
         "mail": "contact@rtodev.tech"
