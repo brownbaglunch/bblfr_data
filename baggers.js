@@ -846,12 +846,16 @@ var data = {
     {
       "since": "2013-02-25",
       "name": "Julien Jakubowski",
-      "bio": "Développeur passionné, technical leader. Co-animateur du Ch'ti JUG et de l'Agile Tour Lille.",
+      "bio": "Consultant-codeur et développeur de développeurs chez OCTO Technology. Culture Code, Ch'ti JUG, Nord Agile, meetup Software Craftsmanship Lille.",
       "picture": "http://s3.amazonaws.com/askbob/users/photos/70/preview/carree.jpg",
       "websites": [
         {
           "name": "Web",
           "url": "http://chtijug.org/"
+        },
+        {
+          "name": "Web",
+          "url": "http://nord-agile.org/"
         },
         {
           "name": "Web",
@@ -879,7 +883,7 @@ var data = {
         },
         {
           "title": "Coding dojo sur mesure",
-          "abstract": "Organiser un coding dojo chez vous, sur mesure. Langages Java, JavaScript, Ruby. Mise en pratique clean code, TDD, ATDD...",
+          "abstract": "Organiser un coding dojo chez vous, sur mesure. Langages Java, JavaScript, Ruby. Mise en pratique clean code, TDD, BDD...",
           "tags": [
             "JavaScript",
             "Java",
@@ -898,9 +902,22 @@ var data = {
           "title": "Speed consulting sur la productivité des développements",
           "abstract": "Comment être plus productif ? Avoir moins de bugs ? Que faire concrètement sur mon projet pour cela ? Même le temps d'un déj, on peut trouver quelques pistes.",
           "tags": [
-            "JavaScript",
-            "Java",
-            "Spring",
+            "Test",
+            "Dojo",
+            "Software Craftsmanship",
+            "TDD",
+            "BDD"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Sur le chemin de la qualité : en équipe et dès demain !",
+          "abstract": "Ça y est ! C’est décidé ! Vous allez construire des applications de meilleure qualité. Vous êtes convaincu(e) que, pour cela, certaines pratiques de développement sont fondamentales comme par exemple les revues de code ou les tests automatisés.\n" +
+          "Mais vos collègues n’en font pas. Ou vous-même, vous avez essayé, mais sans en faire systématiquement. Parce que « c’est trop cher on n’a pas le temps », « ça ne marchera pas chez nous »...\n" +
+          "Après ce BBL, quand vous reviendrez sur votre plateau projet, vous aurez des éléments à essayer tout de suite. Et peut-être de quoi élaborer un plan de bataille pour que vous et votre équipe soyez fiers de votre code et ainsi conquérir le monde ! ;-)",
+          "tags": [
             "Test",
             "Dojo",
             "Software Craftsmanship",
@@ -915,43 +932,6 @@ var data = {
           "title": "Alliés contre les défauts (talk avec le WebCenter AXA)",
           "abstract": "La pratique de la revue de code prévient énormément de défauts. Mais elle a aussi d’autres “effets kiss-cool”. C’est une pratique qui existe depuis une soixantaine d’années. Mais pourquoi est-elle si rarement rencontrée dans les DSI ? Sans doute parce qu’elle est méconnue, mais aussi parce qu’elle fait l’objet d’appréhensions. Faites-vous des revues de code chez vous ? Et sinon, pourquoi pas ? Peut-être pensez-vous que cela prend trop de temps, que c’est trop cher, qu’en jugeant le code on jugera l’auteur… Au Webcenter AXA, le code est revu systématiquement avant de partir en production. Cela porte ses fruits. Mais cela ne s’est pas fait sans accrocs. Venez découvrir un retour d’expérience.",
           "tags": [
-            "JavaScript",
-            "Java",
-            "Spring",
-            "Test",
-            "Dojo",
-            "Software Craftsmanship",
-            "TDD",
-            "BDD"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Du JavaScript propre ? Challenge accepted !",
-          "abstract": "Mes recettes pour écrire, sans stress, des applications JavaScript complexes. Présentation ou mise en pratique sous forme de coding dojo.",
-          "tags": [
-            "JavaScript",
-            "Java",
-            "Spring",
-            "Test",
-            "Dojo",
-            "Software Craftsmanship",
-            "TDD",
-            "BDD"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Spring Batch : par quel bout le prendre ?",
-          "abstract": "En Java, quand je fais du batch : je suis à poil ? Et bien non, il y a Spring Batch. Je vous propose de vous le présenter. Et pourquoi pas coder notre premier batch ensemble.",
-          "tags": [
-            "JavaScript",
-            "Java",
-            "Spring",
             "Test",
             "Dojo",
             "Software Craftsmanship",
@@ -964,7 +944,8 @@ var data = {
         }
       ],
       "cities": [
-        "Lille"
+        "Lille",
+        "Paris"
       ],
       "contacts": {
         "twitter": "jak78",
