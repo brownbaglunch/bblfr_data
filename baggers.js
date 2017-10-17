@@ -15895,7 +15895,7 @@ var data = {
         },
         {
           "title": "Programmation réactive avec Spring 5 et Reactor",
-          "abstract": "Pour supporter une charge élevée ou améliorer la robustesse de son backend, la programmation réactive peut aider. Nous allons la présenter et montrer sa mise en oeuvre concrête avec Spring 5 et la librairie Reactor",
+          "abstract": "Pour supporter une charge élevée ou améliorer la robustesse de son backend, la programmation réactive peut aider. Nous allons la présenter et montrer sa mise en oeuvre concrète avec Spring 5 et la librairie Reactor",
           "tags": [
             "Programmation réactive",
             "Spring",
