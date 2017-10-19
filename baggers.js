@@ -15849,7 +15849,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        }, 
+        },
         {
           "title": "Redécouvrez Python",
           "abstract": "Python est un langage de programmation controversé. Il comporte pourtant un tas de qualités ! Les principales sont exposées dans cette présentation.",
@@ -15932,6 +15932,42 @@ var data = {
         {
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/fbeaufume/"
+        }
+      ]
+    },
+    {
+      "since": "2017-10-19",
+      "name": "Clément Héliou",
+      "bio" : "Pragmatism Driven Developer passionate about xDD, clean architectures and code quality. Enthusiastic defender of knowledge sharing and human skills.",
+      "picture" : "https://pbs.twimg.com/profile_images/865131946908635139/hONda4V3_400x400.jpg",
+      "cities" : [
+        "Paris"
+      ],
+      "contacts" : {
+        "twitter": "c_heliou",
+        "mail": "cheliou@xebia.fr"
+      },
+      "sessions": [
+        {
+          "title": "9 things that will make your ES/CQRS journey painful",
+          "abstract": "Les 9 pièges a éviter lorsque l'on démarre une implémentation ES/CQRS. Parce que de prime abord ça parait simple et qu'en fait, beaucoup se font assez mal en essayant ! On abordera : Domain-Driven Design (dont les Bounded Contexts), Event Storming, Eventual Consistency, versioning d'évènements, problématiques des systèmes distribués, Process Managers & Sagas.",
+          "tags": [
+            "EventSourcing",
+            "CQRS",
+            "DDD",
+            "EventStorming",
+            "ProcessManager"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "location": "Paris, La Défense",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://blog.xebia.fr/author/cheliou"
         }
       ]
     }
