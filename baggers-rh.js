@@ -481,7 +481,7 @@ var data = {
         "Paris"
       ],
       "contacts": {
-        "mail": "agelabert@formenscène.com"
+        "mail": "agelabert@formenscene.com"
       }
     },
     {
