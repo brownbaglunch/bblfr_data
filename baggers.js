@@ -15985,8 +15985,8 @@ var data = {
       },
       "sessions": [
         {
-          "title": "TDD - XP - Mob Programming : Introduction en 60 minutes",
-          "abstract": "En 60 minutes vous coderez un logiciel révolutionnaire, tous ensemble, en TDD, en appliquant les principes de l'Extreme Programming. À la fin de cette session : vous saurez écrire de bons tests unitaires anti régressions ; vous connaitrez les principes XP originaux ; vous vous serez amusés (fingers crossed ) !",
+          "title": "Vivez les principes XP dans une démo en mob programming et TDD en 1 heure chrono !",
+          "abstract": "Vous allez coder un logiciel révolutionnaire, tous ensemble, en TDD, en appliquant les principes de l'Extreme Programming. À la fin de cette session : vous saurez écrire de bons tests unitaires anti régressions ; vous connaitrez les principes XP originaux ; vous vous serez amusés (fingers crossed ) !",
           "tags": [
             "TDD",
             "XP",
