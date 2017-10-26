@@ -16006,6 +16006,42 @@ var data = {
           "url": "http://www.arolla.fr/blog/author/hadrien-mens-pellen/"
         }
       ]
+    },
+    {
+      "since": "2017-10-26",
+      "name": "Rémi Koci",
+      "bio" : "Agiliste passionné, anarchiste et chef de projet chez Ippon Technologies",
+      "picture" : "https://pbs.twimg.com/profile_images/824256803030663169/KFMrwWON_400x400.jpg",
+      "cities" : [
+        "Paris"
+      ],
+      "contacts" : {
+        "twitter": "remikoci",
+        "mail": "rkoci@ippon.fr"
+      },
+      "sessions": [
+        {
+          "title": "Lego4Scrum : découvrez les concepts d’un projet SCRUM en jouant aux LEGO® !",
+          "abstract": "S’adressant à tout public, Lego4Scrum est un jeu d'apprentissage permettant d'expérimenter le fonctionnement de la méthode agile SCRUM dans un cas pratique. Ainsi, il donne l’occasion de découvrir la philosophie et les processus indus par la méthode et de se construire en développant vos compétences en travail d’équipe.",
+          "tags": [
+            "Agile",
+            "Scrum",
+            "Serious Game",
+            "Team Building",
+            "Lego",
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "location": "Paris",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://blog.ippon.fr/author/rkoci"
+        }
+      ]
     }
   ],
   "cities": {
