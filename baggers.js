@@ -15970,6 +15970,42 @@ var data = {
           "url": "http://blog.xebia.fr/author/cheliou"
         }
       ]
+    },
+    {
+      "since": "2017-10-26",
+      "name": "Hadrien Mens-Pellen",
+      "bio" : "Artisan logiciel chez Arolla. Développeur java depuis 2010. J'adore le clean code, TDD, agile... et m'amuser en codant !",
+      "picture" : "https://en.gravatar.com/avatar/a4b57503ebc2c4b259e972cf2721b1b4",
+      "cities" : [
+        "Paris"
+      ],
+      "contacts" : {
+        "twitter": "hadrienmp",
+        "mail": "pro@hadrienmp.fr"
+      },
+      "sessions": [
+        {
+          "title": "TDD - XP - Mob Programming : Introduction en 60 minutes",
+          "abstract": "En 60 minutes vous coderez un logiciel révolutionnaire, tous ensemble, en TDD, en appliquant les principes de l'Extreme Programming. À la fin de cette session : vous saurez écrire de bons tests unitaires anti régressions ; vous connaitrez les principes XP originaux ; vous vous serez amusés (fingers crossed ) !",
+          "tags": [
+            "TDD",
+            "XP",
+            "Mob Programming",
+            "Extreme Programming",
+            "Agile",
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "location": "Paris",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://www.arolla.fr/blog/author/hadrien-mens-pellen/"
+        }
+      ]
     }
   ],
   "cities": {
