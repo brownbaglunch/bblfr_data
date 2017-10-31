@@ -14730,7 +14730,7 @@ var data = {
       "websites": [
         {
           "name": "Web",
-          "url": "https://sebastienfr.fr"
+          "url": "https://frenchgo.fr"
         },
         {
           "name": "LinkedIn",
@@ -14785,8 +14785,8 @@ var data = {
         }
       ],
       "cities": [
-        "Paris",
         "Lille",
+        "Paris",
         "Strasbourg"
       ],
       "contacts": {
