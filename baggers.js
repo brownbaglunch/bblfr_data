@@ -16296,7 +16296,7 @@ var data = {
       "location": "Nantes et environs",
       "websites": [
         {
-          "name": "Speaker Deck",
+          "name": "Speakerdeck",
           "url": "https://speakerdeck.com/chemidy"
         },
         {
