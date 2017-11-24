@@ -16239,7 +16239,7 @@ var data = {
     {
       "since": "2017-11-24",
       "name": "Cyrille Hemidy",
-      "bio" : "Cloud Software Architecte chez PA.COTTE et LivingPackets",
+      "bio" : "Cloud Software Architect chez PA.COTTE et LivingPackets",
       "picture" : "http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg",
       "cities" : [
         "Nantes"
