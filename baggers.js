@@ -16235,6 +16235,79 @@ var data = {
           "url": "https://github.com/adejanovski"
         }
       ]
+    },
+    {
+      "since": "2017-11-24",
+      "name": "Cyrille Hemidy",
+      "bio" : "Cloud Software Architect chez PA.COTTE et LivingPackets",
+      "picture" : "http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg",
+      "cities" : [
+        "Nantes"
+      ],
+      "contacts" : {
+        "twitter": "chemidy",
+        "mail": "cyrille.hemidy+bbl@gmail.com"
+      },
+      "sessions": [
+        {
+          "title": "Découvrir le langage Go ",
+          "abstract": "Découverte du langage Go, le langage de prédilection pour le cloud, ses atouts et ses faiblesses.",
+          "tags": [
+            "Cloud",
+            "Go",
+            "Golang",
+            "Google"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Découvrir Google Cloud Platform",
+          "abstract": "Découvrir les différents produits et service de  Google Cloud Platform, les usages et ses particularités. Une comparaison avec les solutions existantes sur les autres Cloud providers",
+          "tags": [
+            "Cloud",
+            "Architecture",
+            "GCP",
+            "Gooogle",
+            "Google CLoud",
+            "Kubernetes"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Découvrir gRPC et Protocol Buffers une alternative à REST",
+          "abstract": "gRPC est un Framework RPC basé sur HTTP/2 très efficace pour développer des Microservices. Le format de sérialisation des données est basé sur Protocol Buffers. Les avantages sont multiples : latence réduite, streaming, compression des headers, multiplexage, reduction de la consommation CPU et des échanges réseau, ...",
+          "tags": [
+            "Architecture",
+            "Grpc",
+            "Http2",
+            "Protocol Buffers",
+            "Protobuf",
+            "Microservices"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "location": "Nantes et environs",
+      "websites": [
+        {
+          "name": "Speakerdeck",
+          "url": "https://speakerdeck.com/chemidy"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/cyrillehemidy/"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/chemidy"
+        }
+      ]
     }
   ],
   "cities": {
