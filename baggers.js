@@ -2198,7 +2198,7 @@ var data = {
     {
       "since": "2013-05-07",
       "name": "Xavier Nopre",
-      "bio": "Développeur et agiliste - Indépendant",
+      "bio": "Artisan développeur WEB full stack, fan d'agilité, de tests uniaires, de TDD, d'outils et méthodes pour le développement agile (pair programming, intégraion continue, automatisation, ...) (Indépendant)",
       "picture": "img/baggers/photo_xavier.jpg",
       "websites": [
         {
@@ -2206,66 +2206,17 @@ var data = {
           "url": "http://xnopre.blogspot.fr/"
         }
       ],
-      "location": "Grenoble, Hautes-Alpes, Aix, Marseille",
+      "location": "Grenoble",
       "sessions": [
         {
-          "title": "Agilité & Scrum :",
-          "abstract": "Introduction aux valeurs et principes de base de l'agilité, et aux fondamentaux de Scrum.<br/>- Présentation ou discussions.<br/>- Découverte ou approfondissements",
-          "tags": [
-            "Java",
-            "Web",
-            "JavaScript",
-            "Play",
-            "Agile",
-            "Scrum",
-            "Ingénierie agile",
-            "Test",
-            "Tests unitaires",
-            "TDD",
-            "Usine logicielle",
-            "Industrialisation"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Ingénierie agile :",
-          "abstract": "Outils et méthodes pour les équipes de développement qui veulent réussir dans l'agilité<br/>- Présentation & discussions",
-          "tags": [
-            "Java",
-            "Web",
-            "JavaScript",
-            "Play",
-            "Agile",
-            "Scrum",
-            "Ingénierie agile",
-            "Test",
-            "Tests unitaires",
-            "TDD",
-            "Usine logicielle",
-            "Industrialisation"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
           "title": "Tests unitaires et TDD : la théorie :",
-          "abstract": "Pourquoi ? Comment ? Par où commencer ? Les pièges ? Les astuces ? etc ...<br/>- Présentation & démo",
+          "abstract": "Les tests unitaires sont indispensables pour faire du développement agile (itératif et incrémental), pour être sûr que le code fait ce qu'il faut, pour éviter les régressions, pour détecter au plus tôt les problèmes, pour diminuer les coûts, etc... Le TDD est la meilleure façon d'écrire les tests, notamment pour avoir du code testable et donc testé. Après un peu de théorie pour préciser tout cela, je vous montrerai par des exemples en live coding ce qu'est vraiment le TDD et que ce n'est pas si compliqué à mettre en oeuvre ! (Présentation & démos)",
           "tags": [
-            "Java",
-            "Web",
-            "JavaScript",
-            "Play",
-            "Agile",
-            "Scrum",
-            "Ingénierie agile",
-            "Test",
+            "Tests",
             "Tests unitaires",
             "TDD",
-            "Usine logicielle",
-            "Industrialisation"
+            "Java",
+            "Agilité"
           ],
           "lang": [
             "fr"
@@ -2273,16 +2224,37 @@ var data = {
         },
         {
           "title": "Tests unitaires et TDD : la pratique :",
-          "abstract": "Animation d'un coding-dojo 'randori' pour mettre en pratique les rudiments du TDD sur des défis simples<br/>- Atelier",
+          "abstract": "Je vous propose de venir animer un coding-dojo 'randori' pour mettre en pratique les rudiments du TDD sur des défis simples, et constater par vous même que cette pratique est indispensable mais pas impossible à mettre en oeuvre, à condition de savoir comment s'y mettre !",
           "tags": [
-            "Java",
-            "Web",
-            "JavaScript",
-            "Play",
-            "Agile",
+            "Tests",
+            "Tests unitaires",
+            "TDD",
+            "Agilité",
+            "Scrum"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Agilité & Scrum :",
+          "abstract": "Introduction aux valeurs et principes de base de l'agilité, et aux fondamentaux de Scrum : pourquoi l'agilité, quels intérêts, quand et où la mettre en place, comment s'y prendre, ...",
+          "tags": [
+            "Agilité",
+            "Scrum"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Ingénierie agile :",
+          "abstract": "Outils et méthodes pour les équipes de développement qui veulent réussir dans l'agilité (Présentation & discussions)",
+          "tags": [
+            "Agilité",
             "Scrum",
             "Ingénierie agile",
-            "Test",
+            "Tests",
             "Tests unitaires",
             "TDD",
             "Usine logicielle",
@@ -2293,21 +2265,25 @@ var data = {
           ]
         },
         {
-          "title": "Play Framework :",
-          "abstract": "Développer une application WEB en Java&nbsp;: simplicité, efficacité, et productivité&nbsp;: c'est possible ? Oui avec Play Framework&nbsp;!<br/>- Présentation et démo",
+          "title": "Play Framework",
+          "abstract": "Introduction à ce framework simple et efficace",
           "tags": [
             "Java",
             "Web",
-            "JavaScript",
             "Play",
-            "Agile",
-            "Scrum",
-            "Ingénierie agile",
-            "Test",
-            "Tests unitaires",
-            "TDD",
-            "Usine logicielle",
-            "Industrialisation"
+            "Framework"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Ansible",
+          "abstract": "Introduction à cet outil simple et efficace pour préparer vos machines",
+          "tags": [
+            "Ansible",
+            "DevOps",
+            "Docker"
           ],
           "lang": [
             "fr"
@@ -2317,18 +2293,8 @@ var data = {
           "title": "Divers agilité ou développement Java-WEB",
           "abstract": "Tous autres sujets tournant autour de l'agilité, ou du développement WEB en Java : contactez-moi et nous verrons sur quoi nous pourrons échanger !",
           "tags": [
-            "Java",
-            "Web",
-            "JavaScript",
-            "Play",
-            "Agile",
-            "Scrum",
-            "Ingénierie agile",
-            "Test",
-            "Tests unitaires",
-            "TDD",
-            "Usine logicielle",
-            "Industrialisation"
+            "Développement",
+            "Agilité"
           ],
           "lang": [
             "fr"
