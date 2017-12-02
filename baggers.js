@@ -16274,6 +16274,82 @@ var data = {
           "url": "https://github.com/chemidy"
         }
       ]
+    },
+    {
+      "since": "2017-12-01",
+      "name": "Sébastien Fauvel",
+      "bio": "Développeur un jour, développeur toujours.",
+      "picture": "http://1.gravatar.com/avatar/9ab929de00e5eab550c22cf5a32d8d46?size=200",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/sfauvel"
+        },
+        {
+          "name": "Lego4Devops",
+          "url": "https://lego4devops.github.io/"
+        },
+        {
+          "name": "caTesTdrale",
+          "url": "https://catestdrale.github.io/"
+        }
+      ],
+      "location": "Nantes",
+      "sessions": [
+        {
+          "title": "Lego4Devops",
+          "abstract": "Atelier mettant en évidence les problèmes de communication entre les développeurs et les opérationnels que le mouvement DevOps vise à améliorer pour la réussite des projets. Pas de code. Durée 1h15",
+          "tags": [
+            "SeriousGame",
+            "DevOps",
+            "Lego"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "caTesTdrale: Les tests, freins ou accélerateur ?",
+          "abstract": "Atelier ludique illustrant ce que vivent les équipes de développement sur un projet avec et sans tests. Il permet d'introduire la discussion autour de la pertinence des tests automatisés sur un projet. Pas de code. Durée: 30mn",
+          "tags": [
+            "SeriousGame",
+            "Test"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Pratique du pair programming",
+          "abstract": "Pratique emblématique de l'extreme programming, le pair programming c'est deux personnes pour une machine. Quels avantages peut on en tirer ? Venez expérimentez sur un exercice à la portée de tous et faire vos propres conclusions. Pas de code. Durée: 45mn",
+          "tags": [
+            "SeriousGame",
+            "Extrem Programming"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Coding dojo / Kata",
+          "abstract": "Animation de coding dojo, format randori ou kata, Thèmes TDD, BDD, refactoring, langage au choix (Java, Pyhton, PHP, Haskell, Javascript, ...)",
+          "tags": [
+            "Java",
+            "Craftsmanship",
+            "CleanCode"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }   
+      ],
+      "cities": [
+        "Nantes"
+      ],
+      "contacts": {
+        "twitter": "sebfauvel",
+        "mail": "sfauvel+bbl@gmail.com"
+      }
     }
   ],
   "cities": {
