@@ -2999,13 +2999,13 @@ var data = {
           ]
         },
         {
-          "title": "Devops:",
+          "title": "Devops: de GIT à Kubernetes en passant par Docker",
           "abstract": "Introduction à Devops.<br/>- Présentation ou discussions.<br/>- Découverte ou approfondissements",
           "tags": [
             "Docker",
-			"Jenkins",
-			"Monitoring",
-			"Kubernetes",
+            "Jenkins",
+            "Monitoring",
+            "Kubernetes",
             "Industrialisation"
           ],
           "lang": [
@@ -3013,7 +3013,7 @@ var data = {
           ]
         },
         {
-          "title": "Kubernetes:",
+          "title": "Kubernetes:ou comment aller plus loin avec Docker",
           "abstract": "Présentation & discussions",
           "tags": [
             "Kubernetes"
@@ -3022,7 +3022,7 @@ var data = {
             "fr"
           ]
         },
-		{
+        {
           "title": "Docker:",
           "abstract": "Présentation & discussions",
           "tags": [
@@ -3032,7 +3032,7 @@ var data = {
             "fr"
           ]
         },
-		{
+        {
           "title": "Kafka:",
           "abstract": "Présentation & discussions",
           "tags": [
