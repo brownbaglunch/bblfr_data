@@ -2976,7 +2976,7 @@ var data = {
     {
       "since": "2013-06-13",
       "name": "Laurent Tardif",
-      "bio": "CI addict, agiliste - PersistentSAS",
+      "bio": "Devops, agiliste - Zenika",
       "picture": "img/baggers/photo_LaurentTardif.jpg",
       "websites": [
         {
@@ -2990,18 +2990,22 @@ var data = {
           "title": "Agilité, Scrum & Kanban:",
           "abstract": "Introduction aux valeurs et principes de base de l'agilité, et aux fondamentaux de Scrum.<br/>- Présentation ou discussions.<br/>- Découverte ou approfondissements",
           "tags": [
-            "Java",
-            "Jenkins",
-            "BDD",
-            "Big Data",
             "Agile",
             "Scrum",
-            "Kanban",
-            "Flink",
-            "Intégration continue",
-            "Test",
-            "Tests unitaires",
-            "Usine logicielle",
+            "Kanban"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Devops: de GIT à Kubernetes en passant par Docker",
+          "abstract": "Introduction à Devops.<br/>- Présentation ou discussions.<br/>- Découverte ou approfondissements",
+          "tags": [
+            "Docker",
+            "Jenkins",
+            "Monitoring",
+            "Kubernetes",
             "Industrialisation"
           ],
           "lang": [
@@ -3009,66 +3013,30 @@ var data = {
           ]
         },
         {
-          "title": "Apache Flink : la 4eme Génération de Processing est la:",
-          "abstract": "Introduction à Flink.<br/>- Présentation ou discussions.<br/>- Découverte ou approfondissements",
+          "title": "Kubernetes:ou comment aller plus loin avec Docker",
+          "abstract": "Présentation & discussions",
           "tags": [
-            "Java",
-            "Jenkins",
-            "BDD",
-            "Big Data",
-            "Agile",
-            "Scrum",
-            "Kanban",
-            "Flink",
-            "Intégration continue",
-            "Test",
-            "Tests unitaires",
-            "Usine logicielle",
-            "Industrialisation"
+            "Kubernetes"
           ],
           "lang": [
             "fr"
           ]
         },
         {
-          "title": "Devops & Integration Continue :",
-          "abstract": "Outils et méthodes pour les équipes de développement qui veulent réussir dans l'agilité<br/>- Présentation & discussions",
+          "title": "Docker:",
+          "abstract": "Présentation & discussions",
           "tags": [
-            "Java",
-            "Jenkins",
-            "BDD",
-            "Big Data",
-            "Agile",
-            "Scrum",
-            "Kanban",
-            "Flink",
-            "Intégration continue",
-            "Test",
-            "Tests unitaires",
-            "Usine logicielle",
-            "Industrialisation"
+            "Docker"
           ],
           "lang": [
             "fr"
           ]
         },
         {
-          "title": "Tests automatiques et specification executable : la pratique :",
-          "abstract": "Quelles strategies de tests sont possibles, et que sont les specifications executables",
+          "title": "Kafka:",
+          "abstract": "Présentation & discussions",
           "tags": [
-            "Java",
-            "Jenkins",
-            "BDD",
-            "Big Data",
-            "Agile",
-            "Scrum",
-            "Kanban",
-            "Flink",
-            "Intégration continue",
-            "Test",
-            "Tests unitaires",
-            "Usine logicielle",
-            "Industrialisation"
+            "Docker"
           ],
           "lang": [
             "fr"
@@ -3080,7 +3048,7 @@ var data = {
       ],
       "contacts": {
         "twitter": "ouelcum",
-        "mail": "laurent.tardif@persistent.com"
+        "mail": "laurent.tardif@zenika.com"
       }
     },
     {
