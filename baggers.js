@@ -16371,7 +16371,8 @@ var data = {
         }
       ],
       "cities": [
-        "Nantes"
+        "Nantes",
+        "Paris"
       ],
       "contacts": {
         "mail": "o.laurendeau+bbl@gmail.com"
