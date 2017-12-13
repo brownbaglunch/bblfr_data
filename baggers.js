@@ -16318,6 +16318,65 @@ var data = {
         "twitter": "sebfauvel",
         "mail": "sfauvel+bbl@gmail.com"
       }
+    },
+    {
+      "since": "2017-12-13",
+      "name": "Olivier Laurendeau",
+      "bio": "Dev PHP avec des touches de Bash, Javascript, Ruby, Python, Go | Engineering manager @LaFourchette",
+      "picture": "https://fr.gravatar.com/userimage/38460289/d8e2f5d19f461b084de7079576bb3dfa?size=200",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/olaurendeau"
+        }
+      ],
+      "location": "Nantes",
+      "sessions": [
+        {
+          "title": "Tooling @LaFourchette",
+          "abstract": "Durée ~30 min, tour d'horizon des outils que nous utilisons à LaFourchette dans notre process de développement / déploiement. Liste non exhaustive : Jenkins, Github, Gitlab, Rancher, Capistrano, Samson, Twgit, Scrutinizer, Sonar, ...",
+          "tags": [
+            "Tooling",
+            "DevOps"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "RabbitMQ @LaFourchette",
+          "abstract": "Durée ~20 min, notre usage de RabbitMQ @LaFourchette",
+          "tags": [
+            "RabbitMQ",
+            "Queue messaging"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "Atelier découverte de RabbitMQ",
+          "abstract": "Durée ~1h30, découvrir différents cas d'usage de RabbitMQ à travers un Atelier, la base de code est en PHP https://github.com/olaurendeau/rabbitmq-workshop",
+          "tags": [
+            "Workshop",
+            "RabbitMQ",
+            "Queue messaging"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        }
+      ],
+      "cities": [
+        "Nantes",
+        "Paris"
+      ],
+      "contacts": {
+        "mail": "o.laurendeau+bbl@gmail.com"
+      }
     }
   ],
   "cities": {
