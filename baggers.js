@@ -16376,38 +16376,39 @@ var data = {
       ],
       "contacts": {
         "mail": "o.laurendeau+bbl@gmail.com"
-      }},
-      {
-            "since": "2017-12-14",
-            "name": "Nastasia Saby",
-            "bio": "Dev membre AFUP et membre du Software Craftmanship Lyon, fan de Big Data et de Software Craftsmanship",
-            "picture": "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?size=200",
-            "websites": [
-              {
-                "name": "GitHub",
-                "url": "https://github.com/NastasiaSaby"
-              }
-            ],
-            "location": "Lyon",
-            "sessions": [
-              {
-                "title": "Sensibilisation au Software Craftsmanship",
-                "abstract": "Le Software Craftsmanship est un terme qui semble parfois receler plein de mystères et de concepts complexes. Pourtant, il s’agit là simplement d’un mouvement qui a pour ambition de nous aider à créer des produits dont nous soyons fiers. Je vous propose de comprendre et découvrir ce que nous pouvons tirer de celui-ci. Durée : 50mn",
-                "tags": [
-                  "Software Craftsmanship"
-                ],
-                "lang": [
-                  "fr"
-                ]
-              }
-            ],
-            "cities": [
-              "Lyon"
-            ],
-            "contacts": {
-              "twitter": "saby_nastasia",
-              "mail": "nastasia.saby@gmail.com"
-            }
+      }
+    },
+    {
+      "since": "2017-12-14",
+      "name": "Nastasia Saby",
+      "bio": "Dev membre AFUP et membre du Software Craftmanship Lyon, fan de Big Data et de Software Craftsmanship",
+      "picture": "https://secure.gravatar.com/avatar/f1e09bf0b41e5559ff4623401378a1f8?size=200",
+      "websites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/NastasiaSaby"
+        }
+      ],
+      "location": "Lyon",
+      "sessions": [
+        {
+          "title": "Sensibilisation au Software Craftsmanship",
+          "abstract": "Le Software Craftsmanship est un terme qui semble parfois receler plein de mystères et de concepts complexes. Pourtant, il s’agit là simplement d’un mouvement qui a pour ambition de nous aider à créer des produits dont nous soyons fiers. Je vous propose de comprendre et découvrir ce que nous pouvons tirer de celui-ci. Durée : 50mn",
+          "tags": [
+            "Software Craftsmanship"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Lyon"
+      ],
+      "contacts": {
+        "twitter": "saby_nastasia",
+        "mail": "nastasia.saby@gmail.com"
+      }
     }
   ],
   "cities": {
