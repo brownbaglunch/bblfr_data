@@ -16399,7 +16399,7 @@ var data = {
                 "lang": [
                   "fr"
                 ]
-              },
+              }
             ],
             "cities": [
               "Lyon"
