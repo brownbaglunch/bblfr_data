@@ -16376,7 +16376,7 @@ var data = {
       ],
       "contacts": {
         "mail": "o.laurendeau+bbl@gmail.com"
-      },
+      }},
       {
             "since": "2017-12-14",
             "name": "Nastasia Saby",
