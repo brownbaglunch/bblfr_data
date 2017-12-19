@@ -2753,7 +2753,7 @@ var data = {
     {
       "since": "2013-06-03",
       "name": "Antonio Goncalves",
-      "bio": "Java EE et que Java EE - Freelance - Co-créateur de @ParisJUG @DevoxxFR",
+      "bio": "Java, Microservices, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @ParisJUG @DevoxxFR @lescastcodeurs",
       "picture": "http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg",
       "websites": [
         {
@@ -2768,12 +2768,12 @@ var data = {
       "location": "Paris intramuros... mais je veux bien faire un effort",
       "sessions": [
         {
-          "title": "Nouveautés Java EE",
-          "abstract": "Slides, code et discussion autour des nouveautés Java EE 7 et Java EE 6.",
+          "title": "Nouveautés Java EE et Micro Profile",
+          "abstract": "Slides, code et discussion autour des nouveautés Java EE 8 et Micro Profile 1.2.",
           "tags": [
             "JavaEE",
             "J2EE",
-            "CDI",
+            "MicroProfile",
             "Arquillian"
           ],
           "lang": [
@@ -2781,26 +2781,12 @@ var data = {
           ]
         },
         {
-          "title": "Migrer vos vielles applications",
-          "abstract": "Vous faites du J2EE 1.4 ou du Spring et vous voulez migrer tout ou partie de vos applications, discutons-en.",
+          "title": "Migrer vos monolithes vers des microservices, une bonne idée?",
+          "abstract": "Vous avez des monolithes et vous voulez migrer tout ou partie de vos applications vers une architecture microservices, discutons-en.",
           "tags": [
-            "JavaEE",
-            "J2EE",
-            "CDI",
-            "Arquillian"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "CDI",
-          "abstract": "Découvrez comment faire de l'injection, de l'interception, de la décoration ou de l'évenementiel avec Java EE",
-          "tags": [
-            "JavaEE",
-            "J2EE",
-            "CDI",
-            "Arquillian"
+            "MicroService",
+            "Architecture",
+            "Monolithe"
           ],
           "lang": [
             "fr"
@@ -2820,13 +2806,13 @@ var data = {
           ]
         },
         {
-          "title": "Une application Java EE 6 en moins d’une heure",
-          "abstract": "Live coding d'une application web avec JBoss Forge, Aquillian, DeltaSpike et déployée dans JBoss, GlassFish et TomEE.",
+          "title": "Une architecture micro services en moins d’une heure",
+          "abstract": "Live coding d'une architecture micro services avec JHipster, Spring Boot et Angular.",
           "tags": [
-            "JavaEE",
-            "J2EE",
-            "CDI",
-            "Arquillian"
+            "JHipster",
+            "MicroService",
+            "SpringBoot",
+            "Angular"
           ],
           "lang": [
             "fr"
