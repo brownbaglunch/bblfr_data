@@ -16295,7 +16295,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        }   
+        }
       ],
       "cities": [
         "Nantes"
@@ -16394,6 +16394,46 @@ var data = {
       "contacts": {
         "twitter": "saby_nastasia",
         "mail": "nastasia.saby@gmail.com"
+      }
+    },
+    {
+      "since": "2017-11-29",
+      "name": "Aurélien Loyer",
+      "bio": "Consultant et Formateur Web chez Zenika Lille depuis novembre 2015. Je me suis spécialisé dans le domaine du Web, AngularJS, Angular, VueJs, PHP... Fan d'IOT durant mes heures perdues, je suis toujours à l'affût des dernières nouveautés Web !",
+      "picture": "http://wp.aurelien-loyer.fr/upload/moi-64x64.jpg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://aurelien-loyer.fr/"
+        },
+        {
+          "name": "Github",
+          "url": "https://github.com/T3kstiil3"
+        }
+      ],
+      "location": "Lille",
+      "sessions": [
+        {
+          "title": "VueJS, le nouveau framework à la mode !",
+          "abstract": "Durant ce BBL je vous démontrerai comment ce framework poussé par l'open-source peut détrôner les deux grands frameworks, React et Angular, développés par les géants du Web",
+          "tags": [
+            "AngularJS",
+            "Angular",
+            "React",
+            "JavaScript",
+            "VueJS"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+      ],
+      "cities": [
+        "Lille"
+      ],
+      "contacts": {
+        "twitter": "AurelienLoyer",
+        "mail": "aurelien.loyer@zenika.com"
       }
     }
   ],
