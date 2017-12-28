@@ -16523,6 +16523,42 @@ var data = {
         "twitter": "@Nathan_damie",
         "mail": "nathan.damie@zenika.com"
       }
+    },
+    {
+      "since": "2018-01-01",
+      "name": "Guillaume Drouet",
+      "bio": "Consultant et Formateur chez Zenika Lille.",
+      "picture": "https://fr.gravatar.com/userimage/132699423/77557f4bfae552f20c1281d1c96ec8eb.jpg?size=200",
+      "websites": [
+        {
+          "name": "Github",
+          "url": "https://github.com/gdrouet"
+        }
+      ],
+      "location": "Lille",
+      "sessions": [
+        {
+          "title": "Tirez le meilleur de vos APIs avec GraphQL",
+          "abstract": "Au cours de ce BBL, nous verrons ce qu'est GraphQL et ce que cette spécification peut apporter de plus à vos APIs. Nous nous attarderons sur les patterns d'architecture, une démo montrant les fonctionnalités et on se risquera même à un comparatif avec REST.",
+          "tags": [
+            "GraphQL",
+            "API",
+            "BFF",
+            "NodeJS",
+            "Apollo"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+      ],
+      "cities": [
+        "Lille"
+      ],
+      "contacts": {
+        "twitter": "GuiDrouet",
+        "mail": "guidrouet@gmail.com"
+      }
     }
   ],
   "cities": {
