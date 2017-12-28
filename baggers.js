@@ -16435,7 +16435,7 @@ var data = {
         "twitter": "AurelienLoyer",
         "mail": "aurelien.loyer@zenika.com"
       }
-    }, 
+    },
     {
       "since": "2017-12-21",
       "name": "Nicolas Verinaud",
@@ -16487,6 +16487,41 @@ var data = {
       "contacts": {
         "twitter": "nverinaud",
         "mail": "nicolas.verinaud@ryfacto.fr"
+      }
+    },
+    {
+      "since": "2017-12-28",
+      "name": "Nathan Damie",
+      "bio": "Consultant et Formateur Web chez Zenika Lille depuis novembre 2016. Javascript lover & Beer Evangelist. J'aime aussi suivre de près les évolutions de la plateforme web et les frameworks géniaux qui s'y développent.",
+      "picture": "https://s.gravatar.com/avatar/09aec3477a937ad618eaeb77fd2eb337?s=200",
+      "websites": [
+        {
+          "name": "Github",
+          "url": "https://github.com/NathanDM"
+        }
+      ],
+      "location": "Lille",
+      "sessions": [
+        {
+          "title": "Polymer, les webcomponents c'est maintenant",
+          "abstract": "Qu'est ce que les composants Web? Pourquoi sont-ils géniaux? Toutes les réponses dans cet présentation.",
+          "tags": [
+            "Polymer",
+            "Webcomponents",
+            "PWA",
+            "JavaScript"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+      ],
+      "cities": [
+        "Lille"
+      ],
+      "contacts": {
+        "twitter": "@Nathan_damie",
+        "mail": "nathan.damie@zenika.com"
       }
     }
   ],
