@@ -1,5 +1,67 @@
 var data = {
   "speakers": [
+     {
+        "since": "2018-01-12",
+        "name": "Paul Pinault",
+        "bio": "Architecte Infrastructure, Intégration. Expert IoT, Ambassadeur Sigfox",
+        "picture": "https://www.isima.fr/wp-content/uploads/2014/02/Paul.jpg",
+        "websites": [
+          {
+            "name": "Blog, Disk91",
+            "url": "http://www.disk91.com"
+          }
+        ],
+        "location": "Clermont-Ferrand",
+        "sessions": [
+          {
+            "title": "Qu'est-ce que la révolution de l'IoT et le role des réseaux Basse Consommation ?",
+            "abstract": "Débutants - Comprendre l'IoT et l'emergeance de services basés sur des objets communiquants, Découvrir les réseaux basse consommation : Sigfox, LoRaWan",
+            "tags": [
+              "IoT",
+              "Sigfox",
+              "LoRaWan"
+            ],
+            "lang": [
+              "fr",
+              "en"
+            ]
+          },
+          {
+            "title": "Deap Dive Sigfox",
+            "abstract": "Techos avec première expérience IoT - Comprendre en détail le fonctionnement de Sigfox",
+            "tags": [
+              "LPWA",
+              "IoT",
+              "Sigfox"
+            ],
+            "lang": [
+              "fr",
+              "en"
+            ]
+          },
+          {
+            "title": "Sigfox et LoRaWan overview",
+            "abstract": "Techos - Tour d'horizon technique des réseaux IoT Sigfox et LoRaWan.",
+            "tags": [
+              "LoRaWan",
+              "Sigfox",
+              "IoT"
+            ],
+            "lang": [
+              "fr",
+              "en
+            ]
+          }
+        ],
+        "cities": [
+          "Clermont-Ferrand",
+          "Remote - Skype"
+        ],
+        "contacts": {
+          "twitter": "disk_91",
+          "mail": "disk_91@hotmail.com"
+        }
+    },
     {
       "since": "2013-02-09",
       "name": "François Sarradin",
