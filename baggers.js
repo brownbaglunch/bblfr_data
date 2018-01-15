@@ -31,7 +31,8 @@ var data = {
             "Programmation fonctionnelle"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -474,7 +475,8 @@ var data = {
             "lean canvas"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -486,7 +488,8 @@ var data = {
             "management"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -510,7 +513,8 @@ var data = {
             "code"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -533,7 +537,8 @@ var data = {
             "microservices"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -544,7 +549,8 @@ var data = {
             "devops"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -556,7 +562,8 @@ var data = {
             "clean code"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -914,9 +921,7 @@ var data = {
         },
         {
           "title": "Sur le chemin de la qualité : en équipe et dès demain !",
-          "abstract": "Ça y est ! C’est décidé ! Vous allez construire des applications de meilleure qualité. Vous êtes convaincu(e) que, pour cela, certaines pratiques de développement sont fondamentales comme par exemple les revues de code ou les tests automatisés.\n" +
-          "Mais vos collègues n’en font pas. Ou vous-même, vous avez essayé, mais sans en faire systématiquement. Parce que « c’est trop cher on n’a pas le temps », « ça ne marchera pas chez nous »...\n" +
-          "Après ce BBL, quand vous reviendrez sur votre plateau projet, vous aurez des éléments à essayer tout de suite. Et peut-être de quoi élaborer un plan de bataille pour que vous et votre équipe soyez fiers de votre code et ainsi conquérir le monde ! ;-)",
+          "abstract": "Ça y est ! C’est décidé ! Vous allez construire des applications de meilleure qualité. Vous êtes convaincu(e) que, pour cela, certaines pratiques de développement sont fondamentales comme par exemple les revues de code ou les tests automatisés.\nMais vos collègues n’en font pas. Ou vous-même, vous avez essayé, mais sans en faire systématiquement. Parce que « c’est trop cher on n’a pas le temps », « ça ne marchera pas chez nous »...\nAprès ce BBL, quand vous reviendrez sur votre plateau projet, vous aurez des éléments à essayer tout de suite. Et peut-être de quoi élaborer un plan de bataille pour que vous et votre équipe soyez fiers de votre code et ainsi conquérir le monde ! ;-)",
           "tags": [
             "Test",
             "Dojo",
@@ -1747,7 +1752,8 @@ var data = {
             "intelligence artificielle"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -9671,7 +9677,6 @@ var data = {
       ],
       "location": "Nantes et alentours",
       "sessions": [
-
         {
           "title": "Event Storming Workshop",
           "abstract": "Un atelier pour découvrir cette technique collaborative qui vise à modéliser votre métier tout en réunissant ceux qui savent ce qu'il faut réaliser et ceux qui savent comment le faire. Mise en application en live sur votre propre métier.",
@@ -12008,7 +12013,7 @@ var data = {
       ],
       "location": "Paris et alentours",
       "sessions": [
-       {
+        {
           "title": "Si t'es toujours pas dév à 40 ans ... il n'est pas trop tard !",
           "abstract": "Retour d'expérience, sous l'angle du formateur, sur un dispositif de reconversion professionnelle vers le métier de développeur Java ayant été mené d'octobre 2016 à juin 2017 par Simplon pour la DSI de Pôle Emploi.",
           "tags": [
@@ -13131,7 +13136,9 @@ var data = {
           ]
         }
       ],
-      "cities": ["Paris"],
+      "cities": [
+        "Paris"
+      ],
       "contacts": {
         "twitter": "qambard",
         "mail": "quentin.ambard@gmail.com"
@@ -13281,7 +13288,8 @@ var data = {
             ".NET"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -13385,7 +13393,8 @@ var data = {
             "sourcetree"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -13421,7 +13430,8 @@ var data = {
             "protobuf"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -13454,7 +13464,9 @@ var data = {
             "Pizza"
           ],
           "lang": [
-            "fr", "en", "it"
+            "fr",
+            "en",
+            "it"
           ]
         }
       ]
@@ -13677,7 +13689,8 @@ var data = {
           "lang": [
             "fr"
           ]
-        }, {
+        },
+        {
           "title": "JavaScript pour les développeurs Java",
           "abstract": "Pourquoi JavaScript est un langage difficile à appréhender pour les développeur(es) Java. On en profitera pour voir les bases de NodeJS, et les apports intéressants de ES2015.",
           "tags": [
@@ -13688,7 +13701,8 @@ var data = {
           "lang": [
             "fr"
           ]
-        }, {
+        },
+        {
           "title": "Les nouveautés de Java 8",
           "abstract": "Tour d'horizon des nouveautés apportées par cette version majeure de Java",
           "tags": [
@@ -13893,12 +13907,14 @@ var data = {
             "API"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
       "cities": [
-        "Rouen", "Paris"
+        "Rouen",
+        "Paris"
       ],
       "contacts": {
         "twitter": "Audrey_Neveu",
@@ -13925,72 +13941,317 @@ var data = {
         {
           "title": "SOA libre et efficace",
           "abstract": "Apache Servicemix, Apache Activemq, Apache Camel, Hawtio, en architecture OSGI et microservices, parce que l'on a toujours besoin de communiquer entre plusieurs applications, découvrez la puissance et la simplicité de Servicemix.",
-          "tags": ["API", "Agile", "Asynchrone", "Continuous Delivery", "DevOps", "Industrialisation", "Ingénierie agile", "Intégration", "Java", "Maven", "Micro-Services", "Open Source", "Ops", "Outils", "Stratégie"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "API",
+            "Agile",
+            "Asynchrone",
+            "Continuous Delivery",
+            "DevOps",
+            "Industrialisation",
+            "Ingénierie agile",
+            "Intégration",
+            "Java",
+            "Maven",
+            "Micro-Services",
+            "Open Source",
+            "Ops",
+            "Outils",
+            "Stratégie"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Crawling",
           "abstract": "Outlis de crawling, mémoire/stockage/reprise des éléments déjà crawlés, difficultés javascript/DOM, Selenium, Webdriver, PhantomJS, Nutch...",
-          "tags": ["Agile", "Architecture", "Asynchrone", "Automatisation", "Big Data", "Cloud", "Continuous Delivery", "Data Mining", "Elasticsearch", "Intégration", "Monitoring", "NoSQL", "Nutch", "Open Source", "SolR", "supervision", "Watir", "Webdriver"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Agile",
+            "Architecture",
+            "Asynchrone",
+            "Automatisation",
+            "Big Data",
+            "Cloud",
+            "Continuous Delivery",
+            "Data Mining",
+            "Elasticsearch",
+            "Intégration",
+            "Monitoring",
+            "NoSQL",
+            "Nutch",
+            "Open Source",
+            "SolR",
+            "supervision",
+            "Watir",
+            "Webdriver"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Appropriation de données, parsing, formatting",
           "abstract": "Aller chercher, parser, reconnaitre, stocker, restituer, utiliser le web comme une immense base de données formatée ouverte c'est maintenant possible. Présentation des outils Nutch, Parsing en XPatch, Solr, ElasticSearch, Kibana, Cassandra...",
-          "tags": ["Agile", "Asynchrone", "Big Data", "Data Mining", "Elasticsearch", "Ingénierie agile", "Kibana", "KPI", "Machine learning", "NoSQL", "Nutch", "Open Source", "Scalabilité", "SolR", "Webdriver"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Agile",
+            "Asynchrone",
+            "Big Data",
+            "Data Mining",
+            "Elasticsearch",
+            "Ingénierie agile",
+            "Kibana",
+            "KPI",
+            "Machine learning",
+            "NoSQL",
+            "Nutch",
+            "Open Source",
+            "Scalabilité",
+            "SolR",
+            "Webdriver"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Introduction aux Big Data avec Hadoop",
           "abstract": "Hadoop permet de travailler sur des petaoctets de données en des temps records grâce à son architecture distribuée. Découvrez comment cela fonctionne. Au programme : Architecture, HDFS, Map/Reduce, Impala, Scoop, Spark et pourquoi pas R :-)",
-          "tags": ["Architecture", "Big Data", "Data Mining", "Hadoop", "HDFS", "Impala", "Java", "NoSQL", "Open Source", "Scalabilité", "SolR", "Spark"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Architecture",
+            "Big Data",
+            "Data Mining",
+            "Hadoop",
+            "HDFS",
+            "Impala",
+            "Java",
+            "NoSQL",
+            "Open Source",
+            "Scalabilité",
+            "SolR",
+            "Spark"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Git & GitHub & Open Source",
           "abstract": "Présentation de Git, des différences par rapport à d'autres systèmes tels que Subversion, de son écosystème.",
-          "tags": ["Agile", "Automatisation", "Build", "Continuous Delivery", "Git", "Industrialisation", "Ingénierie agile", "IT automation", "Java", "Jenkins", "Maven", "Open Source", "Stratégie", "TDD", "Test"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Agile",
+            "Automatisation",
+            "Build",
+            "Continuous Delivery",
+            "Git",
+            "Industrialisation",
+            "Ingénierie agile",
+            "IT automation",
+            "Java",
+            "Jenkins",
+            "Maven",
+            "Open Source",
+            "Stratégie",
+            "TDD",
+            "Test"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Devops et Integration Continue",
           "abstract": "Outils et méthodes pour les équipes de développement qui veulent réussir opérationnellement dans l'agilité.",
-          "tags": ["Agile", "Architecture", "Automatisation", "Build", "Cloud", "Continuous Delivery", "DevOps", "Docker", "Git", "Industrialisation", "Ingénierie agile", "Jenkins", "KPI", "Open Source", "Ops", "Outils", "TDD", "Test", "Tests unitaires", "Usine logicielle"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Agile",
+            "Architecture",
+            "Automatisation",
+            "Build",
+            "Cloud",
+            "Continuous Delivery",
+            "DevOps",
+            "Docker",
+            "Git",
+            "Industrialisation",
+            "Ingénierie agile",
+            "Jenkins",
+            "KPI",
+            "Open Source",
+            "Ops",
+            "Outils",
+            "TDD",
+            "Test",
+            "Tests unitaires",
+            "Usine logicielle"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Les tests automatisés, ça n'est pas possible chez moi...",
           "abstract": "...vraiment ? Et si on regardait ?",
-          "tags": ["Agile", "Automatisation", "Build", "Continuous Delivery", "Ingénierie agile", "Outils", "TDD", "Test", "Tests unitaires", "Usine logicielle", "Watir", "Webdriver"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Agile",
+            "Automatisation",
+            "Build",
+            "Continuous Delivery",
+            "Ingénierie agile",
+            "Outils",
+            "TDD",
+            "Test",
+            "Tests unitaires",
+            "Usine logicielle",
+            "Watir",
+            "Webdriver"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Virtualisation d'accord, mais après",
           "abstract": "VMWare, OpenStack, AWS, Google Cloud Platform, Azure, Heroku, VirtualBox, Hyper-V, OVH Cloud, Docker et Vagrant... Au delà du <a href='https://www.cloudorado.com/cloud_server_comparison.jsp' target='_blank'>coût facial</a>  je vous présente mes retours d'expérience en terme de prix final, qualité de service, complexité de scalabilité et exploitation en production.",
-          "tags": ["Agile", "Amazon", "Architecture", "Automatisation", "AWS", "Azure", "Cloud", "Continuous Delivery", "DevOps", "Docker", "Git", "Ingénierie agile", "IT automation", "Monitoring", "Ops", "Outils", "Performance", "Scalabilité", "Sécurité", "Stratégie", "supervision", "Usine logicielle"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Agile",
+            "Amazon",
+            "Architecture",
+            "Automatisation",
+            "AWS",
+            "Azure",
+            "Cloud",
+            "Continuous Delivery",
+            "DevOps",
+            "Docker",
+            "Git",
+            "Ingénierie agile",
+            "IT automation",
+            "Monitoring",
+            "Ops",
+            "Outils",
+            "Performance",
+            "Scalabilité",
+            "Sécurité",
+            "Stratégie",
+            "supervision",
+            "Usine logicielle"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Monitoring et Alerting opensource",
           "abstract": "Si vous pensez qu'une solution de monitoring est forcement payante et/ou en mode SaaS ? Je vous propose de vous prouver le contraire ou comment via des outils opensource simple, puissants et ouverts, vous pouvez adresser vos problématiques de qualité de service.",
-          "tags": ["Architecture", "Asynchrone", "Automatisation", "Cloud", "Elasticsearch", "Ingénierie agile", "IT automation", "Kibana", "KPI", "Métrique", "Monitoring", "Open Source", "Outils", "Performance", "Scalabilité", "supervision"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Architecture",
+            "Asynchrone",
+            "Automatisation",
+            "Cloud",
+            "Elasticsearch",
+            "Ingénierie agile",
+            "IT automation",
+            "Kibana",
+            "KPI",
+            "Métrique",
+            "Monitoring",
+            "Open Source",
+            "Outils",
+            "Performance",
+            "Scalabilité",
+            "supervision"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Opensource pour les administrations et les collectivités locales",
           "abstract": "En France, au Royaume Uni, aux Etats Unis et partout dans l’Union Européenne, les gouvernements ont formulé des recommandations favorables à l’usage de logiciels open source dans leurs administrations. Le choix de systèmes d'information et l'interoperabilité de ceux-ci, sont la trâme future de notre bien commun numérique national. Maintenant comment on fait ;-) ?",
-          "tags": ["Architecture", "Asynchrone", "Automatisation", "Build", "Cloud", "Continuous Delivery", "Cryptographie", "DevOps", "Git", "Industrialisation", "Ingénierie agile", "Intégration", "IT automation", "Micro-Services", "MicroServices", "Outils", "Sécurité", "Stratégie", "Usine logicielle"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Architecture",
+            "Asynchrone",
+            "Automatisation",
+            "Build",
+            "Cloud",
+            "Continuous Delivery",
+            "Cryptographie",
+            "DevOps",
+            "Git",
+            "Industrialisation",
+            "Ingénierie agile",
+            "Intégration",
+            "IT automation",
+            "Micro-Services",
+            "MicroServices",
+            "Outils",
+            "Sécurité",
+            "Stratégie",
+            "Usine logicielle"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         },
         {
           "title": "Offshore programming",
           "abstract": "20 années d'expérience en Offshore programming (Biélorussie, Ukraine, Egypte, Chine, Inde, Maroc, Colombie, Sri Lanka....). Le pays et la langue importent beaucoup moins que la démarche, les outils de suivi, et l'adéquation entre votre niveau d'industrialisation informatique et le processus que vous allez mettre en place !",
-          "tags": ["Agile", "Architecture", "Automatisation", "Build", "Continuous Delivery", "DevOps", "Industrialisation", "Intégration", "IT automation", "Open Source", "Ops", "Outils", "Performance", "Scalabilité", "Sécurité", "Stratégie", "supervision", "TDD", "Test", "Tests unitaires", "Usine logicielle"],
-          "lang": ["fr", "en", "es"]
+          "tags": [
+            "Agile",
+            "Architecture",
+            "Automatisation",
+            "Build",
+            "Continuous Delivery",
+            "DevOps",
+            "Industrialisation",
+            "Intégration",
+            "IT automation",
+            "Open Source",
+            "Ops",
+            "Outils",
+            "Performance",
+            "Scalabilité",
+            "Sécurité",
+            "Stratégie",
+            "supervision",
+            "TDD",
+            "Test",
+            "Tests unitaires",
+            "Usine logicielle"
+          ],
+          "lang": [
+            "fr",
+            "en",
+            "es"
+          ]
         }
       ],
       "cities": [
-        "Bayonne", "Biarritz", "Saint-Jean-de-Luz", "Bordeaux", "Paris", "San Sebastian"
+        "Bayonne",
+        "Biarritz",
+        "Saint-Jean-de-Luz",
+        "Bordeaux",
+        "Paris",
+        "San Sebastian"
       ],
       "contacts": {
         "mail": "francois@liot.org"
@@ -14014,7 +14275,6 @@ var data = {
           "name": "Web",
           "url": "http://codox.fr/react-ts-bbl"
         }
-
       ],
       "location": "Paris",
       "sessions": [
@@ -14072,26 +14332,54 @@ var data = {
         {
           "title": "La programmation fonctionnelle (en JavaScript) pour les nuls",
           "abstract": "Découvrir les concepts de base de la programmation fonctionnelle avec JavaScript et comprendre quel est l'intérêt de ce paradigme de programmation.",
-          "tags": ["JavaScript", "Programmation fonctionnelle"],
-          "lang": ["fr"]
+          "tags": [
+            "JavaScript",
+            "Programmation fonctionnelle"
+          ],
+          "lang": [
+            "fr"
+          ]
         },
         {
           "title": "Sass, pratique tout de suite",
           "abstract": "Sass est devenu en peu de temps le pré-processeur CSS le plus populaire. Vous ne l’utilisez pas encore ?! Plus pour longtemps, car cet atelier vous apprendra à utiliser Sass, de manière progressive, pour tirer pleinement profit de ses possibilités.",
-          "tags": ["Atelier", "Sass", "CSS", "Pré-processeur"],
-          "lang": ["fr"]
+          "tags": [
+            "Atelier",
+            "Sass",
+            "CSS",
+            "Pré-processeur"
+          ],
+          "lang": [
+            "fr"
+          ]
         },
         {
           "title": "Let's sketch together",
           "abstract": "Un véritable atelier de collaboration entre les différents profils (métiers, développeurs, graphistes, ergonomes) participant à l'élaboration d'un produit numérique.",
-          "tags": ["Atelier", "Agile", "Collaboration", "Sketching", "UX"],
-          "lang": ["fr"]
+          "tags": [
+            "Atelier",
+            "Agile",
+            "Collaboration",
+            "Sketching",
+            "UX"
+          ],
+          "lang": [
+            "fr"
+          ]
         },
         {
           "title": "Lego4Scrum",
           "abstract": "L'atelier de référence pour vous sensibiliser à une approche Agile / Scrum, le tout avec des Lego.",
-          "tags": ["Atelier", "Agile", "Scrum", "Collaboration", "Lego"],
-          "lang": ["fr"]
+          "tags": [
+            "Atelier",
+            "Agile",
+            "Scrum",
+            "Collaboration",
+            "Lego"
+          ],
+          "lang": [
+            "fr"
+          ]
         }
       ],
       "cities": [
@@ -14135,7 +14423,8 @@ var data = {
             "AssertJ"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -14146,7 +14435,8 @@ var data = {
             "Container"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -14157,7 +14447,8 @@ var data = {
             "TypeScript"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -14169,7 +14460,8 @@ var data = {
             "Stream"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -14343,7 +14635,13 @@ var data = {
       "bio": "Couteau suisse du code",
       "picture": "http://drcode.io/images/arnaud_hero_white.png",
       "cities": [
-        "Nantes", "Rennes", "Bordeaux", "Tours", "Vannes", "Paris", "Lille"
+        "Nantes",
+        "Rennes",
+        "Bordeaux",
+        "Tours",
+        "Vannes",
+        "Paris",
+        "Lille"
       ],
       "contacts": {
         "twitter": "dr_c0d3",
@@ -14359,7 +14657,8 @@ var data = {
             "XP"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -14372,27 +14671,34 @@ var data = {
             "CI"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
           "title": "Haskell pour les nuls",
           "abstract": "La programmation fonctionnelle, c'est hype, c'est cool, ça groove... mais ça fait peur, surtout en Haskell, un langage réputé pour les matheux. Je vous propose de découvrir ce langage fascinant et le monde merveilleux des types par la pratique.",
           "tags": [
-            "FP", "Haskell", "Type Driven Development"
+            "FP",
+            "Haskell",
+            "Type Driven Development"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
           "title": "Event Sourcing, Functionally",
           "abstract": "L'Event Sourcing est une technique de modélisation et de stockage des données puissante et extrêmement flexible. Comment la mettre en oeuvre en pratique et comment elle entre en résonnance avec les principes de la programmation fonctionnelle, là est la question!",
           "tags": [
-            "FP", "EventSourcing", "DDD"
+            "FP",
+            "EventSourcing",
+            "DDD"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -14507,21 +14813,46 @@ var data = {
       "name": "Vincent Spiewak",
       "bio": "Innovation Energyzer @ DailyBrain",
       "picture": "https://www.gravatar.com/avatar/9a7fcd04ab29f4aa26d57fa7f208f908?s=250",
-      "cities": ["Paris"],
-      "contacts": { "twitter": "vspiewak", "mail": "vspiewak+bbl@dailybrain.fr" },
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "vspiewak",
+        "mail": "vspiewak+bbl@dailybrain.fr"
+      },
       "location": "Paris et alentours",
       "websites": [
-        { "name": "Web", "url": "http://dailybrain.fr" },
-        { "name": "LinkedIn", "url": "https://www.linkedin.com/in/vincentspiewak/" },
-        { "name": "GitHub", "url": "https://github.com/vspiewak" },
-        { "name": "Hopwork", "url": "https://www.hopwork.fr/profile/vincentspiewak" }
+        {
+          "name": "Web",
+          "url": "http://dailybrain.fr"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/vincentspiewak/"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/vspiewak"
+        },
+        {
+          "name": "Hopwork",
+          "url": "https://www.hopwork.fr/profile/vincentspiewak"
+        }
       ],
       "sessions": [
         {
           "title": "Continuous Delivery avec GoCD",
           "abstract": "Présentation de GoCD, outil remplacant avantageusement ce bon vieux Jenkins :D",
-          "tags": ["Agile", "Lean", "Startup", "Continuous Delivery", "DevOps"],
-          "lang": ["fr"]
+          "tags": [
+            "Agile",
+            "Lean",
+            "Startup",
+            "Continuous Delivery",
+            "DevOps"
+          ],
+          "lang": [
+            "fr"
+          ]
         }
       ]
     },
@@ -14544,7 +14875,8 @@ var data = {
           "tags": [
             "Green",
             "Eco-conception",
-            "Ethique"],
+            "Ethique"
+          ],
           "lang": [
             "fr"
           ]
@@ -14931,7 +15263,8 @@ var data = {
           "lang": [
             "fr"
           ]
-        },        {
+        },
+        {
           "title": "Puppet / Marionette Collective",
           "abstract": "Qu'est-ce-que l'Infrastructure as Code peut apport à votre organisation ?  L'homogénéisation de la configuration de vos machines ?  La facilité du redéploiement de vos services ?  La rapidité du déploiement des mises à jour de sécurité d'OpenSSL ?  Cette conférence à comme objectif de vous présenter Puppet et Marionette Collective pour que vous puissiez identifier les briques qui vous intéresseront, vous donner quelques pointeurs pour bien débuter et mettre en avant quelques points de vigilance. Public: celles et ceux qui gèrent plus de 3 machines.",
           "tags": [
@@ -14965,63 +15298,63 @@ var data = {
       }
     },
     {
-     "since": "2017-06-15",
-     "name": "Eve Vinclair-Berkemeier",
-     "bio": "People Manager & Coach Agile",
-     "picture": "https://fr.gravatar.com/userimage/14188452/90d16f0a978342383d8c5b392238a010.jpg?size=200",
-     "websites": [
-       {
-         "name": "Web",
-         "url": "http://www.knplabs.com/"
-       }
-     ],
-     "location": "Caen, remote",
-     "sessions": [
-       {
-         "title": "Découvrir la gestion de projet agile avec Scrum et Kanban",
-         "abstract": "Petite présentation théorique des méthodes agiles et surtout, discuter et échanger autour de vos expériences sur vos projets !",
-         "tags": [
-           "Scrum",
-           "Kanban",
-           "Gestion de projet agile"
-           ],
-         "lang": [
-           "fr"
-         ]
-       },
-       {
-         "title": "Le Sprint 0",
-         "abstract": "Pour les confirmés en gestion de projet agile : préparer un Sprint 0 en utilisant le BDD",
-         "tags": [
-           "Gestion de projet agile",
-           "BDD"
-         ],
-         "lang": [
-           "fr"
-         ]
-       },
-       {
-         "title": "Happiness au travail - aussi en remote",
-         "abstract": "Présentation du Happiness Management chez KNPLabs. Je vais vous montrer ma petite boîte à outils de happiness management pour des équipes sur place et en remote.",
-         "tags": [
-           "Management 3.0",
-           "Happiness",
-           "Remote",
-           "TeamBuilding"
-         ],
-         "lang": [
-           "fr"
-         ]
-       }
-     ],
-     "cities": [
-       "Caen"
-     ],
-     "contacts": {
-       "twitter": "@Evey_Online",
-       "mail": "eve.vinclair@knplabs.com"
-     }
-   },
+      "since": "2017-06-15",
+      "name": "Eve Vinclair-Berkemeier",
+      "bio": "People Manager & Coach Agile",
+      "picture": "https://fr.gravatar.com/userimage/14188452/90d16f0a978342383d8c5b392238a010.jpg?size=200",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://www.knplabs.com/"
+        }
+      ],
+      "location": "Caen, remote",
+      "sessions": [
+        {
+          "title": "Découvrir la gestion de projet agile avec Scrum et Kanban",
+          "abstract": "Petite présentation théorique des méthodes agiles et surtout, discuter et échanger autour de vos expériences sur vos projets !",
+          "tags": [
+            "Scrum",
+            "Kanban",
+            "Gestion de projet agile"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Le Sprint 0",
+          "abstract": "Pour les confirmés en gestion de projet agile : préparer un Sprint 0 en utilisant le BDD",
+          "tags": [
+            "Gestion de projet agile",
+            "BDD"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Happiness au travail - aussi en remote",
+          "abstract": "Présentation du Happiness Management chez KNPLabs. Je vais vous montrer ma petite boîte à outils de happiness management pour des équipes sur place et en remote.",
+          "tags": [
+            "Management 3.0",
+            "Happiness",
+            "Remote",
+            "TeamBuilding"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Caen"
+      ],
+      "contacts": {
+        "twitter": "@Evey_Online",
+        "mail": "eve.vinclair@knplabs.com"
+      }
+    },
     {
       "since": "2017-06-16",
       "name": "Grégory Weinbach",
@@ -15481,81 +15814,81 @@ var data = {
       }
     },
     {
-        "since": "2017-10-01",
-        "name": "Charles Sabourdin",
-        "bio": "Consultant Architecture/DevOps chez Ippon Technologies",
-        "picture": "https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg",
-        "websites": [
-          {
-            "name": "Web",
-            "url": "http://kanedafromparis.github.io/"
-          }
-        ],
-        "location": "Paris, remote",
-        "sessions": [
-          {
-            "title": "Introduction a openshift",
-            "abstract": "Il s'agit d'une presentation de l'outils openshift et d'un certain nombre de ces concepts",
-            "tags": [
-              "Openshift",
-              "kubernetes",
-              "Docker",
-              "DevOps"
-
-            ],
-            "lang": [
-              "fr","en"
-            ]
-          },
-          {
-            "title": "Java dans docker",
-            "abstract": "Pourquoi quand vous demandez à mettre en production java dans docker, on vous fait la grimace ? Pourquoi vos container crashent si souvent et pourquoi vos node swapent-ils autant ? Partageons ensemble nos découvertes et réflexions sur java dans docker.",
-            "tags": [
-              "Openshift",
-              "kubernetes",
-              "Docker",
-              "DevOps",
-              "java",
-              "JVM"
-            ],
-            "lang": [
-              "fr", "en"
-            ]
-          },
-          {
-            "title": "Premiers pas avec Docker",
-            "abstract": "Il s’agit dans un premier temps de présenter Docker, ses cas d’usage et quelques bonnes pratiques d’utilisation. Le but est de présenter Docker, son mode de fonctionnement et son écosystème. Ce qu’il peut apporter et les pièges à éviter",
-            "tags": [
-              "Openshift",
-              "kubernetes",
-              "Docker",
-              "DevOps",
-              "Securité"
-            ],
-            "lang": [
-              "fr"
-            ]
-          }
-        ],
-        "cities": [
-          "Paris"
-        ],
-        "contacts": {
-          "twitter": "kanedafromparis",
-          "mail": "kanedafromparis@gmail.com"
+      "since": "2017-10-01",
+      "name": "Charles Sabourdin",
+      "bio": "Consultant Architecture/DevOps chez Ippon Technologies",
+      "picture": "https://pbs.twimg.com/media/C9MsXMRWAAALBZr.jpg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://kanedafromparis.github.io/"
         }
+      ],
+      "location": "Paris, remote",
+      "sessions": [
+        {
+          "title": "Introduction a openshift",
+          "abstract": "Il s'agit d'une presentation de l'outils openshift et d'un certain nombre de ces concepts",
+          "tags": [
+            "Openshift",
+            "kubernetes",
+            "Docker",
+            "DevOps"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "Java dans docker",
+          "abstract": "Pourquoi quand vous demandez à mettre en production java dans docker, on vous fait la grimace ? Pourquoi vos container crashent si souvent et pourquoi vos node swapent-ils autant ? Partageons ensemble nos découvertes et réflexions sur java dans docker.",
+          "tags": [
+            "Openshift",
+            "kubernetes",
+            "Docker",
+            "DevOps",
+            "java",
+            "JVM"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "Premiers pas avec Docker",
+          "abstract": "Il s’agit dans un premier temps de présenter Docker, ses cas d’usage et quelques bonnes pratiques d’utilisation. Le but est de présenter Docker, son mode de fonctionnement et son écosystème. Ce qu’il peut apporter et les pièges à éviter",
+          "tags": [
+            "Openshift",
+            "kubernetes",
+            "Docker",
+            "DevOps",
+            "Securité"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "kanedafromparis",
+        "mail": "kanedafromparis@gmail.com"
+      }
     },
     {
       "since": "2017-08-29",
       "name": "Julien Danjou",
       "bio": "Free Software hacker, développeur Python, auteur de awesomewm",
       "picture": "https://julien.danjou.info/media/images/jd.jpg",
-        "websites": [
+      "websites": [
         {
           "name": "Web & blog",
           "url": "https://julien.danjou.info"
         },
-
         {
           "name": "GitHub",
           "url": "https://github.com/jd"
@@ -15574,7 +15907,8 @@ var data = {
             "Python"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -15584,7 +15918,8 @@ var data = {
             "Python"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -15602,45 +15937,45 @@ var data = {
       "bio": "Lead Dev @ Les-Tilleuls.coop | Core Member API-Platform",
       "picture": "https://les-tilleuls.coop/client/a46ea2d55c88fdb3d284dae09ff0d984.jpg",
       "websites": [
-          {
-              "name": "Web",
-              "url": "https://github.com/Simperfit"
-          }
+        {
+          "name": "Web",
+          "url": "https://github.com/Simperfit"
+        }
       ],
       "location": "Amiens, Lille, remote",
       "sessions": [
-          {
-              "title": "Api-Platform, fast web APIs",
-              "abstract": "Un petit workshop autour d'API-Platform, lancement du projet jusqu'au concept d'api hypermedia",
-              "tags": [
-                  "API",
-                  "PHP"
-              ],
-              "lang": [
-                  "fr"
-              ]
-          },
-          {
-              "title": "Déploiement continu d'application API-centric avec Kubernetes",
-              "abstract": "Savez-vous ce qu’est un POD ? Souhaitez-vous utiliser votre Dockerfile en production facilement ?, Oubliez les pertes de temps et d’énergie dûs aux processus de déploiement complexes. Aujourd’hui, avec Docker et Kubernetes, vous pouvez consacrer votre temps à des choses plus intéressantes et productives. En pratiquant l’intégration continue à partir du Dockerfile à la production, voyons comment déployer des applications API-centric sur Kubernetes en prenant exemple sur la démo d’API Platform.",
-              "tags": [
-                  "PHP",
-                  "Kubernetes",
-                  "Docker",
-                  "DevOps",
-              ],
-              "lang": [
-                  "fr"
-              ]
-          }
+        {
+          "title": "Api-Platform, fast web APIs",
+          "abstract": "Un petit workshop autour d'API-Platform, lancement du projet jusqu'au concept d'api hypermedia",
+          "tags": [
+            "API",
+            "PHP"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Déploiement continu d'application API-centric avec Kubernetes",
+          "abstract": "Savez-vous ce qu’est un POD ? Souhaitez-vous utiliser votre Dockerfile en production facilement ?, Oubliez les pertes de temps et d’énergie dûs aux processus de déploiement complexes. Aujourd’hui, avec Docker et Kubernetes, vous pouvez consacrer votre temps à des choses plus intéressantes et productives. En pratiquant l’intégration continue à partir du Dockerfile à la production, voyons comment déployer des applications API-centric sur Kubernetes en prenant exemple sur la démo d’API Platform.",
+          "tags": [
+            "PHP",
+            "Kubernetes",
+            "Docker",
+            "DevOps"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
       ],
       "cities": [
-          "Amiens",
-          "Lille"
+        "Amiens",
+        "Lille"
       ],
       "contacts": {
-          "twitter": "cDaed",
-          "mail": "hamza@les-tilleuls.coop"
+        "twitter": "cDaed",
+        "mail": "hamza@les-tilleuls.coop"
       }
     },
     {
@@ -15678,7 +16013,8 @@ var data = {
             "TDD"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -15692,7 +16028,8 @@ var data = {
             "Coding Dojo"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -15722,12 +16059,11 @@ var data = {
       "name": "Clément Danjou",
       "bio": "Front-end Consultant, Javascript developer",
       "picture": "https://www.gravatar.com/avatar/7c78e70c64fe464a708c465cdbcc5432?s=200",
-        "websites": [
+      "websites": [
         {
           "name": "Web & blog",
           "url": "https://clement.danjou.io"
         },
-
         {
           "name": "GitHub",
           "url": "https://github.com/birdy-"
@@ -15748,7 +16084,8 @@ var data = {
             "Javascript"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         },
         {
@@ -15760,7 +16097,8 @@ var data = {
             "Front-end"
           ],
           "lang": [
-            "fr", "en"
+            "fr",
+            "en"
           ]
         }
       ],
@@ -15839,12 +16177,12 @@ var data = {
     {
       "since": "2017-10-13",
       "name": "Florian Beaufumé",
-      "bio" : "Architecte logiciel, expert Java, freelance",
-      "picture" : "https://avatars2.githubusercontent.com/u/25341695",
-      "cities" : [
+      "bio": "Architecte logiciel, expert Java, freelance",
+      "picture": "https://avatars2.githubusercontent.com/u/25341695",
+      "cities": [
         "Toulouse"
       ],
-      "contacts" : {
+      "contacts": {
         "twitter": "fbeaufume",
         "mail": "fbeaufume@gmail.com"
       },
@@ -15905,12 +16243,12 @@ var data = {
     {
       "since": "2017-10-19",
       "name": "Clément Héliou",
-      "bio" : "Pragmatism Driven Developer passionate about xDD, clean architectures and code quality. Enthusiastic defender of knowledge sharing and human skills.",
-      "picture" : "https://pbs.twimg.com/profile_images/865131946908635139/hONda4V3_400x400.jpg",
-      "cities" : [
+      "bio": "Pragmatism Driven Developer passionate about xDD, clean architectures and code quality. Enthusiastic defender of knowledge sharing and human skills.",
+      "picture": "https://pbs.twimg.com/profile_images/865131946908635139/hONda4V3_400x400.jpg",
+      "cities": [
         "Paris"
       ],
-      "contacts" : {
+      "contacts": {
         "twitter": "c_heliou",
         "mail": "cheliou@xebia.fr"
       },
@@ -15941,12 +16279,12 @@ var data = {
     {
       "since": "2017-10-26",
       "name": "Hadrien Mens-Pellen",
-      "bio" : "Artisan logiciel chez Arolla. Développeur java depuis 2010. J'adore le clean code, TDD, agile... et m'amuser en codant !",
-      "picture" : "https://en.gravatar.com/avatar/a4b57503ebc2c4b259e972cf2721b1b4",
-      "cities" : [
+      "bio": "Artisan logiciel chez Arolla. Développeur java depuis 2010. J'adore le clean code, TDD, agile... et m'amuser en codant !",
+      "picture": "https://en.gravatar.com/avatar/a4b57503ebc2c4b259e972cf2721b1b4",
+      "cities": [
         "Paris"
       ],
-      "contacts" : {
+      "contacts": {
         "twitter": "hadrienmp",
         "mail": "pro@hadrienmp.fr"
       },
@@ -15959,7 +16297,7 @@ var data = {
             "XP",
             "Mob Programming",
             "Extreme Programming",
-            "Agile",
+            "Agile"
           ],
           "lang": [
             "fr"
@@ -15977,12 +16315,12 @@ var data = {
     {
       "since": "2017-10-26",
       "name": "Rémi Koci",
-      "bio" : "Agiliste passionné, anarchiste et chef de projet chez Ippon Technologies",
-      "picture" : "https://pbs.twimg.com/profile_images/824256803030663169/KFMrwWON_400x400.jpg",
-      "cities" : [
+      "bio": "Agiliste passionné, anarchiste et chef de projet chez Ippon Technologies",
+      "picture": "https://pbs.twimg.com/profile_images/824256803030663169/KFMrwWON_400x400.jpg",
+      "cities": [
         "Paris"
       ],
-      "contacts" : {
+      "contacts": {
         "twitter": "remikoci",
         "mail": "rkoci@ippon.fr"
       },
@@ -15995,7 +16333,7 @@ var data = {
             "Scrum",
             "Serious Game",
             "Team Building",
-            "Lego",
+            "Lego"
           ],
           "lang": [
             "fr"
@@ -16013,12 +16351,12 @@ var data = {
     {
       "since": "2017-10-30",
       "name": "Vincent Massol",
-      "bio" : "Développeur Open source jour et nuit, payé par XWiki SAS pour travailler sur le logiciel éponyme... Aime l'ingénierie logicielle et notamment le build, tests, et qualité de code.",
-      "picture" : "https://gravatar.com/avatar/0b17060fd5b56172e81e4bfbbcb438e0?&s=128",
-      "cities" : [
+      "bio": "Développeur Open source jour et nuit, payé par XWiki SAS pour travailler sur le logiciel éponyme... Aime l'ingénierie logicielle et notamment le build, tests, et qualité de code.",
+      "picture": "https://gravatar.com/avatar/0b17060fd5b56172e81e4bfbbcb438e0?&s=128",
+      "cities": [
         "Paris"
       ],
-      "contacts" : {
+      "contacts": {
         "twitter": "vmassol",
         "mail": "vincent@massol.net"
       },
@@ -16062,12 +16400,12 @@ var data = {
     {
       "since": "2017-11-06",
       "name": "Alexander Dejanovski",
-      "bio" : "Consultant Cassandra chez The Last Pickle et co-animateur du podcast Big Data Hebdo",
-      "picture" : "http://thelastpickle.com/assets/img/staff/alex-dejanovski-tn.png",
-      "cities" : [
+      "bio": "Consultant Cassandra chez The Last Pickle et co-animateur du podcast Big Data Hebdo",
+      "picture": "http://thelastpickle.com/assets/img/staff/alex-dejanovski-tn.png",
+      "cities": [
         "Paris"
       ],
-      "contacts" : {
+      "contacts": {
         "twitter": "alexanderDeja",
         "mail": "alex@thelastpickle.com"
       },
@@ -16159,12 +16497,12 @@ var data = {
     {
       "since": "2017-11-24",
       "name": "Cyrille Hemidy",
-      "bio" : "Cloud Software Architect chez PA.COTTE et LivingPackets",
-      "picture" : "http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg",
-      "cities" : [
+      "bio": "Cloud Software Architect chez PA.COTTE et LivingPackets",
+      "picture": "http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg",
+      "cities": [
         "Nantes"
       ],
-      "contacts" : {
+      "contacts": {
         "twitter": "chemidy",
         "mail": "cyrille.hemidy+bbl@gmail.com"
       },
@@ -16426,7 +16764,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        },
+        }
       ],
       "cities": [
         "Lille"
@@ -16514,7 +16852,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        },
+        }
       ],
       "cities": [
         "Lille"
@@ -16550,7 +16888,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        },
+        }
       ],
       "cities": [
         "Lille"
@@ -16688,7 +17026,7 @@ var data = {
       "lat": 47.219102,
       "lng": -1.551132
     },
-     "Nice": {
+    "Nice": {
       "name": "Nice",
       "ville_img": "img/villes/BBL_Sophia.png",
       "lat": 43.695719,
