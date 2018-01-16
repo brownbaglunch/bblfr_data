@@ -16906,6 +16906,12 @@ var data = {
       "lat": 43.529742,
       "lng": 5.447427
     },
+    "Amiens": {
+      "name": "Amiens",
+      "ville_img": "img/villes/BBL.jpg",
+      "lat": 49.8985408,
+      "lng": 2.2145978
+    },
     "Avignon": {
       "name": "Avignon",
       "ville_img": "img/villes/BBL_Avignon.jpg",
