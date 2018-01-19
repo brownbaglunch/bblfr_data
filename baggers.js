@@ -16979,6 +16979,55 @@ var data = {
         "twitter": "rsertelon",
         "mail": "romain@sertelon.fr"
       }
+    },
+    {
+      "since": "2018-01-19",
+      "name": "Mikaël Létang",
+      "bio": "Développeur passionné chez Atamaï",
+      "picture": "https://pbs.twimg.com/profile_images/625645296723345408/vALM64V3_400x400.png",
+      "websites": [
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mikaelletang/"
+        }
+      ],
+      "location": "Bordeaux",
+      "sessions": [
+        {
+          "title": "Accélérer la mise en prod",
+          "abstract": "Comment raccourcir le délai entre l'expression d'un besoin et l'utilisation en production du code correspondant, tout en s'assurant de sa qualité ? Présentation d'un ensemble de stratégies et de techniques pour réduire la durée du pipeline",
+          "tags": [
+            "Continuous Delivery",
+            "Automation",
+            "Trunk Based Development",
+            "Feature Toggling"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "Faire du DDD tactique avec Symfony",
+          "abstract": "Comment organiser son code pour suivre les bonnes pratiques du DDD dans Symfony",
+          "tags": [
+            "DDD",
+            "Symfony",
+            "PHP",
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        }
+      ],
+      "cities": [
+        "Bordeaux"
+      ],
+      "contacts": {
+        "twitter": "mikael_letang",
+        "mail": "mikael.letang@gmail.com"
+      }
     }
   ],
   "cities": {
