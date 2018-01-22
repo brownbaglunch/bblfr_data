@@ -17013,7 +17013,7 @@ var data = {
           "tags": [
             "DDD",
             "Symfony",
-            "PHP",
+            "PHP"
           ],
           "lang": [
             "fr",
