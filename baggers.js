@@ -1,4 +1,5 @@
-var data = { "speakers": [
+var data = { 
+  "speakers": [
     {
       "since": "2012-11-05",
       "name": "David Gageot",
@@ -17303,4 +17304,4 @@ var data = { "speakers": [
       "lng": 6.1347321
     }
   }
-}y
+};
