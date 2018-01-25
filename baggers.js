@@ -17035,12 +17035,12 @@ var data = { "speakers": [
       "picture": "https://s3.amazonaws.com/askbob/users/photos/914/big/me_dublin.jpg",
       "websites": [
         {
-          "name": "Blog",
+          "name": "Web",
           "url": "https://blog.owulveryck.info/"
         },
         {
-          "name": "Web",
-          "url": "http://blog.octo.com/"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/olivierwulveryck/"
         }
       ],
       "location": "Métropole lilloise",
@@ -17303,4 +17303,4 @@ var data = { "speakers": [
       "lng": 6.1347321
     }
   }
-};
+}y
