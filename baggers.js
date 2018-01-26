@@ -17057,7 +17057,7 @@ var data = {
           "lang": [
             "fr"
           ]
-        },
+        }
       ],
       "cities": [
         "Lille"
