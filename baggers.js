@@ -11802,7 +11802,7 @@ var data = {
     {
       "since": "2015-12-23",
       "name": "Emmanuel Demey",
-      "bio": "Consultant et Formateur Web - Zenika Lille",
+      "bio": "Consultant et Formateur Web - Directeur Technique de Zenika Lille, Google Developer Expert Web Technologies",
       "picture": "https://pbs.twimg.com/profile_images/799175687097688064/Y2TWhwYL.jpg",
       "websites": [
         {
