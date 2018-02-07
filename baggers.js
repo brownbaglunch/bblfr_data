@@ -17066,6 +17066,71 @@ var data = {
         "twitter": "owulveryck",
         "mail": "olwu@octo.com"
       }
+    },
+    {
+      "since": "2018-02-07",
+      "name": "Yvan Phélizot",
+      "bio": "Consultant chez Arolla.",
+      "picture": "https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAN6AAAAJDFkNTNjZDA5LThlZTAtNGVlNS1hMWU4LTFjMWRlMzJhMjEyZg.jpg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "http://cotonne.github.com/"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://fr.linkedin.com/in/yvanphelizot"
+        }
+      ],
+      "location": "Paris",
+      "sessions": [
+        {
+          "title": "Apprendre à développer avec des Legos",
+          "abstract": "Et si on mettait à la même table développeur, chef de projet, métier, testeurs ... et que l'on arrivait à comprendre enfin l'importance des tests unitaire? Il s'agit de la session Lego de Gargoyles Software (http://www.gargoylesoftware.com/ex/lego_tdd)",
+          "tags": [
+            "TDD",
+            "Clean Code",
+            "Craftsmanship"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "Lego4DevOps",
+          "abstract": "Dev et Ops, vous n'arrivez pas à vous comprendre? Il est temps que ça change avec une session faite pour ça : Lego4DevOps. Atelier créé par Lego4DevOps de Sébastien Fauvel, Cécile Especel et Didier Drouin (https://lego4devops.github.io/) ",
+          "tags": [
+            "DevOps",
+            "Clean Code",
+            "Craftsmanship"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        },
+        {
+          "title": "10 choses à savoir sur le TDD, la 8è va vous étonner",
+          "abstract": "'Le TDD, c'est compliqué, ça ne sert à rien, c'est juste des problèmes, ...', si vous vous reconnaissez, alors cet atelier original est faite pour vous! Mettez le pied dans le TDD avec cette session!",
+          "tags": [
+            "TDD",
+            "Clean Code",
+            "Craftsmanship"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        }
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "contacts": {
+        "twitter": "yoda044",
+        "mail": "yvan.phelizot@arolla.fr"
+      }
     }
   ],
   "cities": {
