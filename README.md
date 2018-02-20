@@ -2,6 +2,14 @@
 
 To add yourself as a speaker, send a pull request on `baggers.js` file.
 
+## Getting Started
+
+Install all the dependencies by:
+
+```shell
+yarn
+```
+
 ## Speakers dataset
 
 The `speakers` array contains the list of speakers ordered by their "join" date. It means that you need to add yourself at the end of this list.
