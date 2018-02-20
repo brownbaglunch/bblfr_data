@@ -4,8 +4,7 @@ To add yourself as a speaker, send a pull request on `baggers.js` file.
 
 ## Speakers dataset
 
-The `speakers` array contains the list of speakers ordered by their "join" date. It means
-that you need to add yourself at the end of this list.
+The `speakers` array contains the list of speakers ordered by their "join" date. It means that you need to add yourself at the end of this list.
 
 **Mandatory fields:**
 
@@ -96,8 +95,7 @@ The `cities` object contains one city object where the key is the city name.
 The city object must define the following fields:
 
 * `name`: The city name
-* `ville_img`: The relative path to the city BBL logo. If you don't have any, you can use `img/villes/BBL.jpg`.
-In the next future, this field won't be mandatory anymore.
+* `ville_img`: The relative path to the city BBL logo. If you don't have any, you can use `img/villes/BBL.jpg`. In the next future, this field won't be mandatory anymore.
 * `lat`: Lattitude point for the city (might be the center of the city)
 * `lng`: Longitude point for the city (might be the center of the city)
 
