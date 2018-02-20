@@ -12661,6 +12661,15 @@ var data = {
             "Software Craftsmanship",
             "team"
           ]
+        },
+        {
+          "title": "Introduction à git",
+          "abstract": "Atelier d'apprentissage de git. On commence par une brève introduction aux principes, puis on s'essaie à un atelier pratique pour apprendre les commandes basiques."
+          "tags": [
+            "git",
+            "introduction",
+            "hands-on"
+          ]
         }
       ],
       "cities": [
