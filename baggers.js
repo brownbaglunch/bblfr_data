@@ -14796,7 +14796,8 @@ var data = {
       "name": "Jean Bisutti",
       "bio": "Développeur Java",
       "picture": "https://pbs.twimg.com/profile_images/606213307507351552/IJcDzWZo.jpg",
-      "websites": [],
+      "websites": [
+      ],
       "location": "Paris",
       "sessions": [
         {
