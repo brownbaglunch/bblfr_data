@@ -12658,7 +12658,16 @@ var data = {
       ],
       "contacts": {
         "twitter": "Fabinout",
-        "mail": "fabien.lamarque+bbl@gmail.com"
+        "mail": "fabien.lamarque+bbl@gmail.com",
+        "websites": [
+          {
+            "name": "blog",
+            "url": "http://fabien-lamarque.eu"
+          }, {
+            "name": "GitHub",
+            "url": "https://github.com/Fabinout/"
+          }
+        ]
       }
     },
     {
@@ -14768,8 +14777,7 @@ var data = {
       "name": "Jean Bisutti",
       "bio": "Développeur Java",
       "picture": "https://pbs.twimg.com/profile_images/606213307507351552/IJcDzWZo.jpg",
-      "websites": [
-      ],
+      "websites": [],
       "location": "Paris",
       "sessions": [
         {
