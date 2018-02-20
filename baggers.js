@@ -12651,6 +12651,25 @@ var data = {
           "lang": [
             "fr"
           ]
+        }, {
+          "title": "Revues de code, quoi regarder, quels pièges éviter ?",
+          "abstract": "La pratique de la revue de code se démocratise. Que vous la découvriez ou que vous la pratiquiez depuis des années, échangeons sur les bonnes pratiques, les pièges et les différentes techniques que vous pouvez utiliser pour pratiquer vos revues de code.",
+          "tags": [
+            "Code Review",
+            "Agile",
+            "XP",
+            "Software Craftsmanship",
+            "team"
+          ]
+        },
+        {
+          "title": "Introduction à git",
+          "abstract": "Atelier d'apprentissage de git. On commence par une brève introduction aux principes, puis on s'essaie à un atelier pratique pour apprendre les commandes basiques."
+          "tags": [
+            "git",
+            "introduction",
+            "hands-on"
+          ]
         }
       ],
       "cities": [
@@ -12658,7 +12677,16 @@ var data = {
       ],
       "contacts": {
         "twitter": "Fabinout",
-        "mail": "fabien.lamarque+bbl@gmail.com"
+        "mail": "fabien.lamarque+bbl@gmail.com",
+        "websites": [
+          {
+            "name": "blog",
+            "url": "http://fabien-lamarque.eu"
+          }, {
+            "name": "GitHub",
+            "url": "https://github.com/Fabinout/"
+          }
+        ]
       }
     },
     {
