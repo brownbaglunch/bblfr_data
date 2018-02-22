@@ -14056,6 +14056,25 @@ var data = {
         mail: 'ronan@pocketsensei.net',
       },
     },
+    {
+      since: '2018-02-22',
+      name: 'Benjamin Marguin',
+      bio: 'Développeur front-end, intégrateur, formateur Git.',
+      picture: 'https://avatars3.githubusercontent.com/u/1846633',
+      location: 'Toulouse',
+      cities: ['Toulouse'],
+      contacts: {
+        twitter: 'mab_',
+        mail: 'brownbaglunch.fr@ma-b.com',
+      },
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/benjamin-marguin',
+        },
+      ],
+      sessions: [],
+    }
   ],
   cities: {
     'Aix-en-Provence': {
