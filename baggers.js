@@ -14081,6 +14081,13 @@ var data = {
           tags: ['Git'],
           lang: ['fr'],
         },
+        {
+          title: 'Git au quotidien',
+          abstract:
+            'Ni une présentation ni une conférence, mais une proposition de prendre un peu de recul et de discuter ensemble de votre utilisation de Git et de vos éventuelles problématiques.',
+          tags: ['Git', 'Gitlab', 'Github'],
+          lang: ['fr'],
+        },
       ],
     },
   ],
