@@ -13996,6 +13996,66 @@ var data = {
         mail: 'yvan.phelizot@arolla.fr',
       },
     },
+    {
+      since: '2018-02-22',
+      name: 'Ronan Amicel',
+      bio:
+        'Développeur à large spectre, artisan logiciel, coach technique, expert Python',
+      picture:
+        'https://www.gravatar.com/avatar/b06b5d4777e2734feb91298062539ec8?s=300',
+      websites: [
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/amicel',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/ronanamicel/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/ronnix/',
+        },
+        {
+          name: 'Speakerdeck',
+          url: 'https://speakerdeck.com/ronnix',
+        },
+        {
+          name: 'Hopwork',
+          url: 'https://www.malt.fr/profile/ronanamicel',
+        },
+      ],
+      location: 'Amiens, Paris',
+      sessions: [
+        {
+          title: 'Codons ensemble',
+          abstract:
+            "Prenons un moment pour coder ensemble. Prenons un petit exercice (kata) pour nous exercer sur certaines pratiques, comme TDD ou Clean Code, dans un format bienveillant et sans enjeu autre que celui d'apprendre.",
+          tags: [
+            'Dojo',
+            'Code',
+            'Test',
+            'Software Craftsmanship',
+            'XP',
+            'TDD',
+            'Clean Code',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Techniques de test en Python',
+          abstract:
+            'Conseils, trucs, astuces et outils pour tester son code Python.',
+          tags: ['Python', 'Test', 'TDD'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Amiens', 'Paris'],
+      contacts: {
+        twitter: 'amicel',
+        mail: 'ronan@pocketsensei.net',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
