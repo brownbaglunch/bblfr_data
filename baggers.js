@@ -14073,8 +14073,16 @@ var data = {
           url: 'https://www.linkedin.com/in/benjamin-marguin',
         },
       ],
-      sessions: [],
-    }
+      sessions: [
+        {
+          title: 'Qu’est-ce qu’un bon commit ?',
+          abstract:
+            'Vous utilisez Git seul ou en équipe, en débutant ou déjà depuis un bon moment, mais vous vous dites que vos commits pourraient être "mieux" (message, description, contenu, liens avec les forges) ? Parlons-en !',
+          tags: ['Git'],
+          lang: ['fr'],
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
