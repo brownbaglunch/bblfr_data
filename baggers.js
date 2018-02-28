@@ -5339,7 +5339,7 @@ var data = {
     {
       since: '2014-04-20',
       name: 'Mathieu Hausherr',
-      bio: 'Développeur mobile. Souvent sur iOS et Android.',
+      bio: 'Développeur mobile chez Virtuo',
       picture:
         'http://www.gravatar.com/avatar/ddc294f25a19a5c979deabbac498e020.png?size=256',
       websites: [
@@ -5347,38 +5347,21 @@ var data = {
           name: 'Web',
           url: 'http://www.mathieu-hausherr.com',
         },
-        {
-          name: 'Web',
-          url: 'http://blog.octo.com/author/mha/',
-        },
       ],
       location: 'Paris',
       sessions: [
         {
-          title: 'Industrialisez vos devs mobiles',
+          title: "Mode offline : mon application mobile fonctionne au nieau -5 d'un parking",
           abstract:
-            "Intégration continue / déploiement continu, tests unitaires, test d'acceptances, distribution",
-          tags: ['Mobile', 'iOS', 'Android', 'Google Glass'],
+            "Quelles sont les stratégies pour implémenter rapidement et efficacement un mode offline dans une app native.",
+          tags: ['Mobile', 'iOS', 'Android'],
           lang: ['fr'],
         },
         {
-          title: 'Introduction à la mobilité',
+          title: "Machine learning et identification d'images sur mobile",
           abstract:
-            'Histoire du dev mobile depuis 2008, les contraintes du dev mobile, web ou natif: le duel',
-          tags: ['Mobile', 'iOS', 'Android', 'Google Glass'],
-          lang: ['fr'],
-        },
-        {
-          title: "Livecode: une app iOS et son Backend en moins d'une heure",
-          abstract: "Présentation de l'outils parse.com",
-          tags: ['Mobile', 'iOS', 'Android', 'Google Glass'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Google Glass',
-          abstract:
-            "Qu'est ce que c'est, comment ça fonctionne, comment développe-t-on des applications",
-          tags: ['Mobile', 'iOS', 'Android', 'Google Glass'],
+            "Comment j'ai entrainé un modèle tensorflow sur un dataset de 14000 images pour détecter sur un mobile quelle partie d'une voiture est endomagé lors d'un état des lieux sur mobile",
+          tags: ['Tensorflow', 'iOS', 'Android'],
           lang: ['fr'],
         },
       ],
