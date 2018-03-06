@@ -5351,9 +5351,10 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: "Mode offline : mon application mobile fonctionne au nieau -5 d'un parking",
+          title:
+            "Mode offline : mon application mobile fonctionne au nieau -5 d'un parking",
           abstract:
-            "Quelles sont les stratégies pour implémenter rapidement et efficacement un mode offline dans une app native.",
+            'Quelles sont les stratégies pour implémenter rapidement et efficacement un mode offline dans une app native.',
           tags: ['Mobile', 'iOS', 'Android'],
           lang: ['fr'],
         },
@@ -14081,6 +14082,55 @@ var data = {
         },
       ],
     },
+    {
+      since: '2018-03-06',
+      name: 'Claire Zuliani',
+      bio:
+        "Outilleuse de projets à la croisée du numérique et des humains. Venue du monde associatif et culturel et reconvertie dans le développement web, je conseille aujourd'hui les structures engagées et développe des outils (surtout en ruby et javascript). J'accompagne aussi sur un plan humain en amont et durant les projets : facilitation, intelligence collective, user experience...",
+      picture:
+        'https://d33wubrfki0l68.cloudfront.net/dddd2605dce105601dcba9587f14633175792c58/82039/assets/images/avatar.png',
+      location: 'Epinal',
+      cities: ['Epinal', 'Nancy', 'Metz'],
+      contacts: {
+        twitter: 'ZooletteDesBois',
+        mail: 'clairezuliani@gmail.com',
+      },
+      websites: [
+        {
+          name: 'Portfolio',
+          url: 'https://www.clairezuliani.com',
+        },
+        {
+          name: 'Carnet',
+          url: 'http://marges.clairezuliani.com',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Je veux utiliser du numérique pour coopérer',
+          abstract:
+            "Vous avez un projet impliquant plein d'acteurs différents, vous vous dites que le numérique pourrait vous filer un coup de main mais ne savez pas par quel bout le prendre. Discutons ensemble de vos usages, des outils existants et de comment le numérique s'insère dans une stratégie plus globale de coopération.",
+          tags: ['Outils', 'Coopération', 'Stratégie'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Comment avoir une utilisation du numérique plus éthique et/ou durable dans ma structure ?',
+          abstract:
+            "Marre de communiquer exclusivement par facebook ? Curieux de connaître ce qui existe à côté de Google ? Discutons de vos cas pratiques et de vos états d'âme, et faisons le tour des alternatives existantes.",
+          tags: ['Open Data', 'Open Source', 'Statique'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            "Un site léger et sûr qui a tout d'un grand avec les générateurs de sites statiques",
+          abstract:
+            "A côté des CMS traditionnels (wordpress, etc), existent des sites tout légers, sûrs, et qui peuvent couvrir simplement un grand nombre de vos besoins : les sites statiques. Besoin d'un site vitrine, d'un blog, voire même un site e-commerce ? Un site statique peut être la bonne solution, voire plus encore ! Découvrons ensemble comment ça marche et ce qu'on peut en faire.",
+          tags: ['Jekyll', 'Static Site Generator', 'JAMStack', 'HeadLess CMS'],
+          lang: ['fr'],
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
@@ -14154,6 +14204,12 @@ var data = {
       ville_img: 'img/villes/BBL_Clermont.jpg',
       lat: 45.78333,
       lng: 3.08333,
+    },
+    Epinal: {
+      name: 'Epinal',
+      ville_img: 'img/villes/BBL.jpg',
+      lat: 48.1221,
+      lng: 6.8912,
     },
     Grenoble: {
       name: 'Grenoble',
