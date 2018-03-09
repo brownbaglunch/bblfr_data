@@ -14097,12 +14097,12 @@ var data = {
       },
       websites: [
         {
-          name: 'Portfolio',
+          name: 'Web',
           url: 'https://www.clairezuliani.com',
         },
         {
-          name: 'Carnet',
-          url: 'http://marges.clairezuliani.com',
+          name: 'GitHub',
+          url: 'https://github.com/clairezed',
         },
       ],
       sessions: [
