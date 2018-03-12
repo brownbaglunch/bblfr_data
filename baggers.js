@@ -14118,7 +14118,7 @@ var data = {
     },
     Epinal: {
       name: 'Epinal',
-      ville_img: 'img/villes/BBL.jpg',
+      ville_img: 'img/villes/BBL_Epinal.jpg',
       lat: 48.1221,
       lng: 6.8912,
     },
