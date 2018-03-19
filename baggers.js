@@ -7045,39 +7045,39 @@ var data = {
     {
       since: '2014-07-28',
       name: 'Pierre Marquis',
-      bio: 'Scrum Master chez Mappy, Développeur C++, Python',
-      picture: 'img/baggers/unknown.png',
+      bio: 'CTO adjoint et scrum Master chez Efficity, Développeur Python, Porteur agile',
+      picture: 'https://media.licdn.com/dms/image/C4D03AQG5DFlj95OmzQ/profile-displayphoto-shrink_200_200/0?e=1526662800&v=alpha&t=FUtx6KoKpMC4jfZ0Un2_wG47MSALzdKgEw7yojZdpgE',
       websites: [
         {
           name: 'LinkedIn',
           url: 'http://fr.linkedin.com/pub/pierre-marquis/27/573/752',
         },
       ],
-      location: 'Paris, Banlieue',
+      location: 'Rennes',
       sessions: [
         {
-          title: "Retour d'expérience Agile chez Mappy",
+          title: "Retour d'expérience Agile chez Mappy, Nokia, Efficity",
           abstract:
-            "L'histoire d'une équipe serveur (back), pluritechno et hétérogène: le passage à la méthode agile (scrum), amener l'agile dans son équipe ou plus globalement dans son entreprise, avantages de l'agile dans une équipe back, contraintes de l'agile et problèmes rencontrés.",
-          tags: ['Agile', 'Scrum', 'C++', 'Optimisation'],
+            "Je propose de partager mon expérience de scrum master scrum/kanban au sein de différentes entreprises. Comment s'est passé le passage à la méthode agile? Comment amener l'agile dans son équipe ou plus globalement dans son entreprise? Les avantages de l'agile dans une équipe back, contraintes de l'agile et problèmes rencontrés?",
+          tags: ['Agile', 'Scrum', 'Kanban'],
           lang: ['fr'],
         },
         {
-          title: 'Optimisation de code (C++ ou autre)',
+          title: 'Transformation agile',
           abstract:
-            "Quelle démarche? Quels leviers? Ce qui s'optimise vs ce qui ne s'optimise pas. Une boîte à outil de l'optmisation de code.",
-          tags: ['Agile', 'Scrum', 'C++', 'Optimisation'],
+            "Quelle démarche? Par quoi démarrer? Comment amener le changement?",
+          tags: ['Agile', 'Scrum', 'Kanban'],
           lang: ['fr'],
         },
         {
-          title: 'Couplage C++/Python',
+          title: "Management d'équipe technique",
           abstract:
-            "Retour d'expérience Mappy, sur un excellent couplage. Quel intérêt? Comment fait-on? Quelles sont les limites?",
-          tags: ['Agile', 'Scrum', 'C++', 'Optimisation'],
+            "Je propose de partager quelques outils et expériences du management d'équipe technique",
+          tags: ['Management', 'CTO'],
           lang: ['fr'],
         },
       ],
-      cities: ['Paris'],
+      cities: ['Paris', 'Rennes'],
       contacts: {
         twitter: 'PierMarquis',
         mail: 'pier.marquis@gmail.com',
