@@ -7053,7 +7053,7 @@ var data = {
           url: 'http://fr.linkedin.com/pub/pierre-marquis/27/573/752',
         },
       ],
-      location: 'Rennes',
+      location: 'Paris, Rennes et alentours',
       sessions: [
         {
           title: "Retour d'expérience Agile chez Mappy, Nokia, Efficity",
