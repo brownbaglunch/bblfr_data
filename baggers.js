@@ -14089,7 +14089,7 @@ var data = {
       since: '2018-03-19',
       name: 'Richard Hanna',
       bio:
-        "J'ai commencé à faire du web à l'époque des <frames> et des <blink> en 1996. Aujourd'hui, Symfony et React sont mes frameworks préférés. Mon quotidien est de participer à la construction des produits de mes clients et satisfaire les utilisateurs.",
+        "J'ai commencé à faire du web à l'époque des <frames> et des <blink> en 1996. Aujourd'hui, développeur à Elao, Symfony et React sont mes frameworks préférés. Clean code, clean architecture, couverture de tests, Domain Driven Design, j'essaye de les appliquer autant que possible. Mon quotidien est de participer à la construction des produits de mes clients et satisfaire les utilisateurs.",
       picture:
         'https://supertanuki.github.io/home/assets/images/photo-profil.jpg',
       location: 'Paris',
