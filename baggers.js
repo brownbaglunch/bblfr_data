@@ -14085,6 +14085,58 @@ var data = {
         },
       ],
     },
+    {
+      since: '2018-03-19',
+      name: 'Richard Hanna',
+      bio:
+        "J'ai commencé à faire du web à l'époque des <frames> et des <blink> en 1996. Aujourd'hui, développeur à Elao, Symfony et React sont mes frameworks préférés. Clean code, clean architecture, couverture de tests, Domain Driven Design, j'essaye de les appliquer autant que possible. Mon quotidien est de participer à la construction des produits de mes clients et satisfaire les utilisateurs.",
+      picture:
+        'https://supertanuki.github.io/home/assets/images/photo-profil.jpg',
+      location: 'Paris',
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'richardhanna',
+        mail: 'supertanuki@gmail.com',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://www.elao.com',
+        },
+        {
+          name: 'Web',
+          url: 'https://supertanuki.github.io/home/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/richard-hanna-76a18115/',
+        },
+      ],
+      sessions: [
+        {
+          title:
+            "Le web n'est pas mort, la revanche par les Progressives Web Apps",
+          abstract:
+            'Les Progressives Web Apps ont pour objectif de rivaliser avec les apps natives. Voyons comment cela fonctionne techniquement et le gain que cela apporte aux utilisateurs.',
+          tags: ['ProgressiveWebApp', 'JavaScript'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Web app sans internet ou presque',
+          abstract:
+            "Retour d'expérience sur la conception d'une progressive web app avec une stratégie de cache en offline-first.",
+          tags: ['ProgressiveWebApp', 'JavaScript'],
+          lang: ['fr'],
+        },
+        {
+          title: "Planification de centaines d'agenda en quelques minutes !",
+          abstract:
+            "Retour d'expérience sur l'utilisation d'OptaPlanner une solution open source pour résoudre des problèmes complexes de planification. Et comment cela pourrait répondre à vos problématiques.",
+          tags: ['planification', 'java'],
+          lang: ['fr'],
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
