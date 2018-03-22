@@ -14138,7 +14138,7 @@ var data = {
       ],
     },
     {
-      since: '2018-04-01',
+      since: '2018-03-22',
       name: 'Etienne Coutaud',
       bio: 'Devops Engineer | Kubernetes Certified Administrator | Automation addict | OCTO Technology',
       picture:
