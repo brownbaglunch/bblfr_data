@@ -14253,6 +14253,66 @@ var data = {
        mail: 'marine.teapotmc@gmail.com',
      },
     },
+    {
+      since: '2018-03-27',
+      name: 'Yoan Thirion',
+      bio:
+        "Coach agile et “software craftsman” chez <a href='https://agilepartner.net/' target='_blank'>Agile Partner</a>; je suis bercé par le développement logiciels depuis une quinzaine d’années. Je suis passionné d’agilité depuis ma première lecture du manifeste et suis intimement convaincu que la seule manière de travailler est en considérant les gens comme des êtres à part entières et non plus comme des “ressources”. Mon aspiration personnelle est d’aider un maximum d’équipes à délivrer dans les meilleures conditions possibles des logiciels opérationnels et “well crafted”.",
+      picture:
+        'https://www.gravatar.com/avatar/9489b8d6f2dbdc3e7d26b8702143b86e?s=250',
+      location: 'Luxembourg',
+      cities: ['Metz', 'Luxembourg'],
+      contacts:
+	    {
+        twitter: 'yot88',
+        mail: 'yoan.thirion@gmail.com',
+      },
+      websites: [
+      {
+        name: 'Web',
+        url: 'https://agilepartner.net/',
+      },
+		  {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/yoanthirion/',
+      },
+		  {
+          name: 'GitHub',
+          url: 'https://github.com/ythirion',
+        },
+      ],
+      sessions: [
+		  {
+          title: "DevOps awareness",
+          abstract:
+            "Exercice de “Learning by doing” permettant de comprendre ce qu’est DevOps et quelles sont les problématiques que cela adresse.",
+          tags: ['DevOps', 'Agile'],
+          lang: ['fr'],
+        },
+      {
+          title: "Qu’est-ce qu’un “software craftsman” ?",
+          abstract:
+            "On voit souvent ce terme revenir lors de conférences et dans la littérature du coup lors de cette session nous reviendrons sur les pratiques principales qui lui sont liées :  XP (refactoring, pair/mob programming…), continuous everything (integration, improvement, learning)",
+          tags: ['Craftsmanship', 'XP', 'Agile'],
+          lang: ['fr'],
+        },
+		  {
+          title: 'Culture of learning',
+          abstract:
+            "Découvrez des méthodes et des outils permettant de créer une culture de l’apprentissage et de l’amélioration continue au coeur de votre entreprise.",
+          tags: ['Continuous learning', 'Continuous improvement', 'Agile'],
+          lang: ['fr'],
+        },
+		  {
+          title: 'Comprendre le manifeste agile',
+          abstract:
+            "Vous vous êtes déjà demandé ce qu'était l'agilité ? d'où cela venait ? et comment mettre en pratiques ces valeurs et principes ? invitez moi ;-)",
+          tags: ['Agilité'],
+          lang: ['fr'],
+        },
+      ],
+    },
+
   ],
   cities: {
     'Aix-en-Provence': {
@@ -14357,11 +14417,23 @@ var data = {
       lat: 45.764043,
       lng: 4.835659,
     },
+    Luxembourg: {
+      name: 'Luxembourg',
+      ville_img: 'img/villes/BBL_Luxembourg.png',
+      lat: 49.61167,
+      lng: 6.13,
+    },
     Marseille: {
       name: 'Marseille',
       ville_img: 'img/villes/BBL.jpg',
       lat: 43.3,
       lng: 5.4,
+    },
+    Metz: {
+      name: 'Metz',
+      ville_img: 'img/villes/BBL_Metz.png',
+      lat: 49.133333,
+      lng: 6.166667,
     },
     Montpellier: {
       name: 'Montpellier',
