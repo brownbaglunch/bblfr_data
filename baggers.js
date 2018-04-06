@@ -14386,7 +14386,7 @@ var data = {
       lat: 47.6456257,
       lng: 6.8060504,
     },
-    Besançon: {
+    'Besançon': {
       name: 'Besançon',
       ville_img: 'img/villes/BBL_Besancon.png',
       lat: 47.2601941,
@@ -14482,7 +14482,7 @@ var data = {
       lat: 43.610769,
       lng: 3.876716,
     },
-    Montréal: {
+    'Montréal': {
       name: 'Montréal',
       ville_img: 'img/villes/BBL_Montreal.jpg',
       lat: 45.501689,
@@ -14512,7 +14512,7 @@ var data = {
       lat: 43.695719,
       lng: 7.264419,
     },
-    Orléans: {
+    'Orléans': {
       name: 'Orléans',
       ville_img: 'img/villes/BBL_Orleans.png',
       lat: 47.8733945,
