@@ -14378,12 +14378,7 @@ var data = {
           lang: ['fr', 'en'],
         },
       ],
-      cities: [
-        ('Paris': {
-          name: 'Paris',
-          ville_img: 'img/villes/BBL_Nantes.jpg',
-        }),
-      ],
+      cities: ['Paris'],
       contacts: {
         twitter: 'eigidi',
         mail: 'andreea.dumitrascu@zenika.com',
