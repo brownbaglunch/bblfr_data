@@ -14312,6 +14312,78 @@ var data = {
         },
       ],
     },
+    {
+      since: '2018-04-03',
+      name: 'Andreea Dumitrascu',
+      bio:
+        "Développeur et formateur sur des sujets intégrant des technologies d'intelligence artificielle | Responsable Intelligence artificielle chez Zenika | Entrepreneur",
+      picture:
+        'https://secure.gravatar.com/avatar/01dc82b9e8f00cfa6374787c294b6464',
+      location: 'Paris, remote',
+      sessions: [
+        {
+          title: 'Est-on loin de la création de HAL 9000 ?',
+          abstract:
+            "L’intelligence artificielle est un domaine nouveau et historique en même temps, qui a connu beaucoup d'enthousiasme et de déception à travers le temps. Les récentes évolutions l’ont remis à l’ordre du jour, mais il faut savoir faire la part des choses entre 'hype' et applications qui peuvent être industrialisées. Regard sur l’histoire de l’IA et ce que le futur nous réserve.",
+          tags: [
+            'Intelligence artificielle',
+            'Machine learning',
+            'Innovation',
+            'Use case',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Pourquoi innover avec l’intelligence artificielle ?',
+          abstract:
+            'En intégrant l’intelligence artificielle dans les applications, on peut avoir des taux de conversion bien supérieurs aux applications traditionnelles (marketing), d’avoir des échanges humanisés avec les clients (service clientèle) ou de faire des choses qu’on ne pouvait pas faire avant (conduite automatique). Quels sont les types d’applications possibles et les impacts que les projets d’IA peuvent avoir ?',
+          tags: [
+            'Intelligence artificielle',
+            'Machine learning',
+            'Chatbot',
+            'Business',
+            'Innovation',
+            'Labs',
+            'Use case',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Les algorithmes d’IA – Tour d’horizon',
+          abstract:
+            'Comprendre les différents types d’algorithmes utilisés dans l’IA.',
+          tags: [
+            'Intelligence artificielle',
+            'Machine learning',
+            'Algorithmes',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Comprendre et concevoir un chatbot',
+          abstract:
+            "Un talk dédié à tout le monde pour comprendre les agents conversationnels. On regardera les aspects techniques (architecture, technologies), mais aussi les problématiques de conception (l'expérience utilisateur, les bonnes pratiques). On finira avec une démo sur la réalisation d'un chatbot pour tester son idée rapidement.",
+          tags: [
+            'Intelligence artificielle',
+            'Chatbot',
+            'Expérience utilisateur',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: ' L’architecture d’un chatbot',
+          abstract:
+            "Le chatbot est une application qui permet d'interagir avec l'utilisateur à travers une interface conversationnelle, qu'elle soit textuelle ou vocale. Son 'intelligence' réside dans la compréhension du langage humain, l'interprétation des connaissances et l'apprentissage dans le temps, tous les chatbots n'étant pas taillés pareil. Quelles sont les architectures des chatbots et quels sont les outils et les compétences dont on a besoin pour les réaliser ?",
+          tags: ['Intelligence artificielle', 'Chatbot', 'Architecture', 'NLP'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'eigidi',
+        mail: 'andreea.dumitrascu@zenika.com',
+      },
+    },
 
   ],
   cities: {
