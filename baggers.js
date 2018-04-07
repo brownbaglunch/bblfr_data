@@ -13618,6 +13618,13 @@ var data = {
           tags: ['AngularJS', 'Angular', 'React', 'JavaScript', 'VueJS'],
           lang: ['fr'],
         },
+        {
+          title: "Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort !",
+          abstract:
+            "On nous demande souvent notre clé usb ou chargeur de téléphone. Mais ne faudrait-il pas se méfier de ces banals objets ? Pendant ce court moment nous allons vous montrer comment vous pouvez exécuter du code rapidement sur un ordinateur depuis “une simple clé usb” et ainsi pousser la réflexion sur les possibilités de “cette astuce” mais aussi les dangers de celle-ci. (Co-Speaker: Nathan Damie)",
+          tags: ['BAD USB', 'DIY', 'Arduino', 'Hacking', 'Sécurité'],
+          lang: ['fr'],
+        },
       ],
       cities: ['Lille'],
       contacts: {
@@ -13696,6 +13703,20 @@ var data = {
           abstract:
             "Qu'est ce que les composants Web? Pourquoi sont-ils géniaux? Toutes les réponses dans cet présentation.",
           tags: ['Polymer', 'Webcomponents', 'PWA', 'JavaScript'],
+          lang: ['fr'],
+        },
+        {
+          title: "Qualité des développements",
+          abstract:
+            "Ce BBL s’adresse à tous les acteurs du développement logiciel (QA, PO, Devs, Archis, …​) L’objectif pour nous est de vous parler de pratiques d’équipe (développements, product management) et vous raconter comment nous les mettons en oeuvre dans un environnement agile. Discutons-en et essayons d’identifier ensemble des actions concrètes pour transformer dès maintenant votre manière de développer du logiciel. (Co-Speaker: Jonathan Duberville)",
+          tags: ['qualité', 'QA', 'Devs', 'PO', 'Archis'],
+          lang: ['fr'],
+        },
+        {
+          title: "Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort !",
+          abstract:
+            "On nous demande souvent notre clé usb ou chargeur de téléphone. Mais ne faudrait-il pas se méfier de ces banals objets ? Pendant ce court moment nous allons vous montrer comment vous pouvez exécuter du code rapidement sur un ordinateur depuis “une simple clé usb” et ainsi pousser la réflexion sur les possibilités de “cette astuce” mais aussi les dangers de celle-ci. (Co-Speaker: Aurelien Loyer)",
+          tags: ['BAD USB', 'DIY', 'Arduino', 'Hacking', 'Sécurité'],
           lang: ['fr'],
         },
       ],
