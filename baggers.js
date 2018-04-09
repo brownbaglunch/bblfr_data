@@ -14405,6 +14405,44 @@ var data = {
         mail: 'andreea.dumitrascu@zenika.com',
       },
     },
+    {
+      since: '2018-04-06',
+      name: 'Philippe Bourgau',
+      bio: 'Coach XP à Murex. J\'aide les équipes de dev à devenir durablement productives, en adaptant eXtreme Programming à leur context',
+      picture: 'http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250',
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://philippe.bourgau.net/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/philippe-bourgau-607a928/',
+        },
+        {
+          name: 'AboutMe',
+          url: 'http://philippe.bourgau.net/about-me/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/philou',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'L’alchimie du BDD : changer votre code de plomb en or. Ou comment livrer de plus en plus de valeur.',
+          abstract: "Vous êtes un véritable craftsman ! Tout se passe bien jusqu'au jour où, au détour d'une conversation, vous comprenez quelque chose de plus profond sur votre domaine métier ... Comment BDD débloque ces ‘refactoring breakthrough’ ? Comment transformer cette opportunité ? Qu’y gagne t’on exactement ?",
+          tags: ['BDD', 'DDD', 'Refactoring'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'pbourgau',
+        mail: 'philippe.bourgau@gmail.com',
+      },
+    },
 
   ],
   cities: {
@@ -14438,7 +14476,7 @@ var data = {
       lat: 47.6456257,
       lng: 6.8060504,
     },
-    Besançon: {
+    'Besançon': {
       name: 'Besançon',
       ville_img: 'img/villes/BBL_Besancon.png',
       lat: 47.2601941,
@@ -14534,7 +14572,7 @@ var data = {
       lat: 43.610769,
       lng: 3.876716,
     },
-    Montréal: {
+    'Montréal': {
       name: 'Montréal',
       ville_img: 'img/villes/BBL_Montreal.jpg',
       lat: 45.501689,
@@ -14564,7 +14602,7 @@ var data = {
       lat: 43.695719,
       lng: 7.264419,
     },
-    Orléans: {
+    'Orléans': {
       name: 'Orléans',
       ville_img: 'img/villes/BBL_Orleans.png',
       lat: 47.8733945,
