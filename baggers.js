@@ -13618,6 +13618,13 @@ var data = {
           tags: ['AngularJS', 'Angular', 'React', 'JavaScript', 'VueJS'],
           lang: ['fr'],
         },
+        {
+          title: "Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort !",
+          abstract:
+            "On nous demande souvent notre clé usb ou chargeur de téléphone. Mais ne faudrait-il pas se méfier de ces banals objets ? Pendant ce court moment nous allons vous montrer comment vous pouvez exécuter du code rapidement sur un ordinateur depuis “une simple clé usb” et ainsi pousser la réflexion sur les possibilités de “cette astuce” mais aussi les dangers de celle-ci. (Co-Speaker: Nathan Damie)",
+          tags: ['BAD USB', 'DIY', 'Arduino', 'Hacking', 'Sécurité'],
+          lang: ['fr'],
+        },
       ],
       cities: ['Lille'],
       contacts: {
@@ -13696,6 +13703,20 @@ var data = {
           abstract:
             "Qu'est ce que les composants Web? Pourquoi sont-ils géniaux? Toutes les réponses dans cet présentation.",
           tags: ['Polymer', 'Webcomponents', 'PWA', 'JavaScript'],
+          lang: ['fr'],
+        },
+        {
+          title: "Qualité des développements",
+          abstract:
+            "Ce BBL s’adresse à tous les acteurs du développement logiciel (QA, PO, Devs, Archis, …​) L’objectif pour nous est de vous parler de pratiques d’équipe (développements, product management) et vous raconter comment nous les mettons en oeuvre dans un environnement agile. Discutons-en et essayons d’identifier ensemble des actions concrètes pour transformer dès maintenant votre manière de développer du logiciel. (Co-Speaker: Jonathan Duberville)",
+          tags: ['qualité', 'QA', 'Devs', 'PO', 'Archis'],
+          lang: ['fr'],
+        },
+        {
+          title: "Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort !",
+          abstract:
+            "On nous demande souvent notre clé usb ou chargeur de téléphone. Mais ne faudrait-il pas se méfier de ces banals objets ? Pendant ce court moment nous allons vous montrer comment vous pouvez exécuter du code rapidement sur un ordinateur depuis “une simple clé usb” et ainsi pousser la réflexion sur les possibilités de “cette astuce” mais aussi les dangers de celle-ci. (Co-Speaker: Aurelien Loyer)",
+          tags: ['BAD USB', 'DIY', 'Arduino', 'Hacking', 'Sécurité'],
           lang: ['fr'],
         },
       ],
@@ -14313,11 +14334,82 @@ var data = {
       ],
     },
     {
+      since: '2018-04-03',
+      name: 'Andreea Dumitrascu',
+      bio:
+        "Développeur et formateur sur des sujets intégrant des technologies d'intelligence artificielle | Responsable Intelligence artificielle chez Zenika | Entrepreneur",
+      picture:
+        'https://secure.gravatar.com/avatar/01dc82b9e8f00cfa6374787c294b6464',
+      location: 'Paris, remote',
+      sessions: [
+        {
+          title: 'Est-on loin de la création de HAL 9000 ?',
+          abstract:
+            "L’intelligence artificielle est un domaine nouveau et historique en même temps, qui a connu beaucoup d'enthousiasme et de déception à travers le temps. Les récentes évolutions l’ont remis à l’ordre du jour, mais il faut savoir faire la part des choses entre 'hype' et applications qui peuvent être industrialisées. Regard sur l’histoire de l’IA et ce que le futur nous réserve.",
+          tags: [
+            'Intelligence artificielle',
+            'Machine learning',
+            'Innovation',
+            'Use case',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Pourquoi innover avec l’intelligence artificielle ?',
+          abstract:
+            'En intégrant l’intelligence artificielle dans les applications, on peut avoir des taux de conversion bien supérieurs aux applications traditionnelles (marketing), d’avoir des échanges humanisés avec les clients (service clientèle) ou de faire des choses qu’on ne pouvait pas faire avant (conduite automatique). Quels sont les types d’applications possibles et les impacts que les projets d’IA peuvent avoir ?',
+          tags: [
+            'Intelligence artificielle',
+            'Machine learning',
+            'Chatbot',
+            'Business',
+            'Innovation',
+            'Labs',
+            'Use case',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Les algorithmes d’IA – Tour d’horizon',
+          abstract:
+            'Comprendre les différents types d’algorithmes utilisés dans l’IA.',
+          tags: [
+            'Intelligence artificielle',
+            'Machine learning',
+            'Algorithmes',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Comprendre et concevoir un chatbot',
+          abstract:
+            "Un talk dédié à tout le monde pour comprendre les agents conversationnels. On regardera les aspects techniques (architecture, technologies), mais aussi les problématiques de conception (l'expérience utilisateur, les bonnes pratiques). On finira avec une démo sur la réalisation d'un chatbot pour tester son idée rapidement.",
+          tags: [
+            'Intelligence artificielle',
+            'Chatbot',
+            'Expérience utilisateur',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: ' L’architecture d’un chatbot',
+          abstract:
+            "Le chatbot est une application qui permet d'interagir avec l'utilisateur à travers une interface conversationnelle, qu'elle soit textuelle ou vocale. Son 'intelligence' réside dans la compréhension du langage humain, l'interprétation des connaissances et l'apprentissage dans le temps, tous les chatbots n'étant pas taillés pareil. Quelles sont les architectures des chatbots et quels sont les outils et les compétences dont on a besoin pour les réaliser ?",
+          tags: ['Intelligence artificielle', 'Chatbot', 'Architecture', 'NLP'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'eigidi',
+        mail: 'andreea.dumitrascu@zenika.com',
+      },
+    },
+    {
       since: '2018-04-06',
       name: 'Philippe Bourgau',
       bio: 'Coach XP à Murex. J\'aide les équipes de dev à devenir durablement productives, en adaptant eXtreme Programming à leur context',
-      picture:
-      'http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250',
+      picture: 'http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250',
       websites: [
         {
           name: 'Web',
@@ -14340,8 +14432,7 @@ var data = {
       sessions: [
         {
           title: 'L’alchimie du BDD : changer votre code de plomb en or. Ou comment livrer de plus en plus de valeur.',
-          abstract:
-          "Vous êtes un véritable craftsman ! Tout se passe bien jusqu'au jour où, au détour d'une conversation, vous comprenez quelque chose de plus profond sur votre domaine métier ... Comment BDD débloque ces ‘refactoring breakthrough’ ? Comment transformer cette opportunité ? Qu’y gagne t’on exactement ?",
+          abstract: "Vous êtes un véritable craftsman ! Tout se passe bien jusqu'au jour où, au détour d'une conversation, vous comprenez quelque chose de plus profond sur votre domaine métier ... Comment BDD débloque ces ‘refactoring breakthrough’ ? Comment transformer cette opportunité ? Qu’y gagne t’on exactement ?",
           tags: ['BDD', 'DDD', 'Refactoring'],
           lang: ['fr', 'en'],
         },
@@ -14352,7 +14443,6 @@ var data = {
         mail: 'philippe.bourgau@gmail.com',
       },
     },
-
 
   ],
   cities: {
