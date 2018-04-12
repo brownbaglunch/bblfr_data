@@ -14443,7 +14443,78 @@ var data = {
         mail: 'philippe.bourgau@gmail.com',
       },
     },
-
+    {
+      since: '2018-04-12',
+      name: 'Gilles Barbier',
+      bio: 'CEO cofondateur Zenaton. Ex. Directeur à The Family',
+      picture: 'https://avatars2.githubusercontent.com/u/134669',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/gillesbarbier/',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/gillesbarbier',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/geomagilles',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Comment coder des process business ou marketing aussi sophistiqués qu\'Amazon ou Uber avec une équipe technique réduite',
+          abstract: "Gérer des états, configurer et surveiller des crons, multiplier les requêtes en base de données, tout ça n'est pas votre passion ? Venez voir comment coder des process business ou marketing en pure code, en quelques minutes, en utilisant Zenaton",
+          tags: ['Zenaton', 'process', 'agile', 'workflow', 'task', 'asynchronous', 'queue'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'gillesbarbier',
+        mail: 'gilles@zenaton.com',
+      },
+    },
+    {
+      since: '2018-04-12',
+      name: 'Louis Cibot',
+      bio: 'CTO cofondateur Zenaton',
+      picture: 'https://pbs.twimg.com/profile_images/972155320071008264/kUbo6jMW_400x400.jpg',
+      websites: [
+        {
+          name: "Web",
+          url: "http://louiscibot.com"
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/louiscibot/',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/louiscibot',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/ciboulette',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Comment coder des process business ou marketing aussi sophistiqués qu\'Amazon ou Uber avec une équipe technique réduite',
+          abstract: "Gérer des états, configurer et surveiller des crons, multiplier les requêtes en base de données, tout ça n'est pas votre passion ? Venez voir comment coder des process business ou marketing en pure code, en quelques minutes, en utilisant Zenaton",
+          tags: ['Zenaton', 'process', 'agile', 'workflow', 'task', 'asynchronous', 'queue'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'louiscibot',
+        mail: 'louis@zenaton.com',
+      },
+    }
   ],
   cities: {
     'Aix-en-Provence': {
