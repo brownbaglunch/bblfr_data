@@ -12429,7 +12429,7 @@ var data = {
       since: '2017-06-15',
       name: 'Eve Vinclair-Berkemeier',
       bio: 'People Manager & Coach Agile',
-      picture: 'img/baggers/unknown.png',
+      picture: 'img/baggers/photo_eve_vinclair.jpg',
       websites: [
         {
           name: 'Web',
