@@ -14603,6 +14603,70 @@ var data = {
         mail: 'clement.poissonnier@gmail.com',
       },
     },
+    {
+      since: '2018-05-17',
+      name: 'Alexis Janvier',
+      bio:
+        'Développeur depuis 2004, chez Marmelab depuis 2014 ans, en télétravail à Caen depuis 2016.',
+      picture:
+        'https://pbs.twimg.com/profile_images/547088902385700864/l7UMrYDT_400x400.jpeg',
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://alexisjanvier.net',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/alexis-janvier-90a605a',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/alexisjanvier',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/alexisjanvier',
+        },
+      ],
+      location: 'Caen',
+      sessions: [
+        {
+          title: 'Le télétravail',
+          abstract: 'A FAIRE',
+          tags: ['remote', 'teletravail', 'agile', 'team'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Découverte de docker',
+          abstract: 'A FAIRE',
+          tags: ['docker', 'docker-compose', 'devops'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Lancer et maintenir un projet open-source',
+          abstract: 'A FAIRE',
+          tags: ['open-source'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Les tests en Javascript',
+          abstract: 'A FAIRE',
+          tags: ['javascript', 'tests', 'jest', 'cypress'],
+          lang: ['fr'],
+        },
+        {
+          title: 'La revue de code',
+          abstract: 'A FAIRE',
+          tags: ['git', 'github', 'team'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Caen'],
+      contacts: {
+        twitter: 'alexisjanvier',
+        mail: 'contact@alexisjanvier.net',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
@@ -14661,7 +14725,7 @@ var data = {
     },
     Caen: {
       name: 'Caen',
-      ville_img: 'img/villes/BBL_Caen.png',
+      ville_img: 'img/villes/BBL_Caen.jpg',
       lat: 49.1846,
       lng: -0.3723,
     },
