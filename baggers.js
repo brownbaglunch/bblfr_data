@@ -12078,8 +12078,8 @@ var data = {
         {
           title: 'Continuous Delivery avec GoCD',
           abstract:
-            'Présentation de GoCD, outil remplacant avantageusement ce bon vieux Jenkins :D',
-          tags: ['Agile', 'Lean', 'Startup', 'Continuous Delivery', 'DevOps'],
+            'Présentation de GoCD, outil remplaçant avantageusement ce bon vieux Jenkins :D',
+          tags: ['Agile', 'Lean Startup', 'Continuous Delivery', 'DevOps'],
           lang: ['fr'],
         },
       ],
