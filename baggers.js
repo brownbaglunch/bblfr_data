@@ -14730,7 +14730,7 @@ var data = {
     },
     Caen: {
       name: 'Caen',
-      ville_img: 'images/villes/caen.jpg',
+      ville_img: 'img/villes/BBL_Caen.jpg',
       lat: 49.1846,
       lng: -0.3723,
     },
