@@ -7045,8 +7045,10 @@ var data = {
     {
       since: '2014-07-28',
       name: 'Pierre Marquis',
-      bio: 'CTO adjoint et scrum Master chez Efficity, Développeur Python, Porteur agile',
-      picture: 'https://media.licdn.com/dms/image/C4D03AQG5DFlj95OmzQ/profile-displayphoto-shrink_200_200/0?e=1526662800&v=alpha&t=FUtx6KoKpMC4jfZ0Un2_wG47MSALzdKgEw7yojZdpgE',
+      bio:
+        'CTO adjoint et scrum Master chez Efficity, Développeur Python, Porteur agile',
+      picture:
+        'https://media.licdn.com/dms/image/C4D03AQG5DFlj95OmzQ/profile-displayphoto-shrink_200_200/0?e=1526662800&v=alpha&t=FUtx6KoKpMC4jfZ0Un2_wG47MSALzdKgEw7yojZdpgE',
       websites: [
         {
           name: 'LinkedIn',
@@ -7065,7 +7067,7 @@ var data = {
         {
           title: 'Transformation agile',
           abstract:
-            "Quelle démarche? Par quoi démarrer? Comment amener le changement?",
+            'Quelle démarche? Par quoi démarrer? Comment amener le changement?',
           tags: ['Agile', 'Scrum', 'Kanban'],
           lang: ['fr'],
         },
@@ -13618,9 +13620,10 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: "Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort !",
+          title:
+            'Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort !',
           abstract:
-            "On nous demande souvent notre clé usb ou chargeur de téléphone. Mais ne faudrait-il pas se méfier de ces banals objets ? Pendant ce court moment nous allons vous montrer comment vous pouvez exécuter du code rapidement sur un ordinateur depuis “une simple clé usb” et ainsi pousser la réflexion sur les possibilités de “cette astuce” mais aussi les dangers de celle-ci. (Co-Speaker: Nathan Damie)",
+            'On nous demande souvent notre clé usb ou chargeur de téléphone. Mais ne faudrait-il pas se méfier de ces banals objets ? Pendant ce court moment nous allons vous montrer comment vous pouvez exécuter du code rapidement sur un ordinateur depuis “une simple clé usb” et ainsi pousser la réflexion sur les possibilités de “cette astuce” mais aussi les dangers de celle-ci. (Co-Speaker: Nathan Damie)',
           tags: ['BAD USB', 'DIY', 'Arduino', 'Hacking', 'Sécurité'],
           lang: ['fr'],
         },
@@ -13705,16 +13708,17 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: "Qualité des développements",
+          title: 'Qualité des développements',
           abstract:
-            "Ce BBL s’adresse à tous les acteurs du développement logiciel (QA, PO, Devs, Archis, …​) L’objectif pour nous est de vous parler de pratiques d’équipe (développements, product management) et vous raconter comment nous les mettons en oeuvre dans un environnement agile. Discutons-en et essayons d’identifier ensemble des actions concrètes pour transformer dès maintenant votre manière de développer du logiciel. (Co-Speaker: Jonathan Duberville)",
+            'Ce BBL s’adresse à tous les acteurs du développement logiciel (QA, PO, Devs, Archis, …​) L’objectif pour nous est de vous parler de pratiques d’équipe (développements, product management) et vous raconter comment nous les mettons en oeuvre dans un environnement agile. Discutons-en et essayons d’identifier ensemble des actions concrètes pour transformer dès maintenant votre manière de développer du logiciel. (Co-Speaker: Jonathan Duberville)',
           tags: ['qualité', 'QA', 'Devs', 'PO', 'Archis'],
           lang: ['fr'],
         },
         {
-          title: "Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort !",
+          title:
+            'Attention ! Ne mets pas cette clé: tu risques de te faire hacker très fort !',
           abstract:
-            "On nous demande souvent notre clé usb ou chargeur de téléphone. Mais ne faudrait-il pas se méfier de ces banals objets ? Pendant ce court moment nous allons vous montrer comment vous pouvez exécuter du code rapidement sur un ordinateur depuis “une simple clé usb” et ainsi pousser la réflexion sur les possibilités de “cette astuce” mais aussi les dangers de celle-ci. (Co-Speaker: Aurelien Loyer)",
+            'On nous demande souvent notre clé usb ou chargeur de téléphone. Mais ne faudrait-il pas se méfier de ces banals objets ? Pendant ce court moment nous allons vous montrer comment vous pouvez exécuter du code rapidement sur un ordinateur depuis “une simple clé usb” et ainsi pousser la réflexion sur les possibilités de “cette astuce” mais aussi les dangers de celle-ci. (Co-Speaker: Aurelien Loyer)',
           tags: ['BAD USB', 'DIY', 'Arduino', 'Hacking', 'Sécurité'],
           lang: ['fr'],
         },
@@ -14160,9 +14164,9 @@ var data = {
     {
       since: '2018-03-22',
       name: 'Etienne Coutaud',
-      bio: 'Devops Engineer | Kubernetes Certified Administrator | Automation addict | OCTO Technology',
-      picture:
-        'https://goo.gl/jcJoWs',
+      bio:
+        'Devops Engineer | Kubernetes Certified Administrator | Automation addict | OCTO Technology',
+      picture: 'https://goo.gl/jcJoWs',
       websites: [
         {
           name: 'GitHub',
@@ -14170,16 +14174,15 @@ var data = {
         },
         {
           name: 'LinkedIn',
-          url: 'https://www.linkedin.com/in/etiennecoutaud/'
+          url: 'https://www.linkedin.com/in/etiennecoutaud/',
         },
-
       ],
       location: 'Bordeaux',
       sessions: [
         {
           title: 'Introduction à Docker',
           abstract:
-            "Comment fonctionne docker ?, Quel usage au quotidien ? Découvrons ensemble le champs des possibles aux travers de démos live",
+            'Comment fonctionne docker ?, Quel usage au quotidien ? Découvrons ensemble le champs des possibles aux travers de démos live',
           tags: ['container', 'docker'],
           lang: ['fr'],
         },
@@ -14200,8 +14203,14 @@ var data = {
         {
           title: '12 factors Kubernetes',
           abstract:
-            "12 régles de bases et bonnes pratiques à avoir en tête avant de se lancer sur kubernetes",
-          tags: ['12 factors', 'kubernetes', 'container', 'bonnes pratiques', 'cncf'],
+            '12 régles de bases et bonnes pratiques à avoir en tête avant de se lancer sur kubernetes',
+          tags: [
+            '12 factors',
+            'kubernetes',
+            'container',
+            'bonnes pratiques',
+            'cncf',
+          ],
           lang: ['fr'],
         },
         {
@@ -14226,52 +14235,58 @@ var data = {
       },
     },
     {
-     since: '2018-03-23',
-     name: 'Marine Corbelin Laporte',
-     bio: "Chef de projet 3D/VR/AR freelance. Je suis spécialisée dans la gestion de projet en réalité virtuelle et augmentée. Que vous souhaitiez simplement découvrir les usages de ces technologies ou approfondir l'aspect technique, je suis là pour vous accompagner.",
-     picture: 'https://pbs.twimg.com/profile_images/851152816429203456/cNAdBzYr_400x400.jpg',
-     websites: [
-       {
-         name: 'Web',
-         url: 'http://teapotmc.fr/',
-       },
-       {
-         name: 'LinkedIn',
-         url: 'https://www.linkedin.com/in/marine-corbelin-a03bb023/'
-       },
-     ],
-     location: 'Lille',
-     sessions: [
-       {
-         title: 'Tour d’horizon des usages de la VR et de l’AR',
-         abstract: "La VR et l'AR sont aujourd'hui en pleine explosion. Quels sont les usages de ces technologies? Comment vont-elles impacter notre futur?",
-         tags: ['VR', 'AR'],
-         lang: ['fr']
-       },
-       {
-         title: 'Comment gérer un projet VR/AR/ vidéo 360 ?',
-         abstract: "Vous vous lancez dans un projet VR/ AR ou vidéo 360°: Voici les bonnes pratiques pour commencer du bon pied.",
-         tags: ['3D', 'VR', 'AR'],
-         lang: ['fr']
-       },
-       {
-         title: 'La VR dans Unity/ Unreal Engine 4',
-         abstract: "Quels sont les outils disponibles dans Unity et Unreal pour créer un projet VR",
-         tags: ['VR', 'Unity', 'Unreal'],
-         lang: ['fr']
-       },
-       {
-         title: 'Les contraintes de la modélisation 3D pour du temps réel',
-         abstract: "Les bonnes pratiques et les outils pour créer du contenu pour vos applications VR et AR",
-         tags: ['3D', 'VR', 'AR'],
-         lang: ['fr']
-       },
-     ],
-     cities: ['Lille'],
-     contacts: {
-       twitter: 'nanakola',
-       mail: 'marine.teapotmc@gmail.com',
-     },
+      since: '2018-03-23',
+      name: 'Marine Corbelin Laporte',
+      bio:
+        "Chef de projet 3D/VR/AR freelance. Je suis spécialisée dans la gestion de projet en réalité virtuelle et augmentée. Que vous souhaitiez simplement découvrir les usages de ces technologies ou approfondir l'aspect technique, je suis là pour vous accompagner.",
+      picture:
+        'https://pbs.twimg.com/profile_images/851152816429203456/cNAdBzYr_400x400.jpg',
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://teapotmc.fr/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/marine-corbelin-a03bb023/',
+        },
+      ],
+      location: 'Lille',
+      sessions: [
+        {
+          title: 'Tour d’horizon des usages de la VR et de l’AR',
+          abstract:
+            "La VR et l'AR sont aujourd'hui en pleine explosion. Quels sont les usages de ces technologies? Comment vont-elles impacter notre futur?",
+          tags: ['VR', 'AR'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Comment gérer un projet VR/AR/ vidéo 360 ?',
+          abstract:
+            'Vous vous lancez dans un projet VR/ AR ou vidéo 360°: Voici les bonnes pratiques pour commencer du bon pied.',
+          tags: ['3D', 'VR', 'AR'],
+          lang: ['fr'],
+        },
+        {
+          title: 'La VR dans Unity/ Unreal Engine 4',
+          abstract:
+            'Quels sont les outils disponibles dans Unity et Unreal pour créer un projet VR',
+          tags: ['VR', 'Unity', 'Unreal'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Les contraintes de la modélisation 3D pour du temps réel',
+          abstract:
+            'Les bonnes pratiques et les outils pour créer du contenu pour vos applications VR et AR',
+          tags: ['3D', 'VR', 'AR'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'nanakola',
+        mail: 'marine.teapotmc@gmail.com',
+      },
     },
     {
       since: '2018-03-27',
@@ -14282,48 +14297,47 @@ var data = {
         'https://www.gravatar.com/avatar/9489b8d6f2dbdc3e7d26b8702143b86e?s=250',
       location: 'Luxembourg',
       cities: ['Metz', 'Luxembourg'],
-      contacts:
-	    {
+      contacts: {
         twitter: 'yot88',
         mail: 'yoan.thirion@gmail.com',
       },
       websites: [
-      {
-        name: 'Web',
-        url: 'https://agilepartner.net/',
-      },
-		  {
+        {
+          name: 'Web',
+          url: 'https://agilepartner.net/',
+        },
+        {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/yoanthirion/',
-      },
-		  {
+        },
+        {
           name: 'GitHub',
           url: 'https://github.com/ythirion',
         },
       ],
       sessions: [
-		  {
-          title: "DevOps awareness",
+        {
+          title: 'DevOps awareness',
           abstract:
-            "Exercice de “Learning by doing” permettant de comprendre ce qu’est DevOps et quelles sont les problématiques que cela adresse.",
+            'Exercice de “Learning by doing” permettant de comprendre ce qu’est DevOps et quelles sont les problématiques que cela adresse.',
           tags: ['DevOps', 'Agile'],
           lang: ['fr'],
         },
-      {
-          title: "Qu’est-ce qu’un “software craftsman” ?",
+        {
+          title: 'Qu’est-ce qu’un “software craftsman” ?',
           abstract:
-            "On voit souvent ce terme revenir lors de conférences et dans la littérature du coup lors de cette session nous reviendrons sur les pratiques principales qui lui sont liées :  XP (refactoring, pair/mob programming…), continuous everything (integration, improvement, learning)",
+            'On voit souvent ce terme revenir lors de conférences et dans la littérature du coup lors de cette session nous reviendrons sur les pratiques principales qui lui sont liées :  XP (refactoring, pair/mob programming…), continuous everything (integration, improvement, learning)',
           tags: ['Craftsmanship', 'XP', 'Agile'],
           lang: ['fr'],
         },
-		  {
+        {
           title: 'Culture of learning',
           abstract:
-            "Découvrez des méthodes et des outils permettant de créer une culture de l’apprentissage et de l’amélioration continue au coeur de votre entreprise.",
+            'Découvrez des méthodes et des outils permettant de créer une culture de l’apprentissage et de l’amélioration continue au coeur de votre entreprise.',
           tags: ['Continuous learning', 'Continuous improvement', 'Agile'],
           lang: ['fr'],
         },
-		  {
+        {
           title: 'Comprendre le manifeste agile',
           abstract:
             "Vous vous êtes déjà demandé ce qu'était l'agilité ? d'où cela venait ? et comment mettre en pratiques ces valeurs et principes ? invitez moi ;-)",
@@ -14407,8 +14421,10 @@ var data = {
     {
       since: '2018-04-06',
       name: 'Philippe Bourgau',
-      bio: 'Coach XP à Murex. J\'aide les équipes de dev à devenir durablement productives, en adaptant eXtreme Programming à leur context',
-      picture: 'http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250',
+      bio:
+        "Coach XP à Murex. J'aide les équipes de dev à devenir durablement productives, en adaptant eXtreme Programming à leur context",
+      picture:
+        'http://www.gravatar.com/avatar/686399bd630ecc9381e4dfec8720816e?s=250',
       websites: [
         {
           name: 'Web',
@@ -14430,8 +14446,10 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'L’alchimie du BDD : changer votre code de plomb en or. Ou comment livrer de plus en plus de valeur.',
-          abstract: "Vous êtes un véritable craftsman ! Tout se passe bien jusqu'au jour où, au détour d'une conversation, vous comprenez quelque chose de plus profond sur votre domaine métier ... Comment BDD débloque ces ‘refactoring breakthrough’ ? Comment transformer cette opportunité ? Qu’y gagne t’on exactement ?",
+          title:
+            'L’alchimie du BDD : changer votre code de plomb en or. Ou comment livrer de plus en plus de valeur.',
+          abstract:
+            "Vous êtes un véritable craftsman ! Tout se passe bien jusqu'au jour où, au détour d'une conversation, vous comprenez quelque chose de plus profond sur votre domaine métier ... Comment BDD débloque ces ‘refactoring breakthrough’ ? Comment transformer cette opportunité ? Qu’y gagne t’on exactement ?",
           tags: ['BDD', 'DDD', 'Refactoring'],
           lang: ['fr', 'en'],
         },
@@ -14464,9 +14482,19 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'Comment coder des process business ou marketing aussi sophistiqués qu\'Amazon ou Uber avec une équipe technique réduite',
-          abstract: "Gérer des états, configurer et surveiller des crons, multiplier les requêtes en base de données, tout ça n'est pas votre passion ? Venez voir comment coder des process business ou marketing en pure code, en quelques minutes, en utilisant Zenaton",
-          tags: ['Zenaton', 'process', 'agile', 'workflow', 'task', 'asynchronous', 'queue'],
+          title:
+            "Comment coder des process business ou marketing aussi sophistiqués qu'Amazon ou Uber avec une équipe technique réduite",
+          abstract:
+            "Gérer des états, configurer et surveiller des crons, multiplier les requêtes en base de données, tout ça n'est pas votre passion ? Venez voir comment coder des process business ou marketing en pure code, en quelques minutes, en utilisant Zenaton",
+          tags: [
+            'Zenaton',
+            'process',
+            'agile',
+            'workflow',
+            'task',
+            'asynchronous',
+            'queue',
+          ],
           lang: ['fr', 'en'],
         },
       ],
@@ -14480,11 +14508,12 @@ var data = {
       since: '2018-04-12',
       name: 'Louis Cibot',
       bio: 'CTO cofondateur Zenaton',
-      picture: 'https://pbs.twimg.com/profile_images/972155320071008264/kUbo6jMW_400x400.jpg',
+      picture:
+        'https://pbs.twimg.com/profile_images/972155320071008264/kUbo6jMW_400x400.jpg',
       websites: [
         {
-          name: "Web",
-          url: "http://louiscibot.com"
+          name: 'Web',
+          url: 'http://louiscibot.com',
         },
         {
           name: 'LinkedIn',
@@ -14502,9 +14531,19 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'Comment coder des process business ou marketing aussi sophistiqués qu\'Amazon ou Uber avec une équipe technique réduite',
-          abstract: "Gérer des états, configurer et surveiller des crons, multiplier les requêtes en base de données, tout ça n'est pas votre passion ? Venez voir comment coder des process business ou marketing en pure code, en quelques minutes, en utilisant Zenaton",
-          tags: ['Zenaton', 'process', 'agile', 'workflow', 'task', 'asynchronous', 'queue'],
+          title:
+            "Comment coder des process business ou marketing aussi sophistiqués qu'Amazon ou Uber avec une équipe technique réduite",
+          abstract:
+            "Gérer des états, configurer et surveiller des crons, multiplier les requêtes en base de données, tout ça n'est pas votre passion ? Venez voir comment coder des process business ou marketing en pure code, en quelques minutes, en utilisant Zenaton",
+          tags: [
+            'Zenaton',
+            'process',
+            'agile',
+            'workflow',
+            'task',
+            'asynchronous',
+            'queue',
+          ],
           lang: ['fr', 'en'],
         },
       ],
@@ -14513,7 +14552,50 @@ var data = {
         twitter: 'louiscibot',
         mail: 'louis@zenaton.com',
       },
-    }
+    },
+    {
+      since: '2018-04-27',
+      name: 'Clément Poissonnier',
+      bio: 'Software Craftsman @ INEAT',
+      picture:
+        'https://fr.gravatar.com/userimage/37635203/825f66895424aa318429a239631cbb84.png?size=200',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/cpoissonnier',
+        },
+      ],
+      location: 'Lille',
+      sessions: [
+        {
+          title: 'Fly to the moon with Postman',
+          abstract:
+            "Tu utilises Postman, mais tu dupliques tes requêtes pour pouvoir tester ton environnement local et l’environnement d’intégration ? Tu pestes quand tu dois regénérer ton token JWT et le copier/coller toutes les 30 secondes parce que sa durée de vie est trop courte ? Je peux t'apporter des éléments de réponse pour mieux utiliser Postman, un outil souvent mal utilisé.",
+          tags: ['Postman'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Sensibilisation au software craftsmanship',
+          abstract:
+            "Découvre ce qu'est le Software Craftsmanship, clean code, le refactoring et la dette technique en manipulant des Legos ! Lego permet de s'abstraire du langage de programmation pour se concentrer sur les concepts, et permet de faire participer des personnes qui ne développent pas (managers, commerciaux, RH, ...).",
+          tags: [
+            'Lego',
+            'Software Craftsmanship',
+            'TDD',
+            'Clean code',
+            'Refactoring',
+            'Dette technique',
+            'Pair-programming',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'cpoissonnier',
+        mail: 'clement.poissonnier@gmail.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
@@ -14546,7 +14628,7 @@ var data = {
       lat: 47.6456257,
       lng: 6.8060504,
     },
-    'Besançon': {
+    Besançon: {
       name: 'Besançon',
       ville_img: 'img/villes/BBL_Besancon.png',
       lat: 47.2601941,
@@ -14642,7 +14724,7 @@ var data = {
       lat: 43.610769,
       lng: 3.876716,
     },
-    'Montréal': {
+    Montréal: {
       name: 'Montréal',
       ville_img: 'img/villes/BBL_Montreal.jpg',
       lat: 45.501689,
@@ -14672,7 +14754,7 @@ var data = {
       lat: 43.695719,
       lng: 7.264419,
     },
-    'Orléans': {
+    Orléans: {
       name: 'Orléans',
       ville_img: 'img/villes/BBL_Orleans.png',
       lat: 47.8733945,
