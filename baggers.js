@@ -1308,7 +1308,7 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: "Découvrez le langage Go",
+          title: 'Découvrez le langage Go',
           abstract:
             "Vous êtes développeur Java ou C ? Je vous propose de découvrir le langage Go, qui fait parler de lui dans un contexte d'architecture Microservice. Cette introduction comparera Java et Go et vous montrera comme il est facile d'implémenter des services HTTP qui s'exécutent de façon concurrente.",
           tags: ['go', 'java'],
@@ -14607,7 +14607,7 @@ var data = {
       since: '2018-05-17',
       name: 'Alexis Janvier',
       bio:
-        'Développeur depuis 2004, chez Marmelab depuis 2014 ans, en télétravail à Caen depuis 2016.',
+        'Développeur depuis 2004, chez Marmelab depuis 2014, en télétravail à Caen depuis 2016.',
       picture:
         'https://pbs.twimg.com/profile_images/547088902385700864/l7UMrYDT_400x400.jpeg',
       websites: [
