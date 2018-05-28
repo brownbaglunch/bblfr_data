@@ -1308,6 +1308,20 @@ var data = {
       location: 'Paris',
       sessions: [
         {
+          title: "Découvrez le langage Go",
+          abstract:
+            "Vous êtes développeur Java ou C ? Je vous propose de découvrir le langage Go, qui fait parler de lui dans un contexte d'architecture Microservice. Cette introduction comparera Java et Go et vous montrera comme il est facile d'implémenter des services HTTP qui s'exécutent de façon concurrente.",
+          tags: ['go', 'java'],
+          lang: ['fr'],
+        },
+        {
+          title: "Introduction à la Philosophie de l'intelligence artificielle",
+          abstract:
+            "Les machines peuvent-elles être intelligentes ? Que signifie être intelligent, pour une machine ? Dans cette présentation, nous explorerons les principes et les limitations du Test de Turing. Nous évoquerons également la Chambre chinoise, une expérience de pensée qui peut être vue comme une réponse à Turing. A l'issue de cette session, nous aurons une meilleure idée de ce qu'est l'intelligence artificielle dans son sens fort... et de sa faisabilité.",
+          tags: ['intelligence artificielle'],
+          lang: ['fr', 'en'],
+        },
+        {
           title: 'Boucles Etranges : Etranges Boucles - avec Guillaume Tardif',
           abstract:
             "Une promenade décousue dans les limites du code source Java, à la manière de Douglas Hofstadter. Nous parlons de code, d'apparences trompeuses, d'art et de la vie.",
@@ -1320,13 +1334,6 @@ var data = {
             "Bien sûr, notre métier est sérieux ; le Software Craftmanship n'est-il pas avant tout le professionnalisme ? Bien sûr, le progrès vient d'articles scientifiques ardus et de nouveaux logiciels complexes. Mais vous ne rêvez pas parfois de repousser le cadre professionnel habituel ? D'aller plus loin et d'explorer ? De vous amuser avec du code jusqu'à ce que ça devienne n'importe quoi ? Dans cette session nous vous présenterons des expériences ésotériques, des jeux bizarres et des joyeux délires qui font réfléchir. Réfléchir ? D'habitude on n'a jamais le temps !",
           tags: ['Java', 'Code'],
           lang: ['fr'],
-        },
-        {
-          title: "Introduction à la Philosophie de l'intelligence artificielle",
-          abstract:
-            "Les machines peuvent-elles être intelligentes ? Que signifie être intelligent, pour une machine ? Dans cette présentation, nous explorerons les principes et les limitations du Test de Turing. Nous évoquerons également la Chambre chinoise, une expérience de pensée qui peut être vue comme une réponse à Turing. A l'issue de cette session, nous aurons une meilleure idée de ce qu'est l'intelligence artificielle dans son sens fort... et de sa faisabilité.",
-          tags: ['intelligence artificielle'],
-          lang: ['fr', 'en'],
         },
       ],
       cities: ['Paris'],
