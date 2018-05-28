@@ -1308,7 +1308,7 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: "Découvrez le langage Go",
+          title: 'Découvrez le langage Go',
           abstract:
             "Vous êtes développeur Java ou C ? Je vous propose de découvrir le langage Go, qui fait parler de lui dans un contexte d'architecture Microservice. Cette introduction comparera Java et Go et vous montrera comme il est facile d'implémenter des services HTTP qui s'exécutent de façon concurrente.",
           tags: ['go', 'java'],
@@ -14730,7 +14730,7 @@ var data = {
     },
     Caen: {
       name: 'Caen',
-      ville_img: 'img/villes/BBL_Caen.jpg',
+      ville_img: 'images/villes/caen.jpg',
       lat: 49.1846,
       lng: -0.3723,
     },
