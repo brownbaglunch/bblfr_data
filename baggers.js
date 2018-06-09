@@ -14720,16 +14720,6 @@ var data = {
       cities: ['Bordeaux', 'Paris'],
       contacts: {
         mail: 'xavier.blanc@u-bordeaux.fr',
-        websites: [
-          {
-            name: 'Web',
-            url: 'http://www.labri.fr/perso/xblanc/',
-          },
-          {
-            name: 'LinkedIn',
-            url: 'https://www.linkedin.com/in/xavier-blanc-3b9785a/',
-          },
-        ],
       },
       websites: [
         {
@@ -14745,7 +14735,7 @@ var data = {
           url: 'https://github.com/xblanc33',
         },
         {
-          name: 'YouTube',
+          name: 'Web',
           url: 'https://www.youtube.com/channel/UCx35YRVHVBU_D6OBG-dqQRA',
         },
       ],
