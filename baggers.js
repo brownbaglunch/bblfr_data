@@ -5150,11 +5150,22 @@ var data = {
       location: 'Lille',
       sessions: [
         {
-          title: 'HoL AWS',
-          abstract: 'Introduction à AWS.',
-          tags: ['JavaScript', 'NodeJS', 'Software Crafmanship', 'NoSQL'],
+          title:
+            '10 méthodes pour rendre heureux les développeurs, la 7e va vous étonner !',
+          abstract:
+            "Il est impératif d'attirer les meilleurs développeurs, mais également de savoir les garder au sein de son entreprise. Si cela est simple à dire, réussir à le faire correctement et à maintenir un tel contexte attractif n'est pas chose facile. Voici 10 choses qu'il convient de mettre en place chez vous pour rendre vos développeurs heureux.",
+          tags: ['Développeur', 'Recrutement', 'Carrière'],
           lang: ['fr'],
         },
+        {
+          title:
+            'La technologie conduite par les communautés à l’échelle',
+          abstract:
+            "Les technologies pilotées par les communautés. Avec l’exemple de la DSI de 400+ développeurs chez AXA France organisée en communautés et dont j’ai à charge d’animer.",
+          tags: ['Développeur', 'Technologie', 'Radar', 'Communauté'],
+          lang: ['fr'],
+        },
+
       ],
       cities: ['Lille'],
       contacts: {
