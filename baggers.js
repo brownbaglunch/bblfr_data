@@ -34,6 +34,39 @@ var data = {
       },
     },
     {
+      since: '2018-06-29',
+      name: 'Benoit Fontaine',
+      bio:
+        'Après 15 années à jouer les couteaux suisses en société de service, Benoit intègre AXA en 2015 en tant que Technical Leader pour la tribu IARD Entreprise.',
+      picture:
+        'https://fr.gravatar.com/avatar/71b290a594201074c708a7d023b31ed6?size=200',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/Bogala',
+        },
+        {
+          name: 'Website',
+          url: 'http://benoitfontaine.net/',
+        },
+      ],
+      location: 'Lille',
+      sessions: [
+        {
+          title: 'vNext culture : manager sa dette technique et son obsolescence',
+          abstract:
+            "Dès lors que l’on se retrouve face à un projet vieillissant, voire même legacy, on se retrouve un peu comme Neo face à Morpheus : Soit on prend la pillule bleue, on ferme les yeux et on se contente de maintenir l’application, Soit on prend la pillule rouge et on part avec Alice au pays des merveilles. Voyons ensemble quelques astuces pour aider pillule rouge à mieux passer.",
+          tags: ['technical', 'debt', 'dette', 'technique', 'obsolescence'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'benotfontaine',
+        mail: 'benoit.fontaine@live.fr',
+      },
+    },
+    {
       since: '2013-02-09',
       name: 'François Sarradin',
       bio:
