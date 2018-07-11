@@ -14740,7 +14740,7 @@ var data = {
             'Cette conférence va montrer comment monter chez soi une infra digne d’une petite entreprise. Quelques idées : Infra dual-stack IPV4/IPV6 puis, VLANs pour isoler son traffic (IOT notamment), règles de firewall poussées, mais aussi création d’un Internet en VPN, routage dynamique avec BGP/OSPF, multi homing (multiples FAI) avec équilibrage de charge, et bien plus encore. Reprenez le contrôle en gardant vos données chez vous et en montant votre infra en mode DIY. En théorie, vous devriez être motivé à jeter votre Box Internet à la fin de la présentation.',
           tags: ['Boxes', 'Router', 'DIY', 'Mikrotik', 'IPV6'],
           lang: ['fr'],
-        },
+        }, {
           title:
             'MultiHoming at home – Utilisations de plusieurs FAI en même temps, chez soi',
           abstract:
