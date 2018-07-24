@@ -53,9 +53,10 @@ var data = {
       location: 'Lille',
       sessions: [
         {
-          title: 'vNext culture : manager sa dette technique et son obsolescence',
+          title:
+            'vNext culture : manager sa dette technique et son obsolescence',
           abstract:
-            "Dès lors que l’on se retrouve face à un projet vieillissant, voire même legacy, on se retrouve un peu comme Neo face à Morpheus : Soit on prend la pillule bleue, on ferme les yeux et on se contente de maintenir l’application, Soit on prend la pillule rouge et on part avec Alice au pays des merveilles. Voyons ensemble quelques astuces pour aider pillule rouge à mieux passer.",
+            'Dès lors que l’on se retrouve face à un projet vieillissant, voire même legacy, on se retrouve un peu comme Neo face à Morpheus : Soit on prend la pillule bleue, on ferme les yeux et on se contente de maintenir l’application, Soit on prend la pillule rouge et on part avec Alice au pays des merveilles. Voyons ensemble quelques astuces pour aider pillule rouge à mieux passer.',
           tags: ['technical', 'debt', 'dette', 'technique', 'obsolescence'],
           lang: ['fr'],
         },
@@ -5191,14 +5192,12 @@ var data = {
           lang: ['fr'],
         },
         {
-          title:
-            'La technologie conduite par les communautés à l’échelle',
+          title: 'La technologie conduite par les communautés à l’échelle',
           abstract:
-            "Les technologies pilotées par les communautés. Avec l’exemple de la DSI de 400+ développeurs chez AXA France organisée en communautés et dont j’ai à charge d’animer.",
+            'Les technologies pilotées par les communautés. Avec l’exemple de la DSI de 400+ développeurs chez AXA France organisée en communautés et dont j’ai à charge d’animer.',
           tags: ['Développeur', 'Technologie', 'Radar', 'Communauté'],
           lang: ['fr'],
         },
-
       ],
       cities: ['Lille'],
       contacts: {
@@ -14740,11 +14739,12 @@ var data = {
             'Cette conférence va montrer comment monter chez soi une infra digne d’une petite entreprise. Quelques idées : Infra dual-stack IPV4/IPV6 puis, VLANs pour isoler son traffic (IOT notamment), règles de firewall poussées, mais aussi création d’un Internet en VPN, routage dynamique avec BGP/OSPF, multi homing (multiples FAI) avec équilibrage de charge, et bien plus encore. Reprenez le contrôle en gardant vos données chez vous et en montant votre infra en mode DIY. En théorie, vous devriez être motivé à jeter votre Box Internet à la fin de la présentation.',
           tags: ['Boxes', 'Router', 'DIY', 'Mikrotik', 'IPV6'],
           lang: ['fr'],
-        }, {
+        },
+        {
           title:
             'MultiHoming at home – Utilisations de plusieurs FAI en même temps, chez soi',
           abstract:
-            'Découvrez les possibilités offertes par le multihoming, chez vous. Abonnez vous à plus d\'un fournisseur d\'accès Internet (FAI) et passez à la vraie vitesse supérieure. Nous verrons comment faire passer plusieurs réseaux Wifi (invité / perso) sur différentes portes de sortie isolées, comment monter un fail-over, comment découper ses flux par types et les faire sortir ou entrer par la bonne porte. Nous parlerons aussi de l\'interconnectivité des FAIs, pas égaux entre eux, et comment profiter d\'un Internet le moins saturé possible, selon les besoins.',
+            "Découvrez les possibilités offertes par le multihoming, chez vous. Abonnez vous à plus d'un fournisseur d'accès Internet (FAI) et passez à la vraie vitesse supérieure. Nous verrons comment faire passer plusieurs réseaux Wifi (invité / perso) sur différentes portes de sortie isolées, comment monter un fail-over, comment découper ses flux par types et les faire sortir ou entrer par la bonne porte. Nous parlerons aussi de l'interconnectivité des FAIs, pas égaux entre eux, et comment profiter d'un Internet le moins saturé possible, selon les besoins.",
           tags: ['Boxes', 'Router', 'DIY', 'Mikrotik', 'FAI'],
           lang: ['fr'],
         },
@@ -14799,6 +14799,38 @@ var data = {
         twitter: 'JulienTopcu',
         mail: 'julien.topcu@gmail.com',
       },
+    },
+    {
+      since: '2018-07-24',
+      name: 'Xavier Balloy',
+      bio: 'Software Craftsman, tech leader @ AXA France',
+      picture:
+        'https://www.gravatar.com/avatar/cbb626ee3fd112af57a8cb9d8f7ba9d8',
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'xavierballoy',
+        mail: 'xavier.balloy@pm.me',
+      },
+      location: 'Métropole de Lille',
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://www.xavierballoy.com/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/xavierballoy/',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Pourquoi avez-vous besoin de la Clean Architecture ?',
+          abstract:
+            "Retour d'expérience sur la mise en place de la clean architecture : comment la mettre en place, quels sont ses avantages et ses inconvénients.",
+          tags: ['Architecture', 'Android', 'Clean code'],
+          lang: ['fr'],
+        },
+      ],
     },
   ],
   cities: {
