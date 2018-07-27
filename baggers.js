@@ -14832,6 +14832,51 @@ var data = {
         },
       ],
     },
+    {
+      since: '2018-07-27',
+      name: 'Stephane Vanacker',
+      bio:
+        "Robotic maker, R&D Agile Manager, @ Cegedim Insurance Solutions. +15 ans d'experience professionnelle en développement et management d'equipes chez des éditeurs de logiciels",
+      picture:
+        'https://secure.gravatar.com/avatar/42b0d0d650595caf785709ecd56768d1',
+      cities: ['Toulouse'],
+      contacts: {
+        twitter: 'svanacker',
+        mail: 'svanacker@gmail.com',
+      },
+      location: 'Toulouse',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/st%C3%A9phane-vanacker-4611765/',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/svanacker',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/svanacker',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Réussir un projet en Microservices',
+          abstract:
+            "Pourquoi et comment mener un projet en microservices, Méthodologies d'organisation des équipes (loi de Conway inversée), retours d'expérience (bonnes pratiques) sur un projet avec 30 personnes en microservices depuis 2 ans, Liste de Patterns techniques utiles (Ex: Infrastructure As Code, CQRS, Idempotence, Pets vs Cattle, Correlation ID, Feature Flipping, Blue Green Deployment, Canary release ...",
+          tags: [
+            'Architecture',
+            'Microservices',
+            'Cloud',
+            'Docker',
+            'DevOps',
+            'Scrum',
+            'Tests',
+          ],
+          lang: ['fr', 'en'],
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
