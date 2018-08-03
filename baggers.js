@@ -14925,10 +14925,48 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: "Framework JS pour crawler le web (et aussi faire les tests E2E",
+          title:
+            'Framework JS pour crawler le web (et aussi faire les tests E2E',
           abstract:
-            "Crawler le web ou effectuer des tests E2E cela vous intéresse ? Vous avez entenu parler de puppeteer ? De finger printing ? Vous voulez voir une archi gros bras ? Ce talk est fait pour vous.",
-          tags: ['JS', 'Web', 'Crawling','finger printing'],
+            'Crawler le web ou effectuer des tests E2E cela vous intéresse ? Vous avez entenu parler de puppeteer ? De finger printing ? Vous voulez voir une archi gros bras ? Ce talk est fait pour vous.',
+          tags: ['JS', 'Web', 'Crawling', 'finger printing'],
+          lang: ['fr'],
+        },
+      ],
+    },
+    {
+      since: '2018-08-03',
+      name: 'Arthur Magne',
+      bio: 'Software Craftsman, CTO & co-founder @ ProMyze.',
+      picture:
+        'https://secure.gravatar.com/avatar/81bc7a35930c4ab2ae9400ff8a325206?size=400',
+      cities: ['Bordeaux'],
+      contacts: {
+        mail: 'arthur.magne@promyze.com',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://promyze.com/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/arthur-magne-2b81aa81/',
+        },
+      ],
+      location: 'Bordeaux',
+      sessions: [
+        {
+          title: 'Le Software Craftsmanship en contexte industriel.',
+          abstract:
+            "Dans des contextes où seuls les apports fonctionnels sont valorisés (\"ce que le client voit\"), le mouvement du Software Craftsmanship et ses valeurs, qui prônent l'amélioration continue du projet, peuvent être souvent misent de côté au détriment de la qualité. Dans un premier temps je présenterai l'histoire de ce mouvement. Je ferai un focus sur ses valeurs liées directement au code (architecture, tests, clean code) et montrerai comment les mesurer. Enfin je parlerai de ce qui est au coeur du développement : l'humain. Il représente l'unique facteur clé de réussite d'une démarche de qualité (animation, communication, échanges, engagement des développeurs, accompagnement de la part du management, etc.)",
+          tags: [
+            'Software Craftsmanship',
+            'Clean Code',
+            'Dette technique',
+            'Tests',
+            'Communication',
+          ],
           lang: ['fr'],
         },
       ],
