@@ -13678,7 +13678,7 @@ var data = {
           lang: ['fr'],
         },
       ],
-      cities: ['Lille'],
+      cities: ['Montréal'],
       contacts: {
         twitter: 'AurelienLoyer',
         mail: 'aurelien.loyer@zenika.com',
