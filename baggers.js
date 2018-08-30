@@ -9671,6 +9671,30 @@ var data = {
       },
     },
     {
+      since: '2018-08-30',
+      name: 'Sébastien Descamps',
+      bio:
+        'Consultant et Formateur - Directeur Technique de Zenika Bordeaux',
+      picture:
+        'https://en.gravatar.com/userimage/24590165/88760e57f007fead91f17535e822da93.jpg?size=200',
+      location: 'Bordeaux',
+      sessions: [
+        {
+          title:
+            'L’héritage en Go',
+          abstract:
+            "Le Go est un langage que l'on aime ou que l'on déteste. Est-ce un langage objet ? ou pas ? L'objectif de cette présentation est de revenir sur une notion présente dans les langages objets : l'héritage. Nous verrons ensemble ce que propose Go dans ce domaine.",
+          tags: ['Go'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Bordeaux'],
+      contacts: {
+        twitter: 'seb_express',
+        mail: 'sebastien.descamps@gmail.com',
+      },
+    },
+    {
       since: '2015-12-24',
       name: 'Youen Chéné',
       bio:
