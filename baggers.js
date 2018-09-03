@@ -8953,7 +8953,7 @@ var data = {
       since: '2015-07-23',
       name: 'Jérôme Mainaud',
       bio:
-        'Architecte Java chez Ippon Technologies, Jérôme intervient en mode JAAS (Jérôme As A Service) sur des missions de conseil, de conception ou de développement. Ses domaines de prédilection sont : les applications Java, les bases de données NoSQL comme Cassandra et les moteurs de recherche comme Elasticsearch.',
+        "Architecte logiciel, je travaille dans l'équipe R&D de Zeenea, éditeur d'un catalogue de données.",
       picture:
         'https://fr.gravatar.com/avatar/4f9deaec42efccd26cb9af839b3afde2.jpg?size=200',
       websites: [
@@ -8993,7 +8993,7 @@ var data = {
       cities: ['Paris'],
       contacts: {
         twitter: 'jxerome',
-        mail: 'jmainaud@ippon.fr',
+        mail: 'jmainaud@zeenea.com',
       },
     },
     {
