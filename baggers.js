@@ -6220,7 +6220,7 @@ var data = {
       bio:
         'Développeur (JS, Node) passionné par les technos web, l’Open Source et la sécurité informatique',
       picture:
-        'https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/011/1d9/1ec0ed4.jpg',
+        'https://secure.gravatar.com/avatar/faee0283f5c65152a680f4dc9b524b32?size=200',
       websites: [
         {
           name: 'GitHub',
@@ -6234,24 +6234,24 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'Bitcoin et monnaie cryptographique',
+          title: 'HTTP',
           abstract:
-            'Session présentant les principes techniques derrière Bitcoin et les autres monnaies cryptographiques.',
-          tags: ['Bitcoin', 'HTTP', 'HTTPS', 'SSL', 'TLS', 'sécurité', 'Web'],
+            'Présentation du protocole HTTP, ces entêtes et méthodes, les cookies et mécanismes tels que CORS, la négociation de contenu, le cache, les requêtes conditionnelles, etc',
+          tags: ['HTTPS', 'Web'],
           lang: ['fr'],
         },
         {
           title: 'HTTPS n’aura plus de secret pour vous',
           abstract:
             'Je vous propose, à travers cette présentation, de vous démontrer l’intérêt de passer à HTTPS, de détailler l’établissement d’une connexion sécurisée, d’expliquer les failles de sécurité ayant défrayé les journaux et de vous présenter l’écosystème autour de HTTPS. A l’issue de cette présentation, les acronymes tels que TLS, MITM, CA, RSA, PFS, HSTS, CSP, BEAST, CRIME, BREACH et bien d’autres n’auront plus de secrets pour vous.',
-          tags: ['Bitcoin', 'HTTP', 'HTTPS', 'SSL', 'TLS', 'sécurité', 'Web'],
+          tags: ['HTTPS', 'SSL', 'TLS', 'sécurité', 'Web'],
           lang: ['fr'],
         },
         {
-          title: 'HTTP',
+          title: 'Bitcoin et monnaie cryptographique',
           abstract:
-            'Présentation du protocole HTTP, les cookies, la négociation de contenu, le cache, les requêtes conditionnelles, SSL/TLS, etc',
-          tags: ['Bitcoin', 'HTTP', 'HTTPS', 'SSL', 'TLS', 'sécurité', 'Web'],
+            'Session présentant les principes techniques derrière Bitcoin et autres monnaies cryptographiques.',
+          tags: ['Bitcoin'],
           lang: ['fr'],
         },
       ],
