@@ -5542,7 +5542,7 @@ var data = {
       since: '2014-04-25',
       name: 'Jean-françois Garreau',
       bio:
-        "Ingénieur R&D chez @LuccaSoftware, GDE Web Technologies et Leader du @GDGNantes. Je suis développeur depuis maintenant plus de 10 ans. J'ai toujours évolué dans un monde java et j'ai découvert Android en 2009 avec la version 1.1. Depuis, je continue de suivre les évolutions de la plateforme. Depuis maintenant 2013 j'ai commencé à m'interesser plus en profondeur au Web avec des sujets comme AngularJS / WebRTC / WebSockets.",
+        "Directeur Ingeneering chez @Sfeir Nantes, GDE Web Technologies et Leader du @GDGNantes.",
       picture:
         'http://www.gravatar.com/avatar/5713f6958d5be53307b0a5ae717ba767.png?size=256',
       websites: [
@@ -5575,6 +5575,20 @@ var data = {
       location: 'Nantes et environs',
       sessions: [
         {
+          title: 'The cutting edge web is coming !',
+          abstract:
+            "Le web est en mouvement et ne compte pas s’arrêter là. Venez dans cette session pour voir les dernières avancées du web en terme d’intégrations de capteurs et ce qui se profile pour l’avenir.",
+          tags: ['HTML5', 'W3C'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Faisons de la magie grâce à Houdini CSS',
+          abstract:
+            'La dernière spec de layout CSS vient tout juste de sortir et elle correspond exactement à votre besoin et va permettre de simplifier énormément votre travail quotidien. Seul hic, vous devez supporter tous ces navigateurs qui n’ont pas encore implémentés cette feature ! \n\nComment faire ? Un polyfill javascript ? Ca risque de plomber un peu les performances de votre projet. Ah si seulement de vrais polyfills css existaient !\n\nEt bien c’est un peu la version TL;DR; de Houdini CSS. Venez à ce talk pour voir ce que l’avenir du CSS nous réserve et comment cette spec va nous changer la vie !',
+          tags: ['CSS', 'HTML5', 'Web'],
+          lang: ['fr'],
+        },
+        {
           title: 'Les nouveaux supers pouvoirs du web',
           abstract:
             'Et si je vous disais que votre navigateur est doté de pouvoirs dont vous n’avez pas conscience ? Et si l’installation d’une application n’était plus nécessaire pour interagir de façon riche avec les objets qui nous entourent ? Bref, vous l’aurez compris dans ce talk, je vais vous parler des nouvelles possibilités qui s’offrent à vous en tant que développeur web et qui vont vous permettre de créer des applications web universelles ! Nous évoquerons donc Sensors, Bluetooth, Physical Web, Usb, AppManifest, ...',
@@ -5582,9 +5596,9 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Les Web DevTools en 2016',
+          title: 'Quoi de neuf Chrome DevTools ?',
           abstract:
-            " Utiliser le debugger : [√] | Utiliser le sourcemapping pour voir mon sass au lieu de mon css : [√] | Utiliser le nouveau color picker pour tester des couleurs :  Quoi ? il y a un color picker dans les devtools. | Analyser les screenshots de mon site pour comprendre comment mon site s'affiche : Quoi ? Je peux faire ça ? Bon nombre des nouveautés des devtools restent encore inconnues du grand public. Venez dans ce talk pour découvrir et redécouvrir comment les devtools peuvent vous aider voir vous sauvez la vie !",
+            "* Utiliser le debugger : ✓ \n* Utiliser le sourcemapping pour voir mon sass au lieu de mon css : ✓\n* Utiliser le debugger dans les functions inline : Quoi on peut débugger une fonction inline !! ? Analyser les screenshots de mon site pour comprendre comment mon site s'affiche : Quoi ? Je peux faire ça ?\n\nA chaque année son lot de nouveautés et de fonctionnalités du coup méconnues ! Venez dans ce talk pour découvrir et redécouvrir comment les devtools peuvent vous aider voir vous sauvez la vie !",
           tags: ['Web', 'DevTools'],
           lang: ['fr'],
         },
