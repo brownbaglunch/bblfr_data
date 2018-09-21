@@ -15016,6 +15016,42 @@ var data = {
         },
       ],
     },
+    {
+      since: '2018-09-21',
+      name: 'Constantin Guay',
+      bio: 'Team Facilitator, Impediment Remover, Scrum Master. Writer of blog const.fr (in French and English)',
+      picture:
+        'https://media.licdn.com/dms/image/C4D03AQHSGgvAQq6d2w/profile-displayphoto-shrink_200_200/0?e=1542844800&v=beta&t=nDm7wL3f1ZuTCDbu3G6eMrBHsK1TL6DCwGhYo0o4oV8',
+      cities: ['Paris'],
+      contacts: {
+        twitter: "cog_g",
+        mail: 'const.g@gmail.com',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://const.fr/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/constantinguay/',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Dark Agile : Le Scrum Master "chronomètre" est un danger pour l\'équipe',
+          abstract: "Pourquoi le Scrum Master ne peut pas être un dev, un PO ou tout autre rôle que celui de Scrum Master? À quoi ça sert vraiment un Scrum Master ? Juste à inculquer Scrum à l'équipe ? Et ensuite, que fait-il ? C'est une mission temporaire ?",
+          tags: [
+            'Agile',
+            'Scrum',
+            'Coaching',
+            'Dark Agile',
+          ],
+          lang: ['fr'],
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
