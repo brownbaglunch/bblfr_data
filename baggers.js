@@ -53,9 +53,10 @@ var data = {
       location: 'Lille',
       sessions: [
         {
-          title: 'vNext culture : manager sa dette technique et son obsolescence',
+          title:
+            'vNext culture : manager sa dette technique et son obsolescence',
           abstract:
-            "Dès lors que l’on se retrouve face à un projet vieillissant, voire même legacy, on se retrouve un peu comme Neo face à Morpheus : Soit on prend la pillule bleue, on ferme les yeux et on se contente de maintenir l’application, Soit on prend la pillule rouge et on part avec Alice au pays des merveilles. Voyons ensemble quelques astuces pour aider pillule rouge à mieux passer.",
+            'Dès lors que l’on se retrouve face à un projet vieillissant, voire même legacy, on se retrouve un peu comme Neo face à Morpheus : Soit on prend la pillule bleue, on ferme les yeux et on se contente de maintenir l’application, Soit on prend la pillule rouge et on part avec Alice au pays des merveilles. Voyons ensemble quelques astuces pour aider pillule rouge à mieux passer.',
           tags: ['technical', 'debt', 'dette', 'technique', 'obsolescence'],
           lang: ['fr'],
         },
@@ -5191,14 +5192,19 @@ var data = {
           lang: ['fr'],
         },
         {
-          title:
-            'La technologie conduite par les communautés à l’échelle',
+          title: 'La technologie conduite par les communautés à l’échelle',
           abstract:
-            "Les technologies pilotées par les communautés. Avec l’exemple de la DSI de 400+ développeurs chez AXA France organisée en communautés et dont j’ai à charge d’animer.",
+            'Les technologies pilotées par les communautés. Avec l’exemple de la DSI de 400+ développeurs chez AXA France organisée en communautés et dont j’ai à charge d’animer.',
           tags: ['Développeur', 'Technologie', 'Radar', 'Communauté'],
           lang: ['fr'],
         },
-
+        {
+          title: 'Un zeste de Nest pour réhausser le goût du back-end JS',
+          abstract:
+            'Nous connaissons tous un développeur frontend qui est devenu plus efficace grâce à des solutions comme Angular, Vue ou React. On connait également des développeurs backend qui développent de manière architecturée grâce à Spring Boot pour Java ou ASP.NET Core pour .NET Core. Et côté NodeJS ? 99% utilisent Express, qui est loin d’être un équivalent… Pourtant il existe NestJS qui propose des facilitant pour créer des APIs REST ou GraphQL au top! (avec @lauthieb)',
+          tags: ['NodeJS', 'TypeScript', 'Angular', 'API'],
+          lang: ['fr'],
+        },
       ],
       cities: ['Lille'],
       contacts: {
@@ -5543,7 +5549,7 @@ var data = {
       since: '2014-04-25',
       name: 'Jean-françois Garreau',
       bio:
-        "Ingénieur R&D chez @LuccaSoftware, GDE Web Technologies et Leader du @GDGNantes. Je suis développeur depuis maintenant plus de 10 ans. J'ai toujours évolué dans un monde java et j'ai découvert Android en 2009 avec la version 1.1. Depuis, je continue de suivre les évolutions de la plateforme. Depuis maintenant 2013 j'ai commencé à m'interesser plus en profondeur au Web avec des sujets comme AngularJS / WebRTC / WebSockets.",
+        "Directeur Ingeneering chez @Sfeir Nantes, GDE Web Technologies et Leader du @GDGNantes.",
       picture:
         'http://www.gravatar.com/avatar/5713f6958d5be53307b0a5ae717ba767.png?size=256',
       websites: [
@@ -5576,6 +5582,20 @@ var data = {
       location: 'Nantes et environs',
       sessions: [
         {
+          title: 'The cutting edge web is coming !',
+          abstract:
+            "Le web est en mouvement et ne compte pas s’arrêter là. Venez dans cette session pour voir les dernières avancées du web en terme d’intégrations de capteurs et ce qui se profile pour l’avenir.",
+          tags: ['HTML5', 'W3C'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Faisons de la magie grâce à Houdini CSS',
+          abstract:
+            'La dernière spec de layout CSS vient tout juste de sortir et elle correspond exactement à votre besoin et va permettre de simplifier énormément votre travail quotidien. Seul hic, vous devez supporter tous ces navigateurs qui n’ont pas encore implémentés cette feature ! \n\nComment faire ? Un polyfill javascript ? Ca risque de plomber un peu les performances de votre projet. Ah si seulement de vrais polyfills css existaient !\n\nEt bien c’est un peu la version TL;DR; de Houdini CSS. Venez à ce talk pour voir ce que l’avenir du CSS nous réserve et comment cette spec va nous changer la vie !',
+          tags: ['CSS', 'HTML5', 'Web'],
+          lang: ['fr'],
+        },
+        {
           title: 'Les nouveaux supers pouvoirs du web',
           abstract:
             'Et si je vous disais que votre navigateur est doté de pouvoirs dont vous n’avez pas conscience ? Et si l’installation d’une application n’était plus nécessaire pour interagir de façon riche avec les objets qui nous entourent ? Bref, vous l’aurez compris dans ce talk, je vais vous parler des nouvelles possibilités qui s’offrent à vous en tant que développeur web et qui vont vous permettre de créer des applications web universelles ! Nous évoquerons donc Sensors, Bluetooth, Physical Web, Usb, AppManifest, ...',
@@ -5583,9 +5603,9 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Les Web DevTools en 2016',
+          title: 'Quoi de neuf Chrome DevTools ?',
           abstract:
-            " Utiliser le debugger : [√] | Utiliser le sourcemapping pour voir mon sass au lieu de mon css : [√] | Utiliser le nouveau color picker pour tester des couleurs :  Quoi ? il y a un color picker dans les devtools. | Analyser les screenshots de mon site pour comprendre comment mon site s'affiche : Quoi ? Je peux faire ça ? Bon nombre des nouveautés des devtools restent encore inconnues du grand public. Venez dans ce talk pour découvrir et redécouvrir comment les devtools peuvent vous aider voir vous sauvez la vie !",
+            "* Utiliser le debugger : ✓ \n* Utiliser le sourcemapping pour voir mon sass au lieu de mon css : ✓\n* Utiliser le debugger dans les functions inline : Quoi on peut débugger une fonction inline !! ? Analyser les screenshots de mon site pour comprendre comment mon site s'affiche : Quoi ? Je peux faire ça ?\n\nA chaque année son lot de nouveautés et de fonctionnalités du coup méconnues ! Venez dans ce talk pour découvrir et redécouvrir comment les devtools peuvent vous aider voir vous sauvez la vie !",
           tags: ['Web', 'DevTools'],
           lang: ['fr'],
         },
@@ -6221,7 +6241,7 @@ var data = {
       bio:
         'Développeur (JS, Node) passionné par les technos web, l’Open Source et la sécurité informatique',
       picture:
-        'https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/011/1d9/1ec0ed4.jpg',
+        'https://secure.gravatar.com/avatar/faee0283f5c65152a680f4dc9b524b32?size=200',
       websites: [
         {
           name: 'GitHub',
@@ -6235,24 +6255,24 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'Bitcoin et monnaie cryptographique',
+          title: 'HTTP',
           abstract:
-            'Session présentant les principes techniques derrière Bitcoin et les autres monnaies cryptographiques.',
-          tags: ['Bitcoin', 'HTTP', 'HTTPS', 'SSL', 'TLS', 'sécurité', 'Web'],
+            'Présentation du protocole HTTP, ces entêtes et méthodes, les cookies et mécanismes tels que CORS, la négociation de contenu, le cache, les requêtes conditionnelles, etc',
+          tags: ['HTTPS', 'Web'],
           lang: ['fr'],
         },
         {
           title: 'HTTPS n’aura plus de secret pour vous',
           abstract:
             'Je vous propose, à travers cette présentation, de vous démontrer l’intérêt de passer à HTTPS, de détailler l’établissement d’une connexion sécurisée, d’expliquer les failles de sécurité ayant défrayé les journaux et de vous présenter l’écosystème autour de HTTPS. A l’issue de cette présentation, les acronymes tels que TLS, MITM, CA, RSA, PFS, HSTS, CSP, BEAST, CRIME, BREACH et bien d’autres n’auront plus de secrets pour vous.',
-          tags: ['Bitcoin', 'HTTP', 'HTTPS', 'SSL', 'TLS', 'sécurité', 'Web'],
+          tags: ['HTTPS', 'SSL', 'TLS', 'sécurité', 'Web'],
           lang: ['fr'],
         },
         {
-          title: 'HTTP',
+          title: 'Bitcoin et monnaie cryptographique',
           abstract:
-            'Présentation du protocole HTTP, les cookies, la négociation de contenu, le cache, les requêtes conditionnelles, SSL/TLS, etc',
-          tags: ['Bitcoin', 'HTTP', 'HTTPS', 'SSL', 'TLS', 'sécurité', 'Web'],
+            'Session présentant les principes techniques derrière Bitcoin et autres monnaies cryptographiques.',
+          tags: ['Bitcoin'],
           lang: ['fr'],
         },
       ],
@@ -8954,7 +8974,7 @@ var data = {
       since: '2015-07-23',
       name: 'Jérôme Mainaud',
       bio:
-        'Architecte Java chez Ippon Technologies, Jérôme intervient en mode JAAS (Jérôme As A Service) sur des missions de conseil, de conception ou de développement. Ses domaines de prédilection sont : les applications Java, les bases de données NoSQL comme Cassandra et les moteurs de recherche comme Elasticsearch.',
+        "Architecte logiciel, je travaille dans l'équipe R&D de Zeenea, éditeur d'un catalogue de données.",
       picture:
         'https://fr.gravatar.com/avatar/4f9deaec42efccd26cb9af839b3afde2.jpg?size=200',
       websites: [
@@ -8994,7 +9014,7 @@ var data = {
       cities: ['Paris'],
       contacts: {
         twitter: 'jxerome',
-        mail: 'jmainaud@ippon.fr',
+        mail: 'jmainaud@zeenea.com',
       },
     },
     {
@@ -9669,6 +9689,30 @@ var data = {
       contacts: {
         twitter: 'EmmanuelDemey',
         mail: 'emmanuel.demey@zenika.com',
+      },
+    },
+    {
+      since: '2018-08-30',
+      name: 'Sébastien Descamps',
+      bio:
+        'Consultant et Formateur - Directeur Technique de Zenika Bordeaux',
+      picture:
+        'https://en.gravatar.com/userimage/24590165/88760e57f007fead91f17535e822da93.jpg?size=200',
+      location: 'Bordeaux',
+      sessions: [
+        {
+          title:
+            'L’héritage en Go',
+          abstract:
+            "Le Go est un langage que l'on aime ou que l'on déteste. Est-ce un langage objet ? ou pas ? L'objectif de cette présentation est de revenir sur une notion présente dans les langages objets : l'héritage. Nous verrons ensemble ce que propose Go dans ce domaine.",
+          tags: ['Go'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Bordeaux'],
+      contacts: {
+        twitter: 'seb_express',
+        mail: 'sebastien.descamps@gmail.com',
       },
     },
     {
@@ -13649,7 +13693,7 @@ var data = {
       since: '2017-11-29',
       name: 'Aurélien Loyer',
       bio:
-        "Consultant et Formateur Web chez Zenika Lille depuis novembre 2015. Je me suis spécialisé dans le domaine du Web, AngularJS, Angular, VueJs, PHP... Fan d'IOT durant mes heures perdues, je suis toujours à l'affût des dernières nouveautés Web !",
+        "Consultant et Formateur Web chez Zenika depuis novembre 2015. Je me suis spécialisé dans le domaine du Web, JavaScript, AngularJS, Angular, Vue.Js, Node.js ... Fan d'IOT durant mes heures perdues, je suis toujours à l'affût des dernières nouveautés Web !",
       picture: 'http://wp.aurelien-loyer.fr/upload/moi-64x64.jpg',
       websites: [
         {
@@ -13661,13 +13705,13 @@ var data = {
           url: 'https://github.com/T3kstiil3',
         },
       ],
-      location: 'Lille',
+      location: 'Montréal',
       sessions: [
         {
           title: 'VueJS, le nouveau framework à la mode !',
           abstract:
             "Durant ce BBL je vous démontrerai comment ce framework poussé par l'open-source peut détrôner les deux grands frameworks, React et Angular, développés par les géants du Web",
-          tags: ['AngularJS', 'Angular', 'React', 'JavaScript', 'VueJS'],
+          tags: ['AngularJS', 'Angular', 'React', 'JavaScript', 'Vue.js'],
           lang: ['fr'],
         },
         {
@@ -13679,7 +13723,7 @@ var data = {
           lang: ['fr'],
         },
       ],
-      cities: ['Lille'],
+      cities: ['Montréal'],
       contacts: {
         twitter: 'AurelienLoyer',
         mail: 'aurelien.loyer@zenika.com',
@@ -14742,6 +14786,14 @@ var data = {
           lang: ['fr'],
         },
         {
+          title:
+            'MultiHoming at home – Utilisations de plusieurs FAI en même temps, chez soi',
+          abstract:
+            "Découvrez les possibilités offertes par le multihoming, chez vous. Abonnez vous à plus d'un fournisseur d'accès Internet (FAI) et passez à la vraie vitesse supérieure. Nous verrons comment faire passer plusieurs réseaux Wifi (invité / perso) sur différentes portes de sortie isolées, comment monter un fail-over, comment découper ses flux par types et les faire sortir ou entrer par la bonne porte. Nous parlerons aussi de l'interconnectivité des FAIs, pas égaux entre eux, et comment profiter d'un Internet le moins saturé possible, selon les besoins.",
+          tags: ['Boxes', 'Router', 'DIY', 'Mikrotik', 'FAI'],
+          lang: ['fr'],
+        },
+        {
           title: 'Les fondamentaux de la cryptographie',
           abstract:
             "Cette présentation va montrer la base commune derrière tout processus cryptographique informatique. Nous parlerons du chiffrement de Vernam, appliqué dans la machine Enigma à l'époque , pour l'appliquer au domaine de l'informatique. Nous verrons une implémentation précise de la notion de chiffrement : le chiffrement par flot et les registres à décalage. Ces structures sont derrière la notion d'aléatoire en informatique. Le but est que tout le monde comprenne bien techniquement, comment fonctionne la base de tous les algorithmes de cryptographie du monde, sans pour autant entrer dans des formules mathématiques incompréhensibles. Nous coderons une machine de chiffrement par flot, pas à pas, en PHP puis sous forme d'extension PHP (en C). Les (vieux) algorithmes RC4 et A51 seront analysés puis implémentés pas à pas à titre d'exemple dans des classes PHP.",
@@ -14792,6 +14844,213 @@ var data = {
         twitter: 'JulienTopcu',
         mail: 'julien.topcu@gmail.com',
       },
+    },
+    {
+      since: '2018-07-24',
+      name: 'Xavier Balloy',
+      bio: 'Software Craftsman, tech leader @ AXA France',
+      picture:
+        'https://www.gravatar.com/avatar/cbb626ee3fd112af57a8cb9d8f7ba9d8',
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'xavierballoy',
+        mail: 'xavier.balloy@pm.me',
+      },
+      location: 'Métropole de Lille',
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://www.xavierballoy.com/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/xavierballoy/',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Pourquoi avez-vous besoin de la Clean Architecture ?',
+          abstract:
+            "Retour d'expérience sur la mise en place de la clean architecture : comment la mettre en place, quels sont ses avantages et ses inconvénients.",
+          tags: ['Architecture', 'Android', 'Clean code'],
+          lang: ['fr'],
+        },
+      ],
+    },
+    {
+      since: '2018-07-27',
+      name: 'Stephane Vanacker',
+      bio:
+        "Robotic maker, R&D Agile Manager, @ Cegedim Insurance Solutions. +15 ans d'experience professionnelle en développement et management d'equipes chez des éditeurs de logiciels",
+      picture:
+        'https://secure.gravatar.com/avatar/42b0d0d650595caf785709ecd56768d1',
+      cities: ['Toulouse'],
+      contacts: {
+        twitter: 'svanacker',
+        mail: 'svanacker@gmail.com',
+      },
+      location: 'Toulouse',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/st%C3%A9phane-vanacker-4611765/',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/svanacker',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/svanacker',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Réussir un projet en Microservices',
+          abstract:
+            "Pourquoi et comment mener un projet en microservices, Méthodologies d'organisation des équipes (loi de Conway inversée), retours d'expérience (bonnes pratiques) sur un projet avec 30 personnes en microservices depuis 2 ans, Liste de Patterns techniques utiles (Ex: Infrastructure As Code, CQRS, Idempotence, Pets vs Cattle, Correlation ID, Feature Flipping, Blue Green Deployment, Canary release ...",
+          tags: [
+            'Architecture',
+            'Microservices',
+            'Cloud',
+            'Docker',
+            'DevOps',
+            'Scrum',
+            'Tests',
+          ],
+          lang: ['fr', 'en'],
+        },
+      ],
+    },
+    {
+      since: '2018-08-03',
+      name: 'Xavier Blanc',
+      bio:
+        "Développeur (et accessoirement Professeur à l'Université de Bordeaux), toujours curieux des nouvelles approches de programmation (Clean Code, Craftmanship, DDD, BDD, Dette Technique, etc.).",
+      picture: 'https://avatars3.githubusercontent.com/u/10332041?s=460&v=4',
+      cities: ['Bordeaux', 'Paris'],
+      contacts: {
+        mail: 'xavier.blanc@u-bordeaux.fr',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://www.labri.fr/perso/xblanc/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/xblanc33',
+        },
+        {
+          name: 'Web',
+          url: 'https://www.youtube.com/channel/UCx35YRVHVBU_D6OBG-dqQRA',
+        },
+      ],
+      location: 'Bordeaux',
+      sessions: [
+        {
+          title: 'Clean Code, coder proprement.',
+          abstract:
+            'Le Clean Code (R.C. Martin) est un magnifique livre qui rassemble toutes les pratiques pour écrire du code lisible. Cette présentation présente les pratiques fondamentales et explique le rôle des linter.',
+          tags: ['Java', 'Clean Code'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Gamification pour la Dette Technique et les Tests',
+          abstract:
+            "Les bonnes pratiques qui permettent de faire baisser la dette technique (règle du boy scout) ou augmenter les tests (test first) ne sont pas toujours respectées. Nous avons mis en place une approche qui exploite la Gamification pour améliorer l'engagement dans ces pratiques. Cet exposé présente les résultats que nous avons obtenus.",
+          tags: ['Gamification', 'Dette Technique'],
+          lang: ['fr'],
+        },
+        {
+          title: "L'objet en mode Clean Code et DDD",
+          abstract:
+            "Après plusieurs années à programmer en Java, je découvre encore pleins de belles constructions qui solutionnent bons nombres de mes problèmes. Cet exposé présente la programmation objet comme vous ne l'avez jamais vu, et fait la part belle au Clean Code et au DDD.",
+          tags: ['Java', 'Clean Code', 'DDD'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Framework JS pour crawler le web (et aussi faire les tests E2E',
+          abstract:
+            'Crawler le web ou effectuer des tests E2E cela vous intéresse ? Vous avez entenu parler de puppeteer ? De finger printing ? Vous voulez voir une archi gros bras ? Ce talk est fait pour vous.',
+          tags: ['JS', 'Web', 'Crawling', 'finger printing'],
+          lang: ['fr'],
+        },
+      ],
+    },
+    {
+      since: '2018-08-03',
+      name: 'Arthur Magne',
+      bio: 'Software Craftsman, CTO & co-founder @ ProMyze.',
+      picture:
+        'https://secure.gravatar.com/avatar/81bc7a35930c4ab2ae9400ff8a325206?size=400',
+      cities: ['Bordeaux'],
+      contacts: {
+        mail: 'arthur.magne@promyze.com',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://promyze.com/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/arthur-magne-2b81aa81/',
+        },
+      ],
+      location: 'Bordeaux',
+      sessions: [
+        {
+          title: 'Le Software Craftsmanship en contexte industriel.',
+          abstract:
+            "Dans des contextes où seuls les apports fonctionnels sont valorisés (\"ce que le client voit\"), le mouvement du Software Craftsmanship et ses valeurs, qui prônent l'amélioration continue du projet, peuvent être souvent misent de côté au détriment de la qualité. Dans un premier temps je présenterai l'histoire de ce mouvement. Je ferai un focus sur ses valeurs liées directement au code (architecture, tests, clean code) et montrerai comment les mesurer. Enfin je parlerai de ce qui est au coeur du développement : l'humain. Il représente l'unique facteur clé de réussite d'une démarche de qualité (animation, communication, échanges, engagement des développeurs, accompagnement de la part du management, etc.)",
+          tags: [
+            'Software Craftsmanship',
+            'Clean Code',
+            'Dette technique',
+            'Tests',
+            'Communication',
+          ],
+          lang: ['fr'],
+        },
+      ],
+    },
+    {
+      since: '2018-09-21',
+      name: 'Constantin Guay',
+      bio: 'Team Facilitator, Impediment Remover, Scrum Master. Writer of blog const.fr (in French and English)',
+      picture:
+        'https://media.licdn.com/dms/image/C4D03AQHSGgvAQq6d2w/profile-displayphoto-shrink_200_200/0?e=1542844800&v=beta&t=nDm7wL3f1ZuTCDbu3G6eMrBHsK1TL6DCwGhYo0o4oV8',
+      cities: ['Paris'],
+      contacts: {
+        twitter: "cog_g",
+        mail: 'const.g@gmail.com',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://const.fr/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/constantinguay/',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Dark Agile : Le Scrum Master "chronomètre" est un danger pour l\'équipe',
+          abstract: "Pourquoi le Scrum Master ne peut pas être un dev, un PO ou tout autre rôle que celui de Scrum Master? À quoi ça sert vraiment un Scrum Master ? Juste à inculquer Scrum à l'équipe ? Et ensuite, que fait-il ? C'est une mission temporaire ?",
+          tags: [
+            'Agile',
+            'Scrum',
+            'Coaching',
+            'Dark Agile',
+          ],
+          lang: ['fr'],
+        },
+      ],
     },
   ],
   cities: {
