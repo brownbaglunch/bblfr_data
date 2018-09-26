@@ -15133,6 +15133,50 @@ var data = {
         },
       ],
     },
+    {
+      since: '2018-09-26',
+      name: 'Kevin Biger',
+      bio: 'Consultant @ Palo-IT, Co-fondateur des meetups Blockchains&Société et GraphDataBase Nantes',
+      picture: 'https://avatars3.githubusercontent.com/u/1651744?s=460&v=4',
+      cities: ['Nantes'],
+      contacts: {
+        twitter: "kevin_biger",
+        mail: 'kevin.biger@gmail.com',
+      },
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/kbiger',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/kevinbiger/',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+          {
+            title: "Introduction aux blockchains",
+            abstract: "Il s'agit de vous présenter les concepts de la blockchain et ses applications concrètes, présentes et futures. Le contenu peut bien entendu être adapté au public.",
+            tags: [
+              'Blockchain',
+              'Smart contracts',
+              'DLT',
+            ],
+            lang: ['fr'],
+          },
+          {
+            title: "Découvrir les bases NoSQL orientées graphes avec Neo4j",
+            abstract: "Découvrons ensemble les bases de données NoSQL orientées graphes et notamment Neo4j.",
+            tags: [
+              'Neo4j',
+              'NoSQL',
+              'Graph',
+            ],
+            lang: ['fr'],
+          },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
