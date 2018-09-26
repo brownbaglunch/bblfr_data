@@ -76,6 +76,40 @@ var data = {
       },
     },
     {
+      since: '2018-09-26',
+      name: 'Domhnall Campbell',
+      bio:
+        'Traduction, développement, tests, automatisation.. Ce touche à tout profite aujourd''hui à la tribu IARD Entreprise Axa France.',
+      picture:
+        'https://fr.gravatar.com/userimage/145366385/b8c3f5beb543715b232e63e4fc9c7193.jpg?size=200',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/CampbellGit',
+        },
+        {
+          name: 'Website',
+          url: 'http://domcampbell.com/',
+        },
+      ],
+      location: 'Lille',
+      sessions: [
+        {
+          title:
+            'De la bienveillance dans vos PR',
+          abstract:
+            'Lancer une Pull Request, c’est un peu se mettre à nu : on met à l’épreuve notre état d’esprit, nos capacités et notre savoir-faire. Même si c’est le meilleur moyen d’avoir du feedback rapidement sur son code, c’est aussi le mettre au jugement des autres. Nous y sommes ! Le jugement. Ce mot peut corrompre une méthode de travail efficace et la transformer en veritable procès ! Ne vous inquiétez pas, avec les bonnes méthodes, vous pourrez non seulmement vous prémunir de ce genre de derive mais aussi aider vos collègues à s’améliorer.',
+          tags: ['bienveillance', 'PR', 'pull', 'request', 'estime', 'soi', 'open', 'source', 'guithub'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'BigupCampbell',
+        mail: 'domhnallcampbell@gmail.com',
+      },
+    },
+    {
       since: '2013-02-09',
       name: 'François Sarradin',
       bio:
