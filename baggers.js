@@ -8215,6 +8215,43 @@ var data = {
       },
     },
     {
+      since: '2018-30-09',
+      name: 'Romain Tournoux',
+      bio: 'Consultant transformation ',
+      websites: [
+      {
+       name: 'Web',
+       url: 'https://www.linkedin.com/in/romain-tournoux-a316539/'
+       }
+       ],
+       location: 'Paris',
+       sessions: [
+        {
+         title: 'Transformation : le partenariat IT/Métiers',
+         abstract: 'Bonnes pratiques et pièges à éviter.',
+         tags: [
+        'transformation',
+        'dsi',
+        'métier',
+        'rex',
+        'Agilité'
+      ],
+      'lang: [
+        'fr'
+            ]
+          },
+        ],
+        cities: [
+        'Paris'
+        ],
+        contacts: {
+        'mail: 'rtournoux@aneo.fr'
+      }
+    }   
+    
+    
+    
+    {
       since: '2015-04-08',
       name: 'Cédric Lombardot',
       bio:
