@@ -61,11 +61,20 @@ var data = {
           lang: ['fr'],
         },
         {
-          title:
-            'De la bienveillance dans vos PR',
+          title: 'De la bienveillance dans vos PR',
           abstract:
             'Lancer une Pull Request, c’est un peu se mettre à nu : on met à l’épreuve notre état d’esprit, nos capacités et notre savoir-faire. Même si c’est le meilleur moyen d’avoir du feedback rapidement sur son code, c’est aussi le mettre au jugement des autres. Nous y sommes ! Le jugement. Ce mot peut corrompre une méthode de travail efficace et la transformer en veritable procès ! Ne vous inquiétez pas, avec les bonnes méthodes, vous pourrez non seulmement vous prémunir de ce genre de derive mais aussi aider vos collègues à s’améliorer.',
-          tags: ['bienveillance', 'PR', 'pull', 'request', 'estime', 'soi', 'open', 'source', 'guithub'],
+          tags: [
+            'bienveillance',
+            'PR',
+            'pull',
+            'request',
+            'estime',
+            'soi',
+            'open',
+            'source',
+            'guithub',
+          ],
           lang: ['fr'],
         },
       ],
@@ -5557,7 +5566,7 @@ var data = {
       since: '2014-04-25',
       name: 'Jean-françois Garreau',
       bio:
-        "Directeur Ingeneering chez @Sfeir Nantes, GDE Web Technologies et Leader du @GDGNantes.",
+        'Directeur Ingeneering chez @Sfeir Nantes, GDE Web Technologies et Leader du @GDGNantes.',
       picture:
         'http://www.gravatar.com/avatar/5713f6958d5be53307b0a5ae717ba767.png?size=256',
       websites: [
@@ -5592,7 +5601,7 @@ var data = {
         {
           title: 'The cutting edge web is coming !',
           abstract:
-            "Le web est en mouvement et ne compte pas s’arrêter là. Venez dans cette session pour voir les dernières avancées du web en terme d’intégrations de capteurs et ce qui se profile pour l’avenir.",
+            'Le web est en mouvement et ne compte pas s’arrêter là. Venez dans cette session pour voir les dernières avancées du web en terme d’intégrations de capteurs et ce qui se profile pour l’avenir.',
           tags: ['HTML5', 'W3C'],
           lang: ['fr'],
         },
@@ -9702,15 +9711,13 @@ var data = {
     {
       since: '2018-08-30',
       name: 'Sébastien Descamps',
-      bio:
-        'Consultant et Formateur - Directeur Technique de Zenika Bordeaux',
+      bio: 'Consultant et Formateur - Directeur Technique de Zenika Bordeaux',
       picture:
         'https://en.gravatar.com/userimage/24590165/88760e57f007fead91f17535e822da93.jpg?size=200',
       location: 'Bordeaux',
       sessions: [
         {
-          title:
-            'L’héritage en Go',
+          title: 'L’héritage en Go',
           abstract:
             "Le Go est un langage que l'on aime ou que l'on déteste. Est-ce un langage objet ? ou pas ? L'objectif de cette présentation est de revenir sur une notion présente dans les langages objets : l'héritage. Nous verrons ensemble ce que propose Go dans ce domaine.",
           tags: ['Go'],
@@ -15027,12 +15034,13 @@ var data = {
     {
       since: '2018-09-21',
       name: 'Constantin Guay',
-      bio: 'Team Facilitator, Impediment Remover, Scrum Master. Writer of blog const.fr (in French and English)',
+      bio:
+        'Team Facilitator, Impediment Remover, Scrum Master. Writer of blog const.fr (in French and English)',
       picture:
         'https://media.licdn.com/dms/image/C4D03AQHSGgvAQq6d2w/profile-displayphoto-shrink_200_200/0?e=1542844800&v=beta&t=nDm7wL3f1ZuTCDbu3G6eMrBHsK1TL6DCwGhYo0o4oV8',
       cities: ['Paris'],
       contacts: {
-        twitter: "cog_g",
+        twitter: 'cog_g',
         mail: 'const.g@gmail.com',
       },
       websites: [
@@ -15048,14 +15056,11 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'Dark Agile : Le Scrum Master "chronomètre" est un danger pour l\'équipe',
-          abstract: "Pourquoi le Scrum Master ne peut pas être un dev, un PO ou tout autre rôle que celui de Scrum Master? À quoi ça sert vraiment un Scrum Master ? Juste à inculquer Scrum à l'équipe ? Et ensuite, que fait-il ? C'est une mission temporaire ?",
-          tags: [
-            'Agile',
-            'Scrum',
-            'Coaching',
-            'Dark Agile',
-          ],
+          title:
+            'Dark Agile : Le Scrum Master "chronomètre" est un danger pour l\'équipe',
+          abstract:
+            "Pourquoi le Scrum Master ne peut pas être un dev, un PO ou tout autre rôle que celui de Scrum Master? À quoi ça sert vraiment un Scrum Master ? Juste à inculquer Scrum à l'équipe ? Et ensuite, que fait-il ? C'est une mission temporaire ?",
+          tags: ['Agile', 'Scrum', 'Coaching', 'Dark Agile'],
           lang: ['fr'],
         },
       ],
@@ -15063,11 +15068,13 @@ var data = {
     {
       since: '2018-09-26',
       name: 'Laurent Thiebault',
-      bio: 'Software Engineer. Music & Tech lover. eat(); sleep(); code(); repeat();',
-      picture: 'https://avatars0.githubusercontent.com/u/9600228?u=5b0165bb1fecfd2f29b022229de06be07912b0e8&v=4',
+      bio:
+        'Software Engineer. Music & Tech lover. eat(); sleep(); code(); repeat();',
+      picture:
+        'https://avatars0.githubusercontent.com/u/9600228?u=5b0165bb1fecfd2f29b022229de06be07912b0e8&v=4',
       cities: ['Lille'],
       contacts: {
-        twitter: "lauthieb",
+        twitter: 'lauthieb',
         mail: 'thiebault.laurent@gmail.com',
       },
       websites: [
@@ -15088,47 +15095,30 @@ var data = {
       sessions: [
         {
           title: "Plongez dans l'univers des chatbots avec Recast.ai",
-          abstract: "Vous entendez de plus en plus parler de chatbots ? Vous avez envie de savoir comment en construire un facilement ? Alors ce talk est fait pour vous ! Venez découvrir Recast.ai, une plateforme #madeInFrance pour développer des chatbots performants dans une interface intuitive !",
-          tags: [
-            'Chatbots',
-            'Recast',
-            'NLP',
-            'Intents',
-            'AI',
-          ],
+          abstract:
+            'Vous entendez de plus en plus parler de chatbots ? Vous avez envie de savoir comment en construire un facilement ? Alors ce talk est fait pour vous ! Venez découvrir Recast.ai, une plateforme #madeInFrance pour développer des chatbots performants dans une interface intuitive !',
+          tags: ['Chatbots', 'Recast', 'NLP', 'Intents', 'AI'],
           lang: ['fr'],
         },
         {
-          title: "Monte le son sur ton desktop avec Electron !",
-          abstract: "Ah ces clients lourds... Nous les avons appréciés il fut un temps... Venez découvrir comment Electron nous permet de créer des applications desktop performantes avec les langages du web que nous maitrisons déjà au travers d'un live coding d'une songbox !",
-          tags: [
-            'Electron',
-            'Desktop',
-            'Live coding',
-          ],
+          title: 'Monte le son sur ton desktop avec Electron !',
+          abstract:
+            "Ah ces clients lourds... Nous les avons appréciés il fut un temps... Venez découvrir comment Electron nous permet de créer des applications desktop performantes avec les langages du web que nous maitrisons déjà au travers d'un live coding d'une songbox !",
+          tags: ['Electron', 'Desktop', 'Live coding'],
           lang: ['fr'],
         },
         {
-          title: "Vanilla.js #backToBasics",
-          abstract: "Angular, React, Vue.js... Et j’en passe ! Tout cela est bien, mais revenons un peu aux bases : JavaScript. À travers ce talk, vous allez découvrir ou approfondir vos connaissances sur ce beau langage à travers une séance 100% Live Coding. Variable scope, hoisting, closures, prototypes, syntatic sugar, promise, async & await... Amusement assuré !",
-          tags: [
-            'VanillaJS',
-            'JavaScript',
-            'Front',
-            'Basics',
-          ],
+          title: 'Vanilla.js #backToBasics',
+          abstract:
+            'Angular, React, Vue.js... Et j’en passe ! Tout cela est bien, mais revenons un peu aux bases : JavaScript. À travers ce talk, vous allez découvrir ou approfondir vos connaissances sur ce beau langage à travers une séance 100% Live Coding. Variable scope, hoisting, closures, prototypes, syntatic sugar, promise, async & await... Amusement assuré !',
+          tags: ['VanillaJS', 'JavaScript', 'Front', 'Basics'],
           lang: ['fr'],
         },
         {
           title: 'Un zeste de Nest pour réhausser le goût du back-end JS',
-          abstract: 'Nous connaissons tous un développeur frontend qui est devenu plus efficace grâce à des solutions comme Angular, Vue ou React. On connait également des développeurs backend qui développent de manière architecturée grâce à Spring Boot pour Java ou ASP.NET Core pour .NET Core. Et côté NodeJS ? 99% utilisent Express, qui est loin d’être un équivalent… Pourtant il existe NestJS qui propose des facilitant pour créer des APIs REST ou GraphQL au top! (avec @cyril_lakech)',
-          tags: [
-            'NodeJS', 
-            'NestJS',
-            'TypeScript', 
-            'Angular', 
-            'API',
-          ],
+          abstract:
+            'Nous connaissons tous un développeur frontend qui est devenu plus efficace grâce à des solutions comme Angular, Vue ou React. On connait également des développeurs backend qui développent de manière architecturée grâce à Spring Boot pour Java ou ASP.NET Core pour .NET Core. Et côté NodeJS ? 99% utilisent Express, qui est loin d’être un équivalent… Pourtant il existe NestJS qui propose des facilitant pour créer des APIs REST ou GraphQL au top! (avec @cyril_lakech)',
+          tags: ['NodeJS', 'NestJS', 'TypeScript', 'Angular', 'API'],
           lang: ['fr'],
         },
       ],
@@ -15136,11 +15126,12 @@ var data = {
     {
       since: '2018-09-26',
       name: 'Kevin Biger',
-      bio: 'Consultant @ Palo-IT, Co-fondateur des meetups Blockchains&Société et GraphDataBase Nantes',
+      bio:
+        'Consultant @ Palo-IT, Co-fondateur des meetups Blockchains&Société et GraphDataBase Nantes',
       picture: 'https://avatars3.githubusercontent.com/u/1651744?s=460&v=4',
       cities: ['Nantes'],
       contacts: {
-        twitter: "kevin_biger",
+        twitter: 'kevin_biger',
         mail: 'kevin.biger@gmail.com',
       },
       websites: [
@@ -15155,26 +15146,20 @@ var data = {
       ],
       location: 'Nantes',
       sessions: [
-          {
-            title: "Introduction aux blockchains",
-            abstract: "Il s'agit de vous présenter les concepts de la blockchain et ses applications concrètes, présentes et futures. Le contenu peut bien entendu être adapté au public.",
-            tags: [
-              'Blockchain',
-              'Smart contracts',
-              'DLT',
-            ],
-            lang: ['fr'],
-          },
-          {
-            title: "Découvrir les bases NoSQL orientées graphes avec Neo4j",
-            abstract: "Découvrons ensemble les bases de données NoSQL orientées graphes et notamment Neo4j.",
-            tags: [
-              'Neo4j',
-              'NoSQL',
-              'Graph',
-            ],
-            lang: ['fr'],
-          },
+        {
+          title: 'Introduction aux blockchains',
+          abstract:
+            "Il s'agit de vous présenter les concepts de la blockchain et ses applications concrètes, présentes et futures. Le contenu peut bien entendu être adapté au public.",
+          tags: ['Blockchain', 'Smart contracts', 'DLT'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Découvrir les bases NoSQL orientées graphes avec Neo4j',
+          abstract:
+            'Découvrons ensemble les bases de données NoSQL orientées graphes et notamment Neo4j.',
+          tags: ['Neo4j', 'NoSQL', 'Graph'],
+          lang: ['fr'],
+        },
       ],
     },
     {
@@ -15197,11 +15182,20 @@ var data = {
       location: 'Lille',
       sessions: [
         {
-          title:
-            'De la bienveillance dans vos PR',
+          title: 'De la bienveillance dans vos PR',
           abstract:
             'Lancer une Pull Request, c’est un peu se mettre à nu : on met à l’épreuve notre état d’esprit, nos capacités et notre savoir-faire. Même si c’est le meilleur moyen d’avoir du feedback rapidement sur son code, c’est aussi le mettre au jugement des autres. Nous y sommes ! Le jugement. Ce mot peut corrompre une méthode de travail efficace et la transformer en veritable procès ! Ne vous inquiétez pas, avec les bonnes méthodes, vous pourrez non seulmement vous prémunir de ce genre de derive mais aussi aider vos collègues à s’améliorer.',
-          tags: ['bienveillance', 'PR', 'pull', 'request', 'estime', 'soi', 'open', 'source', 'guithub'],
+          tags: [
+            'bienveillance',
+            'PR',
+            'pull',
+            'request',
+            'estime',
+            'soi',
+            'open',
+            'source',
+            'guithub',
+          ],
           lang: ['fr'],
         },
       ],
@@ -15214,39 +15208,75 @@ var data = {
     {
       since: '2018-10-01',
       name: 'Guillaume Lagorce - GUL',
-      bio: 'Développeur Senior Freelance, j\'aime apporter expérience et bonnes pratiques dans les équipes que j\'intègre, toujours au service de l\'utilisateur final',
+      bio:
+        "Développeur Senior Freelance, j'aime apporter expérience et bonnes pratiques dans les équipes que j'intègre, toujours au service de l'utilisateur final",
       picture: 'https://avatars0.githubusercontent.com/u/2989532?s=460&v=4',
       websites: [
         {
           name: 'Github',
-          url: 'https://github.com/HEYGUL'
+          url: 'https://github.com/HEYGUL',
         },
         {
           name: 'Website',
-          url: 'http://hey-gul.com/'
+          url: 'http://hey-gul.com/',
         },
         {
           name: 'Twitter',
-          url: 'https://twitter.com/GUL_THE_TWITTO'
-        }
+          url: 'https://twitter.com/GUL_THE_TWITTO',
+        },
       ],
       location: 'Paris',
       sessions: [
         {
-          title:
-            'La pyramide des tests',
+          title: 'La pyramide des tests',
           abstract:
-            'Il est souvent admis que la qualité logicielle passe par les tests et leur automatisation.\nMais... c\'est quoi un test ? Est-ce qu\'il n\'existe qu\'un seul type de test ? Tout doit-il être testé ? Et d\'ailleurs, qu\'est-ce que "tout" ?\nSi vous vous êtes déjà senti "coincé", bloqué dans un refacto ou dans l\'ajout d\'une nouvelle feature à cause de l\'absence voire de la présence de tests, ce talk est pour vous.\n\nEn m\'appuyant sur les différentes typologies de tests, de retours d\'expérience et en exposant les coûts VS les gains des tests, je montrerai que la pyramide des tests représente le dernier tombeau de vos bugs !',
+            "Il est souvent admis que la qualité logicielle passe par les tests et leur automatisation.\nMais... c'est quoi un test ? Est-ce qu'il n'existe qu'un seul type de test ? Tout doit-il être testé ? Et d'ailleurs, qu'est-ce que \"tout\" ?\nSi vous vous êtes déjà senti \"coincé\", bloqué dans un refacto ou dans l'ajout d'une nouvelle feature à cause de l'absence voire de la présence de tests, ce talk est pour vous.\n\nEn m'appuyant sur les différentes typologies de tests, de retours d'expérience et en exposant les coûts VS les gains des tests, je montrerai que la pyramide des tests représente le dernier tombeau de vos bugs !",
           tags: [''],
-          lang: ['fr', 'en']
+          lang: ['fr', 'en'],
         },
       ],
       cities: ['Paris'],
       contacts: {
         twitter: 'GUL_THE_TWITTO',
-        mail: 'guillaume@hey-gul.com'
-      }
-    }
+        mail: 'guillaume@hey-gul.com',
+      },
+    },
+    {
+      since: '2018-10-03',
+      name: 'Gérald Quintana',
+      bio:
+        "Big, fast, smart... peu importe les qualificatifs, je m'intéresse à la data, à son  traitement et son stockage. Je fait partie de l'équipe LyonJUG et MixTeen",
+      picture: 'https://avatars1.githubusercontent.com/u/755587?s=460&v=4',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/gquintana',
+        },
+        {
+          name: 'Website',
+          url: 'https://gquintana.github.io/',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/gerald_quintana',
+        },
+      ],
+      location: 'Lyon',
+      sessions: [
+        {
+          title: 'Apache Kafka: Introduction',
+          abstract:
+            "Message broker, event log, data streaming: pourquoi utiliser Kafka? Nous découvrirons les concepts de cet outil connu pour ses performances et sa scalabilité. J'aborderai les problématiques de dév (producer, consumer...) et d'ops (scaling, monitoring...), ainsi que l'écosystème Kafka",
+          tags: ['kafka'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Lyon', 'Saint Etienne'],
+      contacts: {
+        twitter: 'gerald_quintana',
+        mail: 'gerald.quintana+bbl@gmail.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
