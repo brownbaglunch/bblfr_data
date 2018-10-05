@@ -7820,7 +7820,7 @@ var data = {
       since: '2015-02-04',
       name: 'Maxime Sanglan-charlier',
       bio:
-        "Plus de 15 ans dans l'informatique et pas une ride (ou presque). Curieux de nature, je suis toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu'individu, en équipe ou au sein d'une organisation.",
+        "20 ans dans l'informatique et pas une ride (ou presque). Curieux de nature, je suis toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu'individu, en équipe ou au sein d'une organisation. Je co-organise la conférence <a href=\"http://ncrafts.io\" target=\"_blank\">Newcrafts</a> et suis co-fondateur du groupe <a target=\"_blank\" href=\"https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/\">Software Crafters Nantes</a>",
       picture: 'img/baggers/photo_maxime_s.jpg',
       websites: [
         {
@@ -7838,29 +7838,27 @@ var data = {
             'EventStorming',
             'Ubiquitous Language',
             'Workshop',
-            'Architecture',
-            'C4',
             'DDD',
-            'Dojo',
-            'Coding Dojo',
-            'Mob Programming',
           ],
           lang: ['fr'],
+        },
+        {
+            title: 'Domain Driven Design',
+            abstract:
+            "Le livre référence d'Eric Evans sur le Domain Driven Design a été publié il y a près de 15 déjà ! Le DDD n'a de cesse depuis de gagner en popularité, mais il est toujours assez compliqué d'y voir clair lorsque l'on commence à s'y intéresser ! Dans cette présentation je vous expliquerai ce qu'est (et ce que n'est pas) le DDD et en quoi cette démarche est bénéfique sur bon nombre de projets.",
+            tags: [
+                'Domain Driven Design', 'DDD',
+            ],
+            lang: ['fr'],
         },
         {
           title: 'Architecture: C4 Model',
           abstract:
             "Un atelier de sketching de vos systèmes d'après le modèle C4 de Simon Brown. En mode collaboratif, avec un max d'efficacité, venez vous réapproprier votre architecture et découvrir comment partager une même vision au sein de son équipe de développement.",
           tags: [
-            'EventStorming',
-            'Ubiquitous Language',
             'Workshop',
             'Architecture',
             'C4',
-            'DDD',
-            'Dojo',
-            'Coding Dojo',
-            'Mob Programming',
           ],
           lang: ['fr'],
         },
@@ -7869,15 +7867,9 @@ var data = {
           abstract:
             "Vous aimeriez organiser un Coding Dojo en interne mais vous ne savez pas comment vous y prendre ? Vous aimeriez découvrir la pratique de manière fun et ludique ? Ou vous êtes simplement à court d'idées pour le suivant ? Contactez-moi et on va arranger ça !",
           tags: [
-            'EventStorming',
-            'Ubiquitous Language',
             'Workshop',
-            'Architecture',
-            'C4',
-            'DDD',
             'Dojo',
             'Coding Dojo',
-            'Mob Programming',
           ],
           lang: ['fr'],
         },
@@ -7886,14 +7878,6 @@ var data = {
           abstract:
             "Le Mob Programming consiste à regrouper une équipe entière dans une pièce équipée d'un seul poste de travail pour tout le monde. Cette pratique vous promet entre autres une productivité accrue alors qu'une seule personne à la fois ne peut toucher le clavier ! Promesses tenues ?",
           tags: [
-            'EventStorming',
-            'Ubiquitous Language',
-            'Workshop',
-            'Architecture',
-            'C4',
-            'DDD',
-            'Dojo',
-            'Coding Dojo',
             'Mob Programming',
           ],
           lang: ['fr'],
@@ -7901,7 +7885,7 @@ var data = {
         {
           title: 'Software Craftsmanship',
           abstract:
-            'Même si le terme existe depuis environs 8 ans, on entend de plus en plus parler de Software Craftsmanship. De nombreuses sociétés mettent en avant le Software Craftsmanship comme un atout dans le recrutement. Mais que se cache t-il exactement derrière ce terme ? Dans cette présentation, j’entreprends de revenir aux bases du Software Craftsmanship, de définir les grands fondements de ce mouvement et de voir qui sont les crafts(wo)men aujourd’hui ?',
+            'Même si le terme existe depuis environs 10 ans, on entend de plus en plus parler de Software Craftsmanship. De nombreuses sociétés mettent en avant le Software Craftsmanship comme un atout dans le recrutement. Mais que se cache t-il exactement derrière ce terme ? Dans cette présentation, j’entreprends de revenir aux bases du Software Craftsmanship, de définir les grands fondements de ce mouvement et de voir qui sont les crafters aujourd’hui ?',
           tags: [
             'Craftsmanship',
             'Software Craftsmanship',
@@ -7919,13 +7903,7 @@ var data = {
           tags: [
             'EventStorming',
             'Ubiquitous Language',
-            'Workshop',
-            'Architecture',
-            'C4',
             'DDD',
-            'Dojo',
-            'Coding Dojo',
-            'Mob Programming',
           ],
           lang: ['fr'],
         },
@@ -7933,7 +7911,7 @@ var data = {
       cities: ['Nantes'],
       contacts: {
         twitter: '__MaxS__',
-        mail: 'maxime.sanglan@gmail.com',
+        mail: 'm.sanglan.charlier@gmail.com',
       },
     },
     {
