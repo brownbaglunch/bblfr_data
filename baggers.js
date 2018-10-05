@@ -15277,6 +15277,38 @@ var data = {
         mail: 'gerald.quintana+bbl@gmail.com',
       },
     },
+    {
+      since: '2018-10-05',
+      name: 'Rew Islam',
+      bio:
+        "Building Dashlane and it's iOS/macOS team since 2011",
+      picture: 'https://d38muu3h4xeqr1.cloudfront.net/website/static/FEM-WN-JOB1-1105/images/pictures/rew-islam@2x.png',
+      websites: [
+        {
+          name: 'Website',
+          url: 'https://www.dashlane.com',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/dashlane_rew',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Moving to Swift',
+          abstract:
+            "Advantages of moving your app and team from Objective-C to Swift",
+          tags: ['swift'],
+          lang: ['en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'dashlane_rew',
+        mail: 'rew.islam@dashlane.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
