@@ -8236,14 +8236,10 @@ var data = {
         'rex',
         'Agilité'
       ],
-      'lang: [
-        'fr'
-            ]
+      lang: ['fr']
           },
         ],
-        cities: [
-        'Paris'
-        ],
+        cities: ['Paris'],
         contacts: {
         'mail: 'rtournoux@aneo.fr'
       }
