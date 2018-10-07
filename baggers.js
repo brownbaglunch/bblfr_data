@@ -8241,12 +8241,9 @@ var data = {
         ],
         cities: ['Paris'],
         contacts: {
-        'mail: 'rtournoux@aneo.fr'
-      }
-    }   
-    
-    
-    
+        mail: 'rtournoux@aneo.fr',
+      },
+    },  
     {
       since: '2015-04-08',
       name: 'Cédric Lombardot',
