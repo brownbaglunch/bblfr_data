@@ -2186,7 +2186,7 @@ var data = {
       since: '2013-06-03',
       name: 'Antonio Goncalves',
       bio:
-        "Java, Microservices, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @ParisJUG @DevoxxFR @lescastcodeurs",
+        "Java, Microservices, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
       picture:
         'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
       websites: [
@@ -2202,10 +2202,10 @@ var data = {
       location: 'Paris intramuros... mais je veux bien faire un effort',
       sessions: [
         {
-          title: 'Nouveautés Java EE et Micro Profile',
+          title: 'Microservices?',
           abstract:
-            'Slides, code et discussion autour des nouveautés Java EE 8 et Micro Profile 1.2.',
-          tags: ['JavaEE', 'J2EE', 'MicroProfile', 'Arquillian'],
+            'Microservices: architecture, patterns, terminologie...',
+          tags: ['Microservices', 'DDD', 'REST', 'Circuit Breaker', 'Registry', 'Pros and Cons'],
           lang: ['fr'],
         },
         {
@@ -2214,13 +2214,6 @@ var data = {
           abstract:
             'Vous avez des monolithes et vous voulez migrer tout ou partie de vos applications vers une architecture microservices, discutons-en.',
           tags: ['MicroService', 'Architecture', 'Monolithe'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Arquillian',
-          abstract:
-            "Vous connaissez les tests unitaires et les Mocks, découvrez Arquillian pour les tests d'intégration in-container.",
-          tags: ['JavaEE', 'J2EE', 'CDI', 'Arquillian'],
           lang: ['fr'],
         },
         {
