@@ -15249,6 +15249,37 @@ var data = {
       },
     },
     {
+      since: '2018-10-08',
+      name: 'Emmanuel Longeau',
+      bio:
+        "Dev @ SFEIR, Javaiste, Dév fonctionnel dans mon garage, papa, gentil troll",
+      picture: 'https://fr.gravatar.com/userimage/145975626/d25697338c9c32d58700fac3c95a0666.jpg?size=200',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/elongeau',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/elongeau',
+        },
+      ],
+      location: 'Lille',
+      sessions: [
+        {
+          title: 'Fun with Function',
+          abstract:
+            "La programmation fonctionnelle revient sur le devant de la scène depuis quelques années. Au delà des buzzwords venez découvrir les bases de la programmation fonctionnelle : que peut on bien faire avec juste des fonctions ?",
+          tags: ['haskell', 'functional programming'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'elongeau',
+        mail: 'emmanuel.longeau+bbl@gmail.com',
+    },
+    {
       since: '2018-10-05',
       name: 'Rew Islam',
       bio:
@@ -15262,7 +15293,7 @@ var data = {
         {
           name: 'Twitter',
           url: 'https://twitter.com/dashlane_rew',
-        },
+        }
       ],
       location: 'Paris',
       sessions: [
@@ -15272,14 +15303,14 @@ var data = {
             "Advantages of moving your app and team from Objective-C to Swift",
           tags: ['swift'],
           lang: ['en'],
-        },
+        }
       ],
       cities: ['Paris'],
       contacts: {
         twitter: 'dashlane_rew',
         mail: 'rew.islam@dashlane.com',
-      },
-    },
+      }
+    }
   ],
   cities: {
     'Aix-en-Provence': {
