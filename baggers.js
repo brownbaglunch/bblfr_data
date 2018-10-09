@@ -2186,7 +2186,7 @@ var data = {
       since: '2013-06-03',
       name: 'Antonio Goncalves',
       bio:
-        "Java, Microservices, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @ParisJUG @DevoxxFR @lescastcodeurs",
+        "Java, Microservices, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
       picture:
         'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
       websites: [
@@ -2202,10 +2202,10 @@ var data = {
       location: 'Paris intramuros... mais je veux bien faire un effort',
       sessions: [
         {
-          title: 'Nouveautés Java EE et Micro Profile',
+          title: 'Microservices?',
           abstract:
-            'Slides, code et discussion autour des nouveautés Java EE 8 et Micro Profile 1.2.',
-          tags: ['JavaEE', 'J2EE', 'MicroProfile', 'Arquillian'],
+            'Microservices: architecture, patterns, terminologie...',
+          tags: ['Microservices', 'DDD', 'REST', 'Circuit Breaker', 'Registry', 'Pros and Cons'],
           lang: ['fr'],
         },
         {
@@ -2214,13 +2214,6 @@ var data = {
           abstract:
             'Vous avez des monolithes et vous voulez migrer tout ou partie de vos applications vers une architecture microservices, discutons-en.',
           tags: ['MicroService', 'Architecture', 'Monolithe'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Arquillian',
-          abstract:
-            "Vous connaissez les tests unitaires et les Mocks, découvrez Arquillian pour les tests d'intégration in-container.",
-          tags: ['JavaEE', 'J2EE', 'CDI', 'Arquillian'],
           lang: ['fr'],
         },
         {
@@ -7820,7 +7813,7 @@ var data = {
       since: '2015-02-04',
       name: 'Maxime Sanglan-charlier',
       bio:
-        "Plus de 15 ans dans l'informatique et pas une ride (ou presque). Curieux de nature, je suis toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu'individu, en équipe ou au sein d'une organisation.",
+        "20 ans dans l'informatique et pas une ride (ou presque). Curieux de nature, je suis toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu'individu, en équipe ou au sein d'une organisation. Je co-organise la conférence <a href=\"http://ncrafts.io\" target=\"_blank\">Newcrafts</a> et suis co-fondateur du groupe <a target=\"_blank\" href=\"https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/\">Software Crafters Nantes</a>",
       picture: 'img/baggers/photo_maxime_s.jpg',
       websites: [
         {
@@ -7838,29 +7831,27 @@ var data = {
             'EventStorming',
             'Ubiquitous Language',
             'Workshop',
-            'Architecture',
-            'C4',
             'DDD',
-            'Dojo',
-            'Coding Dojo',
-            'Mob Programming',
           ],
           lang: ['fr'],
+        },
+        {
+            title: 'Domain Driven Design',
+            abstract:
+            "Le livre référence d'Eric Evans sur le Domain Driven Design a été publié il y a près de 15 déjà ! Le DDD n'a de cesse depuis de gagner en popularité, mais il est toujours assez compliqué d'y voir clair lorsque l'on commence à s'y intéresser ! Dans cette présentation je vous expliquerai ce qu'est (et ce que n'est pas) le DDD et en quoi cette démarche est bénéfique sur bon nombre de projets.",
+            tags: [
+                'Domain Driven Design', 'DDD',
+            ],
+            lang: ['fr'],
         },
         {
           title: 'Architecture: C4 Model',
           abstract:
             "Un atelier de sketching de vos systèmes d'après le modèle C4 de Simon Brown. En mode collaboratif, avec un max d'efficacité, venez vous réapproprier votre architecture et découvrir comment partager une même vision au sein de son équipe de développement.",
           tags: [
-            'EventStorming',
-            'Ubiquitous Language',
             'Workshop',
             'Architecture',
             'C4',
-            'DDD',
-            'Dojo',
-            'Coding Dojo',
-            'Mob Programming',
           ],
           lang: ['fr'],
         },
@@ -7869,15 +7860,9 @@ var data = {
           abstract:
             "Vous aimeriez organiser un Coding Dojo en interne mais vous ne savez pas comment vous y prendre ? Vous aimeriez découvrir la pratique de manière fun et ludique ? Ou vous êtes simplement à court d'idées pour le suivant ? Contactez-moi et on va arranger ça !",
           tags: [
-            'EventStorming',
-            'Ubiquitous Language',
             'Workshop',
-            'Architecture',
-            'C4',
-            'DDD',
             'Dojo',
             'Coding Dojo',
-            'Mob Programming',
           ],
           lang: ['fr'],
         },
@@ -7886,14 +7871,6 @@ var data = {
           abstract:
             "Le Mob Programming consiste à regrouper une équipe entière dans une pièce équipée d'un seul poste de travail pour tout le monde. Cette pratique vous promet entre autres une productivité accrue alors qu'une seule personne à la fois ne peut toucher le clavier ! Promesses tenues ?",
           tags: [
-            'EventStorming',
-            'Ubiquitous Language',
-            'Workshop',
-            'Architecture',
-            'C4',
-            'DDD',
-            'Dojo',
-            'Coding Dojo',
             'Mob Programming',
           ],
           lang: ['fr'],
@@ -7901,7 +7878,7 @@ var data = {
         {
           title: 'Software Craftsmanship',
           abstract:
-            'Même si le terme existe depuis environs 8 ans, on entend de plus en plus parler de Software Craftsmanship. De nombreuses sociétés mettent en avant le Software Craftsmanship comme un atout dans le recrutement. Mais que se cache t-il exactement derrière ce terme ? Dans cette présentation, j’entreprends de revenir aux bases du Software Craftsmanship, de définir les grands fondements de ce mouvement et de voir qui sont les crafts(wo)men aujourd’hui ?',
+            'Même si le terme existe depuis environs 10 ans, on entend de plus en plus parler de Software Craftsmanship. De nombreuses sociétés mettent en avant le Software Craftsmanship comme un atout dans le recrutement. Mais que se cache t-il exactement derrière ce terme ? Dans cette présentation, j’entreprends de revenir aux bases du Software Craftsmanship, de définir les grands fondements de ce mouvement et de voir qui sont les crafters aujourd’hui ?',
           tags: [
             'Craftsmanship',
             'Software Craftsmanship',
@@ -7919,13 +7896,7 @@ var data = {
           tags: [
             'EventStorming',
             'Ubiquitous Language',
-            'Workshop',
-            'Architecture',
-            'C4',
             'DDD',
-            'Dojo',
-            'Coding Dojo',
-            'Mob Programming',
           ],
           lang: ['fr'],
         },
@@ -7933,7 +7904,7 @@ var data = {
       cities: ['Nantes'],
       contacts: {
         twitter: '__MaxS__',
-        mail: 'maxime.sanglan@gmail.com',
+        mail: 'm.sanglan.charlier@gmail.com',
       },
     },
     {
@@ -15307,8 +15278,39 @@ var data = {
       contacts: {
         twitter: 'elongeau',
         mail: 'emmanuel.longeau+bbl@gmail.com',
-      },
     },
+    {
+      since: '2018-10-05',
+      name: 'Rew Islam',
+      bio:
+        "Building Dashlane and it's iOS/macOS team since 2011",
+      picture: 'https://d38muu3h4xeqr1.cloudfront.net/website/static/FEM-WN-JOB1-1105/images/pictures/rew-islam@2x.png',
+      websites: [
+        {
+          name: 'Website',
+          url: 'https://www.dashlane.com',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/dashlane_rew',
+        }
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Moving to Swift',
+          abstract:
+            "Advantages of moving your app and team from Objective-C to Swift",
+          tags: ['swift'],
+          lang: ['en'],
+        }
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'dashlane_rew',
+        mail: 'rew.islam@dashlane.com',
+      }
+    }
   ],
   cities: {
     'Aix-en-Provence': {
