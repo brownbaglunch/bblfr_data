@@ -15278,6 +15278,7 @@ var data = {
       contacts: {
         twitter: 'elongeau',
         mail: 'emmanuel.longeau+bbl@gmail.com',
+      }
     },
     {
       since: '2018-10-05',
