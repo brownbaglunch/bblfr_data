@@ -15348,7 +15348,47 @@ var data = {
         twitter: 'dashlane_rew',
         mail: 'rew.islam@dashlane.com',
       }
-    }
+    },
+    {
+      since: '2018-10-10',
+      name: 'Guillaume Maron',
+      bio: "Building Dashlane and it's Engineering team since 2009",
+      picture:
+        'https://www.gravatar.com/avatar/c4149d8bd585c5f4a07cb6ee05898012?s=200',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://www.dashlane.com',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Scaling your engineering team',
+          abstract:
+            'Challenges faced while scaling an engineering team from 0 to 40 people. Recruiting, changing the organisation, managing technical debt.',
+          tags: [
+            'scaling',
+            'engineering team',
+            'recruiting',
+            'scrum',
+            'feature teams',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Involve your engineering team in the recruitment process',
+          abstract:
+            "How to involve your engineering team in the recruitment process to better evaluate candidate, improve your candidate's experience, and improve your ability to close candidates. - https://fr.slideshare.net/GuillaumeMaron/involve-your-engineering-team-in-the-recruitment-proces",
+          tags: ['engineering team', 'recruiting'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        mail: 'guillaume.maron@gmail.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
