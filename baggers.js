@@ -15434,6 +15434,46 @@ var data = {
         mail: 'loikeseke@gmail.com',
       },
     },
+	 {
+      since: '2018-11-05',
+      name: 'Arnaud COURTY',
+      bio: "Chercheur en sécurité, ma mission principale est d’évangéliser les entreprises pour une prise en compte des problématiques de sécurité dès les premières phases de conception. Je travaille sur des audits offensifs internes et externes ou encore sur des évaluations du niveau de sécurité de systèmes embarqués en amont de leur industrialisation (systèmes IVI ou autre système industriel et grand public). Depuis les prémices de l’IoT, je me suis spécialisé dans la recherche de vulnérabilité des objets connectés, mais aussi dans la sensibilisation des concepteurs, des développeurs et des intégrateurs de solutions. Je profite des conférences et groupes de travail pour militer pour un monde des objets connectés moins vulnérables. ",
+      picture:
+        'http://vulcainreo.com/me.jpg',
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://blog.vulcainreo.com',
+        },
+		{
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/arnaud-courty/',
+        },
+		{
+          name: 'GitHub',
+          url: 'https://github.com/vulcainreo',
+        }
+      ],
+      location: 'Toulouse',
+      sessions: [
+        {
+          title: 'Top 10 OWASP IoT - réalité ou intox ?',
+          abstract:
+            'Cette présentation sera l\'occasion de faire une rétrospective des vulnérabilités les plus rencontrées au cours des audits de sécurité. En effet, depuis les systèmes industriels aux produits du grand public, de nombreux concepts de sécurité sont similaires mais souvent mal implémentés. Depuis un système industriel autonome auquel une adresse IP lui a été ajouté, à la TV/poupée connectée qui espionne un ménage à son insu, toute problématique de sécurité prend rapidement une nouvelle dimension dès que l\'objet est disponible sur le marché et connecté à un cloud. L\'objectif de cette présentation et de fournir aux concepteurs, développeurs et intégrateurs de solution IoT, un aperçu des réflexes sécurité nécessaires afin d\'inclure les bonnes pratiques de sécurité dès l\'expression du besoin.' ,
+          tags: [
+            'CyberSecurity',
+            'IoT',
+            'OWASP IoT'
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Toulouse'],
+      contacts: {
+        twitter: 'vulcainreo',
+        mail: 'arnaud@vulcainreo.com',
+      }
+    }
   ],
   cities: {
     'Aix-en-Provence': {
