@@ -15389,6 +15389,51 @@ var data = {
         mail: 'guillaume.maron@gmail.com',
       },
     },
+    {
+      since: '2018-11-05',
+      name: 'Loïc Mathieu',
+      bio: "Consultant et formateur chez Zenika Lille",
+      picture:
+        'https://pbs.twimg.com/profile_images/1055114256247676928/wnb-1EtJ_400x400.jpg',
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://www.loicmathieu.fr',
+        },
+      ],
+      location: 'Lille',
+      sessions: [
+        {
+          title: 'Mes premiers pas en Deeplearling',
+          abstract:
+            'Mes premiers pas en Deeplearning, ou comment j\'ai réalisé une application de recherche de produits avec Keras et Tensorflow sans trop savoir comment ça marchais. Présentation des principes du deeplearning, utilisation de la librairies de Keras, les premiers écueils et comment je les ai franchit.' ,
+          tags: [
+            'deeplearning',
+            'keras',
+            'tensorflow',
+            'python',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'De Java 8 à Java 11',
+          abstract:
+            'Encore sous Java 8 et un peu débordé sur les changements des nouvelles versions en terme de gouvernance, cycle de vie et fonctionalités? Pas de panique, je vais vous expliquer tout ça et revenir avec vous sur les principales nouveautés du languages Java à destination des dévelopeurs.' ,
+          tags: [
+            'java',
+            'java9',
+            'java10',
+            'java11',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'loicmathieu',
+        mail: 'loikeseke@gmail.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
