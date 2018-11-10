@@ -8450,7 +8450,7 @@ var data = {
       since: '2015-05-11',
       name: 'Adrien Joly',
       bio:
-        "Développeur indépendant d'applications web. Expert Javascript et Node.js. Mentor de développeurs junior à fort potentiel. 4 ans d'expérience comme lead dev de <a href='http://whyd.com/' target='_blank'>Whyd</a> (startup parisienne). Fan de Trello. Passions du moment: aider les futurs CEOs à rencontrer leur associé et de bootstrapper efficacement, et aider les futurs CTOs à tester les atouts des CEOs qui viennent les draguer.",
+        "Développeur sénior Node.js chez Algolia. Enseignant JavaScript + git + lean management à l'EEMI, ESGI et WebSchoolFactory. Anciennement freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. Talks: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>",
       picture: 'http://adrienjoly.com/img/adrienjoly2014_2.jpg',
       websites: [
         {
@@ -8459,24 +8459,42 @@ var data = {
         },
         {
           name: 'Web',
-          url: 'http://adrienjoly.com/',
+          url: 'https://adrienjoly.com/',
         },
       ],
       location: 'Montreuil / Paris',
       sessions: [
         {
-          title: 'Comment devenir CTO, en évitant les erreurs de débutant',
+          title: 'Migrer de Heroku vers Google Kubernetes Engine',
           abstract:
-            "Après 4 ans comme lead developer dans une startup web parisienne, je propose de venir partager un retour d'expérience sur cette aventure, et des conseils pratiques sur: comment reconnaitre un bon associé d'un incompétent, comment éviter de développer un service voué à l'échec, comment obtenir la confiance de son associé pour les choix technologiques et les délais de développement.",
+            "Cet été, on a migré une application Node.js distribuée, de Heroku vers Google Kubernetes Engine. Je pensais que ça allait être facile. Hé bien j'avais tort ! Je vais vous raconter les ratés les plus tragiques auxquels j'ai du faire face pendant cette migration. Et si vous êtes sympas, je vous expliquerai les astuces que j'ai appliquées pour corriger le tir !",
           tags: [
-            'Javascript',
-            'Lean Startup',
-            'Bootstrapping',
-            'CEO',
-            'CTO',
-            'Trello',
+            'Node.js',
+            'Kubernetes',
           ],
-          lang: ['fr'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Le développement durable, appliqué au code',
+          abstract:
+            "J'ai commencé à développer Openwhyd en 2012, en tant que produit de startup. Malgré le vieillissement de sa codebase, et sa transition en projet collaboratif, open-source, et auto-financé, en 2016, des milliers d'amoureux de la musique l'utilisent encore chaque semaine, voire chaque jour. Je vais vous raconter pourquoi il est important de penser *durable* quand on développe un logiciel, et comment -- avec l'aide d'autres contributeurs -- nous parvenons à la maintenir.",
+          tags: [
+            'Open-source',
+            'Startups',
+            'Crowdsourcing',
+            'Développement durable'
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Être efficace sur plusieurs projets à la fois avec Trello',
+          abstract:
+            "Entre 2016 et 2017, j'ai développé et lancé seul une douzaine de produits en parallèle. Trello et Google Calendar sont devenu mes meilleurs amis pour savoir quoi faire quand, et ne pas perdre le fil de chacun de ces projets. Je propose de vous montrer comment j'en suis arrivé à une créer une carte Trello par projet (au lieu d'une carte par tâche), et comment cette astuce pourrait vous aider à mieux vous organiser.",
+          tags: [
+            'Productivité',
+            'Kanban',
+          ],
+          lang: ['fr', 'en'],
         },
       ],
       cities: ['Paris'],
