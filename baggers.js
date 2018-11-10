@@ -8450,7 +8450,7 @@ var data = {
       since: '2015-05-11',
       name: 'Adrien Joly',
       bio:
-        "Développeur indépendant d'applications web. Expert Javascript et Node.js. Mentor de développeurs junior à fort potentiel. 4 ans d'expérience comme lead dev de <a href='http://whyd.com/' target='_blank'>Whyd</a> (startup parisienne). Fan de Trello. Passions du moment: aider les futurs CEOs à rencontrer leur associé et de bootstrapper efficacement, et aider les futurs CTOs à tester les atouts des CEOs qui viennent les draguer.",
+        "Développeur sénior Node.js chez Algolia. Enseignant JavaScript + git + lean management à l'EEMI, ESGI et WebSchoolFactory. Anciennement freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. Talks: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>",
       picture: 'http://adrienjoly.com/img/adrienjoly2014_2.jpg',
       websites: [
         {
@@ -8459,26 +8459,11 @@ var data = {
         },
         {
           name: 'Web',
-          url: 'http://adrienjoly.com/',
+          url: 'https://adrienjoly.com/',
         },
       ],
       location: 'Montreuil / Paris',
-      sessions: [
-        {
-          title: 'Comment devenir CTO, en évitant les erreurs de débutant',
-          abstract:
-            "Après 4 ans comme lead developer dans une startup web parisienne, je propose de venir partager un retour d'expérience sur cette aventure, et des conseils pratiques sur: comment reconnaitre un bon associé d'un incompétent, comment éviter de développer un service voué à l'échec, comment obtenir la confiance de son associé pour les choix technologiques et les délais de développement.",
-          tags: [
-            'Javascript',
-            'Lean Startup',
-            'Bootstrapping',
-            'CEO',
-            'CTO',
-            'Trello',
-          ],
-          lang: ['fr'],
-        },
-      ],
+      sessions: [],
       cities: ['Paris'],
       contacts: {
         twitter: 'adrienjoly',
