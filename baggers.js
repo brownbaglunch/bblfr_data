@@ -15543,7 +15543,47 @@ var data = {
          twitter: 'sylv3k',
          mail: 'smaucourt@gmail.com',
        }
-     }
+    },
+    {
+      since: '2018-11-22',
+      name: 'Patrik Cyvoct',
+      bio:
+        "Cloud Architect | Passioné de Linux, du Cloud, de Docker, de Kubernetes, toussa toussa.",
+      picture: 'https://static.ptrk.io/patrik.jpg',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://blog.ptrk.io',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/patrik-cyvoct',
+        },
+        {
+          name: 'AboutMe',
+          url: 'https://resume.ptrk.io',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/Sh4d1',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'LinuxKit 101',
+          abstract:
+            "Vous n'avez jamais entendu parler de LinuxKit ? Ça vous dit vaguement quelque chose ? Ce BLL présentera ce qu'est LinuxKit, à quoi ça sert, et comment s'en servir.",
+          tags: ['LinuxKit', 'Linux', 'Docker', 'Containers', 'Immutable', 'Infrastructure'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'PatrikCyvoct',
+        mail: 'patrik@ptrk.io',
+      }
+    }
   ],
   cities: {
     'Aix-en-Provence': {
