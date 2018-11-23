@@ -15339,7 +15339,7 @@ var data = {
       since: '2018-10-05',
       name: 'Rew Islam',
       bio:
-        "Building Dashlane and it's iOS/macOS team since 2011",
+        "Building Dashlane and its iOS/macOS team since 2011",
       picture: 'https://d38muu3h4xeqr1.cloudfront.net/website/static/FEM-WN-JOB1-1105/images/pictures/rew-islam@2x.png',
       websites: [
         {
@@ -15370,7 +15370,7 @@ var data = {
     {
       since: '2018-10-10',
       name: 'Guillaume Maron',
-      bio: "Building Dashlane and it's Engineering team since 2009",
+      bio: "Building Dashlane and its Engineering team since 2009",
       picture:
         'https://www.gravatar.com/avatar/c4149d8bd585c5f4a07cb6ee05898012?s=200',
       websites: [
