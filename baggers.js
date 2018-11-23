@@ -15573,7 +15573,7 @@ var data = {
         {
           title: 'LinuxKit 101',
           abstract:
-            "Vous n'avez jamais entendu parler de LinuxKit ? Ça vous dit vaguement quelque chose ? Ce BLL présentera ce qu'est LinuxKit, à quoi ça sert, et comment s'en servir.",
+            "Vous n'avez jamais entendu parler de LinuxKit ? Ça vous dit vaguement quelque chose ? Ce BBL présentera ce qu'est LinuxKit, à quoi ça sert, et comment s'en servir.",
           tags: ['LinuxKit', 'Linux', 'Docker', 'Containers', 'Immutable', 'Infrastructure'],
           lang: ['fr', 'en'],
         },
