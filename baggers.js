@@ -15583,6 +15583,52 @@ var data = {
         twitter: 'PatrikCyvoct',
         mail: 'patrik@ptrk.io',
       }
+    },
+    {
+      since: '2018-11-23',
+      name: 'Paul SOUCHE',
+      bio: 'Développeur front end',
+      picture:
+        'https://s.gravatar.com/avatar/ab3062b8853bdaa9bbe46fe09acb7ba7?s=80',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/paul-souche-48431586/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/paulsouche',
+        }
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Scale your codebase with TypeScript',
+          abstract:
+            'Pourquoi vous devriez commencer à envisager TypeScript',
+          tags: [
+            'TypeScript'
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'lerna + yarn + TypeScript monorepos FTW',
+          abstract:
+            'Comment organiser sa codebase front dans un monorepo',
+          tags: [
+            'lerna',
+            'yarn',
+            'TypeScript',
+            'Monorepo'
+          ],
+          lang: ['fr'],
+        }
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'paulsouche',
+        mail: 'paul.souche@gmail.com',
+      }
     }
   ],
   cities: {
