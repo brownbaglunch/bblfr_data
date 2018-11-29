@@ -13542,20 +13542,27 @@ var data = {
     {
       since: '2017-11-24',
       name: 'Cyrille Hemidy',
-      bio: 'Cloud Software Architect chez PA.COTTE et LivingPackets',
+      bio: 'Cloud Software Architect chez Cadre de Vie',
       picture:
         'http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg',
-      cities: ['Nantes'],
+      cities: ['Lyon'],
       contacts: {
         twitter: 'chemidy',
         mail: 'cyrille.hemidy+bbl@gmail.com',
       },
       sessions: [
         {
-          title: 'Découvrir le langage Go ',
+          title: 'Découvrir le langage Go',
           abstract:
             'Découverte du langage Go, le langage de prédilection pour le cloud, ses atouts et ses faiblesses.',
           tags: ['Cloud', 'Go', 'Golang', 'Google'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Découvrir Firebase ',
+          abstract:
+            'Découverte de Firebase, un produit indispensable pour le développement mobile.',
+          tags: ['Cloud', 'Firebase', 'Google', 'Mobile'],
           lang: ['fr'],
         },
         {
@@ -13587,7 +13594,7 @@ var data = {
           lang: ['fr'],
         },
       ],
-      location: 'Nantes et environs',
+      location: 'Lyon et environs',
       websites: [
         {
           name: 'Speakerdeck',
