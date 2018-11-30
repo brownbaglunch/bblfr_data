@@ -864,13 +864,13 @@ var data = {
       since: '2013-02-26',
       name: 'Cécilia Bossard',
       bio:
-        "Développeuse, agiliste convaincue et joueuse invétérée. Dev au CHU de Nantes.Membre d'Agile Nantes et de l'équipe organisatrice de l'Agile Tour nantais. Organisatrice des coding goûters sur Nantes",
+        "Développeuse, agiliste convaincue et joueuse invétérée. Dev chez Code Lutin.",
       picture:
-        'https://dl.dropboxusercontent.com/u/23663360/Cecilia%20Bossard.jpg',
+        'https://www.dropbox.com/s/jo8x92bany93i9v/Cecilia%20Bossard.jpg?dl=0',
       websites: [
         {
           name: 'Web',
-          url: 'http://javagile.wordpress.com/',
+          url: 'http://www.codelutin.com',
         },
       ],
       location: 'Nantes et environs.',
@@ -897,17 +897,10 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Jouons !',
-          abstract:
-            "Possibilité de réaliser plusieurs jeux agiles afin de découvrir l'agilité ou d'approfondir certains concepts.",
-          tags: ['Agile', 'Serious Game'],
-          lang: ['fr'],
-        },
-        {
           title: 'Et la diversité dans tout ça ?',
           abstract:
             "On entend beaucoup parler en ce moment du besoin d’avoir plus de femmes dans les métiers du numérique. Mais la diversité ne s’arrête pas là. Qu'est ce qu’on entend par diversité ? Qu'est ce que ça peut apporter à mon équipe ? Quelles sont les bonnes pratiques ? Nous tenterons de répondre à ces questions lors de cette présentation qui ne se veut pas moralisatrice, mais souhaite juste proposer des pistes de réflexions sur ce débat.",
-          tags: ['Diversité'],
+          tags: ['Diversité','WomenInTech'],
           lang: ['fr'],
         },
       ],
