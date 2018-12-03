@@ -15629,6 +15629,78 @@ var data = {
         twitter: 'paulsouche',
         mail: 'paul.souche@gmail.com',
       }
+    },
+    {
+      since: '2018-11-29',
+      name: 'Michael BONFILS',
+      bio:
+        'Developpeur Backend, de l\' embarqué au stockage object gros volume',
+      picture:
+        'http://gravatar.com/avatar/3f4a46418b5ab851bd38301ecc6c8110?s=200',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://www.openio.io',
+        },
+        {
+          name: 'Blog',
+          url: 'https://blog.openio.io',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/bonfilsmichael/',
+        },
+        {
+          name: 'GitHub',
+          url: 'http://github.com/murlock/',
+        }
+      ],
+      location: 'Bordeaux',
+      sessions: [
+        {
+          title: 'Comment héberger son cloud privé compatible AWS S3',
+          abstract:
+            'Avec un cluster Raspberry Pi3, de serveur chez un hébergeur ou de votre propre data center, apprenez à déployer & configurer vos outils sur votre propre instance S3',
+          tags: [
+            'cloud',
+            's3',
+            'raspberry',
+            'private',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Sauvegarder ses données bigdata',
+          abstract:
+            'Sauvegardez vos datalakes efficacement dans une solution stockage objet',
+          tags: [
+            'hadoop',
+            's3',
+            'java',
+            'cloud',
+            'private',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Customiser votre passerelle Swift/S3',
+          abstract:
+            'A travers quelquex exemples, nous verrons comment ajouter des plugins à la passerelle Swift/S3, tel que enrichir les meta données',
+          tags: [
+            'openstack',
+            'swift',
+            's3',
+            'cloud',
+            'python'
+          ],
+          lang: ['fr'],
+        }
+      ],
+      cities: ['Bordeaux'],
+      contacts: {
+        twitter: 'tyrion94',
+        mail: 'bonfils.michael@gmail.com'
+      }
     }
   ],
   cities: {
