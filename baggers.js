@@ -15736,7 +15736,7 @@ var data = {
         {
           title: 'Développez une application mobile IoT avec ReactNative en Bluetooth Low Energy',
           abstract:
-            'Créer une application mobile qui communique avec des objets connectés vous paraît complexe ou mystérieux ? Je vous propose d\'éclaircir tout ça en moins d\'une heure !',
+            'Créer une application mobile qui communique avec des objets connectés vous paraît complexe ? Je vous propose d\'éclaircir tout ça en moins d\'une heure !',
           tags: [
             'React Native',
             'IoT',
