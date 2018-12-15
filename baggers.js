@@ -15701,6 +15701,56 @@ var data = {
         twitter: 'tyrion94',
         mail: 'bonfils.michael@gmail.com'
       }
+    },
+    {
+      since: '2018-12-14',
+      name: 'Quentin LEREBOURS',
+      bio:
+        'Développeur full-stack passionné @BearStudio, pour apporter de la valeur aux entrepreneurs',
+      picture:
+        'https://lh5.googleusercontent.com/-BO6pCTEZS0c/AAAAAAAAAAI/AAAAAAAAAA4/I0rcyN8skhk/photo.jpg',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/quentin-lerebours',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/qlerebours',
+        }
+      ],
+      location: 'Rouen',
+      sessions: [
+        {
+          title: 'Créez votre propre application conversationnelle pour Google Home',
+          abstract:
+            'Apprenez à développer une application interactive pour Google Home avec Actions on Google et Dialogflow.',
+          tags: [
+            'GoogleHome',
+            'Actions on Google',
+            'Dialogflow',
+            'Firebase',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Développez une application mobile IoT avec ReactNative en Bluetooth Low Energy',
+          abstract:
+            'Créer une application mobile qui communique avec des objets connectés vous paraît complexe ? Je vous propose d\'éclaircir tout ça en moins d\'une heure !',
+          tags: [
+            'React Native',
+            'IoT',
+            'BLE',
+            'GATT',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Rouen', 'Paris'],
+      contacts: {
+        twitter: 'qlerebours_',
+        mail: 'quentin.lerebours@gmail.com'
+      }
     }
   ],
   cities: {
