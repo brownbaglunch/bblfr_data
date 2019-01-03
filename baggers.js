@@ -15700,6 +15700,45 @@ var data = {
         twitter: 'qlerebours_',
         mail: 'quentin.lerebours@gmail.com'
       }
+    },
+    {
+      since: '2019-01-03',
+      name: 'Cedrick Lunven',
+      bio:
+        'Developer Advocate chez DataStax, créateur de FF4j, contributeur JHispter',
+      picture:
+        'https://avatars3.githubusercontent.com/u/726536?v=3&s=466',
+      location: 'Paris, proche banlieue et La Défense',
+      sessions: [
+        {
+          title: 'Intro à FF4J, Proposition de Feature Toggle pour Java',
+          abstract:
+            "Le feature toggle, ou la capacité à activer ou désactiver des fonctionnalités à chaud, est souvent associée à une astuce de développement au service du Continuous Delivery. On peut pousser du code en production qui n'est pas complètement finalisé et introduire de la dette technique... mais il peut être tellement plus utile !!!!! Après quelques cas d'usages très concrets, je vous propose de détailler les capacités du framework FF4J, les choix d'implémentation, les références en production, les killers features ainsi que les prochaines évolutions.",
+          tags: [
+            'Feature Toggle',
+            'ff4j',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title:
+            "Cas d'usages et implémentation des APIS en Java avec REST, gRPC ou GraphQL",
+          abstract:
+            "Il existe une grande variété de patterns pour accéder à vos bases de données en fonction des cas d’usage et des technologies utilisées : simple CRUD, streaming, asynchrone, réactif, fonctions… Chez DataStax, au travers de l'implémentation d'application de references comme Killrvideo](killrvideo.github.io) nous avons eu l’opportunité de tester la meme API en REST, gRPC et GraphQL avec Java (SpringBoot 2). Je vous propose un tour d’horizon des 3 solutions, les points forts, les points faibles, les details d’implementation au travers d'une demo et code reviews.",
+          tags: [
+            'API',
+            'GraphQL',
+            'REST',
+            'gRPC'
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'clunven',
+        mail: 'cedrick.lunven@gmail.com',
+      }
     }
   ],
   cities: {
