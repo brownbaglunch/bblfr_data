@@ -15792,7 +15792,44 @@ var data = {
         twitter: 'clunven',
         mail: 'cedrick.lunven@gmail.com',
       }
-    }
+    },
+    {
+      since: '2019-01-10',
+      name: 'Maritza Abreo',
+      bio:
+        'UXDesigner #HeadofDesign @IpponTechnologies #Humanist in Tech #speaker #changemaker #sprintMaster. Adepte des méthodologies : LeanStartup, Design Sprint, Design Thinking',
+      picture:
+        'img/baggers/photo_maritza_abreo.png',
+      location: 'Paris, proche banlieue et La Défense',
+      sessions: [
+        {
+            title: "Atelier Lean Startup",
+            abstract:
+                "“Learn, Build, Mesure”. En session Lean, on identifie ses utilisateurs, on pense “customer benefit” et on va les chercher “vite”, si nécessaire dans la rue, pour tester les hypothèses les plus risquées. L'identification du succès est très importante dans cet exercice car c’est ce succès qui va piloter toutes les décisions qui seront prises pour le pivotement des produits.",
+            tags: ['Lean startup', 'Agile', 'UX'],
+            lang: ['fr'],
+        },
+        {
+          title: "Atelier Design Thinking",
+          abstract:
+              "Le Design thinking permet de concrétiser ce processus de co-création : il regroupe des collaborateurs pour mutuellement s’inspirer, définir des problèmes, générer des solutions, prototyper, et tester.",
+          tags: ['Design thinking', 'UX'],
+          lang: ['fr'],
+        },
+        {
+          title: "UX Strategy = Business Strategy + UX Design",
+          abstract:
+              "Comment positionner une Strategy prenant en compte les besoins utilisateurs et le besoins business ?",
+          tags: ['UX'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+          twitter: 'MaritzaAbreo',
+          mail: 'maritzabreo@gmail.com'
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
