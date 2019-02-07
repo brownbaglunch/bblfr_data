@@ -13945,7 +13945,7 @@ var data = {
     {
       since: '2018-02-07',
       name: 'Yvan Phélizot',
-      bio: 'Consultant chez Arolla.',
+      bio: 'Craftsman chez Arolla.',
       picture:
         'https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAN6AAAAJDFkNTNjZDA5LThlZTAtNGVlNS1hMWU4LTFjMWRlMzJhMjEyZg.jpg',
       websites: [
@@ -13974,11 +13974,18 @@ var data = {
           tags: ['DevOps', 'Clean Code', 'Craftsmanship'],
           lang: ['fr', 'en'],
         },
-        {
-          title: '10 choses à savoir sur le TDD, la 8è va vous étonner',
+	{
+          title: 'Lego4Security',
           abstract:
-            "'Le TDD, c'est compliqué, ça ne sert à rien, c'est juste des problèmes, ...', si vous vous reconnaissez, alors cet atelier original est faite pour vous! Mettez le pied dans le TDD avec cette session!",
-          tags: ['TDD', 'Clean Code', 'Craftsmanship'],
+            "Vous aimez la sécurité? Non? Mais vous aimez les legos? Ah! Cette session permet de discuter sécurité en s'amusant! Basé sur Decisions & Disruptions (https://sites.google.com/view/decisions-disruptions/)",
+          tags: ['Sécurité', 'Craftsmanship'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Crafting Secure Software',
+          abstract:
+            "Le hands-on pour les développeurs qui n'ont pas le temps pour la sécurité! Avec un logiciel de qualité, il est possible d'avoir plus de sécurité",
+          tags: ['Sécurité', 'Clean Code', 'Craftsmanship'],
           lang: ['fr', 'en'],
         },
       ],
