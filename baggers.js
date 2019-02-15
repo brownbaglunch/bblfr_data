@@ -1973,93 +1973,94 @@ var data = {
       },
     },
     {
-      since: '2013-05-19',
-      name: 'Emilien Pecoul',
-      bio:
-        'Développeur indépendant, évangéliste agile, développement Microsoft',
-      picture:
-        'http://www.gravatar.com/avatar/bc755dea1b42a84ba7b3d833097e4439.png?size=250',
-      websites: [
-        {
-          name: 'Web',
-          url: 'http://ouarzy.azurewebsites.net/',
-        },
-      ],
-      location: 'Lyon',
-      sessions: [
-        {
-          title: 'TDD by example',
-          abstract:
-            'Introduction concrète au Test Driven Development, selon le livre de Kent Beck, adapté aux technos Microsoft (Méthodes, Utilisation de MSTests ou Nunit)',
-          tags: [
-            'Agile',
-            'TDD',
-            'Test',
-            'BDD',
-            '.NET',
-            'Microsoft',
-            'Clean Code',
-            'CQRS',
-            'ES',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Introduction au BDD',
-          abstract:
-            "Le Behavior Driven Development est le prolongement coté Spécification du TDD. Cette session vous montrera l'intérêt et la mise en oeuvre de cette méthode (Utilisation de SpecFlow)",
-          tags: [
-            'Agile',
-            'TDD',
-            'Test',
-            'BDD',
-            '.NET',
-            'Microsoft',
-            'Clean Code',
-            'CQRS',
-            'ES',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Objectif DDD',
-          abstract:
-            'Si vous avez une méthode de développement robuste et une architecture que vous jugez correct, confrontez vous aux concepts du Domain Driven Design pour allez encore plus loin',
-          tags: [
-            'Agile',
-            'TDD',
-            'Test',
-            'BDD',
-            '.NET',
-            'Microsoft',
-            'Clean Code',
-            'CQRS',
-            'ES',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Clean Code',
-          abstract:
-            "Avez vous déja pris le temps de décortiquer les pratiques du livre de l'Oncle Bob: Clean Code? Le temps d'un repas, regardons comment améliorer la qualité du code produit",
-          tags: [
-            'Agile',
-            'TDD',
-            'Test',
-            'BDD',
-            '.NET',
-            'Microsoft',
-            'Clean Code',
-            'CQRS',
-            'ES',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'CQRS/ES',
-          abstract:
-            "Explorons ensemble une des meilleurs implémentation technique des concepts DDD que nous connaissons aujourd'hui.",
-          tags: [
+        since: '2013-05-19',
+        name: 'Emilien Pecoul',
+        bio:
+          'Développeur indépendant, évangéliste agile, développement Microsoft',
+        picture:
+          'http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250',
+        websites: [
+          {
+            name: 'Web',
+            url: 'http://www.ouarzy.com/',
+          },
+        ],
+        location: 'Lyon',
+        sessions: [
+          {
+            title: 'TDD by example',
+            abstract:
+              'Introduction concrète au Test Driven Development, selon le livre de Kent Beck, adapté aux technos Microsoft (Méthodes, Utilisation de MSTests ou Nunit)',
+            tags: [
+              'Agile',
+              'TDD',
+              'Test',
+              'BDD',
+              '.NET',
+              'Microsoft',
+              'Clean Code',
+              'CQRS',
+              'ES',
+            ],
+            lang: ['fr'],
+          },
+          {
+            title: 'Introduction au BDD',
+            abstract:
+              "Le Behavior Driven Development est le prolongement coté Spécification du TDD. Cette session vous montrera l'intérêt et la mise en oeuvre de cette méthode (Utilisation de SpecFlow)",
+            tags: [
+              'Agile',
+              'TDD',
+              'Test',
+              'BDD',
+              '.NET',
+              'Microsoft',
+              'Clean Code',
+              'CQRS',
+              'ES',
+            ],
+            lang: ['fr'],
+          },
+          {
+            title: 'Le DDD au quotidien',
+            abstract:
+              'Voyons ensemble des pratiques très concrète pour mieux appliquer les concepts du Domain Driven Design',
+            tags: [
+              'DDD',
+              'Agile',
+              'TDD',
+              'Test',
+              'BDD',
+              '.NET',
+              'Microsoft',
+              'Clean Code',
+              'CQRS',
+              'ES',
+            ],
+            lang: ['fr'],
+          },
+          {
+            title: 'Clean Code',
+            abstract:
+              "Avez vous déja pris le temps de décortiquer les pratiques du livre de l'Oncle Bob: Clean Code? Le temps d'un repas, regardons comment améliorer la qualité du code produit",
+            tags: [
+              'Agile',
+              'TDD',
+              'Test',
+              'BDD',
+              '.NET',
+              'Microsoft',
+              'Clean Code',
+              'CQRS',
+              'ES',
+            ],
+            lang: ['fr'],
+          },
+          {
+            title: 'CQRS/ES from Scratch',
+            abstract:
+              "Un livecoding présentant une implémentation CQRS/ES en partant de rien, pour savoir comment débuter",
+            tags: [
             'Agile',
             'TDD',
             'Test',
@@ -2075,8 +2076,8 @@ var data = {
       ],
       cities: ['Lyon'],
       contacts: {
-        twitter: 'Ouarzy',
-        mail: 'epecoul@gmail.com',
+        twitter: 'ouarzy',
+        mail: 'emilien@pecoul.fr',
       },
     },
     {
