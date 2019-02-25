@@ -9438,9 +9438,9 @@ var data = {
     },
     {
       since: '2015-11-08',
-      name: 'Sun Seng David Tan',
+      name: 'Sun Tan',
       bio:
-        'Java software developer at Serli. Codenvy/Eclipse Che commiter. As a developer and a team leader, he is working on the SaaS developer environment Codenvy. Serli team is helping Codenvy in improving their SaaS environment by contributing in the development of various Eclipse Che plugins such as the Datasource plugin, Codenvy plugin for Eclipse, the Angularjs plugin, the Contribution Workflow plugin and Orion and Codemirror integration.',
+        'Senior Software Engineer @ibm @RedHat. Eclipse Che committer. OpenSource Minded. @parisjug crew.',
       picture: 'https://avatars3.githubusercontent.com/u/650571?v=3&s=460',
       websites: [
         {
@@ -9455,9 +9455,9 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'Code in the cloud with Eclipse Che',
+          title: 'How Kubernetes and Eclipse Che will change your developer\'s life.',
           abstract:
-            "Eclipse Che est la prochaine génération d'IDE  qui remplacera prochainement l'IDE Eclipse classique. Che est accessible à travers juste un navigateur Web. Il est à la fois un IDE et une plateform pour créer des extensions. Il intègre plus de 55 extensions pour Java, JavaScript, AngularJS, git, et Docker. <br /><br />Durant cette session, nous vous présenterons: <br /> - La futur version de Che 4.0: les fonctions avancées pour le dévelopement Java et la possibilité de personnaliser son environement de développement avec Docker,<br /> - Une fonctionnalité de Codenvy (la version Entreprise de Che) pour faciliter les contributions à vos projets Open Source sur Github.<br /> - Enfin, nous terminerons sur les fonctionalités de pair-programming de Che.",
+            "Eclipse Che is a Cloud IDE. It is built with Kubernetes, running on Kubernetes and ready to code apps for Kubernetes. Che7 is coming with a huge amount of exciting features: VSCode extension compatibility, dynamic container based plugins, more language support thanks to LSP, etc. During this talk, through live demos, I will show you how it is changing my developer life ... and how it will change yours.",
           tags: ['Software development', 'Cloud IDE'],
           lang: ['fr'],
         },
