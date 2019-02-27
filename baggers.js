@@ -791,7 +791,7 @@ var data = {
       since: '2013-02-25',
       name: 'Nicolas De Loof',
       bio:
-        'Committer Maven et Jenkins, Support Engineer et évangéliste chez CloudBees',
+        'Developer Advocate chez CloudBees',
       picture: 'img/baggers/photo_NicolasDeLoof.jpg',
       websites: [
         {
@@ -806,26 +806,12 @@ var data = {
       location: 'Rennes et alentours, possibilités sur Paris',
       sessions: [
         {
-          title: 'Docker Revolution',
+          title: 'Jenkins X: toward a Cloud-native Jenkins',
           abstract:
-            "Comprendre Docker, ce que c'est, ses impacts sur les outils, usages Dev/Ops et patterns d'architecture.",
-          tags: ['Cloud', 'Usine logicielle'],
+            "L'architecture de Jenkins date de 10 ans. C'est ce qui a permis de construire un écosystème gigantesque et de couvrir les besoins de tout le monde avec une flexibilité extrême. En assurant la compatibilité ascendante, Jenkins s'interdit-il d'évoluer pour embracer les paradigmes modernes ? On pourrait le croire, sauf que ... Jenkins-X!",
+          tags: ['Cloud', 'Jenkins', 'Kubernetes'],
           lang: ['fr'],
-        },
-        {
-          title: 'Cloud Patterns',
-          abstract:
-            "Comprendre les avantages et contraintes du cloud et les patterns d'architecture associés.",
-          tags: ['Cloud', 'Usine logicielle'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Intégration continue avec Jenkins',
-          abstract:
-            "Présentation du concept d'intégration continue, mise en oeuvre avec Jenkins et utilisations avancées.",
-          tags: ['Cloud', 'Usine logicielle'],
-          lang: ['fr'],
-        },
+        }
       ],
       cities: ['Rennes'],
       contacts: {
