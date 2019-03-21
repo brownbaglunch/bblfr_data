@@ -16027,7 +16027,7 @@ var data = {
       name: 'Romain Prignon',
       bio: 'Développeur Full Stack évoluant dans la sphère Lyonnaise depuis 6ans',
       picture:
-        'http://www.gravatar.com/avatar/7a6a26e1cf60b9bb6fafdffbd540795d?size=200',
+        'http://www.gravatar.com/avatar/f38eb007b831b5300be45271ef29520e',
       websites: [
         {
           name: 'Web',
