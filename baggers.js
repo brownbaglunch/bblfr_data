@@ -16065,6 +16065,41 @@ var data = {
       contacts: {
         mail: 'pro.rprignon@gmail.com',
       }
+    },
+    {
+      "since": "2019-03-22",
+      "name": "Lénaïc Couëllan",
+      "bio": "Développeur web chez KNP Labs",
+      "picture": "https://fr.gravatar.com/userimage/47983780/a4c521b4d00829a0e63eb5642d0ccec6.png?size=200",
+      "websites": [
+        {
+          "name": "LinkedIn",
+          "url": "https://fr.linkedin.com/in/lénaïc-couëllan-736861a4"
+        }
+      ],
+      "location": "Caen",
+      "sessions": [
+        {
+          "title": "Le Behavior-driven development",
+          "abstract": "Introduction au BDD avec Behat",
+          "tags": [
+            "BDD",
+            "Test",
+            "TDD"
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ]
+        }
+      ],
+      "cities": [
+        "Caen"
+      ],
+      "contacts": {
+        "twitter": "lcouellan",
+        "mail": "lenaic.couellan@knplabs.com"
+      }
     }
   ],
   cities: {
