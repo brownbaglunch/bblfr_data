@@ -16148,6 +16148,46 @@ var data = {
         twitter: 'gaelreyrol',
         mail: 'me@gaelreyrol.com',
       },
+    },
+    {
+      since: '2019-03-26',
+      name: 'Christopher Maneu',
+      bio:
+        'Ingénieur Cloud / Developer Advocate @ Microsoft R&D',
+      picture:
+        'http://gravatar.com/avatar/f6c06223e3759e7b9c93bdb58fc241f5?s=200',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/cmaneu',
+        },
+        {
+          name: 'Blog',
+          url: 'https://www.maneu.fr/',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Ecoutez vos utilisateurs, de 1 à 10 Millions',
+          abstract:
+            "We all know user-centered design is fundamental for a product's success. Among everything you should do, gathering feedback from your users is one of the crucial pieces to inform your product and technical decisions. But how to do it? At the end of the session, you'll have several techniques to collect that feedback, but also to integrate it into your development workflow. These techniques will come from my own experience at companies of various stages: from small shops (4-5 devs) to Deezer and now Azure engineering team. ",
+          tags: ['DevOps', 'Agilité', 'Cloud'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Beaucoup d\'autres sujets !',
+          abstract:
+            "Si vous cherchez un talk sur Azure orienté développeur, j'ai probablement quelque chose pour vous. N'hésitez pas à me contacter ",
+          tags: ['DevOps', 'Agilité', 'Opensource', 'Azure', 'Microsoft'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris', 'Bordeaux', 'Toulouse', 'Marseille', 'Lyon'],
+      contacts: {
+        twitter: 'cmaneu',
+        mail: 'hello@maneu.net',
+      },
     }
   ],
   cities: {
