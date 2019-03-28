@@ -10020,7 +10020,7 @@ var data = {
       since: '2016-02-27',
       name: 'Frederic Rivain',
       bio:
-        'CTO at Dashlane, co-founder of CiTy-O, a community of CTO in Paris.',
+        'CTO at Dashlane, co-founder of CiTy-O, a community of CTO in Paris. Happy to come talk about organization, management, agility or identity at large.',
       picture:
         'https://www.dashlane.com/images/team-photos/frederic-rivain.png',
       websites: [
@@ -10043,9 +10043,9 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'From feature factory to business-oriented teams with OKR',
+          title: 'From feature factory to Mission teams with OKR',
           abstract:
-            "Où on parle d'organisation des équipes et comment avoir une orientation business appuyée sur une gestion des objectifs via les OKR",
+            "Où on parle d'organisation des équipes, de feature teams, de missions ou comment avoir une orientation business appuyée sur une gestion des objectifs via les OKR",
           tags: ['Management', 'Agile', 'OKR'],
           lang: ['fr'],
         },
@@ -10056,10 +10056,10 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Gérer un portfolio Agile',
+          title: 'Our approach to security',
           abstract:
-            "Comment mettre en place et gérer un portfolio d'entreprise en complément des backlogs d'équipes Agile",
-          tags: ['Roadmap', 'Agile', 'Portfolio'],
+            "Comment nous pensons la sécurité chez Dashlane",
+          tags: ['Security', 'Privacy', 'Threat', "Risk'],
           lang: ['fr'],
         },
       ],
