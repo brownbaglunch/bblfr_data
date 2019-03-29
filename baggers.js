@@ -10059,7 +10059,7 @@ var data = {
           title: 'Our approach to security',
           abstract:
             "Comment nous pensons la sécurité chez Dashlane",
-          tags: ['Security', 'Privacy', 'Threat', "Risk'],
+          tags: ['Security', 'Privacy', 'Threat', 'Risk'],
           lang: ['fr'],
         },
       ],
