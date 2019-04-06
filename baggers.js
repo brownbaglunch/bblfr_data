@@ -16188,6 +16188,58 @@ var data = {
         twitter: 'cmaneu',
         mail: 'hello@maneu.net',
       },
+    },
+	{
+      since: '2019-04-06',
+      name: 'Mimoun Kissi',
+      bio:
+        'Coach qualité, QA Engineer, passioné de tests et qualités logiciels',
+      picture: 'https://www.dropbox.com/s/5oxgukkq92304wp/IMG_0551.jpg?dl=0',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/MimounKissi',
+        },
+        {
+          name: 'Biography',
+          url: 'https://mimoun-kissi.carrd.co',
+        },
+        {
+          name: 'Calendly',
+          url: 'https://calendly.com/kissimimoun',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: "Tester c'est bien, monitorer c'est mieux",
+          abstract:
+            "En fonction du domaine des applications, les tests en production peuvent devenir problématiques, l'une des solutions, le monitoring",
+          tags: [
+            'Kibana',
+            'Azure DevOps',
+            'KQL',
+            'Monitoring',
+            'Test',
+            'Qualité',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      sessions: [
+        {
+          title: 'La pyramide des tests',
+          abstract:
+            'Comment mettre en place la pyramide des tests dans sa stratégie de tests',
+          tags: ['TDD', 'BDD', 'Test', 'Qualité'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'KissiMimoun',
+        mail: 'kissimimoun@gmail.com',
+      },
     }
   ],
   cities: {
