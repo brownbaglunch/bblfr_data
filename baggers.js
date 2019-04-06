@@ -1986,94 +1986,94 @@ var data = {
       },
     },
     {
-        since: '2013-05-19',
-        name: 'Emilien Pecoul',
-        bio:
-          'Développeur indépendant, évangéliste agile, développement Microsoft',
-        picture:
-          'http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250',
-        websites: [
-          {
-            name: 'Web',
-            url: 'http://www.ouarzy.com/',
-          },
-        ],
-        location: 'Lyon',
-        sessions: [
-          {
-            title: 'TDD by example',
-            abstract:
-              'Introduction concrète au Test Driven Development, selon le livre de Kent Beck, adapté aux technos Microsoft (Méthodes, Utilisation de MSTests ou Nunit)',
-            tags: [
-              'Agile',
-              'TDD',
-              'Test',
-              'BDD',
-              '.NET',
-              'Microsoft',
-              'Clean Code',
-              'CQRS',
-              'ES',
-            ],
-            lang: ['fr'],
-          },
-          {
-            title: 'Introduction au BDD',
-            abstract:
-              "Le Behavior Driven Development est le prolongement coté Spécification du TDD. Cette session vous montrera l'intérêt et la mise en oeuvre de cette méthode (Utilisation de SpecFlow)",
-            tags: [
-              'Agile',
-              'TDD',
-              'Test',
-              'BDD',
-              '.NET',
-              'Microsoft',
-              'Clean Code',
-              'CQRS',
-              'ES',
-            ],
-            lang: ['fr'],
-          },
-          {
-            title: 'Le DDD au quotidien',
-            abstract:
-              'Voyons ensemble des pratiques très concrète pour mieux appliquer les concepts du Domain Driven Design',
-            tags: [
-              'DDD',
-              'Agile',
-              'TDD',
-              'Test',
-              'BDD',
-              '.NET',
-              'Microsoft',
-              'Clean Code',
-              'CQRS',
-              'ES',
-            ],
-            lang: ['fr'],
-          },
-          {
-            title: 'Clean Code',
-            abstract:
-              "Avez vous déja pris le temps de décortiquer les pratiques du livre de l'Oncle Bob: Clean Code? Le temps d'un repas, regardons comment améliorer la qualité du code produit",
-            tags: [
-              'Agile',
-              'TDD',
-              'Test',
-              'BDD',
-              '.NET',
-              'Microsoft',
-              'Clean Code',
-              'CQRS',
-              'ES',
-            ],
-            lang: ['fr'],
-          },
-          {
-            title: 'CQRS/ES from Scratch',
-            abstract:
-              "Un livecoding présentant une implémentation CQRS/ES en partant de rien, pour savoir comment débuter",
-            tags: [
+      since: '2013-05-19',
+      name: 'Emilien Pecoul',
+      bio:
+        'Développeur indépendant, évangéliste agile, développement Microsoft',
+      picture:
+        'http://www.gravatar.com/avatar/a3b567e54b0e3935c4b53cca2a835f1e.png?size=250',
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://www.ouarzy.com/',
+        },
+      ],
+      location: 'Lyon',
+      sessions: [
+        {
+          title: 'TDD by example',
+          abstract:
+            'Introduction concrète au Test Driven Development, selon le livre de Kent Beck, adapté aux technos Microsoft (Méthodes, Utilisation de MSTests ou Nunit)',
+          tags: [
+            'Agile',
+            'TDD',
+            'Test',
+            'BDD',
+            '.NET',
+            'Microsoft',
+            'Clean Code',
+            'CQRS',
+            'ES',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Introduction au BDD',
+          abstract:
+            "Le Behavior Driven Development est le prolongement coté Spécification du TDD. Cette session vous montrera l'intérêt et la mise en oeuvre de cette méthode (Utilisation de SpecFlow)",
+          tags: [
+            'Agile',
+            'TDD',
+            'Test',
+            'BDD',
+            '.NET',
+            'Microsoft',
+            'Clean Code',
+            'CQRS',
+            'ES',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Le DDD au quotidien',
+          abstract:
+            'Voyons ensemble des pratiques très concrète pour mieux appliquer les concepts du Domain Driven Design',
+          tags: [
+            'DDD',
+            'Agile',
+            'TDD',
+            'Test',
+            'BDD',
+            '.NET',
+            'Microsoft',
+            'Clean Code',
+            'CQRS',
+            'ES',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Clean Code',
+          abstract:
+            "Avez vous déja pris le temps de décortiquer les pratiques du livre de l'Oncle Bob: Clean Code? Le temps d'un repas, regardons comment améliorer la qualité du code produit",
+          tags: [
+            'Agile',
+            'TDD',
+            'Test',
+            'BDD',
+            '.NET',
+            'Microsoft',
+            'Clean Code',
+            'CQRS',
+            'ES',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'CQRS/ES from Scratch',
+          abstract:
+            'Un livecoding présentant une implémentation CQRS/ES en partant de rien, pour savoir comment débuter',
+          tags: [
             'Agile',
             'TDD',
             'Test',
@@ -6107,75 +6107,42 @@ var data = {
           title: 'OutOfMemoryError : Quel est le coût des objets en Java',
           abstract:
             "A Ullink, nos Heaps sont habituellement plutôt large (jusqu'à 256 Go) et nous gérons un large volume de données. Mais nous avons observé que la majorité de l'espace occupé dans la Heap ne l'est pas par les données business mais par les structures ! Dans cette présentation il sera montré quel est le coût des objets, quels sont les suspects idéals dans nos structures de données habituelles (Lists, Maps, Strings) et ce que nous pouvons faire pour réduire l'empreinte mémoire.",
-          tags: [
-            'JVM',
-            'GC',
-            'Mémoire',
-            'Performance',
-          ],
+          tags: ['JVM', 'GC', 'Mémoire', 'Performance'],
           lang: ['fr'],
         },
         {
           title: 'Programmation Lock-Free : les techniques des pros',
           abstract:
             "La scalabilité des applications est une préoccupation importante. Beaucoup de pertes en scalabilité proviennent de code contenant des locks qui produisent une importante contention en cas de forte charge. Dans cette présentation nous allons aborder différentes techniques (striping, copy-on-write, ring buffer, spinning, ...) qui vont nous permettre de réduire cette contention ou d'obtenir un code sans lock. Nous expliquerons aussi les concepts de Compare-And-Swap et de barrières mémoires.",
-          tags: [
-            'CPU',
-            'JIT',
-            'JVM',
-            'Lock-free',
-            'Performance',
-          ],
+          tags: ['CPU', 'JIT', 'JVM', 'Lock-free', 'Performance'],
           lang: ['fr'],
         },
         {
           title: 'Coding & Performance : un parcours initiatique',
           abstract:
             "Lorsque l'on entre dans le domaine de la performance, un non-initié peut se retrouver perdu parmi les règles empiriques (rule of thumbs), les grand O, les benchmarks et autres optimisations prématurées. Cette présentation propose d'aider le développeur à acquérir les connaissances et l'expérience nécessaire pour affronter les défis permanents que posent l'élaboration et la maintenance d'une application performante.",
-          tags: [
-            'JVM',
-            'Performance',
-          ],
+          tags: ['JVM', 'Performance'],
           lang: ['fr'],
         },
         {
           title: 'Le guide de dépannage de la JVM',
           abstract:
-            "Votre application Java/Scala/autres en production ne répond plus ! Que faire pour diagnostiquer le problème ? Un thread bloqué ? le CPU à 100% ? le GC part en vrille ? Une OutOfMemoryError ? Par où commencer ? Cette présentation vous donnera les outils et la méthodologie pour être capable de gérer cette situation. Vous verrez les informations et métriques fournis par la JVM ainsi que la bonne façon de les interpréter.",
-          tags: [
-            'JVM',
-            'GC',
-            'Metriques',
-            'Diagnostic',
-            'Performance',
-          ],
+            'Votre application Java/Scala/autres en production ne répond plus ! Que faire pour diagnostiquer le problème ? Un thread bloqué ? le CPU à 100% ? le GC part en vrille ? Une OutOfMemoryError ? Par où commencer ? Cette présentation vous donnera les outils et la méthodologie pour être capable de gérer cette situation. Vous verrez les informations et métriques fournis par la JVM ainsi que la bonne façon de les interpréter.',
+          tags: ['JVM', 'GC', 'Metriques', 'Diagnostic', 'Performance'],
           lang: ['fr'],
         },
         {
           title: "CLR-JVM différences d'implémentation",
           abstract:
             "Chez Criteo, nous utilisons à la fois la .NET CLR et la JVM. A première vue il semble que ces 2 runtimes sont similaires: du byte code, un JIT, un GC, ... Mais en fait il y a des différences dans l'implementation et dans la vision des applications ciblées et leurs besoins. Nous verrons les avantages et inconvénients des différences de ces 2 runtimes.",
-          tags: [
-            'JVM',
-            'CLR',
-            'JIT',
-            'GC',
-            'Performance',
-          ],
+          tags: ['JVM', 'CLR', 'JIT', 'GC', 'Performance'],
           lang: ['fr'],
         },
         {
-          title: "Comprendre les GC à faible latence de la JVM",
+          title: 'Comprendre les GC à faible latence de la JVM',
           abstract:
             "Depuis quelques années, le monde du GC sur la JVM évolue. Une nouvelle catégorie de GC émerge: Les GC à faible latence (low latency). Shenandoah est mis à disposition par Red Hat, Oracle a mis en open Source ZGC dans l'OpenJDK depuis le JDK 11 et Azul C4 est toujours là. Comme les GC 'classiques' sont plutôt bien compris maintenant, cette présentation s'attardera sur les arcanes des plus récents. Nous allons expliquer le concurrent marking (tri-color marking), la Load Value Barrier de C4, les Brooks pointers de Shenandoah et le multi-mapping de ZGC. Enfin, comment choisir son GC à faible latence ?",
-          tags: [
-            'JVM',
-            'GC',
-            'Shenandoah',
-            'Azul C4',
-            'Z GC',
-            'Performance',
-          ],
+          tags: ['JVM', 'GC', 'Shenandoah', 'Azul C4', 'Z GC', 'Performance'],
           lang: ['fr'],
         },
       ],
@@ -9455,9 +9422,10 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'How Kubernetes and Eclipse Che will change your developer\'s life.',
+          title:
+            "How Kubernetes and Eclipse Che will change your developer's life.",
           abstract:
-            "Eclipse Che is a Cloud IDE. It is built with Kubernetes, running on Kubernetes and ready to code apps for Kubernetes. Che7 is coming with a huge amount of exciting features: VSCode extension compatibility, dynamic container based plugins, more language support thanks to LSP, etc. During this talk, through live demos, I will show you how it is changing my developer life ... and how it will change yours.",
+            'Eclipse Che is a Cloud IDE. It is built with Kubernetes, running on Kubernetes and ready to code apps for Kubernetes. Che7 is coming with a huge amount of exciting features: VSCode extension compatibility, dynamic container based plugins, more language support thanks to LSP, etc. During this talk, through live demos, I will show you how it is changing my developer life ... and how it will change yours.',
           tags: ['Software development', 'Cloud IDE'],
           lang: ['fr'],
         },
@@ -9677,7 +9645,7 @@ var data = {
             "L'offre Firebase proposée par Google est une galaxie. Et malheureusement nous n'aurons pas le temps de tout aborder. Nous allons principalement aborder les produits permettant des stocker des donneées (FireStore), pour gérer l'authentification, pour héberger vos SPA utilisant votre framework JavaScript de prédilection ou encore les Cloud Functions. Si vous avez toujours eu envie de développer une nouvelle application Web, mans sans trop se soucier de la partie back ou encore de la base de données, Firebase peut être la réponse à vos besoins. ",
           tags: ['JavaScript', 'GCP', 'Firebase'],
           lang: ['fr'],
-        }
+        },
       ],
       cities: ['Lille'],
       contacts: {
@@ -10057,8 +10025,7 @@ var data = {
         },
         {
           title: 'Our approach to security',
-          abstract:
-            "Comment nous pensons la sécurité chez Dashlane",
+          abstract: 'Comment nous pensons la sécurité chez Dashlane',
           tags: ['Security', 'Privacy', 'Threat', 'Risk'],
           lang: ['fr'],
         },
@@ -11372,14 +11339,27 @@ var data = {
       sessions: [
         {
           title: 'TypeScript : dès lundi sur votre App Legacy',
-          abstract: "Avez-vous déjà développé une <strong>App Front</strong> de 5K+ lignes de  JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !<br/><br/><strong>TypeScript (TS) et son typage statique</strong> peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière <strong>type-safe</strong> !<br/>Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !<br/><br/>Ce talk sera <strong>100% livecoding</strong> et montrera une mise en place <strong>progressive de TypeScript</strong> sur <strong>un projet legacy écrit en JS</strong>.<br/><br/>Nous verrons :<br/><ul><li>Comment mettre en place la <strong>compilation TS</strong> en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré</li><li> L'interopérabilité avec les librairies JS non écrites en TS via l'outillage <strong>typings</strong></li><li> Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite</li></ul>",
+          abstract:
+            "Avez-vous déjà développé une <strong>App Front</strong> de 5K+ lignes de  JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !<br/><br/><strong>TypeScript (TS) et son typage statique</strong> peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière <strong>type-safe</strong> !<br/>Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !<br/><br/>Ce talk sera <strong>100% livecoding</strong> et montrera une mise en place <strong>progressive de TypeScript</strong> sur <strong>un projet legacy écrit en JS</strong>.<br/><br/>Nous verrons :<br/><ul><li>Comment mettre en place la <strong>compilation TS</strong> en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré</li><li> L'interopérabilité avec les librairies JS non écrites en TS via l'outillage <strong>typings</strong></li><li> Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite</li></ul>",
           tags: ['Typescript', 'Typings', 'Transpiler', 'Languages'],
           lang: ['fr'],
         },
         {
           title: 'Back to Basics : Ne perdez plus votre Temps avec les Dates',
-          abstract: "<p><strong>La gestion du Temps</strong> sur une application client/serveur peut sembler simple de prime abord, mais se révélera beaucoup plus complexe au fur et à mesure des usages : timezones multiples, heures récurrentes, heure d'été/d'hiver, traitements cron, leap seconds sont des exemples parmi tant d'autres.<br>Saviez-vous même que la Commission Européenne envisage d'abolir le passage en heure d'hiver ? <strong>Quels impacts cela aurait sur nos applications ?</strong></p><p><strong>Mon objectif</strong> : qu'à partir de lundi prochain, vous vous posiez les bonnes questions à chaque fois que vous travaillerez sur une date ou une heure dans vos applications.</p><p>Pour cela, <strong>reprenons les bases du Temps</strong> en informatique : composantes d'une date, norme ISO 8601, Timezones et IANA.</p><p>Une fois ces bases posées, nous verrons, au travers d'un certain nombre de <strong>cas d'utilisation issus de la vraie vie</strong>, les bonnes questions qu'il convient de se poser pour mettre le doigt sur les complexités d'implémentation et éviter de tomber dans une faille spatio-temporelle lors du prochain changement d'heure.</p><p>Ce talk est accessible à tous et ne se focalisera pas sur un langage / une API en particulier : <strong>les concepts prévaudront sur le code</strong>.</p>",
-          tags: ['Back to basics', 'Date', 'Time', 'Timestamps', 'Timezones', 'IANA', 'Bonnes pratiques', 'UTC', 'Temps Atomique International', 'NTP'],
+          abstract:
+            "<p><strong>La gestion du Temps</strong> sur une application client/serveur peut sembler simple de prime abord, mais se révélera beaucoup plus complexe au fur et à mesure des usages : timezones multiples, heures récurrentes, heure d'été/d'hiver, traitements cron, leap seconds sont des exemples parmi tant d'autres.<br>Saviez-vous même que la Commission Européenne envisage d'abolir le passage en heure d'hiver ? <strong>Quels impacts cela aurait sur nos applications ?</strong></p><p><strong>Mon objectif</strong> : qu'à partir de lundi prochain, vous vous posiez les bonnes questions à chaque fois que vous travaillerez sur une date ou une heure dans vos applications.</p><p>Pour cela, <strong>reprenons les bases du Temps</strong> en informatique : composantes d'une date, norme ISO 8601, Timezones et IANA.</p><p>Une fois ces bases posées, nous verrons, au travers d'un certain nombre de <strong>cas d'utilisation issus de la vraie vie</strong>, les bonnes questions qu'il convient de se poser pour mettre le doigt sur les complexités d'implémentation et éviter de tomber dans une faille spatio-temporelle lors du prochain changement d'heure.</p><p>Ce talk est accessible à tous et ne se focalisera pas sur un langage / une API en particulier : <strong>les concepts prévaudront sur le code</strong>.</p>",
+          tags: [
+            'Back to basics',
+            'Date',
+            'Time',
+            'Timestamps',
+            'Timezones',
+            'IANA',
+            'Bonnes pratiques',
+            'UTC',
+            'Temps Atomique International',
+            'NTP',
+          ],
           lang: ['fr'],
         },
       ],
@@ -11821,71 +11801,53 @@ var data = {
       },
     },
     {
-      "since": "2017-01-01",
-      "name": "Riadh MNASRI",
-      "bio": "Architecte/Développeur Java/Kotlin, Freelance",
-      "picture": "https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200",
-      "websites": [
+      since: '2017-01-01',
+      name: 'Riadh MNASRI',
+      bio: 'Architecte/Développeur Java/Kotlin, Freelance',
+      picture:
+        'https://en.gravatar.com/userimage/30308348/1d1bb814c3ac6720c07845a1c57cb2ca.jpg?size=200',
+      websites: [
         {
-          "name": "Web",
-          "url": "http://www.riadh-mnasri.com"
-        }
+          name: 'Web',
+          url: 'http://www.riadh-mnasri.com',
+        },
       ],
-      "location": "Paris, remote",
-      "sessions": [
+      location: 'Paris, remote',
+      sessions: [
         {
-          "title": "Architectures microservices",
-          "abstract": "Tout ce que vous avez toujours voulu savoir sur les architectures microservices sans jamais oser le demander",
-          "tags": [
-            "architectures",
-            "microservices",
-            "patterns"
-          ],
-          "lang": [
-            "fr", "en"
-          ]
+          title: 'Architectures microservices',
+          abstract:
+            'Tout ce que vous avez toujours voulu savoir sur les architectures microservices sans jamais oser le demander',
+          tags: ['architectures', 'microservices', 'patterns'],
+          lang: ['fr', 'en'],
         },
         {
-          "title": "Un tour d'horizon des fonctionnalités clé du langage Kotlin ",
-          "abstract": "Une session de présentation des fonctionnalités clé de Kotlin avec Live Coding",
-          "tags": [
-            "Java",
-            "Kotlin"
-          ],
-          "lang": [
-            "fr"
-          ]
+          title: "Un tour d'horizon des fonctionnalités clé du langage Kotlin ",
+          abstract:
+            'Une session de présentation des fonctionnalités clé de Kotlin avec Live Coding',
+          tags: ['Java', 'Kotlin'],
+          lang: ['fr'],
         },
         {
-          "title": "Initiation Docker",
-          "abstract": "Une sécance d'initiation à Docker du concept à la pratique",
-          "tags": [
-            "Docker",
-            "Container"
-          ],
-          "lang": [
-            "fr", "en"
-          ]
+          title: 'Initiation Docker',
+          abstract:
+            "Une sécance d'initiation à Docker du concept à la pratique",
+          tags: ['Docker', 'Container'],
+          lang: ['fr', 'en'],
         },
         {
-          "title": "Kafka par la pratique",
-          "abstract": "Les concepts et des cas concrets d'utilisation dans des projets d'entreprise",
-          "tags": [
-            "Kafka",
-            "Spring"
-          ],
-          "lang": [
-            "fr", "en"
-          ]
-        }
+          title: 'Kafka par la pratique',
+          abstract:
+            "Les concepts et des cas concrets d'utilisation dans des projets d'entreprise",
+          tags: ['Kafka', 'Spring'],
+          lang: ['fr', 'en'],
+        },
       ],
-      "cities": [
-        "Paris"
-      ],
-      "contacts": {
-        "twitter": "riadhmnasri",
-        "mail": "riadh.mnasri@gmail.com"
-      }
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'riadhmnasri',
+        mail: 'riadh.mnasri@gmail.com',
+      },
     },
     {
       since: '2017-03-14',
@@ -14020,7 +13982,7 @@ var data = {
           tags: ['DevOps', 'Clean Code', 'Craftsmanship'],
           lang: ['fr', 'en'],
         },
-	{
+        {
           title: 'Lego4Security',
           abstract:
             "Vous aimez la sécurité? Non? Mais vous aimez les legos? Ah! Cette session permet de discuter sécurité en s'amusant! Basé sur Decisions & Disruptions (https://sites.google.com/view/decisions-disruptions/)",
@@ -15785,13 +15747,12 @@ var data = {
     {
       since: '2019-02-03',
       name: 'Quentin ADAM',
-      bio:
-        'CEO chez Clever Cloud',
+      bio: 'CEO chez Clever Cloud',
       picture: 'https://i.imgur.com/YdzlEj0.jpg',
       location: 'Nantes/Paris',
       sessions: [
         {
-          title: 'C\'est quoi Clever Cloud et comment ça marche ?',
+          title: "C'est quoi Clever Cloud et comment ça marche ?",
           abstract:
             "Une rapide demo de Clever Cloud et de pourquoi on l'a construit et comment. L'idée est de découvrir le fonctionnement de l'outil afin d'envisager si ça peut être utile et rendre les devs plus efficaces et heureux. En fonction du temps, une explication de comment ça marche est possible.",
           tags: ['cloud computing', 'PaaS', 'devops'],
@@ -15800,72 +15761,82 @@ var data = {
         {
           title: 'Why postgres SQL deserve noSQL fan respect',
           abstract:
-            "Postgres SQL is a plain old SQL DB. Very powerful and very consistent, in some case, project needs an ACID database, but schemaless… With JSON support, postgres is a very interesting tool to provide ACID and some very interesting function (time management, localisation function and data types…) and the schemaless noSQL point of view with json and indexed json. This talk show some great usage and some insigth to build some great application with postgres.",
+            'Postgres SQL is a plain old SQL DB. Very powerful and very consistent, in some case, project needs an ACID database, but schemaless… With JSON support, postgres is a very interesting tool to provide ACID and some very interesting function (time management, localisation function and data types…) and the schemaless noSQL point of view with json and indexed json. This talk show some great usage and some insigth to build some great application with postgres.',
           tags: ['postgres', 'SQL', 'database', 'nosql'],
           lang: ['fr', 'en'],
         },
         {
-          title: 'Immutability: from code to infrastructure, the way of scalability',
+          title:
+            'Immutability: from code to infrastructure, the way of scalability',
           abstract:
-            "The all functional programming world, Docker, Clever Cloud, micro service architecture, logs append only DB… All of this rely on the immutability at some point: infrastructure immutability, data immutability, append only. This is the way we now build some of the best scalable applications and infrastructure. The talk is made to understand why Immutability rules the scalability and why it’s important.",
+            'The all functional programming world, Docker, Clever Cloud, micro service architecture, logs append only DB… All of this rely on the immutability at some point: infrastructure immutability, data immutability, append only. This is the way we now build some of the best scalable applications and infrastructure. The talk is made to understand why Immutability rules the scalability and why it’s important.',
           tags: ['functional programing', 'code', 'devops', 'cloud'],
           lang: ['fr', 'en'],
         },
         {
-          title: 'Containers, VMs, Processes… Isolation, performances, I/O… How all of these technologies work and compare to each other? Deep dive and learn about your Operating System.',
+          title:
+            'Containers, VMs, Processes… Isolation, performances, I/O… How all of these technologies work and compare to each other? Deep dive and learn about your Operating System.',
           abstract:
-            "Everybody is now using virtualization, containers are all the rage today, and microkernels start to gain traction… But how is all this working? How did these solutions come to be? What are the differences between containers and virtual machines? Where and why should you use docker, runc, rocket, kvm, xen, virtualbox, includeOS, rancherOS? This talk is a full session providing understanding on how these technologies work, how they compare to each other, and lot’s of demo to understand differences and fundamental concept on isolation. So, let’s look under the hood, and understand how your system works (hint: it’s not magic). And yes, it will be understandable even if you are not an OPS or an expert. That’s precisely the point.",
+            'Everybody is now using virtualization, containers are all the rage today, and microkernels start to gain traction… But how is all this working? How did these solutions come to be? What are the differences between containers and virtual machines? Where and why should you use docker, runc, rocket, kvm, xen, virtualbox, includeOS, rancherOS? This talk is a full session providing understanding on how these technologies work, how they compare to each other, and lot’s of demo to understand differences and fundamental concept on isolation. So, let’s look under the hood, and understand how your system works (hint: it’s not magic). And yes, it will be understandable even if you are not an OPS or an expert. That’s precisely the point.',
           tags: ['devops', 'container', 'docker', 'linux', 'virtualization'],
           lang: ['fr', 'en'],
         },
         {
           title: 'Comment ça marche systemd déjà ? ',
           abstract:
-            "Après la grande guerre initd et systemd, il est clair que maintenant systemd s’est imposé. Pourquoi ? Quels sont les intérêts ? Est ce difficile de faire un fichier de configuration systemd ? Comment ça marche ? Comment écrire un fichier de conf ? Comment gérer des CRONs avec ?",
+            'Après la grande guerre initd et systemd, il est clair que maintenant systemd s’est imposé. Pourquoi ? Quels sont les intérêts ? Est ce difficile de faire un fichier de configuration systemd ? Comment ça marche ? Comment écrire un fichier de conf ? Comment gérer des CRONs avec ?',
           tags: ['devops', 'linux', 'systemd'],
           lang: ['fr', 'en'],
         },
         {
-          title: 'Scala Implicits: pour faire des APIs simples, des DSL ou de la magie noire, ça marche comment ?',
+          title:
+            'Scala Implicits: pour faire des APIs simples, des DSL ou de la magie noire, ça marche comment ?',
           abstract:
-            "C’est quoi un implicit ? Pourquoi ça existe dans le langage ? Le lien au DSL (au fait c’est quoi un DSL) ? Construire une API en les utilisant… Ce talk est un 101 des implicits dans le scala.",
+            'C’est quoi un implicit ? Pourquoi ça existe dans le langage ? Le lien au DSL (au fait c’est quoi un DSL) ? Construire une API en les utilisant… Ce talk est un 101 des implicits dans le scala.',
           tags: ['scala'],
           lang: ['fr', 'en'],
         },
         {
           title: 'Monitoring the unknown, 1000*100 series a day',
           abstract:
-            "How to monitor unknown third party code? One of the hardest challenges we face running Clever Cloud, apart from the impressive scale we face with hundreds of new applications per week, is the monitoring of unknown tech stacks. The first goal of rebuilding the monitoring platform was to accommodate the immutable infrastructure pattern that generates lots of ephemeral hosts every minute. The traditional approach is to focus on VMs or hosts, not applications. We needed to shift this into an approach of auto-discovery of metrics to monitor, allowing third party code to publish new items. This talk explains our journey in building Clever Cloud Metrics stack, heavily based on Warp10 (Kafka/Hadoop/Storm based) to deliver developer efficiency and trustability to our clients applications.",
-          tags: ['warp10', 'kafka', 'hadoop', 'observability', 'monitoring', 'devops'],
+            'How to monitor unknown third party code? One of the hardest challenges we face running Clever Cloud, apart from the impressive scale we face with hundreds of new applications per week, is the monitoring of unknown tech stacks. The first goal of rebuilding the monitoring platform was to accommodate the immutable infrastructure pattern that generates lots of ephemeral hosts every minute. The traditional approach is to focus on VMs or hosts, not applications. We needed to shift this into an approach of auto-discovery of metrics to monitor, allowing third party code to publish new items. This talk explains our journey in building Clever Cloud Metrics stack, heavily based on Warp10 (Kafka/Hadoop/Storm based) to deliver developer efficiency and trustability to our clients applications.',
+          tags: [
+            'warp10',
+            'kafka',
+            'hadoop',
+            'observability',
+            'monitoring',
+            'devops',
+          ],
           lang: ['fr', 'en'],
         },
         {
           title: 'Any other talk?',
           abstract:
-            "Yes, sure, read here https://evman.clever-cloud.com/public/user/9",
+            'Yes, sure, read here https://evman.clever-cloud.com/public/user/9',
           tags: [],
           lang: ['fr', 'en'],
-        }
+        },
       ],
       cities: ['Paris', 'Nantes'],
       contacts: {
         twitter: 'waxzce',
         mail: 'quentin.adam@clever-cloud.com',
       },
-      "websites": [
+      websites: [
         {
-         "name": "Web",
-         "url": "http://www.waxzce.org"
-       },
-       {
-         "name": "LinkedIn",
-         "url": "http://fr.linkedin.com/in/waxzce"
+          name: 'Web',
+          url: 'http://www.waxzce.org',
         },
         {
-         "name": "GitHub",
-         "url": "https://github.com/waxzce"
-        }
-      ]
+          name: 'LinkedIn',
+          url: 'http://fr.linkedin.com/in/waxzce',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/waxzce',
+        },
+      ],
     },
     {
       since: '2019-01-10',
@@ -15945,8 +15916,7 @@ var data = {
     {
       since: '2019-02-12',
       name: 'Hubert SABLONNIÈRE',
-      bio:
-        'Développeur Web chez Clever Cloud',
+      bio: 'Développeur Web chez Clever Cloud',
       picture: 'https://www.hsablonniere.com/theme/img/hsablonniere.jpg',
       websites: [
         {
@@ -15963,17 +15933,17 @@ var data = {
         {
           title: '#BackToBasics : Les cookies HTTP',
           abstract:
-            "Les cookies HTTP sont partout ! Pas une journée sans qu’un site nous demande “d’accepter les cookies”. Rares sont les projets Web qui ne les utilisent pas et pourtant leur fonctionnement nous échappe trop souvent.\n\nOn confond les règles auxquelles ils sont soumis au sein des navigateurs. On fait des amalgames avec les sessions côté serveur. Ces petits trous dans le gigantesque éventail de connaissances du développeur moderne ont parfois des impacts non négligeables sur la sécurité de nos applications et sur la préservation de notre vie privée en tant qu’utilisateur du Web.\n\nAu menu de cette session, je vous propose de (re)découvrir les cookies HTTP par l’exemple et la pratique. Nous reviendrons sur leurs origines et nous verrons en détails leur fonctionnement. Enfin, nous aborderons les aspects les plus récents dans le domaine (SameSite, cookie prefix...). Ce talk sera plus généralement l’occasion de parler de sécurité, de tracking et de vie privée.",
+            'Les cookies HTTP sont partout ! Pas une journée sans qu’un site nous demande “d’accepter les cookies”. Rares sont les projets Web qui ne les utilisent pas et pourtant leur fonctionnement nous échappe trop souvent.\n\nOn confond les règles auxquelles ils sont soumis au sein des navigateurs. On fait des amalgames avec les sessions côté serveur. Ces petits trous dans le gigantesque éventail de connaissances du développeur moderne ont parfois des impacts non négligeables sur la sécurité de nos applications et sur la préservation de notre vie privée en tant qu’utilisateur du Web.\n\nAu menu de cette session, je vous propose de (re)découvrir les cookies HTTP par l’exemple et la pratique. Nous reviendrons sur leurs origines et nous verrons en détails leur fonctionnement. Enfin, nous aborderons les aspects les plus récents dans le domaine (SameSite, cookie prefix...). Ce talk sera plus généralement l’occasion de parler de sécurité, de tracking et de vie privée.',
           tags: ['Web', 'Sécurité', 'Cookies', 'Auth'],
           lang: ['fr'],
         },
         {
-          title: 'D\'autres sujets ?',
+          title: "D'autres sujets ?",
           abstract:
-            "Pourquoi pas, vous pouvez les retrouver ici et là :\n\nhttps://www.youtube.com/playlist?list=PLTBioAEvUEj0oFF2v71IPvu8iFBQYYNEt\nhttps://vimeo.com/album/4407825",
+            'Pourquoi pas, vous pouvez les retrouver ici et là :\n\nhttps://www.youtube.com/playlist?list=PLTBioAEvUEj0oFF2v71IPvu8iFBQYYNEt\nhttps://vimeo.com/album/4407825',
           tags: [],
           lang: ['fr', 'en'],
-        }
+        },
       ],
       cities: ['Lille', 'Paris', 'Nantes'],
       contacts: {
@@ -15984,8 +15954,7 @@ var data = {
     {
       since: '2019-02-27',
       name: 'Xavier MARIN',
-      bio:
-        'Core développeur chez SenX.io',
+      bio: 'Core développeur chez SenX.io',
       picture: 'https://blog.senx.io/wp-content/uploads/2018/10/IMG_8993.jpg',
       websites: [
         {
@@ -16005,16 +15974,18 @@ var data = {
       sessions: [
         {
           title: 'Warp 10 - advanced Time Series Platform',
-          abstract: "Vous connaissiez les bases relationnelles, orientées document, voire même graphe. A chaque problème son outil. Warp 10 est une plateforme Open Source de stockage et un moteur d'analyse de Time Series ou la géolocalisation a une place de choix. Scalable à l'infini, ce plateforme offre WarpScript, un langage d'analyse de Time Series robuste et versatile. Je vous présenterai Warp 10 dans les grandes lignes et quelques cas d'usage illustrant la modélisation de Time series et l'analyse data flow.",
+          abstract:
+            "Vous connaissiez les bases relationnelles, orientées document, voire même graphe. A chaque problème son outil. Warp 10 est une plateforme Open Source de stockage et un moteur d'analyse de Time Series ou la géolocalisation a une place de choix. Scalable à l'infini, ce plateforme offre WarpScript, un langage d'analyse de Time Series robuste et versatile. Je vous présenterai Warp 10 dans les grandes lignes et quelques cas d'usage illustrant la modélisation de Time series et l'analyse data flow.",
           tags: ['Time series', 'Big Data', 'Databases', 'Warp 10'],
           lang: ['fr'],
         },
         {
-          title: 'D\'autres sujets ?',
-          abstract: "Tout ce qui gravite autour de Warp 10 : https://blog.senx.io",
+          title: "D'autres sujets ?",
+          abstract:
+            'Tout ce qui gravite autour de Warp 10 : https://blog.senx.io',
           tags: ['Time series', 'Big Data', 'Databases', 'Warp 10'],
           lang: ['fr'],
-        }
+        },
       ],
       cities: ['Brest', 'Rennes', 'Lyon', 'Paris', 'Nantes'],
       contacts: {
@@ -16025,7 +15996,8 @@ var data = {
     {
       since: '2019-03-21',
       name: 'Romain Prignon',
-      bio: 'Développeur Full Stack évoluant dans la sphère Lyonnaise depuis 6ans',
+      bio:
+        'Développeur Full Stack évoluant dans la sphère Lyonnaise depuis 6ans',
       picture:
         'http://www.gravatar.com/avatar/f38eb007b831b5300be45271ef29520e',
       websites: [
@@ -16036,7 +16008,7 @@ var data = {
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/romain-prignon',
-        }
+        },
       ],
       sessions: [
         {
@@ -16054,60 +16026,51 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: "Améliorons ensemble vos méthodologies d'ingénierie logicielle",
+          title:
+            "Améliorons ensemble vos méthodologies d'ingénierie logicielle",
           abstract:
             "Retrouvons nous le temps d'un déjeuner pour parler de vos problématiques d'industrialisation et qualité. Si vous souhaitez monter en compétences sur un workflow git, mettre en place des tests automatisés, ou industrialisé vos déploiements, je vous proposerais des solutions basées sur mes expériences",
           tags: ['Qualité', 'Méthodes', 'Git', 'Industrialisation'],
           lang: ['fr'],
-        }
+        },
       ],
       cities: ['Lyon'],
       contacts: {
         mail: 'pro.rprignon@gmail.com',
-      }
+      },
     },
     {
-      "since": "2019-03-22",
-      "name": "Lénaïc Couëllan",
-      "bio": "Développeur web chez KNP Labs",
-      "picture": "https://fr.gravatar.com/userimage/47983780/a4c521b4d00829a0e63eb5642d0ccec6.png?size=200",
-      "websites": [
+      since: '2019-03-22',
+      name: 'Lénaïc Couëllan',
+      bio: 'Développeur web chez KNP Labs',
+      picture:
+        'https://fr.gravatar.com/userimage/47983780/a4c521b4d00829a0e63eb5642d0ccec6.png?size=200',
+      websites: [
         {
-          "name": "LinkedIn",
-          "url": "https://fr.linkedin.com/in/lénaïc-couëllan-736861a4"
-        }
+          name: 'LinkedIn',
+          url: 'https://fr.linkedin.com/in/lénaïc-couëllan-736861a4',
+        },
       ],
-      "location": "Caen",
-      "sessions": [
+      location: 'Caen',
+      sessions: [
         {
-          "title": "Le Behavior-driven development",
-          "abstract": "Introduction au BDD avec Behat",
-          "tags": [
-            "BDD",
-            "Test",
-            "TDD"
-          ],
-          "lang": [
-            "fr",
-            "en"
-          ]
-        }
+          title: 'Le Behavior-driven development',
+          abstract: 'Introduction au BDD avec Behat',
+          tags: ['BDD', 'Test', 'TDD'],
+          lang: ['fr', 'en'],
+        },
       ],
-      "cities": [
-        "Caen"
-      ],
-      "contacts": {
-        "twitter": "lcouellan",
-        "mail": "lenaic.couellan@knplabs.com"
-      }
+      cities: ['Caen'],
+      contacts: {
+        twitter: 'lcouellan',
+        mail: 'lenaic.couellan@knplabs.com',
+      },
     },
     {
       since: '2019-03-22',
       name: 'Gaël Reyrol',
-      bio:
-        'Développeur Fullstack et DevOps chez Dans Ma Culotte',
-      picture:
-        'https://avatars3.githubusercontent.com/u/498465?s=200',
+      bio: 'Développeur Fullstack et DevOps chez Dans Ma Culotte',
+      picture: 'https://avatars3.githubusercontent.com/u/498465?s=200',
       websites: [
         {
           name: 'Web',
@@ -16131,15 +16094,25 @@ var data = {
         {
           title: 'La culture DevOps',
           abstract:
-            'Le DevOps est à la mode, c\'est incontestable ! Mais comment s\'y retrouver dans la diversité des technologies, des méthodes et surtout comment intégrer cette culture dans son équipe ? Je n\' ai pas toutes les clés mais je peux apporter des réponses en tant que développeur DevOps.',
+            "Le DevOps est à la mode, c'est incontestable ! Mais comment s'y retrouver dans la diversité des technologies, des méthodes et surtout comment intégrer cette culture dans son équipe ? Je n' ai pas toutes les clés mais je peux apporter des réponses en tant que développeur DevOps.",
           tags: ['devops', 'ci', 'cd', 'team'],
           lang: ['fr'],
         },
         {
           title: 'Cloud & Cie',
           abstract:
-            'Devant la multitude des offres disponibles, leurs spécificités, la difficulté de se projeter dans un univers qui évolue constamment, s\'engager dans cette voie est certes une avancée mais est souvent vu comme une plongée dans l\'inconnu. Mon expérience dans ce domaine peut vous apporter quelques lumières pour vous aidez à mieux comprendre les problématiques et aiguiller vos choix.',
-          tags: ['devops', 'sysadmin', 'cloud', 'aws', 'googlecloud', 'azure', 'ovh', 'scaleway', 'clevercloud'],
+            "Devant la multitude des offres disponibles, leurs spécificités, la difficulté de se projeter dans un univers qui évolue constamment, s'engager dans cette voie est certes une avancée mais est souvent vu comme une plongée dans l'inconnu. Mon expérience dans ce domaine peut vous apporter quelques lumières pour vous aidez à mieux comprendre les problématiques et aiguiller vos choix.",
+          tags: [
+            'devops',
+            'sysadmin',
+            'cloud',
+            'aws',
+            'googlecloud',
+            'azure',
+            'ovh',
+            'scaleway',
+            'clevercloud',
+          ],
           lang: ['fr'],
         },
       ],
@@ -16152,8 +16125,7 @@ var data = {
     {
       since: '2019-03-26',
       name: 'Christopher Maneu',
-      bio:
-        'Ingénieur Cloud / Developer Advocate @ Microsoft R&D',
+      bio: 'Ingénieur Cloud / Developer Advocate @ Microsoft R&D',
       picture:
         'http://gravatar.com/avatar/f6c06223e3759e7b9c93bdb58fc241f5?s=200',
       websites: [
@@ -16176,7 +16148,7 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title: 'Beaucoup d\'autres sujets !',
+          title: "Beaucoup d'autres sujets !",
           abstract:
             "Si vous cherchez un talk sur Azure orienté développeur, j'ai probablement quelque chose pour vous. N'hésitez pas à me contacter ",
           tags: ['DevOps', 'Agilité', 'Opensource', 'Azure', 'Microsoft'],
@@ -16189,7 +16161,7 @@ var data = {
         mail: 'hello@maneu.net',
       },
     },
-	{
+    {
       since: '2019-04-06',
       name: 'Mimoun Kissi',
       bio:
@@ -16201,12 +16173,8 @@ var data = {
           url: 'https://github.com/MimounKissi',
         },
         {
-          name: 'Biography',
+          name: 'Blog',
           url: 'https://mimoun-kissi.carrd.co',
-        },
-        {
-          name: 'Calendly',
-          url: 'https://calendly.com/kissimimoun',
         },
       ],
       location: 'Paris',
@@ -16240,7 +16208,7 @@ var data = {
         twitter: 'KissiMimoun',
         mail: 'kissimimoun@gmail.com',
       },
-    }
+    },
   ],
   cities: {
     'Aix-en-Provence': {
