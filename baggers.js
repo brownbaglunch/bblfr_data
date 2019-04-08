@@ -10022,7 +10022,7 @@ var data = {
       bio:
         'CTO at Dashlane, co-founder of CiTy-O, a community of CTO in Paris. Happy to come talk about organization, management, agility or identity at large.',
       picture:
-        'https://www.dashlane.com/images/team-photos/frederic-rivain.png',
+        'https://secure.gravatar.com/avatar/d20f256700e1666bc32d5904c8225e13?size=200',
       websites: [
         {
           name: 'Web',
