@@ -7151,46 +7151,6 @@ var data = {
       },
     },
     {
-      since: '2014-10-01',
-      name: 'Florian Chauveau',
-      bio:
-        "Code-Troopers, développeur JAVA/Android (entre autres), très attaché aux pratiques agiles, je n'hésite pas à remettre en cause les processus pour trouver les meilleurs moyens de fonctionner en équipe.",
-      picture:
-        'http://www.gravatar.com/avatar/962a60aa8554d933233ae2de56224d06.png?s=240',
-      websites: [
-        {
-          name: 'Web',
-          url: 'http://code-troopers.com',
-        },
-        {
-          name: 'LinkedIn',
-          url: 'https://www.linkedin.com/pub/florian-chauveau/96/1a5/528',
-        },
-      ],
-      location: 'Tours',
-      sessions: [
-        {
-          title: "Android - Les permissions d'Android 6.0",
-          abstract:
-            "Avec la version Marshmallow d'Android le système de permission est bouleversé ! Pas de panique avec quelques règles de conduite assez simple il sera facile de s'en sortir",
-          tags: ['Android', 'Agile', 'Perfection Games'],
-          lang: ['fr'],
-        },
-        {
-          title:
-            'Perfection Games - Comment résoudre ses problèmes avec des post-its',
-          abstract:
-            "Exemple d'utilisation de plusieurs Perfection Games ainsi que les bénéfices attendus via un retour d'expérience sur leur pratiques récurrentes et régulières lors de rétrospectives.",
-          tags: ['Android', 'Agile', 'Perfection Games'],
-          lang: ['fr'],
-        },
-      ],
-      cities: ['Tours'],
-      contacts: {
-        twitter: 'FlorianChauveau',
-      },
-    },
-    {
       since: '2014-10-12',
       name: 'Tomasz Jaskula',
       bio:
