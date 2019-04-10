@@ -7118,46 +7118,6 @@ var data = {
       },
     },
     {
-      since: '2014-10-01',
-      name: 'Florian Chauveau',
-      bio:
-        "Code-Troopers, développeur JAVA/Android (entre autres), très attaché aux pratiques agiles, je n'hésite pas à remettre en cause les processus pour trouver les meilleurs moyens de fonctionner en équipe.",
-      picture:
-        'http://www.gravatar.com/avatar/962a60aa8554d933233ae2de56224d06.png?s=240',
-      websites: [
-        {
-          name: 'Web',
-          url: 'http://code-troopers.com',
-        },
-        {
-          name: 'LinkedIn',
-          url: 'https://www.linkedin.com/pub/florian-chauveau/96/1a5/528',
-        },
-      ],
-      location: 'Tours',
-      sessions: [
-        {
-          title: "Android - Les permissions d'Android 6.0",
-          abstract:
-            "Avec la version Marshmallow d'Android le système de permission est bouleversé ! Pas de panique avec quelques règles de conduite assez simple il sera facile de s'en sortir",
-          tags: ['Android', 'Agile', 'Perfection Games'],
-          lang: ['fr'],
-        },
-        {
-          title:
-            'Perfection Games - Comment résoudre ses problèmes avec des post-its',
-          abstract:
-            "Exemple d'utilisation de plusieurs Perfection Games ainsi que les bénéfices attendus via un retour d'expérience sur leur pratiques récurrentes et régulières lors de rétrospectives.",
-          tags: ['Android', 'Agile', 'Perfection Games'],
-          lang: ['fr'],
-        },
-      ],
-      cities: ['Tours'],
-      contacts: {
-        twitter: 'FlorianChauveau',
-      },
-    },
-    {
       since: '2014-10-12',
       name: 'Tomasz Jaskula',
       bio:
@@ -9990,7 +9950,7 @@ var data = {
       bio:
         'CTO at Dashlane, co-founder of CiTy-O, a community of CTO in Paris. Happy to come talk about organization, management, agility or identity at large.',
       picture:
-        'https://www.dashlane.com/images/team-photos/frederic-rivain.png',
+        'https://secure.gravatar.com/avatar/d20f256700e1666bc32d5904c8225e13?size=200',
       websites: [
         {
           name: 'Web',
@@ -16162,50 +16122,35 @@ var data = {
       },
     },
     {
-      since: '2019-04-06',
+      since: '2019-04-09',
       name: 'Mimoun Kissi',
-      bio:
-        'Coach qualité, QA Engineer, passioné de tests et qualités logiciels',
+      bio: 'Lead QA Engineer, Coach Test & Qualité',
       picture: 'https://www.dropbox.com/s/5oxgukkq92304wp/IMG_0551.jpg?dl=0',
       websites: [
         {
           name: 'Github',
           url: 'https://github.com/MimounKissi',
         },
-        {
-          name: 'Blog',
-          url: 'https://mimoun-kissi.carrd.co',
-        },
       ],
       location: 'Paris',
       sessions: [
         {
-          title: "Tester c'est bien, monitorer c'est mieux",
+          title: 'Une communauté QA pourqui ? pourquoi ?',
           abstract:
-            "En fonction du domaine des applications, les tests en production peuvent devenir problématiques, l'une des solutions, le monitoring",
-          tags: [
-            'Kibana',
-            'Azure DevOps',
-            'KQL',
-            'Monitoring',
-            'Test',
-            'Qualité',
-          ],
+            'Historique de la communauté de QA sur la région parisienne, son impact, ses actions ...',
+          tags: ['Test', 'Qualité'],
           lang: ['fr'],
         },
-      ],
-      sessions: [
         {
-          title: 'La pyramide des tests',
+          title: "Tester c'est bien monitorer c'est mieux",
           abstract:
-            'Comment mettre en place la pyramide des tests dans sa stratégie de tests',
-          tags: ['TDD', 'BDD', 'Test', 'Qualité'],
+            "Tester en production n'est pas toujours évident dans certains domaines (bancaire, médical, assurance ...), le monitoring est une solution à cette problématique",
+          tags: ['Test', 'Qualité', 'Kibana', 'Monitoring', 'App insight'],
           lang: ['fr'],
         },
       ],
       cities: ['Paris'],
       contacts: {
-        twitter: 'KissiMimoun',
         mail: 'kissimimoun@gmail.com',
       },
     },
