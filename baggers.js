@@ -5600,25 +5600,30 @@ var data = {
           url: 'http://jef.binomed.fr/binomed_docs',
         },
         {
-          name: 'Web',
+          name: 'LinkedIn',
           url: 'http://lnkd.in/dSN8h9U',
-        },
-        {
-          name: 'Viadeo',
-          url:
-            'http://www.viadeo.com/profile/002t8yktfxywhqn/fr/?readOnly=true',
         },
         {
           name: 'GitHub',
           url: 'https://github.com/jefBinomed',
         },
-        {
-          name: 'Google+',
-          url: 'https://www.google.com/+JeanFrancoisGarreau',
-        },
       ],
       location: 'Nantes et environs',
       sessions: [
+        {
+          title: 'Pourquoi les PWA sont la prochaine étape majeure du web et y passer dès aujourd’hui !',
+          abstract:
+            'Les PWA, vous connaissez ? Si ce n’est pas le cas, il est grand temps de s’y intéresser car cela représente le prochain marché du web de demain. Dans ce talk, nous reviendrons sur les concepts, des exemples concrets, comment ça marche et enfin pourquoi il est bon de partir sur des PWAs aujourd’hui',
+          tags: ['PWA', 'Web'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Démystifions les CSS Custom Properties',
+          abstract:
+            'Les CSS Variables, de leur vrai nom : Custom Properties, sont désormais supportées par tous les navigateurs modernes. Et pourtant, elles restent sous-utilisées ! Venez découvrir les fonctionnalités offertes par cette nouvelle spécification, ses avantages, ses limites et ainsi vous convertir à l’utilisation massive des variables dans vos projets web ! \nCe talk est donné en binôme avec Audrey Garreau ',
+          tags: ['CSS', 'W3C'],
+          lang: ['fr'],
+        },
         {
           title: 'The cutting edge web is coming !',
           abstract:
