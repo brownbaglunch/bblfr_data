@@ -5596,7 +5596,7 @@ var data = {
           url: 'http://jef.binomed.fr',
         },
         {
-          name: 'Prezs',
+          name: 'Web',
           url: 'http://jef.binomed.fr/binomed_docs',
         },
         {
