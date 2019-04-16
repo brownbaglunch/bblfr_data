@@ -16153,6 +16153,42 @@ var data = {
         twitter: 'cmaneu',
         mail: 'hello@maneu.net',
       },
+    },
+    {
+      since: '2019-04-16',
+      name: 'Jean-Philippe Baconnais',
+      bio:
+        'Technical Leader à la DSI de Pôle emploi',
+      picture:
+        'https://media.licdn.com/dms/image/C5103AQE86oShzXkqBQ/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=MWiasinpxfMCiLVTzrZT33ukFRJalp67gwsBDSxOiMg',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/jeanphibaconnais',
+        }
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title: '[Quicky] - Faire de l\'agilité dans les équipes agiles, c\'est possible !',
+          abstract:
+            "L'agilité dans les équipes de développement ne laisse généralement pas beaucoup de temps à l'innovation. L'idée de ce talk est de vous présenter comment nous avons réussi dans notre équipe de dév à prendre du temps pour faire de l'innovation, ce qu'on y fait et quels en sont les bénéfices.",
+          tags: ['Agilité', 'Dev', 'Innovation'],
+          lang: ['fr'],
+        },
+        {
+          title: '[Quicky] - Entamer une migration Kotlin dans une DSI Java',
+          abstract:
+            "Au sein de la DSI de Pôle emploi, les infrastructures black end sont depuis une dizaine d’années faites en Java et le choix des langages n’est pas (encore) déterminé par les équipes de développement. Kotlin utilisant la JVM, il est désormais possible d’intégrer du Kotlin dans des projets java. Dans ce REX je vous présenterai la manière dont nous avons pu entamer l'intégration du Kotlin dans nos composants black end Java, les problématiques rencontrées, mais aussi les opportunités qui s'ouvrent à nous pour la suite.",
+          tags: ['Dev', 'Java', 'Kotlin'],
+          lang: ['fr'],
+        }
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        twitter: 'JPhi_Baconnais',
+        mail: 'jeanphilippe.baconnais@gmail.com',
+      },
     }
   ],
   cities: {
