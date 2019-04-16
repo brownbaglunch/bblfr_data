@@ -204,3 +204,5 @@ Example:
 ## Formatting
 
 Please use/apply the [editorconfig](http://editorconfig.org/) configuration provided.
+
+If needed you can `yarn format` to prettify all files.
