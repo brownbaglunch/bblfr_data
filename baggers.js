@@ -13451,10 +13451,16 @@ var data = {
         'http://pbs.twimg.com/profile_images/899909859763773440/boLLAjZn_400x400.jpg',
       cities: ['Lyon'],
       contacts: {
-        twitter: 'chemidy',
         mail: 'cyrille.hemidy+bbl@gmail.com',
       },
       sessions: [
+        {
+          title: 'Apprendre à lire : la bonne méthode pour résoudre un problème',
+          abstract:
+            'Bien souvent un bug simple est délicat à trouver. Vous appelez un collègue et en 2 secondes il trouve la solution. Ce talk décallé vous montre comment réapprendre à lire pour résoudre vos problèmes.',
+          tags: ['Dev', 'Debug', 'lecture', 'log', 'problème', 'chezmoiçamarche'],
+          lang: ['fr'],
+        },
         {
           title: 'Découvrir le langage Go',
           abstract:
@@ -13500,10 +13506,6 @@ var data = {
       ],
       location: 'Lyon et environs',
       websites: [
-        {
-          name: 'Speakerdeck',
-          url: 'https://speakerdeck.com/chemidy',
-        },
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/cyrillehemidy/',
