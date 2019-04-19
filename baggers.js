@@ -16216,6 +16216,40 @@ var data = {
         twitter: 'JPhi_Baconnais',
         mail: 'jeanphilippe.baconnais@gmail.com',
       },
+    },
+    {
+      since: '2019-04-19',
+      name: 'Sahbi Ktifa',
+      bio:
+        'Développeur FullStack & Lead Vue.js de la core team JHipster, j\'adore découvrir de nouvelles choses, que ce soit des nouvelles technos ou bien de nouveaux pays ! Heureux papa de deux enfants, j\'adore le sport, les jeux vidéos et bien manger !',
+      picture:
+        'https://github.com/sahbi-ktifa.png',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/sahbi-ktifa',
+        }
+      ],
+      location: 'Thoiry, près du zoo',
+      sessions: [
+        {
+          title: 'Du néant à l\'espace, moins d\'une heure pour aller en prod',
+          abstract: "La NASA a besoin de nous, après le live youtube en continu depuis l'ISS, l'agence spatiale américaine veut proposer aux utilisateurs de situer exactement l'ISS en temps réel. Et cela doit être en production ce soir ! Nous avons donc moins d'une heure pour créér l'application et déployer dans le cloud. Etes-vous prêts ?",
+          tags: ['JHipster', 'Dev', 'Vue.js', 'Heroku', 'Java'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: '[Quicky] - Angular, React, Vue.js, ne peut-il vraiment en rester qu\'un ?',
+          abstract: "Depuis plusieurs années, la guerre des frameworks front-end fait rage. Prenons ensemble des nouvelles du front en comparant ces 3 frameworks dans 3 applications similaires toutes générées avec JHipster (https://www.jhipster.tech/). Étudions les spécificités de chacun de ces frameworks JavaScript, les différents paradigmes qu’ils proposent, leurs outils de build et de tests. Profitons-en pour comparer leurs performances dans leur version optimisée pour la production.",
+          tags: ['JHipster', 'Dev', 'Angular', 'React', 'Vue.js'],
+          lang: ['fr', 'en'],
+        }
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'SahbiKtifa',
+        mail: 'sahbi.ktifa@gmail.com',
+      }
     }
   ],
   cities: {
