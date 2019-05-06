@@ -15342,6 +15342,20 @@ var data = {
           tags: ['java', 'java9', 'java10', 'java11'],
           lang: ['fr'],
         },
+        {
+          title: 'Inside the JVM : GC and JIT',
+          abstract:
+            'Je peux venir vous parler au choix du Garbage Collector ou du Just In Time Compiler de Java. Ces deux sujets sont compréhensible par tous, et même si les exemples sont basés sur la JVM, ils s\'appliquent à tous les languages qui sont garbage collectés / avec un JIT',
+          tags: ['java', 'jvm', 'gc', 'jit'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Introduction à Apache Kafka',
+          abstract:
+            'Une introduction à Apache Kafka : principes, stream processing, Kafka Stream, Kafka Connect, KSQL',
+          tags: ['java', 'kafka', 'streamprocessing'],
+          lang: ['fr'],
+        },
       ],
       cities: ['Lille'],
       contacts: {
