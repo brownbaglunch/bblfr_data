@@ -16329,6 +16329,13 @@ var data = {
           tags: ['spring', 'reactor', 'java', 'webflux'],
           lang: ['fr'],
         },
+        {
+          title: 'Architecture Hexagonale',
+          abstract:
+            'Très à la mode en ce moment, l’architecture hexagonale c’est quoi ? Quand et comment peut on l’utiliser ?',
+          tags: ['architecture', 'hexagonale', 'java', 'backend'],
+          lang: ['fr'],
+        },
       ],
       cities: ['Toulouse'],
       contacts: {
