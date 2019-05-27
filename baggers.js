@@ -790,8 +790,7 @@ var data = {
     {
       since: '2013-02-25',
       name: 'Nicolas De Loof',
-      bio:
-        'Developer Advocate chez CloudBees',
+      bio: 'Developer Advocate chez CloudBees',
       picture: 'img/baggers/photo_NicolasDeLoof.jpg',
       websites: [
         {
@@ -811,7 +810,7 @@ var data = {
             "L'architecture de Jenkins date de 10 ans. C'est ce qui a permis de construire un écosystème gigantesque et de couvrir les besoins de tout le monde avec une flexibilité extrême. En assurant la compatibilité ascendante, Jenkins s'interdit-il d'évoluer pour embracer les paradigmes modernes ? On pourrait le croire, sauf que ... Jenkins-X!",
           tags: ['Cloud', 'Jenkins', 'Kubernetes'],
           lang: ['fr'],
-        }
+        },
       ],
       cities: ['Rennes'],
       contacts: {
@@ -13441,10 +13440,18 @@ var data = {
       },
       sessions: [
         {
-          title: 'Apprendre à lire : la bonne méthode pour résoudre un problème',
+          title:
+            'Apprendre à lire : la bonne méthode pour résoudre un problème',
           abstract:
             'Bien souvent un bug simple est délicat à trouver. Vous appelez un collègue et en 2 secondes il trouve la solution. Ce talk décallé vous montre comment réapprendre à lire pour résoudre vos problèmes.',
-          tags: ['Dev', 'Debug', 'lecture', 'log', 'problème', 'chezmoiçamarche'],
+          tags: [
+            'Dev',
+            'Debug',
+            'lecture',
+            'log',
+            'problème',
+            'chezmoiçamarche',
+          ],
           lang: ['fr'],
         },
         {
@@ -15345,7 +15352,7 @@ var data = {
         {
           title: 'Inside the JVM : GC and JIT',
           abstract:
-            'Je peux venir vous parler au choix du Garbage Collector ou du Just In Time Compiler de Java. Ces deux sujets sont compréhensible par tous, et même si les exemples sont basés sur la JVM, ils s\'appliquent à tous les languages qui sont garbage collectés / avec un JIT',
+            "Je peux venir vous parler au choix du Garbage Collector ou du Just In Time Compiler de Java. Ces deux sujets sont compréhensible par tous, et même si les exemples sont basés sur la JVM, ils s'appliquent à tous les languages qui sont garbage collectés / avec un JIT",
           tags: ['java', 'jvm', 'gc', 'jit'],
           lang: ['fr'],
         },
@@ -16186,20 +16193,20 @@ var data = {
     {
       since: '2019-04-16',
       name: 'Jean-Philippe Baconnais',
-      bio:
-        'Technical Leader à la DSI de Pôle emploi',
+      bio: 'Technical Leader à la DSI de Pôle emploi',
       picture:
         'https://media.licdn.com/dms/image/C5103AQE86oShzXkqBQ/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=MWiasinpxfMCiLVTzrZT33ukFRJalp67gwsBDSxOiMg',
       websites: [
         {
           name: 'Github',
           url: 'https://github.com/jeanphibaconnais',
-        }
+        },
       ],
       location: 'Nantes',
       sessions: [
         {
-          title: '[Quicky] - Faire de l\'agilité dans les équipes agiles, c\'est possible !',
+          title:
+            "[Quicky] - Faire de l'agilité dans les équipes agiles, c'est possible !",
           abstract:
             "L'agilité dans les équipes de développement ne laisse généralement pas beaucoup de temps à l'innovation. L'idée de ce talk est de vous présenter comment nous avons réussi dans notre équipe de dév à prendre du temps pour faire de l'innovation, ce qu'on y fait et quels en sont les bénéfices.",
           tags: ['Agilité', 'Dev', 'Innovation'],
@@ -16211,7 +16218,7 @@ var data = {
             "Au sein de la DSI de Pôle emploi, les infrastructures black end sont depuis une dizaine d’années faites en Java et le choix des langages n’est pas (encore) déterminé par les équipes de développement. Kotlin utilisant la JVM, il est désormais possible d’intégrer du Kotlin dans des projets java. Dans ce REX je vous présenterai la manière dont nous avons pu entamer l'intégration du Kotlin dans nos composants black end Java, les problématiques rencontrées, mais aussi les opportunités qui s'ouvrent à nous pour la suite.",
           tags: ['Dev', 'Java', 'Kotlin'],
           lang: ['fr'],
-        }
+        },
       ],
       cities: ['Nantes'],
       contacts: {
@@ -16223,41 +16230,43 @@ var data = {
       since: '2019-04-19',
       name: 'Sahbi Ktifa',
       bio:
-        'Développeur FullStack & Lead Vue.js de la core team JHipster, j\'adore découvrir de nouvelles choses, que ce soit des nouvelles technos ou bien de nouveaux pays ! Heureux papa de deux enfants, j\'adore le sport, les jeux vidéos et bien manger !',
-      picture:
-        'https://github.com/sahbi-ktifa.png',
+        "Développeur FullStack & Lead Vue.js de la core team JHipster, j'adore découvrir de nouvelles choses, que ce soit des nouvelles technos ou bien de nouveaux pays ! Heureux papa de deux enfants, j'adore le sport, les jeux vidéos et bien manger !",
+      picture: 'https://github.com/sahbi-ktifa.png',
       websites: [
         {
           name: 'Github',
           url: 'https://github.com/sahbi-ktifa',
-        }
+        },
       ],
       location: 'Thoiry, près du zoo',
       sessions: [
         {
-          title: 'Du néant à l\'espace, moins d\'une heure pour aller en prod',
-          abstract: "La NASA a besoin de nous, après le live youtube en continu depuis l'ISS, l'agence spatiale américaine veut proposer aux utilisateurs de situer exactement l'ISS en temps réel. Et cela doit être en production ce soir ! Nous avons donc moins d'une heure pour créér l'application et déployer dans le cloud. Etes-vous prêts ?",
+          title: "Du néant à l'espace, moins d'une heure pour aller en prod",
+          abstract:
+            "La NASA a besoin de nous, après le live youtube en continu depuis l'ISS, l'agence spatiale américaine veut proposer aux utilisateurs de situer exactement l'ISS en temps réel. Et cela doit être en production ce soir ! Nous avons donc moins d'une heure pour créér l'application et déployer dans le cloud. Etes-vous prêts ?",
           tags: ['JHipster', 'Dev', 'Vue.js', 'Heroku', 'Java'],
           lang: ['fr', 'en'],
         },
         {
-          title: '[Quicky] - Angular, React, Vue.js, ne peut-il vraiment en rester qu\'un ?',
-          abstract: "Depuis plusieurs années, la guerre des frameworks front-end fait rage. Prenons ensemble des nouvelles du front en comparant ces 3 frameworks dans 3 applications similaires toutes générées avec JHipster (https://www.jhipster.tech/). Étudions les spécificités de chacun de ces frameworks JavaScript, les différents paradigmes qu’ils proposent, leurs outils de build et de tests. Profitons-en pour comparer leurs performances dans leur version optimisée pour la production.",
+          title:
+            "[Quicky] - Angular, React, Vue.js, ne peut-il vraiment en rester qu'un ?",
+          abstract:
+            'Depuis plusieurs années, la guerre des frameworks front-end fait rage. Prenons ensemble des nouvelles du front en comparant ces 3 frameworks dans 3 applications similaires toutes générées avec JHipster (https://www.jhipster.tech/). Étudions les spécificités de chacun de ces frameworks JavaScript, les différents paradigmes qu’ils proposent, leurs outils de build et de tests. Profitons-en pour comparer leurs performances dans leur version optimisée pour la production.',
           tags: ['JHipster', 'Dev', 'Angular', 'React', 'Vue.js'],
           lang: ['fr', 'en'],
-        }
+        },
       ],
       cities: ['Paris'],
       contacts: {
         twitter: 'SahbiKtifa',
         mail: 'sahbi.ktifa@gmail.com',
-      }
+      },
     },
     {
       since: '2019-04-20',
       name: 'Fabien Grellier',
       bio:
-        'Mise en place d\'agilité à l\'échelle et de pratiques DevOps en tant que CTO PagesJaunes.fr, puis chez Ouest-France',
+        "Mise en place d'agilité à l'échelle et de pratiques DevOps en tant que CTO PagesJaunes.fr, puis chez Ouest-France",
       picture:
         'https://media.licdn.com/dms/image/C4D03AQFYw_-F2gSwlg/profile-displayphoto-shrink_200_200/0?e=1560988800&v=beta&t=Doqc2flLGqxUlCWNzWEGpALQ7HGa2kBqTbiVu1Cqn2Q',
       websites: [
@@ -16271,8 +16280,13 @@ var data = {
         {
           title: '10 Leviers pour rendre son SI Agile, durable et étendu',
           abstract:
-            'Lorsqu’on cherche à industrialiser son système d’informations,  et réussir son passage à l\'échelle, il est essentiel de le faire à 10 niveaux : Vision, Architecture, Organisation, Budget, Delivery, Recette, Documentation, Infrastructure, Pilotage, Management. En effet, chacun de ces niveaux a des impacts sur l’autre, et ne pas avoir une vision d’ensemble risque d’avoir des conséquences négatives pour la réussite de l’industrialisation.',
-          tags: ['Agile à l\'echelle', 'DevOps', 'TransformationDigitale', 'Management'],
+            "Lorsqu’on cherche à industrialiser son système d’informations,  et réussir son passage à l'échelle, il est essentiel de le faire à 10 niveaux : Vision, Architecture, Organisation, Budget, Delivery, Recette, Documentation, Infrastructure, Pilotage, Management. En effet, chacun de ces niveaux a des impacts sur l’autre, et ne pas avoir une vision d’ensemble risque d’avoir des conséquences négatives pour la réussite de l’industrialisation.",
+          tags: [
+            "Agile à l'echelle",
+            'DevOps',
+            'TransformationDigitale',
+            'Management',
+          ],
           lang: ['fr'],
         },
       ],
@@ -16281,7 +16295,53 @@ var data = {
         twitter: 'FabGrellier',
         mail: 'fabien.grellier@gmail.com',
       },
-    }
+    },
+    {
+      since: '2019-05-25',
+      name: 'Frédéric Combes',
+      bio: 'Responsable tech chez I-Run.fr depuis Janvier 2018',
+      picture: 'https://avatars3.githubusercontent.com/u/1256018?s=460&v=4',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/combesfrederic/',
+        },
+      ],
+      location: 'Toulouse',
+      websites: [
+        {
+          name: 'ght1pc9kc',
+          url: 'https://blog.ght1pc9kc.fr/',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Git c’est facile !',
+          abstract:
+            'Principal outil du développeur, git est souvent utilisé mais pas toujours maitrisé. Que se passe t’il derrière les commandes que l’on utilise tous les jours ? Nous verrons les concepts de base de Git qui permettrons de comprendre ce qu’il se passe sous le capot et les astuces qui optimiseront votre quotidien de développeur.',
+          tags: ['git', 'dev', 'version'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Programmation Réactive avec Reactor',
+          abstract:
+            'Introduction à la programmation réactive au travers d’une des ses implémentations Java, Reactor',
+          tags: ['spring', 'reactor', 'java', 'webflux'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Architecture Hexagonale',
+          abstract:
+            'Très à la mode en ce moment, l’architecture hexagonale c’est quoi ? Quand et comment peut on l’utiliser ?',
+          tags: ['architecture', 'hexagonale', 'java', 'backend'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Toulouse'],
+      contacts: {
+        mail: 'fcombes.bbl@ght1pc9kc.fr',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
