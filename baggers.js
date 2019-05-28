@@ -16300,7 +16300,7 @@ var data = {
       since: '2019-05-25',
       name: 'Frédéric Combes',
       bio: 'Responsable tech chez I-Run.fr depuis Janvier 2018',
-      picture: 'https://avatars3.githubusercontent.com/u/1256018?s=460&v=4',
+      picture: 'https://blog.ght1pc9kc.fr/img/fcombes.jpg',
       websites: [
         {
           name: 'LinkedIn',
