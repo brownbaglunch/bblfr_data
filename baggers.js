@@ -14181,6 +14181,14 @@ var data = {
       sessions: [
         {
           title:
+            'Coder pour quel futur ?',
+          abstract:
+            "Des scientifiques estiment que l'effondrement de notre civilisation est imminente voire même qu'elle a déjà commencé. Par exemple 60% de la population animale a disparu depuis 1970. Le manque d'eau et de pétrole génère des tensions. Comment à notre niveau, gens de la tech, contribuer à réduire notre impact sur l'environnement dans notre façon de travailler et de vivre au quotidien ?",
+          tags: ['eco-conception'],
+          lang: ['fr'],
+        },
+        {
+          title:
             "Le web n'est pas mort, la revanche par les Progressives Web Apps",
           abstract:
             'Les Progressives Web Apps ont pour objectif de rivaliser avec les apps natives. Voyons comment cela fonctionne techniquement et le gain que cela apporte aux utilisateurs.',
