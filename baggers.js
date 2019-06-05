@@ -13236,13 +13236,9 @@ var data = {
           title: 'Boost your BDD practice with the Example Mapping',
           abstract:
             "Une présentation formelle agrémentée d'un atelier pour découvrir par la pratique l'essence du BDD et comment structurer efficacement l'exploration de votre métier. Ludique, collaboratif et ouvert à tous les profils, qu'ils soient techs ou non.",
-          tags: [
-            'ExampleMapping',
-            'BDD',
-            'DDD',
-          ],
+          tags: ['ExampleMapping', 'BDD', 'DDD'],
           lang: ['fr'],
-        }
+        },
       ],
       location: 'Paris, La Défense',
       websites: [
@@ -14198,8 +14194,7 @@ var data = {
       ],
       sessions: [
         {
-          title:
-            'Coder pour quel futur ?',
+          title: 'Coder pour quel futur ?',
           abstract:
             "Des scientifiques estiment que l'effondrement de notre civilisation est imminente voire même qu'elle a déjà commencé. Par exemple 60% de la population animale a disparu depuis 1970. Le manque d'eau et de pétrole génère des tensions. Comment à notre niveau, gens de la tech, contribuer à réduire notre impact sur l'environnement dans notre façon de travailler et de vivre au quotidien ?",
           tags: ['eco-conception'],
@@ -16359,6 +16354,45 @@ var data = {
       cities: ['Toulouse'],
       contacts: {
         mail: 'fcombes.bbl@ght1pc9kc.fr',
+      },
+    },
+    {
+      since: '2019-06-04',
+      name: 'Maxime Bréhin',
+      bio:
+        'Ingénieur R&D @ Delicious Insights, formateur Git, JS, React, Redux. J’essaye de vous donner de bonnes pratiques et des nouveautés techniques en Git et dév front.',
+      picture:
+        'https://secure.gravatar.com/avatar/42ee5cd1395bf807e2aced719a331cb2',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://delicious-insights.com/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/maxime-brehin-0061724/',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Git reset, le mal compris',
+          abstract: 'Découvrez la puissance cachée de la commande `git reset`',
+          tags: ['Git', 'VCS', 'Gestion de source', 'Process'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Git hooks : automatisons la qualité à fond les ballons',
+          abstract:
+            'Trucs et astuces pour améliorer la qualité de vos commits avant et après le partage',
+          tags: ['Git', 'Automatisation', 'Qualité', 'Workflow'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'mbrehin',
+        mail: 'maxime@delicious-insights.com',
       },
     },
   ],
