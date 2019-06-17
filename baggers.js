@@ -12010,17 +12010,17 @@ var data = {
     {
       since: '2017-04-09',
       name: 'Jean Bisutti',
-      bio: 'Développeur Java',
+      bio: 'Consultant Zenika',
       picture:
         'https://pbs.twimg.com/profile_images/606213307507351552/IJcDzWZo.jpg',
       websites: [],
       location: 'Paris',
       sessions: [
         {
-          title: "Boîte à outils d'investigation des soucis de mémoire JVM",
+          title: "Eliminez rapidement des bottlenecks de performance avec QuickPerf",
           abstract:
-            "Votre JVM se met à faire des GC à toute allure? Out Of Memory Error ! Que s'est il passé ? Comment s'y prendre pour mener l'enquête ? Nous allons utiliser différents outils (lignes de commande, profiler, Memory Analyzer Tool, ...) afin de débusquer l'origine des soucis de mémoire causés par quelques classes Java.",
-          tags: ['Java', 'JVM', 'Performances'],
+            "Supposons que vous développiez une application : comment détecter rapidement la présence d'importants bottlenecks ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Des N+1 selects ? Comment se rendre compte rapidement que notre application va consommer énormément de mémoire ? Dans ce BBL, nous allons montrer comment QuickPerf peut nous aider à répondre à ces questions.",
+          tags: ['Performance', 'Test', 'Java', 'JVM', 'Hibernate', 'SQL', 'Spring', ' Spring Boot'],
           lang: ['fr'],
         },
       ],
