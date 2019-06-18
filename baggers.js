@@ -7312,40 +7312,6 @@ var data = {
       },
     },
     {
-      since: '2014-11-19',
-      name: 'Julien Dubois',
-      bio:
-        "Directeur de l'innovation chez Ippon Technologies, expert Spring et Java",
-      picture:
-        'http://gravatar.com/avatar/e7689b738601c9b2f1d66cd2622f517e?s=256',
-      websites: [
-        {
-          name: 'Web',
-          url: 'http://www.julien-dubois.com/',
-        },
-        {
-          name: 'Web',
-          url: 'http://jhipster.github.io/',
-        },
-      ],
-      location: 'Paris',
-      sessions: [
-        {
-          title:
-            'JHipster, comment générer rapidement une application Web moderne avec Spring Boot + AngularJS',
-          abstract:
-            "JHipster est un générateur d'applications Spring Boot + AngularJS très populaire. Cette session consiste en une présentation rapide de l'outil, puis en un live coding d'environ 45 minutes permettant de voir la génération d'une application, sa modification, l'utilisation de l'outillage fourni, les bonnes pratiques proposées, pour terminer par un déployement dans le cloud.",
-          tags: ['Code', 'Java', 'JavaScript', 'Spring', 'AngularJS', 'Yeoman'],
-          lang: ['fr'],
-        },
-      ],
-      cities: ['Paris'],
-      contacts: {
-        twitter: 'juliendubois',
-        mail: 'julien.dubois@gmail.com',
-      },
-    },
-    {
       since: '2014-11-25',
       name: 'Timothée Chevrier',
       bio:
