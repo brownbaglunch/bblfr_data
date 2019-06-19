@@ -12893,8 +12893,8 @@ var data = {
     {
       since: '2017-08-29',
       name: 'Julien Danjou',
-      bio: 'Free Software hacker, développeur Python, auteur de awesomewm',
-      picture: 'https://julien.danjou.info/media/images/jd.jpg',
+      bio: 'Ingénieur logiciel Open Source.',
+      picture: 'https://julien.danjou.info/content/images/2018/03/jdanjou-logo-round-1.png',
       websites: [
         {
           name: 'Web & blog',
@@ -12914,23 +12914,23 @@ var data = {
         {
           title: 'Produire des applications Python scalable',
           abstract:
-            "Dans cette présentation, je présente des méthodes et des outils qui permettent d'écrire des applications Python qui sont scalable à grande échelle.",
-          tags: ['Python'],
+            "Présentation et discussion autour des méthodes et des outils qui permettent d'écrire des applications Python qui sont scalable à grande échelle.",
+          tags: ['Python', 'Performance', 'Scale'],
           lang: ['fr', 'en'],
         },
         {
           title:
-            'Enregistrement de séries temporelles à grande échelle avec Gnocchi',
+            'Automatiser votre workflow GitHub avec Mergify',
           abstract:
-            'Dans cette présentation, je présente Gnocchi, un projet libre de gestion de séries temporelles (timeseries) à grande échelle (scalable).',
-          tags: ['Python'],
+            'Présentation de Mergify, un service d\'automatisation des pull requests GitHub.',
+          tags: ['Git', 'GitHub'],
           lang: ['fr', 'en'],
         },
       ],
       cities: ['Paris'],
       contacts: {
         twitter: 'juldanjou',
-        mail: 'julien@danjou.info',
+        mail: 'julien+bbl@danjou.info',
       },
     },
     {
