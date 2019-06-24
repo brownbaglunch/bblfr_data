@@ -11983,10 +11983,20 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: "Eliminez rapidement des bottlenecks de performance avec QuickPerf",
+          title:
+            'Eliminez rapidement des bottlenecks de performance avec QuickPerf',
           abstract:
             "Supposons que vous développiez une application : comment détecter rapidement la présence d'importants bottlenecks ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Des N+1 selects ? Comment se rendre compte rapidement que notre application va consommer énormément de mémoire ? Dans ce BBL, nous allons montrer comment QuickPerf peut nous aider à répondre à ces questions.",
-          tags: ['Performance', 'Test', 'Java', 'JVM', 'Hibernate', 'SQL', 'Spring', ' Spring Boot'],
+          tags: [
+            'Performance',
+            'Test',
+            'Java',
+            'JVM',
+            'Hibernate',
+            'SQL',
+            'Spring',
+            ' Spring Boot',
+          ],
           lang: ['fr'],
         },
       ],
@@ -12894,7 +12904,8 @@ var data = {
       since: '2017-08-29',
       name: 'Julien Danjou',
       bio: 'Ingénieur logiciel Open Source.',
-      picture: 'https://julien.danjou.info/content/images/2018/03/jdanjou-logo-round-1.png',
+      picture:
+        'https://julien.danjou.info/content/images/2018/03/jdanjou-logo-round-1.png',
       websites: [
         {
           name: 'Web & blog',
@@ -12919,10 +12930,9 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Automatiser votre workflow GitHub avec Mergify',
+          title: 'Automatiser votre workflow GitHub avec Mergify',
           abstract:
-            'Présentation de Mergify, un service d\'automatisation des pull requests GitHub.',
+            "Présentation de Mergify, un service d'automatisation des pull requests GitHub.",
           tags: ['Git', 'GitHub'],
           lang: ['fr', 'en'],
         },
@@ -16367,6 +16377,32 @@ var data = {
       contacts: {
         twitter: 'mbrehin',
         mail: 'maxime@delicious-insights.com',
+      },
+    },
+    {
+      since: '2019-06-24',
+      name: 'Renan Decamps',
+      bio:
+        "Développeur Front @ BearStudio -- Continuellement à la recherche du meilleur framework JavaScript, j'aime tester toutes les nouvelles technos du moment. je rend fonctionnel l'ensemble des maquettes produites afin de donner vie à vos projets les plus fous !",
+      picture: 'https://gravatar.com/avatar/a9864e9b341567213872b78f3e7bc4c1',
+      websites: [
+        { name: 'Web', url: 'https://renandecamps.com' },
+        { name: 'LinkedIn', url: 'https://www.linkedin.com/in/decampsrenan/' },
+      ],
+      location: 'Rouen',
+      sessions: [
+        {
+          title: 'React vs. Angular',
+          abstract:
+            'J’espère pouvoir à travers cette conf apporter un peu de lumière sur les pours et les contres de ces deux excellents outils pour construire vos applications web !',
+          tags: ['javascript', 'react', 'angular', 'web', 'front'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Rouen'],
+      contacts: {
+        twitter: 'decampsrenan',
+        mail: 'renan@bearstudio.fr',
       },
     },
   ],
