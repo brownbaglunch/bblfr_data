@@ -13254,13 +13254,13 @@ var data = {
       since: '2017-10-26',
       name: 'Rémi Koci',
       bio:
-        'Agiliste passionné, anarchiste et chef de projet chez Ippon Technologies',
+        'Agiliste passionné et coach agile chez Aneo',
       picture:
         'https://pbs.twimg.com/profile_images/824256803030663169/KFMrwWON_400x400.jpg',
       cities: ['Paris'],
       contacts: {
         twitter: 'remikoci',
-        mail: 'rkoci@ippon.fr',
+        mail: 'remikoci@gmail.com',
       },
       sessions: [
         {
@@ -13268,7 +13268,15 @@ var data = {
             'Lego4Scrum : découvrez les concepts d’un projet SCRUM en jouant aux LEGO® !',
           abstract:
             "S’adressant à tout public, Lego4Scrum est un jeu d'apprentissage permettant d'expérimenter le fonctionnement de la méthode agile SCRUM dans un cas pratique. Ainsi, il donne l’occasion de découvrir la philosophie et les processus indus par la méthode et de se construire en développant vos compétences en travail d’équipe.",
-          tags: ['Agile', 'Scrum', 'Serious Game', 'Team Building', 'Lego'],
+          tags: ['Agile', 'Scrum', 'Serious Game', 'Team Building', 'Lego', 'initiation', 'agilité'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Développer une culture de la gagne, l’exemple des Brooklyn Nets !',
+          abstract:
+            "Conférence sur la transformation managériale d'une équipe de NBA. J'y parle de culture, approche collaborative et responsabilisation pour montrer comment l'équipe a su se reconstruire en insufflant une nouvelle vision du top management jusqu'aux opérationnels (les joueurs). Article écrit sur le sujet : https://humanage.fr/developper-une-culture-de-la-gagne-brooklyn-nets/",
+          tags: ['Management', 'Culuture', 'Vision', 'Responsabilisation', 'Motivation', 'Innovation managériale'],
           lang: ['fr'],
         },
       ],
