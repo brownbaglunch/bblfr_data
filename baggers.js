@@ -12392,7 +12392,7 @@ var data = {
           url: 'https://www.openhub.net/accounts/smortex',
         },
       ],
-      location: 'Caen',
+      location: 'Faaa',
       sessions: [
         {
           title: 'FreeBSD',
@@ -12423,7 +12423,7 @@ var data = {
           lang: ['fr'],
         },
       ],
-      cities: ['Caen'],
+      cities: ['Faaa', 'Papeete'],
       contacts: {
         mail: 'romain+bbl@blogreen.org',
       },
@@ -16485,6 +16485,12 @@ var data = {
       lat: 48.1221,
       lng: 6.8912,
     },
+    Faaa: {
+      name: "Faa'a",
+      ville_img: 'img/villes/BBL.jpg',
+      lat: -17.551,
+      lng: -149.5974,
+    },
     Grenoble: {
       name: 'Grenoble',
       ville_img: 'img/villes/BBL_Grenoble.jpg',
@@ -16568,6 +16574,12 @@ var data = {
       ville_img: 'img/villes/BBL_Orleans.png',
       lat: 47.8733945,
       lng: 1.8419975,
+    },
+    Papeete: {
+      name: 'Papeete',
+      ville_img: 'img/villes/BBL.jpg',
+      lat: -17.535,
+      lng: -149.5696,
     },
     Paris: {
       name: 'Paris',
