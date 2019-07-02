@@ -1,6 +1,91 @@
 var data = {
   speakers: [
     {
+      since: '2015-03-10',
+      name: 'Xavier Pigeon',
+      bio:
+        'Expert Méthode & Qualité (Freelance) | auteur de GearsOfTesting.org | développeur de TestAsYouThink.org',
+      picture:
+        'https://gravatar.com/userimage/29545108/d3a9e2ed3d93ef53aff440e053e0faed.jpeg',
+      websites: [
+        {
+          name: 'Website',
+          url: 'https://xavierpigeon.com/',
+        },
+        {
+          name: 'Chrysocode',
+          url: 'https://chrysocode.io/',
+        },
+        {
+          name: 'GOST (Gears Of Software Testing)',
+          url: 'https://gearsoftesting.org/',
+        },
+        {
+          name: 'TestAsYouThink Project',
+          url: 'https://testasyouthink.org/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/xavierpigeon',
+        },
+        {
+          name: 'Blog',
+          url: 'https://blog.xavierpigeon.com/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/xapn/',
+        },
+      ],
+      location: 'Paris, remote',
+      sessions: [
+        {
+          title: 'Une Lettre pour un Diamant',
+          abstract:
+            '(live coding / présentation) Résolution de kata avec Test-Driven Development. En savoir plus sur https://xavierpigeon.com/conferences.html.',
+          tags: [
+            'TDD',
+            'Transformation Priority Premise',
+            'Clean Code',
+            'TDDflow',
+            'Java',
+            'JUnit',
+            'TestAsYouThink Core',
+            'Programmation orientée objet',
+            'Développements Agiles',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Cartes Maîtresses de la Qualité : une stratégie contre le chaos logiciel',
+          abstract:
+            '(présentation) Une nouvelle approche systémique des tests pour améliorer la qualité des livrables par petites touches dès demain. En savoir plus sur https://xavierpigeon.com/conferences.html.',
+          tags: [
+            'Stratégie',
+            'Tests',
+            'Shift Left Testing',
+            'Software Craftsmanship',
+            'Agilité',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Diviser pour régner sur les tests : une classification pour les gouverner tous',
+          abstract:
+            "(présentation) Etat de l'art en stratégies de test agile à travers un nouveau référentiel typologique structuré et hiérarchisé. En savoir plus sur https://xavierpigeon.com/conferences.html.",
+          tags: ['Stratégie', 'Tests', 'Typologie', 'Taxonomie', 'Agilité'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'XEngineer',
+        mail: 'contact@chrysocode.io',
+      },
+    },
+    {
       since: '2012-11-05',
       name: 'David Gageot',
       bio:
@@ -13263,8 +13348,7 @@ var data = {
     {
       since: '2017-10-26',
       name: 'Rémi Koci',
-      bio:
-        'Agiliste passionné et coach agile chez Aneo',
+      bio: 'Agiliste passionné et coach agile chez Aneo',
       picture:
         'https://pbs.twimg.com/profile_images/824256803030663169/KFMrwWON_400x400.jpg',
       cities: ['Paris'],
@@ -13278,7 +13362,15 @@ var data = {
             'Lego4Scrum : découvrez les concepts d’un projet SCRUM en jouant aux LEGO® !',
           abstract:
             "S’adressant à tout public, Lego4Scrum est un jeu d'apprentissage permettant d'expérimenter le fonctionnement de la méthode agile SCRUM dans un cas pratique. Ainsi, il donne l’occasion de découvrir la philosophie et les processus indus par la méthode et de se construire en développant vos compétences en travail d’équipe.",
-          tags: ['Agile', 'Scrum', 'Serious Game', 'Team Building', 'Lego', 'initiation', 'agilité'],
+          tags: [
+            'Agile',
+            'Scrum',
+            'Serious Game',
+            'Team Building',
+            'Lego',
+            'initiation',
+            'agilité',
+          ],
           lang: ['fr'],
         },
         {
@@ -13286,7 +13378,14 @@ var data = {
             'Développer une culture de la gagne, l’exemple des Brooklyn Nets !',
           abstract:
             "Conférence sur la transformation managériale d'une équipe de NBA. J'y parle de culture, approche collaborative et responsabilisation pour montrer comment l'équipe a su se reconstruire en insufflant une nouvelle vision du top management jusqu'aux opérationnels (les joueurs). Article écrit sur le sujet : https://humanage.fr/developper-une-culture-de-la-gagne-brooklyn-nets/",
-          tags: ['Management', 'Culuture', 'Vision', 'Responsabilisation', 'Motivation', 'Innovation managériale'],
+          tags: [
+            'Management',
+            'Culuture',
+            'Vision',
+            'Responsabilisation',
+            'Motivation',
+            'Innovation managériale',
+          ],
           lang: ['fr'],
         },
       ],
