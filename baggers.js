@@ -3591,17 +3591,13 @@ var data = {
     {
       since: '2013-11-20',
       name: 'Stéphane Landelle',
-      bio: "Dev Scala/Java, Directeur Technique d'eBiz, lead dev sur Gatling",
+      bio: "Dev Scala/Java, créateur de Gatling et CTO de GatlingCorp",
       picture: 'img/baggers/photo_slandelle.jpg',
       websites: [
         {
           name: 'Web',
-          url: 'http://gatling.io',
-        },
-        {
-          name: 'Web',
-          url: 'http://ebusinessinformation.fr',
-        },
+          url: 'https://gatling.io',
+        }
       ],
       location: 'Paris et proche couronne',
       sessions: [
