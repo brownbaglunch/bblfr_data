@@ -1,91 +1,6 @@
 var data = {
   speakers: [
     {
-      since: '2015-03-10',
-      name: 'Xavier Pigeon',
-      bio:
-        'Expert Méthode & Qualité (Freelance) | auteur de GearsOfTesting.org | développeur de TestAsYouThink.org',
-      picture:
-        'https://gravatar.com/userimage/29545108/d3a9e2ed3d93ef53aff440e053e0faed.jpeg',
-      websites: [
-        {
-          name: 'Website',
-          url: 'https://xavierpigeon.com/',
-        },
-        {
-          name: 'Chrysocode',
-          url: 'https://chrysocode.io/',
-        },
-        {
-          name: 'GOST (Gears Of Software Testing)',
-          url: 'https://gearsoftesting.org/',
-        },
-        {
-          name: 'TestAsYouThink Project',
-          url: 'https://testasyouthink.org/',
-        },
-        {
-          name: 'LinkedIn',
-          url: 'https://www.linkedin.com/in/xavierpigeon',
-        },
-        {
-          name: 'Blog',
-          url: 'https://blog.xavierpigeon.com/',
-        },
-        {
-          name: 'GitHub',
-          url: 'https://github.com/xapn/',
-        },
-      ],
-      location: 'Paris, remote',
-      sessions: [
-        {
-          title: 'Une Lettre pour un Diamant',
-          abstract:
-            '(live coding / présentation) Résolution de kata avec Test-Driven Development. En savoir plus sur https://xavierpigeon.com/conferences.html.',
-          tags: [
-            'TDD',
-            'Transformation Priority Premise',
-            'Clean Code',
-            'TDDflow',
-            'Java',
-            'JUnit',
-            'TestAsYouThink Core',
-            'Programmation orientée objet',
-            'Développements Agiles',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title:
-            'Cartes Maîtresses de la Qualité : une stratégie contre le chaos logiciel',
-          abstract:
-            '(présentation) Une nouvelle approche systémique des tests pour améliorer la qualité des livrables par petites touches dès demain. En savoir plus sur https://xavierpigeon.com/conferences.html.',
-          tags: [
-            'Stratégie',
-            'Tests',
-            'Shift Left Testing',
-            'Software Craftsmanship',
-            'Agilité',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title:
-            'Diviser pour régner sur les tests : une classification pour les gouverner tous',
-          abstract:
-            "(présentation) Etat de l'art en stratégies de test agile à travers un nouveau référentiel typologique structuré et hiérarchisé. En savoir plus sur https://xavierpigeon.com/conferences.html.",
-          tags: ['Stratégie', 'Tests', 'Typologie', 'Taxonomie', 'Agilité'],
-          lang: ['fr'],
-        },
-      ],
-      cities: ['Paris'],
-      contacts: {
-        twitter: 'XEngineer',
-        mail: 'contact@chrysocode.io',
-      },
-    },
-    {
       since: '2012-11-05',
       name: 'David Gageot',
       bio:
@@ -16502,6 +16417,91 @@ var data = {
       contacts: {
         twitter: 'decampsrenan',
         mail: 'renan@bearstudio.fr',
+      },
+    },
+    {
+      since: '2015-03-10',
+      name: 'Xavier Pigeon',
+      bio:
+        'Expert Méthode & Qualité (Freelance) | auteur de GearsOfTesting.org | développeur de TestAsYouThink.org',
+      picture:
+        'https://gravatar.com/userimage/29545108/d3a9e2ed3d93ef53aff440e053e0faed.jpeg',
+      websites: [
+        {
+          name: 'AboutMe',
+          url: 'https://xavierpigeon.com/',
+        },
+        {
+          name: 'Web',
+          url: 'https://chrysocode.io/',
+        },
+        {
+          name: 'Web',
+          url: 'https://gearsoftesting.org/',
+        },
+        {
+          name: 'Web',
+          url: 'https://testasyouthink.org/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/xavierpigeon',
+        },
+        {
+          name: 'Blog',
+          url: 'https://blog.xavierpigeon.com/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/xapn/',
+        },
+      ],
+      location: 'Paris, remote',
+      sessions: [
+        {
+          title: 'Une Lettre pour un Diamant',
+          abstract:
+            '(live coding / présentation) Résolution de kata avec Test-Driven Development. En savoir plus sur https://xavierpigeon.com/conferences.html.',
+          tags: [
+            'TDD',
+            'Transformation Priority Premise',
+            'Clean Code',
+            'TDDflow',
+            'Java',
+            'JUnit',
+            'TestAsYouThink Core',
+            'Programmation orientée objet',
+            'Développements Agiles',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Cartes Maîtresses de la Qualité : une stratégie contre le chaos logiciel',
+          abstract:
+            '(présentation) Une nouvelle approche systémique des tests pour améliorer la qualité des livrables par petites touches dès demain. En savoir plus sur https://xavierpigeon.com/conferences.html.',
+          tags: [
+            'Stratégie',
+            'Tests',
+            'Shift Left Testing',
+            'Software Craftsmanship',
+            'Agilité',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Diviser pour régner sur les tests : une classification pour les gouverner tous',
+          abstract:
+            "(présentation) Etat de l'art en stratégies de test agile à travers un nouveau référentiel typologique structuré et hiérarchisé. En savoir plus sur https://xavierpigeon.com/conferences.html.",
+          tags: ['Stratégie', 'Tests', 'Typologie', 'Taxonomie', 'Agilité'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'XEngineer',
+        mail: 'contact@chrysocode.io',
       },
     },
   ],
