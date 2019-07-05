@@ -13259,8 +13259,7 @@ var data = {
     {
       since: '2017-10-26',
       name: 'Rémi Koci',
-      bio:
-        'Agiliste passionné et coach agile chez Aneo',
+      bio: 'Agiliste passionné et coach agile chez Aneo',
       picture:
         'https://pbs.twimg.com/profile_images/824256803030663169/KFMrwWON_400x400.jpg',
       cities: ['Paris'],
@@ -13274,7 +13273,15 @@ var data = {
             'Lego4Scrum : découvrez les concepts d’un projet SCRUM en jouant aux LEGO® !',
           abstract:
             "S’adressant à tout public, Lego4Scrum est un jeu d'apprentissage permettant d'expérimenter le fonctionnement de la méthode agile SCRUM dans un cas pratique. Ainsi, il donne l’occasion de découvrir la philosophie et les processus indus par la méthode et de se construire en développant vos compétences en travail d’équipe.",
-          tags: ['Agile', 'Scrum', 'Serious Game', 'Team Building', 'Lego', 'initiation', 'agilité'],
+          tags: [
+            'Agile',
+            'Scrum',
+            'Serious Game',
+            'Team Building',
+            'Lego',
+            'initiation',
+            'agilité',
+          ],
           lang: ['fr'],
         },
         {
@@ -13282,7 +13289,14 @@ var data = {
             'Développer une culture de la gagne, l’exemple des Brooklyn Nets !',
           abstract:
             "Conférence sur la transformation managériale d'une équipe de NBA. J'y parle de culture, approche collaborative et responsabilisation pour montrer comment l'équipe a su se reconstruire en insufflant une nouvelle vision du top management jusqu'aux opérationnels (les joueurs). Article écrit sur le sujet : https://humanage.fr/developper-une-culture-de-la-gagne-brooklyn-nets/",
-          tags: ['Management', 'Culuture', 'Vision', 'Responsabilisation', 'Motivation', 'Innovation managériale'],
+          tags: [
+            'Management',
+            'Culuture',
+            'Vision',
+            'Responsabilisation',
+            'Motivation',
+            'Innovation managériale',
+          ],
           lang: ['fr'],
         },
       ],
@@ -16402,128 +16416,125 @@ var data = {
       },
     },
     {
-  "since": "2019-07-03",
-  "name": "Samy Boucherit",
-  "bio": "Blockchain Developer | Palo-IT",
-  "picture": "https://i.imgur.com/rabw5jl.png",
-  "websites": [
-    {
-      "name": "Web",
-      "url": "https://www.palo-it.com/"
+      "since": "2019-07-03",
+      "name": "Samy Boucherit",
+      "bio": "Blockchain Developer | Palo-IT",
+      "picture": "https://i.imgur.com/rabw5jl.png",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://www.palo-it.com/"
+        },
+        {
+         "name": "LinkedIn",
+         "url": "https://www.linkedin.com/in/samy-boucherit-884960157/?originalSubdomain=fr"
+        },
+      ],
+      "location": "Paris + suburbs + Nantes  + Toulouse + Nancy + remote",
+      "sessions": [
+        {
+          "title": "Technical and practical initiation to Blockchain technology",
+          "abstract": "(en/fr) Discover how Blockchains work, what it's good for, and what you can't/shouldn't do with this new disruptive technology",
+          "tags": [
+            "Blockchain",
+            "Bitcoin",
+            "Ethereum",
+            "Solidity",
+            "Remote",
+                "Cryptocurrency",
+                "Cryptomonnaies",
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ],
+        },
+      ],
+      "cities": ['Paris', 'Nancy', 'Toulouse', 'Nantes'],
+      "contacts": {
+        "mail": "sboucherit@palo-it.com"
+      },
     },
     {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/in/samy-boucherit-884960157/?originalSubdomain=fr"
-    },
-  ],
-  "location": "Paris + suburbs + Nantes  + Toulouse + Nancy + remote",
-  "sessions": [
-    {
-      "title": "Technical and practical initiation to Blockchain technology",
-      "abstract": "(en/fr) Discover how Blockchains work, what it's good for, and what you can't/shouldn't do with this new disruptive technology",
-      "tags": [
-        "Blockchain",
-        "Bitcoin",
-        "Ethereum",
-        "Solidity",
+      "since": "2019-07-03",
+      "name": "Arthur Micoulet",
+      "bio": "Head of Blockchain @ Palo IT",
+      "picture": "https://secure.gravatar.com/avatar/a75f71136c6a28d4e2342fd76141dbd5",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://www.palo-it.com/"
+        },
+        {
+         "name": "LinkedIn",
+         "url": "https://www.linkedin.com/in/arthur-micoulet-16a11a35/"
+        },
+      ],
+      "location": "Paris + suburbs + Nantes  + Toulouse + Nancy + remote",
+      "sessions": [
+        {
+          "title": "Introduction aux technologies Blockchains",
+          "abstract": "Introduction aux différents concepts de la technologie Blockchain et ses cas d’usages actuels et futurs. Le contenu peut être ajusté aux besoins du public (Finance, Industrie, Media…)",
+          "tags": [
+            "Blockchain",
+            "Bitcoin",
+            "Ethereum",
+            "Solidity",
+                "Cryptocurrency",
+                "Cryptomonnaies",
         "Remote",
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ],
+        },
+      ],
+      "cities": ['Paris', 'Nancy', 'Toulouse', 'Nantes'],
+      "contacts": {
+        "mail": "amicoulet@palo-it.com"
+      },
+    },
+    {
+      "since": "2019-07-03",
+      "name": "Leonard Lys",
+      "bio": "Blockchain consultant and PhD candidate @Palo IT",
+      "picture": "https://i.imgur.com/PjN9fEm.jpg",
+      "websites": [
+        {
+          "name": "Web",
+          "url": "https://www.palo-it.com/"
+        },
+        {
+         "name": "LinkedIn",
+         "url": "https://www.linkedin.com/in/leonard-lys-0033a486/?originalSubdomain=fr"
+        },
+      ],
+      "location": "Paris + suburbs + Nantes  + Toulouse + Nancy + remote",
+      "sessions": [
+        {
+          "title": "Introduction aux technologies Blockchains", 
+          "abstract": "Introduction aux différents concepts de la technologie Blockchain et ses cas d’usages actuels et futurs. Le contenu peut être ajusté aux besoins du public (Finance, Industrie, Media…)",
+          "tags": [ 
+            "Blockchain",
+            "Bitcoin",
+            "Ethereum",
+            "Solidity",
+            "Remote",
             "Cryptocurrency",
             "Cryptomonnaies",
+          ],
+          "lang": [
+            "fr",
+            "en"
+          ],
+        },
       ],
-      "lang": [
-        "fr",
-        "en"
-      ],
-    },
-  ],
-  "cities": ['Paris', 'Nancy', 'Toulouse', 'Nantes'],
-  "contacts": {
-    "mail": "sboucherit@palo-it.com"
-  },
-},
-{
-  "since": "2019-07-03",
-  "name": "Arthur Micoulet",
-  "bio": "Head of Blockchain @ Palo IT",
-  "picture": "https://secure.gravatar.com/avatar/a75f71136c6a28d4e2342fd76141dbd5",
-  "websites": [
-    {
-      "name": "Web",
-      "url": "https://www.palo-it.com/"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/in/arthur-micoulet-16a11a35/"
-    },
-  ],
-  "location": "Paris + suburbs + Nantes  + Toulouse + Nancy + remote",
-  "sessions": [
-    {
-      "title": "Introduction aux technologies Blockchains",
-      "abstract": "Introduction aux différents concepts de la technologie Blockchain et ses cas d’usages actuels et futurs. Le contenu peut être ajusté aux besoins du public (Finance, Industrie, Media…)",
-      "tags": [
-        "Blockchain",
-        "Bitcoin",
-        "Ethereum",
-        "Solidity",
-            "Cryptocurrency",
-            "Cryptomonnaies",
-		"Remote",
-      ],
-      "lang": [
-        "fr",
-        "en"
-      ],
-    },
-  ],
-  "cities": ['Paris', 'Nancy', 'Toulouse', 'Nantes'],
-  "contacts": {
-    "mail": "amicoulet@palo-it.com"
-  },
-},
-
-{
-  "since": "2019-07-03",
-  "name": "Leonard Lys",
-  "bio": "Blockchain consultant and PhD candidate @Palo IT",
-  "picture": "https://i.imgur.com/PjN9fEm.jpg",
-  "websites": [
-    {
-      "name": "Web",
-      "url": "https://www.palo-it.com/"
-    },
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/in/leonard-lys-0033a486/?originalSubdomain=fr"
-    },
-  ],
-  "location": "Paris + suburbs + Nantes  + Toulouse + Nancy + remote",
-  "sessions": [
-    {
-      "title": "Introduction aux technologies Blockchains", 
-      "abstract": "Introduction aux différents concepts de la technologie Blockchain et ses cas d’usages actuels et futurs. Le contenu peut être ajusté aux besoins du public (Finance, Industrie, Media…)",
-      "tags": [ 
-        "Blockchain",
-        "Bitcoin",
-        "Ethereum",
-        "Solidity",
-        "Remote",
-        "Cryptocurrency",
-        "Cryptomonnaies",
-      ],
-      "lang": [
-        "fr",
-        "en"
-      ],
-    },
-  ],
-  "cities": ['Paris', 'Nancy', 'Toulouse', 'Nantes'],
-  "contacts": {
-    "mail": "llys@palo-it.com"
-  },
-},
-  ],
-  
+      "cities": ['Paris', 'Nancy', 'Toulouse', 'Nantes'],
+      "contacts": {
+        "mail": "llys@palo-it.com"
+      },
+    },    
   cities: {
     'Aix-en-Provence': {
       name: 'Aix-en-Provence',
