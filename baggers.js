@@ -14992,7 +14992,7 @@ var data = {
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/constantinguay/',
-        },        
+        },
         {
           name: 'Scrum Life Youtube Channel',
           url: 'https://www.youtube.com/c/ScrumLife',
@@ -16207,7 +16207,7 @@ var data = {
             "We all know user-centered design is fundamental for a product's success. Among everything you should do, gathering feedback from your users is one of the crucial pieces to inform your product and technical decisions. But how to do it? At the end of the session, you'll have several techniques to collect that feedback, but also to integrate it into your development workflow. These techniques will come from my own experience at companies of various stages: from small shops (4-5 devs) to Deezer and now Azure engineering team. ",
           tags: ['DevOps', 'Agilité', 'Cloud'],
           lang: ['fr', 'en'],
-        },        
+        },
         {
           title: 'Comment être un linuxien heureux sous Windows ?',
           abstract:
@@ -16221,7 +16221,7 @@ var data = {
             "Je suis développeur, mais aussi plongeur. Tout ca me cause plein de tracas, mais aussi plein d'idées. Découvrez comment j'ai tenté de résoudre ces problèmes en créant des objets IoT connectés, sans fer à souder et sans me noyer :)",
           tags: ['IoT', 'Cloud', 'OpenSource', 'ML', 'Plongée'],
           lang: ['fr', 'en'],
-        },        
+        },
         {
           title: "Beaucoup d'autres sujets !",
           abstract:
@@ -16763,6 +16763,75 @@ var data = {
           lang: ['fr'],
         },
       ]
+    },
+    {
+      since: '2018-01-01',
+      name: 'Francois-Guillaume Ribreau',
+      bio: 'Full Stack CTO, Startup Advisor, Consultant, Hacker, Maker',
+      picture:
+        'https://media.licdn.com/dms/image/C4D03AQFYw_-F2gSwlg/profile-displayphoto-shrink_200_200/0?e=1560988800&v=beta&t=Doqc2flLGqxUlCWNzWEGpALQ7HGa2kBqTbiVu1Cqn2Q',
+      websites: [
+        {
+          name: 'Website',
+          url: 'https://fgribreau.com/',
+        },
+        {
+          name: 'Book',
+          url: 'https://getnobullshit.com/',
+        },
+        {
+          name: 'Website',
+          url: 'https://image-charts.com/',
+        },
+        {
+          name: 'Website',
+          url: 'https://redsmin.com/',
+        },
+        {
+          name: 'Website',
+          url: 'https://cloud-iam.com/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/francoisguillaumeribreau/',
+        },
+      ],
+      location: 'Rennes',
+      sessions: [
+        {
+          title:
+            '⛳️ Votre API passe-t-elle les 70 points du contrôle technique ? ',
+          abstract:
+            'Nous savons tous développer une API mais avons-nous bien intégré toutes les problématiques?\n' +
+            '\n' +
+            "Son aspect organisationnel et humain, sa gouvernance, ses contraintes business et d'opérabilité (SLA, SLO, SLI), son release management, ses méthodes de requêtage, sa sécurité (ses performances, sa mise à l'échelle), ses différents types de test, sa documentation, son versioning (compatibilité, changelog), son monitoring — et bien plus encore — de cette API une fois en production ?\n" +
+            '\n' +
+            "Durant ce talk, c'est plus de 70 points d'attentions rarement évoqué que je vous propose d'aborder, à la lumière de retours d'expériences provenant de tech-leader comme Uber, Stripe, Facebook et Google mais aussi d'entreprise française de la petite startup à la PME.\n",
+          tags: ['API', 'Scalability', 'Architecture', 'Security'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Choisir entre une API RPC, SOAP, REST, GraphQL? Et si le problème était ailleurs ?',
+          abstract:
+            "Pourquoi le choix entre RPC/SOAP/REST/GraphQL n'est peut-être qu'un sujet de surface qui cache un problème bien plus profond.",
+          tags: ['History', 'APIs', 'REST API', 'SOAP', 'RPC', 'GraphQL'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Adieu micro-frontends et head-less CMS bonjour Block Management Platform',
+          abstract:
+            "Comment imaginer et implémenter une plateforme from-scratch au sein d'un groupe média ? Quelle philosophie ? Quels principes ? Quelle architecture choisir ? Comment assurer la scalabilité des développements interne comme externe ?",
+          tags: ['Platform', 'Scalability', 'Organization'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Rennes', 'Nantes'],
+      contacts: {
+        twitter: 'FGRibreau',
+        mail: 'bblfr_data@fgribreau.com',
+      }
     },
   ],
   cities: {
