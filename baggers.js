@@ -12521,7 +12521,7 @@ var data = {
       since: '2017-06-20',
       name: 'Adrien Pessu',
       bio: 'Développeur, geek, etc',
-      picture: 'img/baggers/unknown.png',
+      picture: 'https://adrien.pessu.net/author/admin/avatar_hu68adafc281e32380a65db568a64c57fe_43076_250x250_fill_q90_lanczos_center.jpg',
       websites: [
         {
           name: 'Web',
