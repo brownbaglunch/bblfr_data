@@ -12529,7 +12529,7 @@ var data = {
         },
         {
           name: 'Web',
-          url: 'github.com/adrienpessu/',
+          url: 'https://github.com/adrienpessu/',
         },
         {
           name: 'LinkedIn',
@@ -12539,10 +12539,10 @@ var data = {
       location: 'Nantes et environs.',
       sessions: [
         {
-          title: 'DropWizard for the REST of us',
+          title: 'Kotlin, le back du futur',
           abstract:
-            "Avec l'essor de l’architecture Microservice, DropWizard est un framework idéal pour développer des services REST. Je vous présenterai la simplicité de mise en place d'un microservice REST, ainsi que les possibilités du framework léger et robuste de ce Micro-Framework",
-          tags: ['Java', 'REST', 'Microservices'],
+            "Depuis l’annonce par Google du support de Kotlin sur Android, les développeurs d’applications mobiles se sont fortement intéressés à ce langage récent. Mais “Nom de Zeus !” est-ce réservé aux développeurs mobiles ? Non, Non et Non. Kotlin tourne sur la jvm alors autant en profiter dans tous nos projets. Viens découvrir toutes les facettes de ton futur prochain langage préféré. Au travers de cette conférence je te présenterai les principaux avantages du langage. Je te présenterai aussi des frameworks d'API pour faire de Kotlin, le back de ton futur projet.",
+          tags: ['Kotlin', 'REST', 'Microservices'],
           lang: ['fr'],
         },
         {
@@ -12559,11 +12559,25 @@ var data = {
           ],
           lang: ['fr'],
         },
+        {
+          title: 'CORS, XSS, CSRF, SQL injection #BackToTheBasics',
+          abstract:
+            "Pas besoin d’être RSSI ou DevOpsSec pour se soucier de sécurité. Que l’on soit développeur back ou front, la sécurité est l’affaire de tous. Pourtant, on la confie souvent aveuglement à nos frameworks. Mais alors comment vérifier la sécurité de nos données et de nos utilisateurs. A travers quelques démos, nous allons voir les failles les plus basiques et pourtant les plus répandus : CORS, XSS, CSRF et SQL injection.",
+          tags: [
+            'CORS',
+            'XSS',
+            'CSRF',
+            'SQL Injection',
+            'Sécurité',
+            'DevSec',
+          ],
+          lang: ['fr'],
+        }
       ],
       cities: ['Nantes'],
       contacts: {
-        twitter: 'adrien_pe',
-        mail: 'a.pessu@gmail.com',
+        twitter: 'adrienpessu',
+        mail: 'adrien@pessu.net',
       },
     },
     {
