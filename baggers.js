@@ -408,29 +408,13 @@ var data = {
       since: '2013-02-17',
       name: 'Yannick Grenzinger',
       bio:
-        'Technical Officer @ CarbonIT, Software Craftsman, Lean Startup Advisor & Continuous Lifelong learner',
+        'Coach craft & flow @ beNext, Developper & Continuous Lifelong learner',
       picture:
         'https://fr.gravatar.com/userimage/45029487/b60c363784b0fd99398c74086b10d8b7.png?size=200',
       websites: [
         {
-          name: 'Web',
-          url: 'http://www.carbon-it.fr/',
-        },
-        {
-          name: 'Web',
-          url: 'http://ux-fr.com/',
-        },
-        {
-          name: 'AboutMe',
+          name: 'About Me',
           url: 'http://about.me/yannick.grenzinger',
-        },
-        {
-          name: 'Web',
-          url: 'http://blog.xebia.fr/author/ygrenzinger/',
-        },
-        {
-          name: 'Web',
-          url: 'http://blog.objetdirect.com/author/ygrenzinger',
         },
         {
           name: 'LinkedIn',
@@ -440,7 +424,7 @@ var data = {
       location: 'Paris et La Défense',
       sessions: [
         {
-          title: 'Développer le bon produit',
+          title: 'Développer le bon produit avec le Lean Canvas',
           abstract:
             "A une époque où tout business peut être rapidement concurrencé par une startup, il faut savoir créer le bon produit. C’est la où les principes et les outils de Lean Startup (mais aussi Design Thinking ou encore de l'effectuation) viennent nous aider. Je propose une intro rapide et un atelier purement pratique autour de Lean Canvas que j'ai eu l'occasion de pratiquer de nombreuses fois en tant qu'Advisor Lean Startup",
           tags: ['produit', 'lean startup', 'lean canvas'],
@@ -484,9 +468,9 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title: 'Continuous Delivery to Lean Enterprise.',
+          title: 'Continuous Delivery',
           abstract:
-            'J’organise régulièrement des soirées autour du Continuous Delivery. C’est une pratique qu’il devient indispensable  de maitriser face à la concurrence mais cette pratique demande un très bon niveau technique ainsi qu’un management moderne. Le but de ce BBL est de présenter comment mettre en place cette pratique et quels sont les éléments à considérer pour y arriver. Nous y parlerons de Continuous Integration,  Continuous Delivery, Continuous Deployment, de Devops et peut être même de Lean Enterprise.',
+            'J’organise régulièrement des soirées autour du Continuous Delivery. C’est une pratique qu’il devient indispensable  de maitriser face à la concurrence mais cette pratique demande un très bon niveau technique ainsi qu’un management moderne. Le but de ce BBL est de présenter comment mettre en place cette pratique et quels sont les éléments à considérer pour y arriver. Nous y parlerons de Continuous Integration,  Continuous Delivery, Continuous Deployment ou encore Devops',
           tags: ['continuous delivery', 'devops'],
           lang: ['fr', 'en'],
         },
@@ -495,6 +479,13 @@ var data = {
           abstract:
             'Software craftsmanship? Encore un buzzword pour vendre des certifications? Mis en avant par des célébrités comme Robert Martin ou Sandro Mancuso, condensé dans un Manifeste, l’idée est de relever le niveau du développement professionnel de logiciels. Dans ce BBL, j’aimerais vous présenter les éléments théoriques et pratiques qui pourraient constituer cet artisanat logiciel ainsi que de réaliser un petit kata en démo ou ensemble (à définir avant le BBL). Je pourrais aussi vous parler de mon expérience de Coach Craft.',
           tags: ['code', 'qualité', 'clean code'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Principes de développement produit en flux.',
+          abstract:
+            'Dans l’armée, on dit parfois “Embrace the suck”, ce qui se traduit par “la situation est mauvaise, mais faites avec." Pour les développeurs de logiciels aussi, la situation est mauvaise : les délais ne tiennent pas, la feuille de route ne vaut rien et le management est perdu au siècle dernier. Notre problème est que notre domaine est complexe, le plus souvent incertain, voire condamné aux cygnes noirs. Dans ce BBL, je veux montrer qu’il est possible de vivre avec cette complexité en passant des méthodologies projets (ou SAFe) aux principes du flux de développement de produits et en créant des organisations apprenantes.',
+          tags: ['lean', 'agile', 'flow', 'product management', 'organisation'],
           lang: ['fr', 'en'],
         },
       ],
