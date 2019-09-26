@@ -16129,13 +16129,6 @@ var data = {
             "We all know user-centered design is fundamental for a product's success. Among everything you should do, gathering feedback from your users is one of the crucial pieces to inform your product and technical decisions. But how to do it? At the end of the session, you'll have several techniques to collect that feedback, but also to integrate it into your development workflow. These techniques will come from my own experience at companies of various stages: from small shops (4-5 devs) to Deezer and now Azure engineering team. ",
           tags: ['DevOps', 'Agilité', 'Cloud'],
           lang: ['fr', 'en'],
-        },
-        {
-          title: 'Comment être un linuxien heureux sous Windows ?',
-          abstract:
-            "Quand on est linuxien, on l'aime notre distrib, on la bichonne, on va installer notre font préférée, et s'installer pleins de plugins oh my zsh. Ca c'est la belle vie !  Et puis un matin, on change de boulot, on arrive plein d'envie, jusqu'à entendre ces quelques mots qui changent tout : 'Voici ton PC, ah et on est tous sous Windows, c'est la politique de l'IT et c'est obligatoire'.  Heureusement que nous sommes en 2019 et que Microsoft a changé !  Voyons ensemble comment installer un vrai noyau linux dans Windows, se créer un environnement de travail cool avec Docker et Visual Studio Code et bénéficier du meilleur de Linux, sous Windows. ",
-          tags: ['Linux', 'Windows', 'OpenSource'],
-          lang: ['fr', 'en'],
         },        
         {
           title: 'Comment être un linuxien heureux sous Windows ?',
