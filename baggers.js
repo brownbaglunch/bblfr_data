@@ -16121,7 +16121,7 @@ var data = {
           url: 'https://www.maneu.fr/',
         },
       ],
-      location: 'Paris',
+      location: 'Paris, Ile de France',
       sessions: [
         {
           title: 'Ecoutez vos utilisateurs, de 1 à 10 Millions',
@@ -16130,6 +16130,27 @@ var data = {
           tags: ['DevOps', 'Agilité', 'Cloud'],
           lang: ['fr', 'en'],
         },
+        {
+          title: 'Comment être un linuxien heureux sous Windows ?',
+          abstract:
+            "Quand on est linuxien, on l'aime notre distrib, on la bichonne, on va installer notre font préférée, et s'installer pleins de plugins oh my zsh. Ca c'est la belle vie !  Et puis un matin, on change de boulot, on arrive plein d'envie, jusqu'à entendre ces quelques mots qui changent tout : 'Voici ton PC, ah et on est tous sous Windows, c'est la politique de l'IT et c'est obligatoire'.  Heureusement que nous sommes en 2019 et que Microsoft a changé !  Voyons ensemble comment installer un vrai noyau linux dans Windows, se créer un environnement de travail cool avec Docker et Visual Studio Code et bénéficier du meilleur de Linux, sous Windows. ",
+          tags: ['Linux', 'Windows', 'OpenSource'],
+          lang: ['fr', 'en'],
+        },        
+        {
+          title: 'Comment être un linuxien heureux sous Windows ?',
+          abstract:
+            "Quand on est linuxien, on l'aime notre distrib, on la bichonne, on va installer notre font préférée, et s'installer pleins de plugins oh my zsh. Ca c'est la belle vie !  Et puis un matin, on change de boulot, on arrive plein d'envie, jusqu'à entendre ces quelques mots qui changent tout : 'Voici ton PC, ah et on est tous sous Windows, c'est la politique de l'IT et c'est obligatoire'.  Heureusement que nous sommes en 2019 et que Microsoft a changé !  Voyons ensemble comment installer un vrai noyau linux dans Windows, se créer un environnement de travail cool avec Docker et Visual Studio Code et bénéficier du meilleur de Linux, sous Windows. ",
+          tags: ['Linux', 'Windows', 'OpenSource'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Comment ne pas noyer son premier projet IoT?',
+          abstract:
+            "Je suis développeur, mais aussi plongeur. Tout ca me cause plein de tracas, mais aussi plein d'idées. Découvrez comment j'ai tenté de résoudre ces problèmes en créant des objets IoT connectés, sans fer à souder et sans me noyer :)",
+          tags: ['IoT', 'Cloud', 'OpenSource', 'ML', 'Plongée'],
+          lang: ['fr', 'en'],
+        },        
         {
           title: "Beaucoup d'autres sujets !",
           abstract:
