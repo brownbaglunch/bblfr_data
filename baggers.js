@@ -14982,10 +14982,10 @@ var data = {
       since: '2018-09-21',
       name: 'Constantin Guay',
       bio:
-        'Team Facilitator, Impediment Remover, Scrum Master. Writer of blog const.fr (in French and English)',
+        'Team Facilitator, Impediment Remover, Scrum Master. Writer of blog const.fr (in French and English) and Author on Scrum Life, the biggest Youtube channel about Agility in French',
       picture:
-        'https://media.licdn.com/dms/image/C4D03AQHSGgvAQq6d2w/profile-displayphoto-shrink_200_200/0?e=1542844800&v=beta&t=nDm7wL3f1ZuTCDbu3G6eMrBHsK1TL6DCwGhYo0o4oV8',
-      cities: ['Paris'],
+        'https://const.fr/wp-content/uploads/2019/02/photo_cg_2019_square_p.jpg',
+      cities: ['Paris', 'Versailles'],
       contacts: {
         twitter: 'cog_g',
         mail: 'const.g@gmail.com',
@@ -14998,17 +14998,101 @@ var data = {
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/constantinguay/',
+        },        
+        {
+          name: 'Scrum Life Youtube Channel',
+          url: 'https://www.youtube.com/c/ScrumLife',
         },
       ],
-      location: 'Paris',
+      location: 'Paris, Ouest parisien, remote',
       sessions: [
+        {
+          title:
+            'Passer au sprint d\'une semaine',
+          abstract:
+            "Difficultés, bénéfices, emploi du temps. Qu'est-ce que ça peut vous apporter de passer au Sprint d'Une Semaine ?",
+          tags: ['Agile', 'Scrum', 'Coaching', 'Sprint'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'IMPACT : Comment prendre des décision quand on est PO ?',
+          abstract:
+            "Comment choisir la bonne priorisation ? Quels sont les outils du PO pour choisir les fonctionnalités ayant le plus de valeur, les utilisateurs à inviter, les tâches techniques à intégrer au backlog ? Je vous propose des outils clairs pour les PO de tout niveau",
+          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Product Owner', 'PO'],
+          lang: ['fr', 'en'],
+        },
         {
           title:
             'Dark Agile : Le Scrum Master "chronomètre" est un danger pour l\'équipe',
           abstract:
             "Pourquoi le Scrum Master ne peut pas être un dev, un PO ou tout autre rôle que celui de Scrum Master? À quoi ça sert vraiment un Scrum Master ? Juste à inculquer Scrum à l'équipe ? Et ensuite, que fait-il ? C'est une mission temporaire ?",
           tags: ['Agile', 'Scrum', 'Coaching', 'Dark Agile'],
-          lang: ['fr'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Management : Une équipe agile demande une nouvelle approche',
+          abstract:
+            "Comment faire pour manager une équipe agile ? L'agilité vient en contradiction avec les méthodes traditionnelles, pour se rapprocher plus des valeurs de Deming. Comment, quand on est manager, doit-on se comporter lorsqu'on travaille avec une équipe agile ?",
+          tags: ['Agile', 'Scrum', 'Coaching', 'Management'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Comment rater ses communautés de pratiques',
+          abstract:
+            "Une des clés de l'efficacité d'un modèle à l'échelle est la capacité des équipes à communiquer et à avancer dans le même sens. Quelles sont les erreurs à faire (et donc à éviter) pour ne pas construire des communautés de pratiques de façon pérenne ?",
+          tags: ['Agile', 'Scrum', 'Coaching', 'Management', 'Dépendance', 'Collaboration', 'Equipes'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Example Mapping : Atelier',
+          abstract:
+            "L'example Mapping est un atelier permettant de facilité le découpage des US et d'en sortir le maximum de valeur, tout en limitant le gâchis en ne faisant pas des choses inutiles pour le client ou l'utilisateur",
+          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Product Owner', 'PO', 'Atelier'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Story Mapping : Atelier',
+          abstract:
+            "Le meilleur moyen de comprendre le besoin du client c'est en étudiant son workflow et en en tirant des hypothèses sur son besoin",
+          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Product Owner', 'PO', 'Atelier'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Architecture : Comment on concoit dans une équipe agile ? Quelle est la place de l'architect technique ?',
+          abstract:
+            "Que ce soit le design graphique, le design technique (architecture), la conception émergente est une des clés de l'agilité. Préparer des maquettes, un socle technique ou faire une phase de cadrage technique est souvent une preuve de manque d'agilité, alors, on fait comment pour des produits très complexe ?",
+          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Architecture', 'Sprint 0', 'Cadrage'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Sprint 0 : et si on s'en passait ?',
+          abstract:
+            "Que ce soit le design graphique, le design technique (architecture), la conception émergente est une des clés de l'agilité. Préparer des maquettes, un socle technique ou faire une phase de cadrage technique est souvent une preuve de manque d'agilité, alors, on fait comment pour des produits très complexe ?",
+          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Architecture', 'Sprint 0', 'Cadrage'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Management 3.0 : Comprendre les motivateurs de votre équipe',
+          abstract:
+            "Une explication et mes astuces pour animer un atelier de Moving Motivator, l'exercice venant du Management 3.0 pour comprendre comment impliquer votre équipe.",
+          tags: ['Agile', 'Scrum', 'Equipe', 'Management 3.0', 'Management'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            '#NoEstimate : Ca veut dire quoi ? Comment s'y prendre ?',
+          abstract:
+            "Une entrée en matière sur le mouvement NoEstimate, plus mes astuces et conseils pour le mettre en place chez vous, que ce soit avec une nouvelle équipe ou sur une équipe qui fonctionne déjà tout en répondant aux besoins de roadmap et budget.",
+          tags: ['Agile', 'Scrum', 'Equipe', 'Management', 'Estimation', 'Roadmap', 'Budget'],
+          lang: ['fr', 'en'],
         },
       ],
     },
