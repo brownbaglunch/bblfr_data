@@ -15082,7 +15082,7 @@ var data = {
         },
         {
           title:
-            '#NoEstimate : Ca veut dire quoi ? Comment s'y prendre ?',
+            '#NoEstimate : Ca veut dire quoi ? Comment s\'y prendre ?',
           abstract:
             "Une entrée en matière sur le mouvement NoEstimate, plus mes astuces et conseils pour le mettre en place chez vous, que ce soit avec une nouvelle équipe ou sur une équipe qui fonctionne déjà tout en répondant aux besoins de roadmap et budget.",
           tags: ['Agile', 'Scrum', 'Equipe', 'Management', 'Estimation', 'Roadmap', 'Budget'],
