@@ -16617,6 +16617,35 @@ var data = {
         mail: 'llys@palo-it.com',
       },
     },
+    {
+      since: '2019-07-16',
+      name: 'Florian Kauder',
+      bio: 'Co-Fondateur et Directeur Technique de KBDev - Spécialiste du JS - J\'adore les peluches',
+      picture: 'https://pbs.twimg.com/profile_images/1007642192293318658/vikrDvbZ_400x400.jpg',
+      cities: ['Bordeaux'],
+      contacts: {
+        twitter: 'aamulumi',
+        mail: 'florian@kbdev.io',
+      },
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/floriankauder/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/aamulumi',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Je n\'ai jamais rien compris à Redux, donc je vais le recoder',
+          abstract: 'Ola Voyageur·e !\n\nSi le temps vous le permet, je m\'en vais vous conter les aventures du sieur Abramov et de sa monture Redux.\nEn ayant cotoyé l\'écurie React, votre seule rencontre avec cet équidé ne put être qu\'un dédale de mésaventures.\nMais soit, votre serviteur à l\'esprit perverti s\'est entêté à découvrir le secret de ces engrenages.\nPar la création, je m\'en vais allumer la lanterne de vos pensées.\nMensonge, baliverne, tromperie, magie noire,\nRencontrez moi dans la salle du village,\nEt découvrez mes humbles secrets.',
+          tags: ['Redux', 'React.js', 'Javascript', 'Architecture', 'Patterns', 'Coding Live', 'Front-end'],
+          lang: ['fr'],
+        },
+      ]
+    },
   ],
   cities: {
     'Aix-en-Provence': {
