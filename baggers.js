@@ -14165,12 +14165,16 @@ var data = {
       cities: ['Paris'],
       contacts: {
         twitter: 'richardhanna',
-        mail: 'supertanuki@gmail.com',
+        mail: 'hannarichard@protonmail.com',
       },
       websites: [
         {
-          name: 'Web',
-          url: 'https://www.elao.com',
+          name: 'Fairness',
+          url: 'https://fairness.coop/',
+        },
+        {
+          name: 'Techologie',
+          url: 'https://techologie.net/',
         },
         {
           name: 'Web',
@@ -14183,6 +14187,13 @@ var data = {
       ],
       sessions: [
         {
+          title: 'Retour d\'expérience Conception Responsable du numérique',
+          abstract:
+            "Enjeux environnementaux et sociétaux du numérique, exemples de réalisation de sites web avec une démarche d'éco-conception, mise en place de suivi d'audience respectueux des utilisateurs et un exemple d'une progressive web app qui sauve des vies.",
+          tags: ['progressiveWebApp', 'numériqueResponsable', 'eco-conception', 'lowtech', 'environnement', 'société'],
+          lang: ['fr'],
+        },
+        {
           title: 'Coder pour quel futur ?',
           abstract:
             "Des scientifiques estiment que l'effondrement de notre civilisation est imminente voire même qu'elle a déjà commencé. Par exemple 60% de la population animale a disparu depuis 1970. Le manque d'eau et de pétrole génère des tensions. Comment à notre niveau, gens de la tech, contribuer à réduire notre impact sur l'environnement dans notre façon de travailler et de vivre au quotidien ?",
@@ -14194,14 +14205,21 @@ var data = {
             "Le web n'est pas mort, la revanche par les Progressives Web Apps",
           abstract:
             'Les Progressives Web Apps ont pour objectif de rivaliser avec les apps natives. Voyons comment cela fonctionne techniquement et le gain que cela apporte aux utilisateurs.',
-          tags: ['ProgressiveWebApp', 'JavaScript'],
+          tags: ['progressiveWebApp', 'JavaScript'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Comment lancer son podcast',
+          abstract:
+            "Retour d'expérience d'un développeur sur le lancement de deux podcasts : https://podcastecho.github.io/ et https://techologie.net/ Quelques astuces et pièges à éviter pour vous donner envie de lancer votre podcast.",
+          tags: ['podcast'],
           lang: ['fr'],
         },
         {
           title: 'Web app sans internet ou presque',
           abstract:
             "Retour d'expérience sur la conception d'une progressive web app avec une stratégie de cache en offline-first.",
-          tags: ['ProgressiveWebApp', 'JavaScript'],
+          tags: ['progressiveWebApp', 'JavaScript'],
           lang: ['fr'],
         },
         {
