@@ -2286,65 +2286,6 @@ var data = {
     },
     {
       since: '2013-06-13',
-      name: 'Fabrice Bournisien',
-      bio:
-        "Responsable qualité web, spécialiste de l'automatisation de tests fonctionnels.",
-      picture: 'https://pbs.twimg.com/profile_images/1979322615/avatar.png',
-      websites: [
-        {
-          name: 'Web',
-          url: 'http://web-quality.over-blog.com/',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.fabricebournisien.eu',
-        },
-      ],
-      location: 'Toulouse et environs',
-      sessions: [
-        {
-          title: 'Mise en place de tests de non régression',
-          abstract:
-            'Comment mettre en place des tests fonctionnels sur vos sites web ? Du choix des technologies à un exemple concret.',
-          tags: [
-            'Test',
-            'Test fonctionnel',
-            'Scrum',
-            'Agile',
-            'Jenkins',
-            'Cucumber',
-            'Watir',
-            'Webdriver',
-            'Web',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Agilité et qualité',
-          abstract:
-            'Organisation technique et humaine pour faciliter la qualité en mode agile.',
-          tags: [
-            'Test',
-            'Test fonctionnel',
-            'Scrum',
-            'Agile',
-            'Jenkins',
-            'Cucumber',
-            'Watir',
-            'Webdriver',
-            'Web',
-          ],
-          lang: ['fr'],
-        },
-      ],
-      cities: ['Toulouse'],
-      contacts: {
-        twitter: 'fabrice31',
-        mail: 'fabrice.bournisien@gmail.com',
-      },
-    },
-    {
-      since: '2013-06-13',
       name: 'Laurent Tardif',
       bio: 'Devops, agiliste - Zenika',
       picture: 'img/baggers/photo_LaurentTardif.jpg',
