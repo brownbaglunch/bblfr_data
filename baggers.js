@@ -16975,6 +16975,35 @@ var data = {
         twitter: 'IlanBenhamou',
       },
     },
+    {
+      since: '2019-10-31',
+      name: 'Olivier Durgeau',
+      bio:
+        "Intégrateur Logiciel depuis plus de 10 ans chez des grands comptes, je cultive une passion pour tout le cycle de développement logiciel. Les outils de gestion de projets permettent de suivre et de documenter les évolutions du logiciel. J'ai découvert le Ruby On Rails en me passionnant pour un de ces outils et je développe maintenant mes projets avec ce framework.",
+      picture:
+        'https://www.gravatar.com/avatar/4847e688fa553955d1c0b8e7764a7be9?s=200',
+      websites: [
+        {
+          name: 'Linkedin',
+          url: 'https://www.linkedin.com/in/olivier-durgeau-04b141b4',
+        },
+      ],
+      location: 'Le Mans, Paris',
+      sessions: [
+        {
+          title:
+            'Pourquoi on devrait tous avoir un outil de ticketing chez soi ?',
+          abstract:
+            "Les outils de ticketing sont très utilisés pour suivre le développement du logiciel, mais ils peuvent aussi être utilisés pour suivre n'importe quel type  de projet. Redmine est une application web de gestion de projet complète, configurable et extensible.  Il est le concurrent de Jira en opensource. Nous allons voir ensemble les principales fonctionnalités de Redmine et comment il peut être utilisé dans différents cas d'usages.",
+          tags: ['redmine', 'ruby on rails'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Le Mans', 'Paris'],
+      contacts: {
+        mail: 'olivier@odevsystem.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
