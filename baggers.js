@@ -9991,7 +9991,7 @@ var data = {
       since: '2016-04-20',
       name: 'Xavier Gouchet',
       bio:
-        "Developpeur Senior Android chez Deezer, musicophile, passionné par l'architecture, l'algorithmique et les outils qui simplifient la vie du développeur",
+        "Senior Software Engineer chez Datadog, musicophile, passionné par l'architecture, les tests, l'algorithmique et les outils qui simplifient la vie du développeur",
       picture:
         'http://www.gravatar.com/avatar/2ecfc308b3401b0b9aa298f791044af1?s=256',
       websites: [
@@ -10007,13 +10007,6 @@ var data = {
       location: 'Paris, Chartres, Le Mans, ...',
       sessions: [
         {
-          title: 'Programmation orientée aspects (Java/Android)',
-          abstract:
-            'Les fondamentaux du développement orienté aspect, et surtout des exemples concrets pour aller plus loin que le traditionnel Hello World.',
-          tags: ['Java', 'Android', 'AOP', 'Aspect'],
-          lang: ['fr', 'en'],
-        },
-        {
           title: 'Refactoring : le bon, la brute et le truand (général)',
           abstract:
             'Quelques bonnes et mauvaises pratiques autour du refactoring, basé sur 3 refactorings vécus.',
@@ -10028,25 +10021,24 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title: 'Mutation Testing (Java/Android)',
+          title: 'Mutation Testing (Java/Kotlin/Android)',
           abstract:
             "Avoir des tests, c'est bien. Avoir de bons tests, c'est mieux ! Cette presentation va répondre à la question : Comment mesurer les tests unitaires autrement qu'avec la couverture de code",
-          tags: ['Tests', 'Coverage', 'Mutation', 'Android', 'Java'],
+          tags: ['Tests', 'Coverage', 'Mutation', 'Android', 'Java', 'Kotlin'],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            '10 choses que vous ne savez (probablement) pas sur les ContentProviders (Android)',
+          title: 'Architecture Mobile Offline First (Android/Kotlin)',
           abstract:
-            "L'un des piliers de la communication inter-application sur Android est assez méconnu. Je vous propose d'explorer des points de détails sur les ContentProviders et leur utilisation.",
-          tags: [
-            'ContentProvider',
-            'Inter Process Communication',
-            'SQLite',
-            'Database',
-            'Android',
-            'Java',
-          ],
+            "Malgré les avancées en terme de couverture réseau, de nombreux utilisateurs se retrouve sans accès à Internet. Comment architecturer son application mobile pour fournir une expérience utilisateur optimale même en offline ?",
+          tags: ['Network', 'Offline', 'Android', 'Java', 'Kotlin'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Comment Gradle peut simplifier votre vie (Gradle/Android/Kotlin)',
+          abstract:
+            "Tout développeur Android et beaucoup de développeurs Java connaissent Gradle. Cependant les fichiers de configuration deviennent souvent complexes, compliqués à lire (et à maintenir). Cette présentation expose différentes bonnes pratiques liées à l'utilisation de Gradle dans un projet Kotlin, Java ou Android.",
+          tags: ['Build', 'Android', 'Java', 'Kotlin', 'Gradle'],
           lang: ['fr', 'en'],
         },
       ],
