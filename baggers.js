@@ -17097,6 +17097,56 @@ var data = {
         mail: 'olivier@odevsystem.com',
       },
     },
+    {
+      "since": "2019-11-25",
+      "name": "Clément Bichel",
+      "bio": "Coach agile indépendant| cultivateur d'esprits agiles",
+      "picture": "https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg",
+      "websites": [
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/clementbichel/"
+        }
+      ],
+      "location": "Bordeaux",
+      "sessions": [
+        {
+          "title": "Delegation Poker",
+          "abstract": "Le Delegation Poker incite les équipes à discuter des leurs responsabilités et permet de clarifier certaines situations dans lesquelles la délégation est floue. De plus, ce jeu aide les responsables d'équipe à mieux connaitre leur l'équipe et à identifier les axes pour la faire grandir. Je vous propose d'essayer le jeu sur un cas concret après vous avoir expliqué son fonctionnement.",
+          "tags": [
+            "Management 3.0",
+            "Agilité",
+            "Méthodes agiles",
+            "Serious game",
+            "Coaching agile"
+          ],
+          "lang": [
+            "fr"
+          ]
+        },
+        {
+          "title": "Moving Motivators",
+          "abstract": "Les Moving Motivators permettent d'engager des discussions sur ce qui motive réellement les personnes. Ce jeu présente dix axes de motivation intrinsèque qui sont à interpréter et à classer en fonction des ses préférences. Ces cartes classées et leur interprétation servent de base à une discussion qui permet de mieux connaitre les personnes, leurs attentes et leurs envies. Je vous propose d'essayer le jeu après vous avoir expliqué son fonctionnement.",
+          "tags": [
+            "Management 3.0",
+            "Agilité",
+            "Méthodes agiles",
+            "Serious game",
+            "Coaching agile"
+          ],
+          "lang": [
+            "fr"
+          ]
+        }
+      ],
+      "cities": [
+        "Bordeaux"
+      ],
+      "contacts": {
+        "twitter": "clementbichel",
+        "mail": "clement.bichel+BBL@gmail.com"
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
