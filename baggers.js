@@ -455,13 +455,6 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title: 'Faites (re)vivre vos spécifications',
-          abstract:
-            "Vous avez écrit des centaines de pages de spécifications mais personne ne les a lues et elles sont déjà désuètes ? La solution se trouve dans la spécification par l'exemple qui permet de mettre en pratique l'ATDD, le BDD et surtout la co-création en créant le dialogue et un langage commun avec le métier. Nous baserons sur l'outil Serenity-BDD pour la mise en pratique",
-          tags: ['tests', 'spécifications', 'BDD'],
-          lang: ['fr'],
-        },
-        {
           title: 'Du monolithe aux micro services depuis les tranchées.',
           abstract:
             'Le but de ce BBL est vous faire un retour d’expérience sur le passage d’une application monolithique à une architecture sous forme de micro-services. Quels sont les éléments de réflexion à mettre en place avant de se lancer? Quelles sont les difficultés? Les choix techniques possibles? Nous verrons aussi bien sur pourquoi et à quelle moment passer à une architecture micro-services car peut être n’est-ce pas finalement la «silver bullet» qu’on espère?',
@@ -469,9 +462,9 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title: 'Continuous Delivery',
+          title: 'Continuous Delivery & DevOps',
           abstract:
-            'J’organise régulièrement des soirées autour du Continuous Delivery. C’est une pratique qu’il devient indispensable  de maitriser face à la concurrence mais cette pratique demande un très bon niveau technique ainsi qu’un management moderne. Le but de ce BBL est de présenter comment mettre en place cette pratique et quels sont les éléments à considérer pour y arriver. Nous y parlerons de Continuous Integration,  Continuous Delivery, Continuous Deployment ou encore Devops',
+            'J’organise régulièrement des soirées autour du Continuous Delivery. C’est une pratique qu’il devient indispensable de maitriser face à la concurrence mais cette pratique demande un très bon niveau technique ainsi qu’un management moderne. Le but de ce BBL est de présenter comment mettre en place cette pratique et quels sont les éléments à considérer pour y arriver. Nous y parlerons de Continuous Integration,  Continuous Delivery, Continuous Deployment ou encore Devops',
           tags: ['continuous delivery', 'devops'],
           lang: ['fr', 'en'],
         },
@@ -483,10 +476,25 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title: 'Principes de développement produit en flux.',
+          title:
+            'Principes de développement produit en flux et organisation apprenante.',
           abstract:
             'Dans l’armée, on dit parfois “Embrace the suck”, ce qui se traduit par “la situation est mauvaise, mais faites avec." Pour les développeurs de logiciels aussi, la situation est mauvaise : les délais ne tiennent pas, la feuille de route ne vaut rien et le management est perdu au siècle dernier. Notre problème est que notre domaine est complexe, le plus souvent incertain, voire condamné aux cygnes noirs. Dans ce BBL, je veux montrer qu’il est possible de vivre avec cette complexité en passant des méthodologies projets (ou SAFe) aux principes du flux de développement de produits et en créant des organisations apprenantes.',
           tags: ['lean', 'agile', 'flow', 'product management', 'organisation'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'De scrum au flux.',
+          abstract:
+            'Comment peut-on dépasser Scrum pour aller vers un flux de développement logiciel, en comprenant les principes associés et utilisant Kanban et la livraison continue.',
+          tags: [
+            'scrum',
+            'lean',
+            'agile',
+            'flow',
+            'product management',
+            'organisation',
+          ],
           lang: ['fr', 'en'],
         },
       ],
@@ -12427,7 +12435,8 @@ var data = {
       since: '2017-06-20',
       name: 'Adrien Pessu',
       bio: 'Développeur, geek, etc',
-      picture: 'https://adrien.pessu.net/author/admin/avatar_hu68adafc281e32380a65db568a64c57fe_43076_250x250_fill_q90_lanczos_center.jpg',
+      picture:
+        'https://adrien.pessu.net/author/admin/avatar_hu68adafc281e32380a65db568a64c57fe_43076_250x250_fill_q90_lanczos_center.jpg',
       websites: [
         {
           name: 'Web',
@@ -12468,17 +12477,10 @@ var data = {
         {
           title: 'CORS, XSS, CSRF, SQL injection #BackToTheBasics',
           abstract:
-            "Pas besoin d’être RSSI ou DevOpsSec pour se soucier de sécurité. Que l’on soit développeur back ou front, la sécurité est l’affaire de tous. Pourtant, on la confie souvent aveuglement à nos frameworks. Mais alors comment vérifier la sécurité de nos données et de nos utilisateurs. A travers quelques démos, nous allons voir les failles les plus basiques et pourtant les plus répandus : CORS, XSS, CSRF et SQL injection.",
-          tags: [
-            'CORS',
-            'XSS',
-            'CSRF',
-            'SQL Injection',
-            'Sécurité',
-            'DevSec',
-          ],
+            'Pas besoin d’être RSSI ou DevOpsSec pour se soucier de sécurité. Que l’on soit développeur back ou front, la sécurité est l’affaire de tous. Pourtant, on la confie souvent aveuglement à nos frameworks. Mais alors comment vérifier la sécurité de nos données et de nos utilisateurs. A travers quelques démos, nous allons voir les failles les plus basiques et pourtant les plus répandus : CORS, XSS, CSRF et SQL injection.',
+          tags: ['CORS', 'XSS', 'CSRF', 'SQL Injection', 'Sécurité', 'DevSec'],
           lang: ['fr'],
-        }
+        },
       ],
       cities: ['Nantes'],
       contacts: {
@@ -13591,8 +13593,7 @@ var data = {
           lang: ['fr'],
         },
         {
-          title:
-            'Créons notre première API avec NestJS',
+          title: 'Créons notre première API avec NestJS',
           abstract:
             "Depuis le temps que vous allez à des conférences, vous avez sûrement participé à des codelabs JavaScript essentiellement sur vos framework frontend. Depuis peu, un nouveau framework sort du lot, et c’est un framework backend : NestJS. Simple à prendre en main, respectant les principes d'Angular et sa facilité d'utilisation, NestJS sera réconcilier les “insatisfaits” de Node, Express et ses plugins grâce aux principes de Controllers, Providers, Modules, ou encore Middlewares qui vous aideront à organiser votre projet.",
           tags: ['Node.js', 'NestJS', 'Angular', 'Express'],
@@ -14128,10 +14129,17 @@ var data = {
       ],
       sessions: [
         {
-          title: 'Retour d\'expérience Conception Responsable du numérique',
+          title: "Retour d'expérience Conception Responsable du numérique",
           abstract:
             "Enjeux environnementaux et sociétaux du numérique, exemples de réalisation de sites web avec une démarche d'éco-conception, mise en place de suivi d'audience respectueux des utilisateurs et un exemple d'une progressive web app qui sauve des vies.",
-          tags: ['progressiveWebApp', 'numériqueResponsable', 'eco-conception', 'lowtech', 'environnement', 'société'],
+          tags: [
+            'progressiveWebApp',
+            'numériqueResponsable',
+            'eco-conception',
+            'lowtech',
+            'environnement',
+            'société',
+          ],
           lang: ['fr'],
         },
         {
@@ -14961,19 +14969,25 @@ var data = {
       location: 'Paris, Ouest parisien, remote',
       sessions: [
         {
-          title:
-            'Passer au sprint d\'une semaine',
+          title: "Passer au sprint d'une semaine",
           abstract:
             "Difficultés, bénéfices, emploi du temps. Qu'est-ce que ça peut vous apporter de passer au Sprint d'Une Semaine ?",
           tags: ['Agile', 'Scrum', 'Coaching', 'Sprint'],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'IMPACT : Comment prendre des décision quand on est PO ?',
+          title: 'IMPACT : Comment prendre des décision quand on est PO ?',
           abstract:
-            "Comment choisir la bonne priorisation ? Quels sont les outils du PO pour choisir les fonctionnalités ayant le plus de valeur, les utilisateurs à inviter, les tâches techniques à intégrer au backlog ? Je vous propose des outils clairs pour les PO de tout niveau",
-          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Product Owner', 'PO'],
+            'Comment choisir la bonne priorisation ? Quels sont les outils du PO pour choisir les fonctionnalités ayant le plus de valeur, les utilisateurs à inviter, les tâches techniques à intégrer au backlog ? Je vous propose des outils clairs pour les PO de tout niveau',
+          tags: [
+            'Agile',
+            'Scrum',
+            'Produit',
+            'Valeur',
+            'Priorisation',
+            'Product Owner',
+            'PO',
+          ],
           lang: ['fr', 'en'],
         },
         {
@@ -14985,67 +14999,112 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Management : Une équipe agile demande une nouvelle approche',
+          title: 'Management : Une équipe agile demande une nouvelle approche',
           abstract:
             "Comment faire pour manager une équipe agile ? L'agilité vient en contradiction avec les méthodes traditionnelles, pour se rapprocher plus des valeurs de Deming. Comment, quand on est manager, doit-on se comporter lorsqu'on travaille avec une équipe agile ?",
           tags: ['Agile', 'Scrum', 'Coaching', 'Management'],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Comment rater ses communautés de pratiques',
+          title: 'Comment rater ses communautés de pratiques',
           abstract:
             "Une des clés de l'efficacité d'un modèle à l'échelle est la capacité des équipes à communiquer et à avancer dans le même sens. Quelles sont les erreurs à faire (et donc à éviter) pour ne pas construire des communautés de pratiques de façon pérenne ?",
-          tags: ['Agile', 'Scrum', 'Coaching', 'Management', 'Dépendance', 'Collaboration', 'Equipes'],
+          tags: [
+            'Agile',
+            'Scrum',
+            'Coaching',
+            'Management',
+            'Dépendance',
+            'Collaboration',
+            'Equipes',
+          ],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Example Mapping : Atelier',
+          title: 'Example Mapping : Atelier',
           abstract:
             "L'example Mapping est un atelier permettant de facilité le découpage des US et d'en sortir le maximum de valeur, tout en limitant le gâchis en ne faisant pas des choses inutiles pour le client ou l'utilisateur",
-          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Product Owner', 'PO', 'Atelier'],
+          tags: [
+            'Agile',
+            'Scrum',
+            'Produit',
+            'Valeur',
+            'Priorisation',
+            'Product Owner',
+            'PO',
+            'Atelier',
+          ],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Story Mapping : Atelier',
+          title: 'Story Mapping : Atelier',
           abstract:
             "Le meilleur moyen de comprendre le besoin du client c'est en étudiant son workflow et en en tirant des hypothèses sur son besoin",
-          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Product Owner', 'PO', 'Atelier'],
+          tags: [
+            'Agile',
+            'Scrum',
+            'Produit',
+            'Valeur',
+            'Priorisation',
+            'Product Owner',
+            'PO',
+            'Atelier',
+          ],
           lang: ['fr', 'en'],
         },
         {
           title:
-            'Architecture : Comment on concoit dans une équipe agile ? Quelle est la place de l\'architecte technique ?',
+            "Architecture : Comment on concoit dans une équipe agile ? Quelle est la place de l'architecte technique ?",
           abstract:
             "Que ce soit le design graphique, le design technique (architecture), la conception émergente est une des clés de l'agilité. Préparer des maquettes, un socle technique ou faire une phase de cadrage technique est souvent une preuve de manque d'agilité, alors, on fait comment pour des produits très complexe ?",
-          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Architecture', 'Sprint 0', 'Cadrage'],
+          tags: [
+            'Agile',
+            'Scrum',
+            'Produit',
+            'Valeur',
+            'Priorisation',
+            'Architecture',
+            'Sprint 0',
+            'Cadrage',
+          ],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Sprint 0 : et si on s\'en passait ?',
+          title: "Sprint 0 : et si on s'en passait ?",
           abstract:
             "Que ce soit le design graphique, le design technique (architecture), la conception émergente est une des clés de l'agilité. Préparer des maquettes, un socle technique ou faire une phase de cadrage technique est souvent une preuve de manque d'agilité, alors, on fait comment pour des produits très complexe ?",
-          tags: ['Agile', 'Scrum', 'Produit', 'Valeur', 'Priorisation', 'Architecture', 'Sprint 0', 'Cadrage'],
+          tags: [
+            'Agile',
+            'Scrum',
+            'Produit',
+            'Valeur',
+            'Priorisation',
+            'Architecture',
+            'Sprint 0',
+            'Cadrage',
+          ],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Management 3.0 : Comprendre les motivateurs de votre équipe',
+          title: 'Management 3.0 : Comprendre les motivateurs de votre équipe',
           abstract:
             "Une explication et mes astuces pour animer un atelier de Moving Motivator, l'exercice venant du Management 3.0 pour comprendre comment impliquer votre équipe.",
           tags: ['Agile', 'Scrum', 'Equipe', 'Management 3.0', 'Management'],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            '#NoEstimate : Ca veut dire quoi ? Comment s\'y prendre ?',
+          title: "#NoEstimate : Ca veut dire quoi ? Comment s'y prendre ?",
           abstract:
-            "Une entrée en matière sur le mouvement NoEstimate, plus mes astuces et conseils pour le mettre en place chez vous, que ce soit avec une nouvelle équipe ou sur une équipe qui fonctionne déjà tout en répondant aux besoins de roadmap et budget.",
-          tags: ['Agile', 'Scrum', 'Equipe', 'Management', 'Estimation', 'Roadmap', 'Budget'],
+            'Une entrée en matière sur le mouvement NoEstimate, plus mes astuces et conseils pour le mettre en place chez vous, que ce soit avec une nouvelle équipe ou sur une équipe qui fonctionne déjà tout en répondant aux besoins de roadmap et budget.',
+          tags: [
+            'Agile',
+            'Scrum',
+            'Equipe',
+            'Management',
+            'Estimation',
+            'Roadmap',
+            'Budget',
+          ],
           lang: ['fr', 'en'],
         },
       ],
@@ -16470,21 +16529,17 @@ var data = {
     {
       since: '2019-07-22',
       name: 'Nicolas Torion',
-      bio:
-        "Développeur Full-Stack @ BearStudio",
-      picture: 'https://pbs.twimg.com/profile_images/1102599280513220608/Dgncv0EI_400x400.png',
-      websites: [
-          { name: 'Twitter', url: 'https://twitter.com/NicoTotor' },
-      ],
+      bio: 'Développeur Full-Stack @ BearStudio',
+      picture:
+        'https://pbs.twimg.com/profile_images/1102599280513220608/Dgncv0EI_400x400.png',
+      websites: [{ name: 'Twitter', url: 'https://twitter.com/NicoTotor' }],
       sessions: [
         {
-          title: 'REACT NATIVE : REACT POUR DÉVELOPPER DES APPLICATIONS NATIVES ANDROID ET IOS',
-          abstract: 'React s’est imposé depuis plusieurs années comme une référence dans le développement d’applications web dynamiques. Après le web, le projet Open-Source s’est étendu en 2015 au mobile avec React Native et avec pour objectif de simplifier le développement d’applications mobiles natives Android et iOS et de permettre aux développeurs d’avoir un unique projet fonctionnel sur les deux plateformes. Au BearStudio, nos clients ont souvent pour besoin de lancer une première version de leur produit sur le marché avec de fortes contraintes de temps et de budget. Dans ce contexte, React Native a rapidement trouvé sa place dans nos solutions technologiques pour répondre à ces besoins. Et nous avons ainsi pu développer 4 applications mobiles en l\'espace d\'une année avec cette technologie. Ce talk sera donc un retour d\'expérience sur React Native et présentera tout ce qu\'il faut connaitre pour démarrer un projet React Native :',
-          tags: [
-            'React Native',
-            'Android',
-            'iOS',
-          ],
+          title:
+            'REACT NATIVE : REACT POUR DÉVELOPPER DES APPLICATIONS NATIVES ANDROID ET IOS',
+          abstract:
+            "React s’est imposé depuis plusieurs années comme une référence dans le développement d’applications web dynamiques. Après le web, le projet Open-Source s’est étendu en 2015 au mobile avec React Native et avec pour objectif de simplifier le développement d’applications mobiles natives Android et iOS et de permettre aux développeurs d’avoir un unique projet fonctionnel sur les deux plateformes. Au BearStudio, nos clients ont souvent pour besoin de lancer une première version de leur produit sur le marché avec de fortes contraintes de temps et de budget. Dans ce contexte, React Native a rapidement trouvé sa place dans nos solutions technologiques pour répondre à ces besoins. Et nous avons ainsi pu développer 4 applications mobiles en l'espace d'une année avec cette technologie. Ce talk sera donc un retour d'expérience sur React Native et présentera tout ce qu'il faut connaitre pour démarrer un projet React Native :",
+          tags: ['React Native', 'Android', 'iOS'],
           lang: ['fr'],
         },
       ],
@@ -16493,24 +16548,28 @@ var data = {
       contacts: {
         twitter: 'NicoTotor',
         mail: 'nicolas.torion@bearstudio.fr',
-      }
+      },
     },
     {
       since: '2019-07-22',
       name: 'Philippe Chevreul',
       bio:
         "UX/UI Designer - Développeur Front @ BearStudio -- Designer et Developpeur en devenir, j'aime concevoir et créer des interfaces fonctionnelles pour des utilisateurs !",
-      picture: 'https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/17760227_1613741305320428_2908477432045572687_n.jpg?_nc_cat=103&_nc_oc=AQlZtWOA4xRvETEVbOo8IfB8Ty9WRgnBkCRuB4R6WfHKfxSQHiRid2pukY4b1aT_-X4&_nc_ht=scontent-cdt1-1.xx&oh=66f48ff05b9673e63ec4da68477dddc2&oe=5DABB05E',
+      picture:
+        'https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/17760227_1613741305320428_2908477432045572687_n.jpg?_nc_cat=103&_nc_oc=AQlZtWOA4xRvETEVbOo8IfB8Ty9WRgnBkCRuB4R6WfHKfxSQHiRid2pukY4b1aT_-X4&_nc_ht=scontent-cdt1-1.xx&oh=66f48ff05b9673e63ec4da68477dddc2&oe=5DABB05E',
       websites: [
         { name: 'Web', url: 'https://philippechevreul.fr' },
-        { name: 'LinkedIn', url: 'https://www.linkedin.com/in/philippe-chevreul-64302212b/' },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/philippe-chevreul-64302212b/',
+        },
       ],
       location: 'Rouen',
       sessions: [
         {
           title: 'Le bon sens au service de vos utilisateurs',
           abstract:
-            'Dans cette session, nous verrons comment mettre l\'utilisateur au centre de votre solution, avec quelques règles de bon sens pour vos interfaces',
+            "Dans cette session, nous verrons comment mettre l'utilisateur au centre de votre solution, avec quelques règles de bon sens pour vos interfaces",
           tags: ['ergonomie', 'ux', 'ui', 'web'],
           lang: ['fr'],
         },
@@ -16757,7 +16816,7 @@ var data = {
       since: '2019-08-02',
       name: 'David Endico',
       bio:
-        'UI/UX Designer, Graphiste et Développeur Front, David est passionné de conceptualisation et conception d\'interfaces. Ses armes ? Le combo papier-crayon, Sketch et la Suite Adobe ainsi que toute la puissance des langages Front et leurs frameworks !',
+        "UI/UX Designer, Graphiste et Développeur Front, David est passionné de conceptualisation et conception d'interfaces. Ses armes ? Le combo papier-crayon, Sketch et la Suite Adobe ainsi que toute la puissance des langages Front et leurs frameworks !",
       picture:
         'https://pbs.twimg.com/profile_images/696987947522990080/md67ySS9_400x400.png',
       websites: [
@@ -16769,33 +16828,34 @@ var data = {
       location: 'Rouen',
       sessions: [
         {
-          title:
-            "Les bases de l'ergonomie pour tous",
+          title: "Les bases de l'ergonomie pour tous",
           abstract:
             'Vous voulez faire plaisir à vos utilisateurs ?\n' +
-            'De la théorie de la Gestatl au rôle des performances, en passant par l\'importance du feedback, venez (re)découvrir les règles essentielles de conception, d\'amélioration et d\'utilisation de vos interfaces web !',
+            "De la théorie de la Gestatl au rôle des performances, en passant par l'importance du feedback, venez (re)découvrir les règles essentielles de conception, d'amélioration et d'utilisation de vos interfaces web !",
           tags: ['UI', 'UX', 'design', 'ergonomie'],
           lang: ['fr'],
-        }, {
-          title:
-            "Du bon usage d’une charte graphique",
+        },
+        {
+          title: 'Du bon usage d’une charte graphique',
           abstract:
             "Créer une charte graphique ? Rien de plus facile ! Un petit coup de Times New Roman, du rouge pour faire plaisir à ma femme... Au pire, le petit neveu connait Photoshop, non ? Malgré son apparente simplicité, créer une charte graphique ne s'improvise pas. Qu'est-ce qu'une bonne charte graphique ? De quoi est-elle composée et quels sont les pièges à éviter ? Autant de mystères que nous allons ensemble élucider, pour le bien de votre identité !",
           tags: ['branding', 'design', 'graphisme', 'charte', 'graphique'],
           lang: ['fr'],
-        }
+        },
       ],
       cities: ['Rouen', 'Paris'],
       contacts: {
         twitter: 'davidendico',
         mail: 'david@bearstudio.fr',
-      }
+      },
     },
     {
       since: '2019-07-16',
       name: 'Florian Kauder',
-      bio: 'Co-Fondateur et Directeur Technique de KBDev - Spécialiste du JS - J\'adore les peluches',
-      picture: 'https://pbs.twimg.com/profile_images/1007642192293318658/vikrDvbZ_400x400.jpg',
+      bio:
+        "Co-Fondateur et Directeur Technique de KBDev - Spécialiste du JS - J'adore les peluches",
+      picture:
+        'https://pbs.twimg.com/profile_images/1007642192293318658/vikrDvbZ_400x400.jpg',
       cities: ['Bordeaux'],
       contacts: {
         twitter: 'aamulumi',
@@ -16813,12 +16873,21 @@ var data = {
       ],
       sessions: [
         {
-          title: 'Je n\'ai jamais rien compris à Redux, donc je vais le recoder',
-          abstract: 'Ola Voyageur·e !\n\nSi le temps vous le permet, je m\'en vais vous conter les aventures du sieur Abramov et de sa monture Redux.\nEn ayant cotoyé l\'écurie React, votre seule rencontre avec cet équidé ne put être qu\'un dédale de mésaventures.\nMais soit, votre serviteur à l\'esprit perverti s\'est entêté à découvrir le secret de ces engrenages.\nPar la création, je m\'en vais allumer la lanterne de vos pensées.\nMensonge, baliverne, tromperie, magie noire,\nRencontrez moi dans la salle du village,\nEt découvrez mes humbles secrets.',
-          tags: ['Redux', 'React.js', 'Javascript', 'Architecture', 'Patterns', 'Coding Live', 'Front-end'],
+          title: "Je n'ai jamais rien compris à Redux, donc je vais le recoder",
+          abstract:
+            "Ola Voyageur·e !\n\nSi le temps vous le permet, je m'en vais vous conter les aventures du sieur Abramov et de sa monture Redux.\nEn ayant cotoyé l'écurie React, votre seule rencontre avec cet équidé ne put être qu'un dédale de mésaventures.\nMais soit, votre serviteur à l'esprit perverti s'est entêté à découvrir le secret de ces engrenages.\nPar la création, je m'en vais allumer la lanterne de vos pensées.\nMensonge, baliverne, tromperie, magie noire,\nRencontrez moi dans la salle du village,\nEt découvrez mes humbles secrets.",
+          tags: [
+            'Redux',
+            'React.js',
+            'Javascript',
+            'Architecture',
+            'Patterns',
+            'Coding Live',
+            'Front-end',
+          ],
           lang: ['fr'],
         },
-      ]
+      ],
     },
     {
       since: '2018-01-01',
@@ -16887,13 +16956,13 @@ var data = {
       contacts: {
         twitter: 'FGRibreau',
         mail: 'bblfr_data@fgribreau.com',
-      }
+      },
     },
     {
       since: '2019-08-02',
       name: 'Rudy Baer',
       bio:
-        'Responsable technique et stimulateur de projets expérimenté, Rudy a finalement choisi de vivre l\'aventure d\'entrepreneur. C\'est en souhaitant accompagner les startupers et proposer davantage qu\'un simple studio de développement qu\'il a fondé le BearStudio.',
+        "Responsable technique et stimulateur de projets expérimenté, Rudy a finalement choisi de vivre l'aventure d'entrepreneur. C'est en souhaitant accompagner les startupers et proposer davantage qu'un simple studio de développement qu'il a fondé le BearStudio.",
       picture:
         'https://www.bearstudio.fr/user/themes/bearstudio/dist/assets/app/img/rudy-baer-md.jpg',
       websites: [
@@ -16905,27 +16974,40 @@ var data = {
       location: 'Rouen',
       sessions: [
         {
-          title:
-            "Les outils numériques de l’entrepreneur",
+          title: 'Les outils numériques de l’entrepreneur',
           abstract:
             "Est ce que vous vous êtes déjà posé la question de votre efficacité au quotidien ? Vous êtes en recherche d'outils pour discuter, envoyer, lister, programmer... Sur vos différents périphériques... simple à utiliser. Et bien ça existe, il sont accessible et avec une bonne pratique d'usage, nous allons vous présenter un panel pour répondre aux besoins pour gérer un projet, une équipe, une entreprise,....",
-          tags: ['entreprendre', 'entrepreneur', 'startup', 'startuper', 'projet', 'numérique'],
+          tags: [
+            'entreprendre',
+            'entrepreneur',
+            'startup',
+            'startuper',
+            'projet',
+            'numérique',
+          ],
           lang: ['fr'],
-        }, {
-          title:
-            "Décrypter la technique pour lancer son projet numérique",
+        },
+        {
+          title: 'Décrypter la technique pour lancer son projet numérique',
           abstract:
             "Vous souhaitez lancer votre startup ? Vous avez un projet numérique innovant ? Problème, vous n'avez aucune connaissance technique... ou pire, vous avez installé un site wordpress une fois dans votre vie et vous êtes persuadé que le développement informatique c'est simple et gratuit... Le but de cette conférence est de vulgariser les notions et le jargon à connaitre (dev front, api, back, cloud, bigdata...). Vous donner un aperçu réel du marché (salaire d'un developpeur, coût de production...) #nobullshit Enfin nous donnerons quelques préconisations pour éviter certains pièges.",
-          tags: ['entreprendre', 'entrepreneur', 'startup', 'startuper', 'projet', 'numérique'],
+          tags: [
+            'entreprendre',
+            'entrepreneur',
+            'startup',
+            'startuper',
+            'projet',
+            'numérique',
+          ],
           lang: ['fr'],
-        }, {
-          title:
-            "L'UX Designer, le meilleur ami du startuper !",
+        },
+        {
+          title: "L'UX Designer, le meilleur ami du startuper !",
           abstract:
             " \"L'UX Design\" on en entend souvent parler sans forcément savoir ce que c'est ou en réduisant ça à l'aspect graphique... Après avoir défini quelques notions théoriques et les points importants à avoir en tête, je vous expliquerai dans cette conférence pourquoi l'UX Designer est un atout pour les CTO, les développeurs, le marketing, vos utilisateurs et donc pour votre business !",
           tags: ['UI', 'UX', 'startup', 'startuper', 'design', 'ergonomie'],
           lang: ['fr'],
-        }
+        },
       ],
       cities: ['Rouen', 'Paris'],
       contacts: {
@@ -16936,8 +17018,7 @@ var data = {
     {
       since: '2019-10-28',
       name: 'Ilan Zerath',
-      bio:
-        'Craftsman - Full Stack Engineer @ beNext.',
+      bio: 'Craftsman - Full Stack Engineer @ beNext.',
       picture:
         'https://pbs.twimg.com/profile_images/1081844752084017152/sCswQBbg_400x400.jpg',
       websites: [
@@ -16949,24 +17030,44 @@ var data = {
       location: 'Paris et alentours',
       sessions: [
         {
-          title: 'Une grande architecture comporte de grandes responsabilités - Clean Architecture - VIPER (version iOS)',
+          title:
+            'Une grande architecture comporte de grandes responsabilités - Clean Architecture - VIPER (version iOS)',
           abstract:
             "Comme vous le savez, chaque développeur est une sorte de super-héros de son application. Il garantit qu'il est évolutif, facilement testable et maintenable. Nous allons passer ensemble par une approche d'architecture qui nous permet d'avoir une application robuste.",
           tags: ['clean architecture', 'solid', 'architecture', 'ios'],
           lang: ['fr'],
         },
         {
-          title: 'Jenkins Pipeline - Un ami qui vous veut du bien. (version iOS)',
+          title:
+            'Jenkins Pipeline - Un ami qui vous veut du bien. (version iOS)',
           abstract:
-            'C\'est un gars bien. Il est toujours là pour aider. Il est peut-être en retrait dans ton équipe ou bien tu l\'as aperçu chez d\'autres, et tu aimerais le connaître davantage. Il a plusieurs casquettes mais il est hyper cool pour de la CI / CD.',
-          tags: ['code', 'qualité', 'ci', 'cd', 'integration continue', 'deploiement continue', 'jenkins', 'pipeline', 'ios'],
+            "C'est un gars bien. Il est toujours là pour aider. Il est peut-être en retrait dans ton équipe ou bien tu l'as aperçu chez d'autres, et tu aimerais le connaître davantage. Il a plusieurs casquettes mais il est hyper cool pour de la CI / CD.",
+          tags: [
+            'code',
+            'qualité',
+            'ci',
+            'cd',
+            'integration continue',
+            'deploiement continue',
+            'jenkins',
+            'pipeline',
+            'ios',
+          ],
           lang: ['fr'],
         },
         {
           title: 'Les bonnes pratiques pour faire des tests unitaires',
           abstract:
-            'Nous allons voir ensemble certaines principes de base tel que l\'injection de dépendance, S.O.L.I.D... Afin de réaliser des tests unitaires',
-          tags: ['code', 'qualité', 'solid', 'tests', 'tests unitaires', 'injection de dépendance', 'ios'],
+            "Nous allons voir ensemble certaines principes de base tel que l'injection de dépendance, S.O.L.I.D... Afin de réaliser des tests unitaires",
+          tags: [
+            'code',
+            'qualité',
+            'solid',
+            'tests',
+            'tests unitaires',
+            'injection de dépendance',
+            'ios',
+          ],
           lang: ['fr'],
         },
       ],
