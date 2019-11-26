@@ -10030,12 +10030,13 @@ var data = {
         {
           title: 'Architecture Mobile Offline First (Android/Kotlin)',
           abstract:
-            "Malgré les avancées en terme de couverture réseau, de nombreux utilisateurs se retrouve sans accès à Internet. Comment architecturer son application mobile pour fournir une expérience utilisateur optimale même en offline ?",
+            'Malgré les avancées en terme de couverture réseau, de nombreux utilisateurs se retrouve sans accès à Internet. Comment architecturer son application mobile pour fournir une expérience utilisateur optimale même en offline ?',
           tags: ['Network', 'Offline', 'Android', 'Java', 'Kotlin'],
           lang: ['fr', 'en'],
         },
         {
-          title: 'Comment Gradle peut simplifier votre vie (Gradle/Android/Kotlin)',
+          title:
+            'Comment Gradle peut simplifier votre vie (Gradle/Android/Kotlin)',
           abstract:
             "Tout développeur Android et beaucoup de développeurs Java connaissent Gradle. Cependant les fichiers de configuration deviennent souvent complexes, compliqués à lire (et à maintenir). Cette présentation expose différentes bonnes pratiques liées à l'utilisation de Gradle dans un projet Kotlin, Java ou Android.",
           tags: ['Build', 'Android', 'Java', 'Kotlin', 'Gradle'],
@@ -17098,54 +17099,133 @@ var data = {
       },
     },
     {
-      "since": "2019-11-25",
-      "name": "Clément Bichel",
-      "bio": "Coach agile indépendant| cultivateur d'esprits agiles",
-      "picture": "https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg",
-      "websites": [
+      since: '2019-11-25',
+      name: 'Clément Bichel',
+      bio: "Coach agile indépendant| cultivateur d'esprits agiles",
+      picture:
+        'https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg',
+      websites: [
         {
-          "name": "LinkedIn",
-          "url": "https://www.linkedin.com/in/clementbichel/"
-        }
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/clementbichel/',
+        },
       ],
-      "location": "Bordeaux",
-      "sessions": [
+      location: 'Bordeaux',
+      sessions: [
         {
-          "title": "Delegation Poker",
-          "abstract": "Le Delegation Poker incite les équipes à discuter des leurs responsabilités et permet de clarifier certaines situations dans lesquelles la délégation est floue. De plus, ce jeu aide les responsables d'équipe à mieux connaitre leur l'équipe et à identifier les axes pour la faire grandir. Je vous propose d'essayer le jeu sur un cas concret après vous avoir expliqué son fonctionnement.",
-          "tags": [
-            "Management 3.0",
-            "Agilité",
-            "Méthodes agiles",
-            "Serious game",
-            "Coaching agile"
+          title: 'Delegation Poker',
+          abstract:
+            "Le Delegation Poker incite les équipes à discuter des leurs responsabilités et permet de clarifier certaines situations dans lesquelles la délégation est floue. De plus, ce jeu aide les responsables d'équipe à mieux connaitre leur l'équipe et à identifier les axes pour la faire grandir. Je vous propose d'essayer le jeu sur un cas concret après vous avoir expliqué son fonctionnement.",
+          tags: [
+            'Management 3.0',
+            'Agilité',
+            'Méthodes agiles',
+            'Serious game',
+            'Coaching agile',
           ],
-          "lang": [
-            "fr"
-          ]
+          lang: ['fr'],
         },
         {
-          "title": "Moving Motivators",
-          "abstract": "Les Moving Motivators permettent d'engager des discussions sur ce qui motive réellement les personnes. Ce jeu présente dix axes de motivation intrinsèque qui sont à interpréter et à classer en fonction des ses préférences. Ces cartes classées et leur interprétation servent de base à une discussion qui permet de mieux connaitre les personnes, leurs attentes et leurs envies. Je vous propose d'essayer le jeu après vous avoir expliqué son fonctionnement.",
-          "tags": [
-            "Management 3.0",
-            "Agilité",
-            "Méthodes agiles",
-            "Serious game",
-            "Coaching agile"
+          title: 'Moving Motivators',
+          abstract:
+            "Les Moving Motivators permettent d'engager des discussions sur ce qui motive réellement les personnes. Ce jeu présente dix axes de motivation intrinsèque qui sont à interpréter et à classer en fonction des ses préférences. Ces cartes classées et leur interprétation servent de base à une discussion qui permet de mieux connaitre les personnes, leurs attentes et leurs envies. Je vous propose d'essayer le jeu après vous avoir expliqué son fonctionnement.",
+          tags: [
+            'Management 3.0',
+            'Agilité',
+            'Méthodes agiles',
+            'Serious game',
+            'Coaching agile',
           ],
-          "lang": [
-            "fr"
-          ]
-        }
+          lang: ['fr'],
+        },
       ],
-      "cities": [
-        "Bordeaux"
-      ],
-      "contacts": {
-        "twitter": "clementbichel",
-        "mail": "clement.bichel+BBL@gmail.com"
+      cities: ['Bordeaux'],
+      contacts: {
+        twitter: 'clementbichel',
+        mail: 'clement.bichel+BBL@gmail.com',
       },
+    },
+    {
+      since: '2019-11-25',
+      name: 'Johan Bonneau',
+      bio:
+        'Facilitateur, Scrum Master, formateur, développeur... bref tout ce qui rime en -eur. Invitez-moi et discutons ! (actuellement chez Zenika)',
+      picture: 'http://www.johanbonneau.com/assets/img/johan_bonneau.jpg',
+      cities: ['Nantes'],
+      contacts: {
+        twitter: 'JohanBonneau',
+        mail: 'johan@johanbonneau.com',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://www.johanbonneau.com/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/johanbonneau/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/Zenigata/',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title: 'Martine est manager agile.',
+          abstract:
+            "Où l'on parle de management plus ou moins moderne avec des retours d'expérience.",
+          tags: ['Agile', 'Coaching', 'Management'],
+          lang: ['fr'],
+        },
+        {
+          title: "Le framework SAFe en moins d'une heure.",
+          abstract:
+            "Pour saisir l'essentiel du framework SAFe en mode conférence ou échanges.",
+          tags: ['Agile', 'SAFe'],
+          lang: ['fr'],
+        },
+        {
+          title: 'La sociocratie.',
+          abstract:
+            'Explications de ce mode de gouvernance et mise en pratique de la prise de décision par consentement.',
+          tags: ['Agile', 'Coaching', 'Management'],
+          lang: ['fr'],
+        },
+        {
+          title: "Kanban pour l'informatique.",
+          abstract: 'Avec un vrai simulateur dedans !',
+          tags: ['Agile', 'Kanban'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Scrum',
+          abstract: "Expliquer Scrum en moins d'une heure.",
+          tags: ['Agile', 'Scrum'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Le prêt, le fini, et le BBL.',
+          abstract:
+            'Parlons de définition du prêt, du fini, et du presque fini dans un contexte Scrum ou non.',
+          tags: ['Agile', 'Scrum'],
+          lang: ['fr'],
+        },
+        {
+          title: "L'estimation agile.",
+          abstract:
+            "Tour d'horizon des pratiques d'estimation relative. Explications et mise en situation.",
+          tags: ['Agile', 'Scrum'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Introduction à Git.',
+          abstract: "Il n'est jamais trop tard pour s'y mettre.",
+          tags: ['Git'],
+          lang: ['fr'],
+        },
+      ],
     },
   ],
   cities: {
