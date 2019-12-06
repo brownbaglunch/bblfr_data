@@ -1,5 +1,5 @@
 {
-  "description": "Brown Bag Lunch Baggers Database",
+  "description": "Brown Bag Lunch Baggers database",
   "devDependencies": {
     "husky": "^0.14.3",
     "lint-staged": "^6.1.1",
