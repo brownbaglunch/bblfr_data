@@ -10292,7 +10292,7 @@ var data = {
       since: '2016-06-15',
       name: 'Adrien Lecharpentier',
       bio:
-        "Support Engineer chez CloudBees, je fais en sorte d'améliorer l'expérience qu'ont nos clients avec Jenkins en fixant des plugins si besoin.",
+        "Software Engineer chez CloudBees, je travaille sur Jenkins OSS et les plugins pour améliorer leur qualité. Membre de la communauté Jenkins depuis 2009, j'ai travaillé sur de nombreux plugins et sujets (Java 11, JCasC, UI/UX).",
       picture:
         'https://www.gravatar.com/avatar/8254814a3136a30724cd428841f8e155?s=200',
       websites: [
@@ -10305,7 +10305,7 @@ var data = {
           url: 'https://github.com/alecharp',
         },
       ],
-      location: 'Paris',
+      location: 'Nantes',
       sessions: [
         {
           title: 'Jenkins Pipeline 101',
@@ -10322,10 +10322,10 @@ var data = {
           lang: ['fr'],
         },
       ],
-      cities: ['Paris'],
+      cities: ['Nantes'],
       contacts: {
         twitter: 'alecharp',
-        mail: 'alecharpentier@cloudbees.com',
+        mail: 'me+bbl@alecharp.fr'
       },
     },
     {
