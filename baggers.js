@@ -306,7 +306,7 @@ var data = {
     {
       since: '2013-02-15',
       name: 'Romain Linsolas',
-      bio: 'Développeur Web & leader technique à SGCIB',
+      bio: 'Développeur Web et node.js, Tech lead - Société Générale',
       picture:
         'http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/005/046/246/1b274c9.jpg',
       websites: [
