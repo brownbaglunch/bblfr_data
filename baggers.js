@@ -10136,6 +10136,18 @@ var data = {
             "Atelier d'apprentissage de git. On commence par une brève introduction aux principes, puis on s'essaie à un atelier pratique pour apprendre les commandes basiques.",
           tags: ['git', 'introduction', 'hands-on'],
         },
+        {
+          title: 'Git dans une architecture microservice',
+          abstract:
+            "Ton système d'information se transforme rapidement en microservices, peut-être même est-il déjà dans le cloud. Pour que cette transition soit une pull aux œufs d'or, et ne vire pas au commit de répétition en se plantant magistralement… Viens voir comment git peut t'aider, ou au contraire te freiner dans ce changement d'organisation, et éviter de scier la branche sur laquelle tu es assis.",
+          tags: ['git', 'microservice'],
+        },
+        {
+          title: 'Animation de coding-dojo',
+          abstract:
+            "Atelier de code en groupe, pour s'entrainer aux bonnes pratiques, faire des exercices, retrouver le plaisir du code",
+          tags: ['equipe','craftsmanship'],
+        }
       ],
 
       cities: ['Bordeaux'],
