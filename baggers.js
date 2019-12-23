@@ -17253,6 +17253,70 @@ var data = {
         },
       ],
     },
+    {
+      since: '2019-12-23',
+      name: 'François Delbrayelle',
+      bio:
+        'Développeur / Tech Lead chez Ippon Technologies. Contributeur à JHipster. Orienté surtout back (Spring, Quarkus, Kafka, ...) mais également front (Angular, Vue.js notamment). Formateur et facilitateur !',
+      picture: 'https://www.francois-delbrayelle.fr/images/fdelbrayelle.jpg',
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'fdelbrayelle',
+        mail: 'fdelbrayelle@ippon.fr',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://www.francois-delbrayelle.fr/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/fdelbrayelle/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/fdelbrayelle',
+        },
+      ],
+      location: 'Lille',
+      sessions: [
+        {
+          title: 'L\'après Java 8, les nouveautés depuis Java 9',
+          abstract:
+            "Les nouveautés après Java 8 : qu'apportent les dernières versions 9, 10, 11, 12... ?",
+          tags: ['Développement', 'Java'],
+          lang: ['fr'],
+        },
+        {
+          title: 'JHipster, générateur d\'applications web modernes',
+          abstract:
+            "Utiliser JHipster pour générer des applications monolithiques ou micro-services",
+          tags: ['Java', 'JHipster', 'Front', 'Back', 'Microservices'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Vue.js, une alternative à Angular et React',
+          abstract:
+            "Découvrir Vue.js en alternative à Angular et React",
+          tags: ['Front', 'Vue', 'JavaScript', 'TypeScript'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Kubernetes, pour orchestrer nos containers',
+          abstract:
+            "Découvrir Kubernetes et son utilité pour gérer les containers",
+          tags: ['Kubernetes', 'Docker', 'DevOps'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Micronaut et Quarkus : l\'avenir du monde Java ?',
+          abstract:
+            "En quoi Micronaut et Quarkus représentent potentiellement l'avenir de Java",
+          tags: ['Java', 'Micronaut', 'Quarkus'],
+          lang: ['fr'],
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
