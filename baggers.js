@@ -10146,8 +10146,8 @@ var data = {
           title: 'Animation de coding-dojo',
           abstract:
             "Atelier de code en groupe, pour s'entrainer aux bonnes pratiques, faire des exercices, retrouver le plaisir du code",
-          tags: ['equipe','craftsmanship'],
-        }
+          tags: ['equipe', 'craftsmanship'],
+        },
       ],
 
       cities: ['Bordeaux'],
@@ -10337,7 +10337,7 @@ var data = {
       cities: ['Nantes'],
       contacts: {
         twitter: 'alecharp',
-        mail: 'me+bbl@alecharp.fr'
+        mail: 'me+bbl@alecharp.fr',
       },
     },
     {
@@ -15476,7 +15476,7 @@ var data = {
         {
           title: 'Développer une API Cloud Ready avec Quarkus',
           abstract:
-            'Quarkus est un nouveau framework de développement de microservice en Java. A sa sortie il a suscité pas mal de buzz. Il a été pensé pour le développement de microservice à déployer dans le Cloud. On définit souvent les applications Cloud Ready celons les principes des 12 Factors Apps (https://12factor.net/), ou quand elles sont appliquées à Kubernetes, Cloud Native Container Apps (https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper). Dans ce talks, après avoir rapidement présenté Quarkus et ses principes, j\'entamerais une scéance de live coding qui vous exposera les principales étapes pour développer une application Cloud Native avec Quarkus.',
+            "Quarkus est un nouveau framework de développement de microservice en Java. A sa sortie il a suscité pas mal de buzz. Il a été pensé pour le développement de microservice à déployer dans le Cloud. On définit souvent les applications Cloud Ready celons les principes des 12 Factors Apps (https://12factor.net/), ou quand elles sont appliquées à Kubernetes, Cloud Native Container Apps (https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper). Dans ce talks, après avoir rapidement présenté Quarkus et ses principes, j'entamerais une scéance de live coding qui vous exposera les principales étapes pour développer une application Cloud Native avec Quarkus.",
           tags: ['java', 'kafka', 'streamprocessing'],
           lang: ['fr'],
         },
@@ -17281,41 +17281,79 @@ var data = {
       location: 'Lille',
       sessions: [
         {
-          title: 'L\'après Java 8, les nouveautés depuis Java 9',
+          title: "L'après Java 8, les nouveautés depuis Java 9",
           abstract:
             "Les nouveautés après Java 8 : qu'apportent les dernières versions 9, 10, 11, 12... ?",
           tags: ['Développement', 'Java'],
           lang: ['fr'],
         },
         {
-          title: 'JHipster, générateur d\'applications web modernes',
+          title: "JHipster, générateur d'applications web modernes",
           abstract:
-            "Utiliser JHipster pour générer des applications monolithiques ou micro-services",
+            'Utiliser JHipster pour générer des applications monolithiques ou micro-services',
           tags: ['Java', 'JHipster', 'Front', 'Back', 'Microservices'],
           lang: ['fr'],
         },
         {
           title: 'Vue.js, une alternative à Angular et React',
-          abstract:
-            "Découvrir Vue.js en alternative à Angular et React",
+          abstract: 'Découvrir Vue.js en alternative à Angular et React',
           tags: ['Front', 'Vue', 'JavaScript', 'TypeScript'],
           lang: ['fr'],
         },
         {
           title: 'Kubernetes, pour orchestrer nos containers',
           abstract:
-            "Découvrir Kubernetes et son utilité pour gérer les containers",
+            'Découvrir Kubernetes et son utilité pour gérer les containers',
           tags: ['Kubernetes', 'Docker', 'DevOps'],
           lang: ['fr'],
         },
         {
-          title: 'Micronaut et Quarkus : l\'avenir du monde Java ?',
+          title: "Micronaut et Quarkus : l'avenir du monde Java ?",
           abstract:
             "En quoi Micronaut et Quarkus représentent potentiellement l'avenir de Java",
           tags: ['Java', 'Micronaut', 'Quarkus'],
           lang: ['fr'],
         },
       ],
+    },
+    {
+      since: '2019-01-03',
+      name: 'Mathieu Laude',
+      bio:
+        "Responsable outils et usine logicielle (CI/CD) chez Kosmos. Curieux, passionné, fainéant (donc j'automatise tout !). Développeur Java/Spring dans l'âme !",
+      picture:
+        'https://pbs.twimg.com/profile_images/1213079443205500928/MJw5Wxr7_400x400.jpg',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/mathieulaude/',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title: 'Jenkinsfile : WTF ?',
+          abstract:
+            "Plongée dans les concepts et notions cachées derrière le Jenkinsfile, ou comment faire du Jenkins as Code sans passer par l'usine à clic et l'enfer des plugins !",
+          tags: [
+            'Pipeline',
+            'Jenkins',
+            'Jenkinsfile',
+            'Git',
+            'Docker',
+            'DevOps',
+            'Automation',
+            'Continous',
+            'Deployment',
+            'Integration',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        mail: 'mathieulaude+bbl@gmail.com',
+      },
     },
   ],
   cities: {
