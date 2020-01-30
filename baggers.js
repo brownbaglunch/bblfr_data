@@ -17355,6 +17355,129 @@ var data = {
         mail: 'mathieulaude+bbl@gmail.com',
       },
     },
+    {
+      since: '2019-01-30',
+      name: 'Yohan Lasorsa',
+      bio:
+        'Fullstack Developer & Cloud Advocate @ Microsoft.<br>Code artist, OSS maintainer, psytrance producer, wake&snow.board lover.<br>#opensource #javascript #mobile #ux #cloud',
+      picture: 'https://avatars2.githubusercontent.com/u/593151?s=460&v=4',
+      websites: [
+        {
+          name: 'GitHub',
+          url: 'https://github.com/sinedied/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/yohanlasorsa',
+        },
+        {
+          name: 'Speakerdeck',
+          url: 'https://speakerdeck.com/sinedied',
+        },
+        {
+          name: 'Web',
+          url: 'https://dev.to/sinedied/',
+        },
+      ],
+      location: 'Grenoble',
+      sessions: [
+        {
+          title: 'Les Progressive Web Apps, au dela du buzzword',
+          abstract:
+            'Les PWA c’est cool, tout le monde en parle, mais en fait c’est quoi vraiment? Pourquoi ca devrait m’intéresser? Comment ca marche? A travers ce talk et beaucoup de questions, découvrons les grands principes d’une PWA d’un point de vue technique et philosophique, et son utilité dans la construction d’un Web plus juste et équitable.',
+          tags: [
+            'PWA',
+            'Mobile',
+            'JavaScript',
+            'Performance',
+            'Service Worker',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: "La révolution dans vos apps, c'est la gestion de l'état",
+          abstract:
+            "Une révolution (presque) silencieuse est en cours dans le domaine des webapps, et pourtant nous sommes nombreux à passer à coté. Redux, VueX, NgRx, ces noms vous disent surement quelque chose? Découvrez pourquoi changer la gestion de l'état dans vos app va révolutionner votre manière de développer!",
+          tags: [
+            'Frontend',
+            'Redux',
+            'State management',
+            'JavaScript',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Un environnement de dev propre et qui marche à tous les coups',
+          abstract:
+            "Vous n'avez jamais rêvé de pouvoir cloisonner parfaitement l'environnement de chaque projet? Et de pouvoir le partager facilement, pour ne rien avoir à faire lorsqu'un nouvel arrivant débarque sur votre projet? C'est maintenant possible avec l'extension Remote Development de Visual Studio Code! Venez découvrir comment tout ca fonctionne en live, et tout ca en gardant ma machine propre :)",
+          tags: [
+            'VS Code',
+            'Outillage',
+            'Docker',
+            'Onboarding',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Devenez un héros des GitHub Actions',
+          abstract:
+            "GitHub Actions, c'est le nouveau système de worflow intégré à GitHub pour automatiser tous vos projets, CI/CD mais pas que! Et en plus, ca ne coute rien pour les projets open source, c'est le moment de s'y mettre non? Plutot qu'un long discours, rien ne vaut une belle démo live pour découvrir tout cela!",
+          tags: ['CI/CD', 'GitHub', 'Automatisation', 'Open source'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: "La gestion de l'état pour Angular avec NGXS",
+          abstract:
+            "Comment gérer efficacement l'état de son Application Angular? Chaque framework à aujourd'hui sa librairie de référence pour la gestion de l'état: Redux pour React, VueX pour VueJS... et pour Angular? NGRX? Non, on doit pouvoir faire mieux quand même? Découvrez NGXS, la meilleure manière de gérer son état avec Angular sans se faire des noeuds au cerveau!",
+          tags: [
+            'Angular',
+            'State Management',
+            'NGXS',
+            'Frontend',
+            'Architecture',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: "Oups, j'ai mis du TypeScript dans mon appli Node.js!",
+          abstract:
+            'Et si on faisait une petite appli Node.js, from scratch... en TypeScript? A travers un live coding, nous allons voir ensemble que rajouter du TypeScript à une application Node.js se fait avec très peu de contraintes, avec pour bénéfices tout ce qui découle de TypeScript...',
+          tags: ['Node.js', 'TypeScript', 'Live coding', 'Developpement'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Comment devenir un contributeur Open Source ?',
+          abstract:
+            "Nous utilisons des produits Open Source au quotidien, parfois même sans le savoir. Nos jobs actuels, parfois même nos business entiers s'appuient sur du code Open Source. En tant que développeurs et utilisateurs, c'est notre responsabilité de faire vivre ces projets indispensables que nous consommons en permanence, mais comment ? Venez plonger au cœur de cet écosystème et découvrir que ce n'est pas aussi compliqué qu'on l'imagine de contribuer et avoir un impact conséquent sur vos projets favoris. C'est aussi dans votre meilleur intérêt de devenir contributeur, pas seulement parce qu'on adhère à la philosophie mais parce que c'est aussi un excellent moyen de booster votre carrière !",
+          tags: ['Open source', 'Communauté', 'Soft skills', 'Developpement'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Découvrez NestJS, le framework Node.js qui monte!',
+          abstract:
+            "Encore un nouveau framework JS, vous n'en avez pas marre sérieux ? Ah on me dit dans l'oreillette que NestJS s'appuie sur tout ce qui a dejà fait ses preuves dans la communauté JS, et a repackagé le tout avec une API d'une efficacité redoutable : TypeScript, Express ou Fastify, Open API, microservices, GraphQL, CLI... Une fois que vous l'aurez essayé, vous ne voudrez plus vous en passer !!",
+          tags: [
+            'NestJS',
+            'Node.js',
+            'Backend',
+            'Framework',
+            'TypeScript',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Grenoble'],
+      contacts: {
+        twitter: 'sinedied',
+        mail: 'yohan.lasorsa+bbl@gmail.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
