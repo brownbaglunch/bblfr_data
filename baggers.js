@@ -17127,7 +17127,7 @@ var data = {
     {
       since: '2019-11-25',
       name: 'Clément Bichel',
-      bio: "Coach agile indépendant| cultivateur d'esprits agiles",
+      bio: "Coach agile indépendant | cultivateur d'esprits agiles",
       picture:
         'https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg',
       websites: [
@@ -17135,9 +17135,27 @@ var data = {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/clementbichel/',
         },
+        {
+          "name": "Web",
+          "url": "https://www.clementbichel.fr",
+        }
       ],
       location: 'Bordeaux',
       sessions: [
+        {
+          title: 'Agilité',
+          abstract:
+            "Qu'est-ce que l'agilité ? Quels sont ses valeurs, ses principes ? Quelles sont les méthodes agiles les plus connues ?",
+          tags: [
+            'Agilité',
+            'Méthodes agiles',
+            'Coach agile',
+            'Scrum',
+            'Kanban',
+            'Management 3.0',
+          ],
+          lang: ['fr'],
+        },
         {
           title: 'Delegation Poker',
           abstract:
@@ -17147,7 +17165,7 @@ var data = {
             'Agilité',
             'Méthodes agiles',
             'Serious game',
-            'Coaching agile',
+            'Coach agile',
           ],
           lang: ['fr'],
         },
@@ -17160,7 +17178,55 @@ var data = {
             'Agilité',
             'Méthodes agiles',
             'Serious game',
-            'Coaching agile',
+            'Coach agile',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Scrum',
+          abstract:
+            "Un cadre de travail (framework) au sein duquel les acteurs peuvent aborder des problèmes complexes et adaptatifs, en livrant de manière efficace et créative des produits de la plus grande valeur possible.",
+          tags: [
+            'Scrum',
+            'Agilité',
+            'Méthodes agiles',
+            'Coach agile',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Liberating structures',
+          abstract:
+            "Les liberating structures permettent de modifier considérablement notre manière d’établir le dialogue et d’interagir à tous les niveaux des organisations.",
+          tags: [
+            'Liberating structures',
+            'Agilité',
+            'Méthodes agiles',
+            'Coach agile',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Le framework SAFe',
+          abstract:
+            "Tout ce que vous avez toujours voulu savoir sur le framework que tout le monde aime détester.",
+          tags: [
+            'SAFe',
+            'Agilité',
+            'Méthodes agiles',
+            'Coach agile',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Kanban',
+          abstract:
+            "Qu'est-ce que Kanban ? Quels sont les principes et les pratiques de la méthode Kanban pour l'organisation du travail ?",
+          tags: [
+            'Kanban',
+            'Agilité',
+            'Méthodes agiles',
+            'Coach agile',
           ],
           lang: ['fr'],
         },
@@ -17168,7 +17234,7 @@ var data = {
       cities: ['Bordeaux'],
       contacts: {
         twitter: 'clementbichel',
-        mail: 'clement.bichel+BBL@gmail.com',
+        mail: 'clement.bichel@gmail.com',
       },
     },
     {
