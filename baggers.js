@@ -7006,17 +7006,24 @@ var data = {
       since: '2014-07-28',
       name: 'Pierre Marquis',
       bio:
-        'CTO adjoint et scrum Master chez Efficity, Développeur Python, Porteur agile',
+        'Agiliste, Développeur Python',
       picture:
-        'https://media.licdn.com/dms/image/C4D03AQG5DFlj95OmzQ/profile-displayphoto-shrink_200_200/0?e=1526662800&v=alpha&t=FUtx6KoKpMC4jfZ0Un2_wG47MSALzdKgEw7yojZdpgE',
+        'https://media-exp1.licdn.com/dms/image/C5603AQEYHTSORNrQ9g/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=pejmtKDPIQwMQKfbA975mKeFxZ5tx8TBWSwdNYxAJYo',
       websites: [
         {
           name: 'LinkedIn',
           url: 'http://fr.linkedin.com/pub/pierre-marquis/27/573/752',
         },
       ],
-      location: 'Paris, Rennes et alentours',
+      location: 'Rennes et alentours',
       sessions: [
+        {
+          title: 'Transformation agile',
+          abstract:
+            'Comment bien démarrer? Comprendre les enjeux? Comment amener le changement dans son équipe, dans son entreprise?',
+          tags: ['Agile', 'Scrum', 'Kanban'],
+          lang: ['fr'],
+        },
         {
           title: "Retour d'expérience Agile chez Mappy, Nokia, Efficity",
           abstract:
@@ -7025,9 +7032,9 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Transformation agile',
+          title: 'Agilité: passer à la vitesse supérieure',
           abstract:
-            'Quelle démarche? Par quoi démarrer? Comment amener le changement?',
+            "Lorsque l'on travaille en agile depuis un certain temps, on peut avoir de bonnes bases sans nécessairement ressentir les avantages. Le but est de faire un état des lieux et de transmettre quelques clés pour réussir à passer un cap et ressentir pleinement les bénéfices qu'apportent cette méthode.",
           tags: ['Agile', 'Scrum', 'Kanban'],
           lang: ['fr'],
         },
@@ -7039,7 +7046,7 @@ var data = {
           lang: ['fr'],
         },
       ],
-      cities: ['Paris', 'Rennes'],
+      cities: ['Rennes'],
       contacts: {
         twitter: 'PierMarquis',
         mail: 'pier.marquis@gmail.com',
