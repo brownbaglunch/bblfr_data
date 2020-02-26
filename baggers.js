@@ -2,6 +2,47 @@
 var data = {
   speakers: [
     {
+      since: '2020-26-02',
+      name: 'Thomas Tourlourat',
+      bio:
+        'Lead-dev chez Copines de Voyage, ex @Konbini, ex @Freelance',
+      picture:
+        'https://pbs.twimg.com/profile_images/714783052052971520/WaNkikC9_400x400.jpg',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/armetiz',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/armetiz',
+        },
+        {
+          name: 'Malt',
+          url: 'https://www.malt.fr/profile/thomastourlourat',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/tourlourat/',
+        }
+      ],
+      location: "Les Sables-d'Olonne",
+      sessions: [
+        {
+          title: 'Découvrir EventSourcing / CQRS',
+          abstract:
+            "Quels sont les enjeux de cette architecture: les raisons, les problématiques et les avantages.",
+          tags: ['CQRS', 'EventSourcing', 'Architecture', 'Cloud'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ["Les Sables-d'Olonne", "La Roche-sur-Yon"],
+      contacts: {
+        twitter: 'armetiz',
+        mail: 'thomas@tourlourat.com',
+      },
+    },
+    {
       since: '2012-11-05',
       name: 'David Gageot',
       bio:
