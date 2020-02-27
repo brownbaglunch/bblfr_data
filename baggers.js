@@ -17615,6 +17615,47 @@ var data = {
         mail: 'mael.morel@zenika.com',
       },
     },
+    {
+      since: '2020-02-26',
+      name: 'Thomas Tourlourat',
+      bio:
+        'Lead-dev chez Copines de Voyage, ex @Konbini, ex @Freelance',
+      picture:
+        'https://pbs.twimg.com/profile_images/714783052052971520/WaNkikC9_400x400.jpg',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/armetiz',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/armetiz',
+        },
+        {
+          name: 'Hopwork',
+          url: 'https://www.malt.fr/profile/thomastourlourat',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/tourlourat/',
+        }
+      ],
+      location: "Les Sables-d'Olonne",
+      sessions: [
+        {
+          title: 'Découvrir EventSourcing / CQRS',
+          abstract:
+            "Quels sont les enjeux de cette architecture: les raisons, les problématiques et les avantages.",
+          tags: ['CQRS', 'EventSourcing', 'Architecture', 'Cloud'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ["Les Sables-d'Olonne", "La Roche-sur-Yon"],
+      contacts: {
+        twitter: 'armetiz',
+        mail: 'thomas@tourlourat.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
@@ -17712,6 +17753,12 @@ var data = {
       ville_img: 'img/villes/BBL_leMans.jpg',
       lat: 47.995084,
       lng: 0.188359,
+    },
+    "Les Sables-d'Olonne": {
+      name: "Les Sables-d'Olonne",
+      ville_img: 'img/villes/BBL.jpg',
+      lat: 46.5002031,
+      lng: -1.7924568,
     },
     Lille: {
       name: 'Lille',
