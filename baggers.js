@@ -2179,7 +2179,7 @@ var data = {
       since: '2013-06-03',
       name: 'Antonio Goncalves',
       bio:
-        "Java, Microservices, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
+        "Java, Microservices, Quarkus, MicroProfile, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
       picture:
         'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
       websites: [
@@ -2189,11 +2189,24 @@ var data = {
         },
         {
           name: 'Book',
-          url: 'http://antoniogoncalves.org/category/books/',
+          url: 'https://www.amazon.com/author/agoncal',
         },
       ],
       location: 'Paris intramuros... mais je veux bien faire un effort',
       sessions: [
+        {
+          title: 'Quarkus',
+          abstract: 'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
+          tags: [
+            'Microservices',
+            'MicroProfile',
+            'Quarkus',
+            'GraalVM',
+            'Panache',
+            'Cloud',
+          ],
+          lang: ['fr'],
+        },
         {
           title: 'Microservices?',
           abstract: 'Microservices: architecture, patterns, terminologie...',
