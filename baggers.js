@@ -1087,12 +1087,12 @@ var data = {
     {
       since: '2013-03-01',
       name: 'Clément Delafargue',
-      bio: 'CTO @ Clever Cloud, Consultant, λ geek',
+      bio: 'λ dev @ Fretlink',
       picture: 'img/baggers/unknown.png',
       websites: [
         {
           name: 'Web',
-          url: 'http://clement.delafargue.name',
+          url: 'http://cltdl.fr/me',
         },
         {
           name: 'Web',
@@ -1130,14 +1130,13 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Programmation Fonctionnelle Réactive avec Cycle.js',
+          title: 'It\'s traverse!',
           abstract:
-            'Une nouvelle manière de créer des UI front avec RxJS et cycle.js',
+            'Découvrez la fonction qui se cache partout en programmation fonctionnelle',
           tags: [
-            'Scala',
-            'NodeJS',
+            'JavaScript',
+            'Haskell',
             'Programmation fonctionnelle',
-            'IT automation',
           ],
           lang: ['fr'],
         },
