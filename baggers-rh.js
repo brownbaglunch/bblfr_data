@@ -819,7 +819,7 @@ var data = {
     {
       since: '2020-06-10',
       name: 'Frédéric Pot',
-      bio: 'Après 16 ans dans le monde du logiciel RH (j'ai cofondé la société en 2002), j'ai changé de vie professionnelle suite à un brownout et une remise en question de mes souhaits personnels et professionnels.',
+      bio: "Après 16 ans dans le monde du logiciel RH (j'ai cofondé la société en 2002), j'ai changé de vie professionnelle suite à un brownout et une remise en question de mes souhaits personnels et professionnels.",
       picture: 'https://static.wixstatic.com/media/00ea9b_da0d17e3b8de4f8493fb1b361d1b1df0~mv2.jpg/v1/crop/x_0,y_100,w_466,h_466/fill/w_516,h_512,al_c,lg_1,q_80/fred%201.webp',
       websites: [
         {
@@ -830,20 +830,20 @@ var data = {
       location: 'Nantes',
       sessions: [
         {
-          title: 'Retour d'expérience sur le brownout',
-          abstract: 'Que sont les burnout/brownout/boreout ? Comment être vigilant vis à vis des signes ? L'entreprise n'est pas responsable mais le facteur révélateur du problème.',
+          title: "Retour d'expérience sur le brownout",
+          abstract: "Que sont les burnout/brownout/boreout ? Comment être vigilant vis à vis des signes ? L'entreprise n'est pas responsable mais le facteur révélateur du problème.",
           tags: ['burnout', 'brownout', 'boreout'],
           lang: ['fr'],
         },
         {
-          title: 'Les bienfaits de l'alimentation vivante',
+          title: "Les bienfaits de l'alimentation vivante",
           abstract: 'Comment éviter les coups de fatigue après le déjeuner en privilégiant une alimentation vivante ?',
           tags: ['alimentation'],
           lang: ['fr'],
         },
         {
           title: 'Prendre soin de son corps',
-          abstract: 'Le corps est notre premier outil de travail. Comment en prendre soin en tenant compte des 4 lois fondamentales : la respiration, l'alimentation, le sommeil, l'élimination ?',
+          abstract: "Le corps est notre premier outil de travail. Comment en prendre soin en tenant compte des 4 lois fondamentales : la respiration, l'alimentation, le sommeil, l'élimination ?",
           tags: ['bien-être'],
           lang: ['fr'],
         },
