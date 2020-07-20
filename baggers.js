@@ -12671,7 +12671,7 @@ var data = {
       ],
     },
     {
-      bio: 'Développeur Craftsman passionné - Tech Lead chez Docapost.',
+      bio: 'Développeur Craftsman passionné - Lead Platform Engineer chez Symphony',
       cities: ['Nice', 'Sophia-Antipolis'],
       contacts: {
         mail: 'jpasseron@gmail.com',
