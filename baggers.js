@@ -17679,6 +17679,43 @@ var data = {
         mail: 'victor@reactivic.com',
       },
     },
+    {
+      since: '2020-07-20',
+      name: 'Anne-Lise Agoyé',
+      bio:
+        "Facilitatrice & formatrice Agile",
+      picture:
+        'http://1.gravatar.com/avatar/ea9ebb2e0f991a8656aeabed7b341aa8',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/anne-lise-agoye-9746a833/',
+        },
+      ],
+      location: 'Nantes, Vendée',
+      sessions: [
+        {
+          title:
+            'Atelier découverte LEGO® SERIOUS PLAY®',
+          abstract:
+            "Au cours d'un atelier d'une heure, je vous propose de découvrir la méthode LEGO® SERIOUS PLAY®. Cette méthode stimule la réflexion, la communication et la collaboration des équipes par la manipulation de briques LEGO®",
+          tags: ['LEGO® SERIOUS PLAY®', 'Intelligence collective', 'Serious Game'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Atelier découverte Liberating Structures!',
+          abstract:
+            "Je vous propose de découvrir 3 formats pour animer différemment vos réunions. Collaboration, engagement, créativité, 100% des participants seront acteurs de vos réunions.",
+          tags: ['Intelligence collective','Agilité'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes','La Roche-sur-Yon'],
+      contacts: {
+        mail: 'alagoye@gmail.com',
+		    twitter: "alagoye"
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
