@@ -6095,11 +6095,6 @@ var data = {
         'Rennes et alentours. Mais aussi ailleurs si tu payes le déplacement :)',
       sessions: [
         {
-          title: '"Infrastructure as code" avec Chef',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
           title: "Dev(\\)Ops ? l'after Agile ?",
           tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
           lang: ['fr'],
@@ -6110,32 +6105,7 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Introduction à Ruby',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Introduction à Vagrant',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
           title: 'Introduction au Cloud',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Jouez avec des feux tricolores en Ruby',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Tu veux scripter ?',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Git for dumbass + Git trick or treats',
           tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
           lang: ['fr'],
         },
@@ -6143,7 +6113,7 @@ var data = {
       cities: ['Rennes'],
       contacts: {
         twitter: 'nledez',
-        mail: 'brownbaglunch@ledez.net',
+        mail: 'brownbaglunch-hes1u@ledez.net',
       },
     },
     {
