@@ -17686,7 +17686,60 @@ var data = {
 		    twitter: "alagoye"
       },
     },
+    {
+      since: '2020-09-04',
+      name: 'Delphine Raymond',
+      bio:
+        "Product Owner & Product Manager depuis plus de 7 ans, je travaille chez Lucca et j'ai créé le meetup Product People Nantes, devenu LPCx Nantes, une communauté de PO/PM pour les amoureux de la création de produits numériques.",
+      picture:
+        'https://secure.gravatar.com/avatar/ddbeaab3b87a434071ddc6bfb5af89a8?size=256',
+      websites: [
+        {
+          name: '@Delphine_Ray',
+          url: 'https://twitter.com/Delphine_Ray',
+        }, 
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/delphineraymond/',
+        },       
+        {
+          name: 'Lucca',
+          url: 'https://www.lucca.fr/',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title: 'Animer et découvrir des innovation games',
+          abstract:
+            "Vous souhaitez découvrir des innovation games pour imaginer un produit avec Product Box, prioriser ses fonctionnalités avec Buy a feature ou partager une vision sur les facteurs clés du succès et les causes potentielles d'échec avec Speed boat.",
+          tags: ['Innovation game', 'Facilitation', 'Serious game'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Animer et découvrir plusieurs formats de rétrospectives',
+          abstract:
+            "Vous souhaitez mettre en place des rétrospectives ou changer leur format, découvrez différents formats de rétrospectives comme le Speed Boat ou la Timeline pour des rétrospectives sur un trimestre ou une realease, la rétrospective Tweet my sprint ou les plus classiques comme le 4L, l'étoile de mer, le start / stop / continue ou pourquoi pas en inventer selon vos besoins.",
+          tags: ['Innovation game', 'Facilitation', 'Serious game',"Scrum'],
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Créer une communauté ou un meetup',
+          abstract:
+            "Vous souhaitez crééer une communauté ou un meetup, vous ne savez pas par quoi commencer, comment le lancer, comment l'animer... Je vous raconterai comment j'ai créé le meetup Product People Nantes / LPCx Nantes.",
+          tags: ['Communauté', 'Meetup', "Retour d'expérience"],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        twitter: 'Delphine_Ray',
+        mail: 'delphine.raymond@gmail.com',
+      },
+    },    
   ],
+  
   cities: {
     'Aix-en-Provence': {
       name: 'Aix-en-Provence',
