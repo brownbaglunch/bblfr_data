@@ -10400,7 +10400,7 @@ var data = {
       since: '2016-07-18',
       name: 'Guillaume Allain',
       bio:
-        "Associé chez Lucca, je suis product owner chez Lucca  depuis 2007. J'ai pu vivre le passage d'un éditeur Saas de 4 à 50 collaborateurs en 9 ans et participer à la structuration de l'organisation à chaque étape de la croissance.",
+        "Associé chez Lucca, je suis product owner chez Lucca  depuis 2007. J'ai pu vivre le passage d'un éditeur Saas de 4 à 200 collaborateurs et participer à la structuration de l'organisation à chaque étape de la croissance.",
       picture:
         'https://secure.gravatar.com/avatar/4bd61d872d5e2596c631a4f1d3041451?size=256',
       websites: [
