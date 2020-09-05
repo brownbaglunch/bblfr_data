@@ -17690,12 +17690,12 @@ var data = {
       since: '2020-09-04',
       name: 'Delphine Raymond',
       bio:
-        "Product Owner & Product Manager depuis plus de 7 ans, je travaille chez Lucca et j'ai créé le meetup Product People Nantes, devenu LPCx Nantes, une communauté de PO/PM pour les amoureux de la création de produits numériques.",
+        "Product Owner & Product Manager depuis plus de 7 ans, je travaille chez Lucca et j'ai créé le meetup Product People Nantes, devenu LPCx Nantes, une communauté de PO/PM pour les amoureux de la création de produits numériques à Nantes.",
       picture:
         'https://secure.gravatar.com/avatar/ddbeaab3b87a434071ddc6bfb5af89a8?size=256',
       websites: [
         {
-          name: '@Delphine_Ray',
+          name: 'Twitter',
           url: 'https://twitter.com/Delphine_Ray',
         }, 
         {
@@ -17703,27 +17703,41 @@ var data = {
           url: 'https://www.linkedin.com/in/delphineraymond/',
         },       
         {
-          name: 'Lucca',
+          name: 'Web',
           url: 'https://www.lucca.fr/',
         },
       ],
       location: 'Nantes',
       sessions: [
-        {
-          title: 'Animer et découvrir des innovation games',
+         {
+          title: 'Boîte à outils du Product Owner / Product Manager',
           abstract:
-            "Vous souhaitez découvrir des innovation games pour imaginer un produit avec Product Box, prioriser ses fonctionnalités avec Buy a feature ou partager une vision sur les facteurs clés du succès et les causes potentielles d'échec avec Speed boat.",
-          tags: ['Innovation game', 'Facilitation', 'Serious game'],
+            "Vous souhaitez découvrir la boîte à outils du PO / PM pour construire la vision de votre produit, sa roadmap, identifier vos personas ou les jobs-to-be-done, définir le MVP de votre produit, créer et prioriser un backlog de fonctionnalités, définir une story map, rédiger une user story ou une job story, les estimer...",
+          tags: ['Product Owner', 'Product Manager', 'Agile'],
+          lang: ['fr'],
+        },       
+        {
+          title: 'Innovation games',
+          abstract:
+            "Vous souhaitez découvrir des innovation games ou en animer pour imaginer un produit avec Product Box, prioriser ses fonctionnalités avec Buy a feature ou partager une vision sur les facteurs clés du succès et les causes potentielles d'échec avec Speed boat.",
+          tags: ['Innovation game', 'Facilitation', 'Serious game', 'Agile'],
           lang: ['fr'],
         },
         {
-          title: 'Animer et découvrir plusieurs formats de rétrospectives',
+          title: 'Formats de rétrospectives',
           abstract:
-            "Vous souhaitez mettre en place des rétrospectives ou changer leur format, découvrez différents formats de rétrospectives comme le Speed Boat ou la Timeline pour des rétrospectives sur un trimestre ou une realease, la rétrospective Tweet my sprint ou les plus classiques comme le 4L, l'étoile de mer, le start / stop / continue ou pourquoi pas en inventer selon vos besoins.",
-          tags: ['Innovation game', 'Facilitation', 'Serious game',"Scrum'],
+            "Vous souhaitez mettre en place des rétrospectives ou les dynamiser en changeant leur format, découvrez différents formats de rétrospectives comme le Speed Boat ou la Timeline pour des rétrospectives sur une longue période, la rétrospective Tweet my sprint ou les plus classiques comme le 4L, l'étoile de mer, le start/stop/continue ou même en inventer selon vos besoins.",
+          tags: ['Innovation game', 'Facilitation', 'Serious game', 'Scrum', 'Agile'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Event Storming',
+          abstract:
+            "Vous souhaitez découvrir un atelier d'Event Storming ou en animer un pour partager sur le métier de votre produit ou d'une nouvelle fonctionnalité en équipe, afin d'avoir tous la même compréhension du métier et parler le même lanagage.",
+          tags: ['Event Storming', 'Workshop', 'Facilitation', 'Agile', 'DDD'],
           ],
           lang: ['fr'],
-        },
+        },        
         {
           title: 'Créer une communauté ou un meetup',
           abstract:
@@ -17739,7 +17753,6 @@ var data = {
       },
     },    
   ],
-  
   cities: {
     'Aix-en-Provence': {
       name: 'Aix-en-Provence',
