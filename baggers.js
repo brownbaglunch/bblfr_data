@@ -12363,9 +12363,9 @@ var data = {
       since: '2017-06-16',
       name: 'Grégory Weinbach',
       bio:
-        'CTO TheGreenData, senior developer, software architect, Domain Driven Designer, modelling addict',
+        'CTO, senior developer, software architect, Domain Driven Designer, modelling addict',
       picture:
-        'https://s.gravatar.com/avatar/9301fdc93fdb2b0dc6f2c00598bb1573.jpg?s=200',
+        'http://www.gravatar.com/avatar/ba2153e6f9d0b36cc822d59f6c7355a9',
       websites: [
         {
           name: 'LinkedIn',
@@ -12407,8 +12407,8 @@ var data = {
       ],
       cities: ['Paris', 'Versailles', 'Saint-Quentin-En-Yvelines'],
       contacts: {
-        twitter: '@gweinbach',
-        mail: 'gwe@thegreendata.com',
+        twitter: 'gweinbach',
+        mail: 'gweinbach@ezoky.com',
       },
     },
     {
