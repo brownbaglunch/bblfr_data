@@ -12365,7 +12365,7 @@ var data = {
       bio:
         'CTO, senior developer, software architect, Domain Driven Designer, modelling addict',
       picture:
-        'http://www.gravatar.com/avatar/ba2153e6f9d0b36cc822d59f6c7355a9',
+        'http://www.gravatar.com/avatar/ba2153e6f9d0b36cc822d59f6c7355a9?s=200',
       websites: [
         {
           name: 'LinkedIn',
