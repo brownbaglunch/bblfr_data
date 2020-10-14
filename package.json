@@ -1,5 +1,5 @@
 {
-  "description": "Brown Bag Lunch Baggers Database",
+  "description": "Brown Bag Lunch baggers database",
   "devDependencies": {
     "husky": "^0.14.3",
     "lint-staged": "^6.1.1",
@@ -13,8 +13,9 @@
   "name": "bblfr_data",
   "private": true,
   "scripts": {
+    "format": "prettier --write '**/*.{js,md}'",
     "precommit": "lint-staged"
   },
   "repository": "https://github.com/brownbaglunch/bblfr_data.git",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
