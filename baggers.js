@@ -15465,19 +15465,15 @@ var data = {
     {
       since: '2018-11-05',
       name: 'Arnaud COURTY',
-      bio:
-        'Chercheur en sécurité, ma mission principale est d’évangéliser les entreprises pour une prise en compte des problématiques de sécurité dès les premières phases de conception. Je travaille sur des audits offensifs internes et externes ou encore sur des évaluations du niveau de sécurité de systèmes embarqués en amont de leur industrialisation (systèmes IVI ou autre système industriel et grand public). Depuis les prémices de l’IoT, je me suis spécialisé dans la recherche de vulnérabilité des objets connectés, mais aussi dans la sensibilisation des concepteurs, des développeurs et des intégrateurs de solutions. Je profite des conférences et groupes de travail pour militer pour un monde des objets connectés moins vulnérables. ',
-      picture: 'http://vulcainreo.com/me.jpg',
+      bio: "Chercheur en sécurité, ma mission principale est d’évangéliser les entreprises pour une prise en compte des problématiques de sécurité dès les premières phases de conception. Je travaille sur des audits offensifs internes et externes ou encore sur des évaluations du niveau de sécurité de systèmes embarqués en amont de leur industrialisation (systèmes IVI ou autre système industriel et grand public). Depuis les prémices de l’IoT, je me suis spécialisé dans la recherche de vulnérabilité des objets connectés, mais aussi dans la sensibilisation des concepteurs, des développeurs et des intégrateurs de solutions. Je profite des conférences et groupes de travail pour militer pour un monde des objets connectés moins vulnérables.",
+      picture:
+        'http://vulcainreo.com/me.jpg',
       websites: [
-        {
-          name: 'Web',
-          url: 'http://blog.vulcainreo.com',
-        },
-        {
+		    {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/arnaud-courty/',
         },
-        {
+		    {
           name: 'GitHub',
           url: 'https://github.com/vulcainreo',
         },
@@ -15485,18 +15481,40 @@ var data = {
       location: 'Toulouse',
       sessions: [
         {
-          title: 'Top 10 OWASP IoT - réalité ou intox ?',
+          title: 'Web - Top 10 OWASP - réalité ou intox ?',
           abstract:
-            "Cette présentation sera l'occasion de faire une rétrospective des vulnérabilités les plus rencontrées au cours des audits de sécurité. En effet, depuis les systèmes industriels aux produits du grand public, de nombreux concepts de sécurité sont similaires mais souvent mal implémentés. Depuis un système industriel autonome auquel une adresse IP lui a été ajouté, à la TV/poupée connectée qui espionne un ménage à son insu, toute problématique de sécurité prend rapidement une nouvelle dimension dès que l'objet est disponible sur le marché et connecté à un cloud. L'objectif de cette présentation et de fournir aux concepteurs, développeurs et intégrateurs de solution IoT, un aperçu des réflexes sécurité nécessaires afin d'inclure les bonnes pratiques de sécurité dès l'expression du besoin.",
-          tags: ['CyberSecurity', 'IoT', 'OWASP IoT'],
-          lang: ['fr'],
+            'Malgré l\'augmentation du niveau de sécurité des frameworks de développement, les injections, fuites d\'information et les possibilités de déplacements horizontaux et verticaux sont nombreux. Durant une heure, nous comprendrons que ces vulnérabilités sont communément rencontrées et nous apprendrons à nous en protéger avec des moyens simples et efficaces. Cette présentation s\'adresse tant aux développeurs, qu\'aux chefs de projet et aux responsables sécurité. Compte tenu des contraintes sanitaires, cette présentation interactive peut se faire en visio conférence (ex.: zoom, jitsi, skype ou teams) ou bien physiquement avec le respect des gestes barrières.',
+          tags: [
+            'CyberSecurity',
+            'OWASP Web'
+          ],
+          lang: ['fr','en'],
         },
+        {
+          title: 'IoT - Top 10 OWASP - réalité ou intox ?',
+          abstract:
+            'Cette présentation sera l\'occasion de faire une rétrospective des vulnérabilités les plus rencontrées au cours des audits de sécurité IoT. En effet, depuis les systèmes industriels aux produits du grand public, de nombreux concepts de sécurité sont similaires mais souvent mal implémentés. Depuis un système industriel autonome auquel une adresse IP lui a été ajouté, à la TV/poupée connectée qui espionne un ménage à son insu, toute problématique de sécurité prend rapidement une nouvelle dimension dès que l\'objet est disponible sur le marché et connecté à un cloud. L\'objectif de cette présentation et de fournir aux concepteurs, développeurs et intégrateurs de solution IoT, un aperçu des réflexes sécurité nécessaires afin d\'inclure les bonnes pratiques de sécurité dès l\'expression du besoin. Compte tenu des contraintes sanitaires, cette présentation interactive peut se faire en visio conférence (ex.: zoom, jitsi, skype ou teams) ou bien physiquement avec le respect des gestes barrières.' ,
+          tags: [
+            'CyberSecurity',
+            'IoT',
+            'OWASP IoT'
+          ],
+          lang: ['fr','en'],
+        }
       ],
-      cities: ['Toulouse'],
+      cities: ['Toulouse','Paris','La Rochelle'],
       contacts: {
         twitter: 'vulcainreo',
-        mail: 'arnaud@vulcainreo.com',
-      },
+        mail: 'conf@vulcainreo.com',
+      }
+    }
+  ],
+  cities: {
+    'Aix-en-Provence': {
+      name: 'Aix-en-Provence',
+      ville_img: 'img/villes/BBL_Aix-en-provence.png',
+      lat: 43.529742,
+      lng: 5.447427,
     },
     {
       since: '2018-11-17',
@@ -17848,6 +17866,12 @@ var data = {
       ville_img: 'img/villes/BBL_leMans.jpg',
       lat: 47.995084,
       lng: 0.188359,
+    },
+    'La Rochelle': {
+      name: 'La Rochelle',
+      ville_img: 'img/villes/BBL.jpg',
+      lat: 46.158163,
+      lng: -1.153645,
     },
     "Les Sables-d'Olonne": {
       name: "Les Sables-d'Olonne",
