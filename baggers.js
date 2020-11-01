@@ -15507,14 +15507,6 @@ var data = {
         twitter: 'vulcainreo',
         mail: 'conf@vulcainreo.com',
       }
-    }
-  ],
-  cities: {
-    'Aix-en-Provence': {
-      name: 'Aix-en-Provence',
-      ville_img: 'img/villes/BBL_Aix-en-provence.png',
-      lat: 43.529742,
-      lng: 5.447427,
     },
     {
       since: '2018-11-17',
@@ -17715,11 +17707,11 @@ var data = {
         {
           name: 'Twitter',
           url: 'https://twitter.com/Delphine_Ray',
-        }, 
+        },
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/delphineraymond/',
-        },       
+        },
         {
           name: 'Web',
           url: 'https://www.lucca.fr/',
@@ -17733,7 +17725,7 @@ var data = {
             "Vous souhaitez découvrir la boîte à outils du PO / PM pour construire la vision de votre produit, sa roadmap, identifier vos personas ou les jobs-to-be-done, définir le MVP de votre produit, créer et prioriser un backlog de fonctionnalités, définir une story map, rédiger une user story ou une job story, les estimer...",
           tags: ['Product Owner', 'Product Manager', 'Agile'],
           lang: ['fr'],
-        },       
+        },
         {
           title: 'Innovation games',
           abstract:
@@ -17754,7 +17746,7 @@ var data = {
             "Vous souhaitez découvrir un atelier d'Event Storming ou en animer un pour partager sur le métier de votre produit ou d'une nouvelle fonctionnalité en équipe, afin d'avoir tous la même compréhension du métier et parler le même lanagage.",
           tags: ['Event Storming', 'Workshop', 'Facilitation', 'Agile', 'DDD'],
           lang: ['fr'],
-        },        
+        },
         {
           title: 'Créer une communauté ou un meetup',
           abstract:
@@ -17768,7 +17760,7 @@ var data = {
         twitter: 'Delphine_Ray',
         mail: 'delphine.raymond@gmail.com',
       },
-    },    
+    },
   ],
   cities: {
     'Aix-en-Provence': {
