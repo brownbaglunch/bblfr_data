@@ -1130,14 +1130,10 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'It\'s traverse!',
+          title: "It's traverse!",
           abstract:
             'Découvrez la fonction qui se cache partout en programmation fonctionnelle',
-          tags: [
-            'JavaScript',
-            'Haskell',
-            'Programmation fonctionnelle',
-          ],
+          tags: ['JavaScript', 'Haskell', 'Programmation fonctionnelle'],
           lang: ['fr'],
         },
       ],
@@ -2195,7 +2191,8 @@ var data = {
       sessions: [
         {
           title: 'Quarkus',
-          abstract: 'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
+          abstract:
+            'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
           tags: [
             'Microservices',
             'MicroProfile',
@@ -6973,8 +6970,7 @@ var data = {
     {
       since: '2014-07-28',
       name: 'Pierre Marquis',
-      bio:
-        'Agiliste, Développeur Python',
+      bio: 'Agiliste, Développeur Python',
       picture:
         'https://media-exp1.licdn.com/dms/image/C5603AQEYHTSORNrQ9g/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=pejmtKDPIQwMQKfbA975mKeFxZ5tx8TBWSwdNYxAJYo',
       websites: [
@@ -12641,7 +12637,8 @@ var data = {
       ],
     },
     {
-      bio: 'Développeur Craftsman passionné - Lead Platform Engineer chez Symphony',
+      bio:
+        'Développeur Craftsman passionné - Lead Platform Engineer chez Symphony',
       cities: ['Nice', 'Sophia-Antipolis'],
       contacts: {
         mail: 'jpasseron@gmail.com',
@@ -15465,15 +15462,15 @@ var data = {
     {
       since: '2018-11-05',
       name: 'Arnaud COURTY',
-      bio: "Chercheur en sécurité, ma mission principale est d’évangéliser les entreprises pour une prise en compte des problématiques de sécurité dès les premières phases de conception. Je travaille sur des audits offensifs internes et externes ou encore sur des évaluations du niveau de sécurité de systèmes embarqués en amont de leur industrialisation (systèmes IVI ou autre système industriel et grand public). Depuis les prémices de l’IoT, je me suis spécialisé dans la recherche de vulnérabilité des objets connectés, mais aussi dans la sensibilisation des concepteurs, des développeurs et des intégrateurs de solutions. Je profite des conférences et groupes de travail pour militer pour un monde des objets connectés moins vulnérables.",
-      picture:
-        'http://vulcainreo.com/me.jpg',
+      bio:
+        'Chercheur en sécurité, ma mission principale est d’évangéliser les entreprises pour une prise en compte des problématiques de sécurité dès les premières phases de conception. Je travaille sur des audits offensifs internes et externes ou encore sur des évaluations du niveau de sécurité de systèmes embarqués en amont de leur industrialisation (systèmes IVI ou autre système industriel et grand public). Depuis les prémices de l’IoT, je me suis spécialisé dans la recherche de vulnérabilité des objets connectés, mais aussi dans la sensibilisation des concepteurs, des développeurs et des intégrateurs de solutions. Je profite des conférences et groupes de travail pour militer pour un monde des objets connectés moins vulnérables.',
+      picture: 'http://vulcainreo.com/me.jpg',
       websites: [
-		    {
+        {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/arnaud-courty/',
         },
-		    {
+        {
           name: 'GitHub',
           url: 'https://github.com/vulcainreo',
         },
@@ -15483,30 +15480,23 @@ var data = {
         {
           title: 'Web - Top 10 OWASP - réalité ou intox ?',
           abstract:
-            'Malgré l\'augmentation du niveau de sécurité des frameworks de développement, les injections, fuites d\'information et les possibilités de déplacements horizontaux et verticaux sont nombreux. Durant une heure, nous comprendrons que ces vulnérabilités sont communément rencontrées et nous apprendrons à nous en protéger avec des moyens simples et efficaces. Cette présentation s\'adresse tant aux développeurs, qu\'aux chefs de projet et aux responsables sécurité. Compte tenu des contraintes sanitaires, cette présentation interactive peut se faire en visio conférence (ex.: zoom, jitsi, skype ou teams) ou bien physiquement avec le respect des gestes barrières.',
-          tags: [
-            'CyberSecurity',
-            'OWASP Web'
-          ],
-          lang: ['fr','en'],
+            "Malgré l'augmentation du niveau de sécurité des frameworks de développement, les injections, fuites d'information et les possibilités de déplacements horizontaux et verticaux sont nombreux. Durant une heure, nous comprendrons que ces vulnérabilités sont communément rencontrées et nous apprendrons à nous en protéger avec des moyens simples et efficaces. Cette présentation s'adresse tant aux développeurs, qu'aux chefs de projet et aux responsables sécurité. Compte tenu des contraintes sanitaires, cette présentation interactive peut se faire en visio conférence (ex.: zoom, jitsi, skype ou teams) ou bien physiquement avec le respect des gestes barrières.",
+          tags: ['CyberSecurity', 'OWASP Web'],
+          lang: ['fr', 'en'],
         },
         {
           title: 'IoT - Top 10 OWASP - réalité ou intox ?',
           abstract:
-            'Cette présentation sera l\'occasion de faire une rétrospective des vulnérabilités les plus rencontrées au cours des audits de sécurité IoT. En effet, depuis les systèmes industriels aux produits du grand public, de nombreux concepts de sécurité sont similaires mais souvent mal implémentés. Depuis un système industriel autonome auquel une adresse IP lui a été ajouté, à la TV/poupée connectée qui espionne un ménage à son insu, toute problématique de sécurité prend rapidement une nouvelle dimension dès que l\'objet est disponible sur le marché et connecté à un cloud. L\'objectif de cette présentation et de fournir aux concepteurs, développeurs et intégrateurs de solution IoT, un aperçu des réflexes sécurité nécessaires afin d\'inclure les bonnes pratiques de sécurité dès l\'expression du besoin. Compte tenu des contraintes sanitaires, cette présentation interactive peut se faire en visio conférence (ex.: zoom, jitsi, skype ou teams) ou bien physiquement avec le respect des gestes barrières.' ,
-          tags: [
-            'CyberSecurity',
-            'IoT',
-            'OWASP IoT'
-          ],
-          lang: ['fr','en'],
-        }
+            "Cette présentation sera l'occasion de faire une rétrospective des vulnérabilités les plus rencontrées au cours des audits de sécurité IoT. En effet, depuis les systèmes industriels aux produits du grand public, de nombreux concepts de sécurité sont similaires mais souvent mal implémentés. Depuis un système industriel autonome auquel une adresse IP lui a été ajouté, à la TV/poupée connectée qui espionne un ménage à son insu, toute problématique de sécurité prend rapidement une nouvelle dimension dès que l'objet est disponible sur le marché et connecté à un cloud. L'objectif de cette présentation et de fournir aux concepteurs, développeurs et intégrateurs de solution IoT, un aperçu des réflexes sécurité nécessaires afin d'inclure les bonnes pratiques de sécurité dès l'expression du besoin. Compte tenu des contraintes sanitaires, cette présentation interactive peut se faire en visio conférence (ex.: zoom, jitsi, skype ou teams) ou bien physiquement avec le respect des gestes barrières.",
+          tags: ['CyberSecurity', 'IoT', 'OWASP IoT'],
+          lang: ['fr', 'en'],
+        },
       ],
-      cities: ['Toulouse','Paris','La Rochelle'],
+      cities: ['Toulouse', 'Paris', 'La Rochelle'],
       contacts: {
         twitter: 'vulcainreo',
         mail: 'conf@vulcainreo.com',
-      }
+      },
     },
     {
       since: '2018-11-17',
@@ -16801,7 +16791,7 @@ var data = {
           url: 'https://www.linkedin.com/in/nelson-dionisi-84a00472',
         },
       ],
-      location: 'Paris',
+      location: 'Bordeaux',
       sessions: [
         {
           title: 'Montée de version sans interruption',
@@ -16810,8 +16800,15 @@ var data = {
           tags: ['Deployment', 'Database', 'Continous Delivery', 'Java'],
           lang: ['fr'],
         },
+        {
+          title: 'Ce que les développeurs doivent savoir sur les index',
+          abstract:
+            "Les développeurs sont très souvent amenés à écrire des requêtes SQL pour communiquer avec des bases de données relationnelles. Pour les cas simples, connaître la syntaxe et le principe du SQL est amplement suffisant. Par contre, quand la volumétrie augmente et que les performances sont importantes, la question des index se pose rapidement. Bien souvent, on demande aux DBA de nous aider à indexer correctement nos tables car l'on considère que créer les index et comprendre leur fonctionnement est un travail de DBA. C'est faux ! Les développeurs connaissent le métiers des applications sur lesquelles ils travaillent, et ce sont eux les mieux placés pour comprendre quelles données doivent être indexées et comment. Ce talk présente les principes de base des index, leur fonctionnement, et comment les utiliser de manière efficace en fonction des cas d'utilisation. Il n'a pas pour but de rentrer dans un niveau de détail extrêmement pointu sur les mécanismes internes des SGBD, puisqu'il existe des DBA pour ça ! Par contre, il donne un tour d'horizon sur les notions importantes à avoir en tête en tant que développeur pour écrire des requêtes performantes et scalables. En plus de la théorie, le but est de montrer des exemples concrets d'utilisation. Pour ces exemples, nous utiliserons PostgreSQL, mais la grande majorité des concepts s'applique à la plupart des SGBD relationnels.",
+          tags: ['Database', 'PostgreSQL', 'Performance'],
+          lang: ['fr'],
+        },
       ],
-      cities: ['Paris'],
+      cities: ['Bordeaux', 'Paris'],
       contacts: {
         mail: 'ndionisi@mirakl.com',
       },
@@ -17121,9 +17118,9 @@ var data = {
           url: 'https://www.linkedin.com/in/clementbichel/',
         },
         {
-          "name": "Web",
-          "url": "https://www.clementbichel.fr",
-        }
+          name: 'Web',
+          url: 'https://www.clementbichel.fr',
+        },
       ],
       location: 'Bordeaux',
       sessions: [
@@ -17170,19 +17167,14 @@ var data = {
         {
           title: 'Scrum',
           abstract:
-            "Un cadre de travail (framework) au sein duquel les acteurs peuvent aborder des problèmes complexes et adaptatifs, en livrant de manière efficace et créative des produits de la plus grande valeur possible.",
-          tags: [
-            'Scrum',
-            'Agilité',
-            'Méthodes agiles',
-            'Coach agile',
-          ],
+            'Un cadre de travail (framework) au sein duquel les acteurs peuvent aborder des problèmes complexes et adaptatifs, en livrant de manière efficace et créative des produits de la plus grande valeur possible.',
+          tags: ['Scrum', 'Agilité', 'Méthodes agiles', 'Coach agile'],
           lang: ['fr'],
         },
         {
           title: 'Liberating structures',
           abstract:
-            "Les liberating structures permettent de modifier considérablement notre manière d’établir le dialogue et d’interagir à tous les niveaux des organisations.",
+            'Les liberating structures permettent de modifier considérablement notre manière d’établir le dialogue et d’interagir à tous les niveaux des organisations.',
           tags: [
             'Liberating structures',
             'Agilité',
@@ -17194,25 +17186,15 @@ var data = {
         {
           title: 'Le framework SAFe',
           abstract:
-            "Tout ce que vous avez toujours voulu savoir sur le framework que tout le monde aime détester.",
-          tags: [
-            'SAFe',
-            'Agilité',
-            'Méthodes agiles',
-            'Coach agile',
-          ],
+            'Tout ce que vous avez toujours voulu savoir sur le framework que tout le monde aime détester.',
+          tags: ['SAFe', 'Agilité', 'Méthodes agiles', 'Coach agile'],
           lang: ['fr'],
         },
         {
           title: 'Kanban',
           abstract:
             "Qu'est-ce que Kanban ? Quels sont les principes et les pratiques de la méthode Kanban pour l'organisation du travail ?",
-          tags: [
-            'Kanban',
-            'Agilité',
-            'Méthodes agiles',
-            'Coach agile',
-          ],
+          tags: ['Kanban', 'Agilité', 'Méthodes agiles', 'Coach agile'],
           lang: ['fr'],
         },
       ],
@@ -17596,8 +17578,7 @@ var data = {
     {
       since: '2020-02-26',
       name: 'Thomas Tourlourat',
-      bio:
-        'Lead-dev chez Copines de Voyage, ex @Konbini, ex @Freelance',
+      bio: 'Lead-dev chez Copines de Voyage, ex @Konbini, ex @Freelance',
       picture:
         'https://pbs.twimg.com/profile_images/714783052052971520/WaNkikC9_400x400.jpg',
       websites: [
@@ -17616,19 +17597,19 @@ var data = {
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/tourlourat/',
-        }
+        },
       ],
       location: "Les Sables-d'Olonne",
       sessions: [
         {
           title: 'Découvrir EventSourcing / CQRS',
           abstract:
-            "Quels sont les enjeux de cette architecture: les raisons, les problématiques et les avantages.",
+            'Quels sont les enjeux de cette architecture: les raisons, les problématiques et les avantages.',
           tags: ['CQRS', 'EventSourcing', 'Architecture', 'Cloud'],
           lang: ['fr'],
         },
       ],
-      cities: ["Les Sables-d'Olonne", "La Roche-sur-Yon"],
+      cities: ["Les Sables-d'Olonne", 'La Roche-sur-Yon'],
       contacts: {
         twitter: 'armetiz',
         mail: 'thomas@tourlourat.com',
@@ -17638,7 +17619,8 @@ var data = {
       since: '2020-06-25',
       name: 'Victor Sabatier',
       bio: 'Développeur web et mobile indépendant. Indie Hacker.',
-      picture: 'https://digital-grenoble.com/wp-content/uploads/2017/03/Victor-Sabatier-1.jpg',
+      picture:
+        'https://digital-grenoble.com/wp-content/uploads/2017/03/Victor-Sabatier-1.jpg',
       websites: [
         {
           name: 'Web',
@@ -17649,7 +17631,8 @@ var data = {
       sessions: [
         {
           title: 'De git à la blockchain',
-          abstract: 'Mon talk préféré. J essaye de faire des liens entre Git et la blockchain, ce qui permet à un public de développeurs de découvrir la blokchain à travers un outil utilisé au quotidien.',
+          abstract:
+            'Mon talk préféré. J essaye de faire des liens entre Git et la blockchain, ce qui permet à un public de développeurs de découvrir la blokchain à travers un outil utilisé au quotidien.',
           tags: ['git', 'blockchain', 'fun'],
           lang: ['fr'],
         },
@@ -17662,10 +17645,8 @@ var data = {
     {
       since: '2020-07-20',
       name: 'Anne-Lise Agoyé',
-      bio:
-        "Facilitatrice & formatrice Agile",
-      picture:
-        'http://1.gravatar.com/avatar/ea9ebb2e0f991a8656aeabed7b341aa8',
+      bio: 'Facilitatrice & formatrice Agile',
+      picture: 'http://1.gravatar.com/avatar/ea9ebb2e0f991a8656aeabed7b341aa8',
       websites: [
         {
           name: 'LinkedIn',
@@ -17675,25 +17656,28 @@ var data = {
       location: 'Nantes, Vendée',
       sessions: [
         {
-          title:
-            'Atelier découverte LEGO® SERIOUS PLAY®',
+          title: 'Atelier découverte LEGO® SERIOUS PLAY®',
           abstract:
             "Au cours d'un atelier d'une heure, je vous propose de découvrir la méthode LEGO® SERIOUS PLAY®. Cette méthode stimule la réflexion, la communication et la collaboration des équipes par la manipulation de briques LEGO®",
-          tags: ['LEGO® SERIOUS PLAY®', 'Intelligence collective', 'Serious Game'],
+          tags: [
+            'LEGO® SERIOUS PLAY®',
+            'Intelligence collective',
+            'Serious Game',
+          ],
           lang: ['fr'],
         },
         {
           title: 'Atelier découverte Liberating Structures!',
           abstract:
-            "Je vous propose de découvrir 3 formats pour animer différemment vos réunions. Collaboration, engagement, créativité, 100% des participants seront acteurs de vos réunions.",
-          tags: ['Intelligence collective','Agilité'],
+            'Je vous propose de découvrir 3 formats pour animer différemment vos réunions. Collaboration, engagement, créativité, 100% des participants seront acteurs de vos réunions.',
+          tags: ['Intelligence collective', 'Agilité'],
           lang: ['fr'],
         },
       ],
-      cities: ['Nantes','La Roche-sur-Yon'],
+      cities: ['Nantes', 'La Roche-sur-Yon'],
       contacts: {
         mail: 'alagoye@gmail.com',
-		    twitter: "alagoye"
+        twitter: 'alagoye',
       },
     },
     {
@@ -17719,10 +17703,10 @@ var data = {
       ],
       location: 'Nantes',
       sessions: [
-         {
+        {
           title: 'Boîte à outils du Product Owner / Product Manager',
           abstract:
-            "Vous souhaitez découvrir la boîte à outils du PO / PM pour construire la vision de votre produit, sa roadmap, identifier vos personas ou les jobs-to-be-done, définir le MVP de votre produit, créer et prioriser un backlog de fonctionnalités, définir une story map, rédiger une user story ou une job story, les estimer...",
+            'Vous souhaitez découvrir la boîte à outils du PO / PM pour construire la vision de votre produit, sa roadmap, identifier vos personas ou les jobs-to-be-done, définir le MVP de votre produit, créer et prioriser un backlog de fonctionnalités, définir une story map, rédiger une user story ou une job story, les estimer...',
           tags: ['Product Owner', 'Product Manager', 'Agile'],
           lang: ['fr'],
         },
@@ -17737,7 +17721,13 @@ var data = {
           title: 'Formats de rétrospectives',
           abstract:
             "Vous souhaitez mettre en place des rétrospectives ou les dynamiser en changeant leur format, découvrez différents formats de rétrospectives comme le Speed Boat ou la Timeline pour des rétrospectives sur une longue période, la rétrospective Tweet my sprint ou les plus classiques comme le 4L, l'étoile de mer, le start/stop/continue ou même en inventer selon vos besoins.",
-          tags: ['Innovation game', 'Facilitation', 'Serious game', 'Scrum', 'Agile'],
+          tags: [
+            'Innovation game',
+            'Facilitation',
+            'Serious game',
+            'Scrum',
+            'Agile',
+          ],
           lang: ['fr'],
         },
         {
