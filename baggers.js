@@ -1087,12 +1087,12 @@ var data = {
     {
       since: '2013-03-01',
       name: 'Clément Delafargue',
-      bio: 'CTO @ Clever Cloud, Consultant, λ geek',
+      bio: 'λ dev @ Fretlink',
       picture: 'img/baggers/unknown.png',
       websites: [
         {
           name: 'Web',
-          url: 'http://clement.delafargue.name',
+          url: 'http://cltdl.fr/me',
         },
         {
           name: 'Web',
@@ -1130,15 +1130,10 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Programmation Fonctionnelle Réactive avec Cycle.js',
+          title: "It's traverse!",
           abstract:
-            'Une nouvelle manière de créer des UI front avec RxJS et cycle.js',
-          tags: [
-            'Scala',
-            'NodeJS',
-            'Programmation fonctionnelle',
-            'IT automation',
-          ],
+            'Découvrez la fonction qui se cache partout en programmation fonctionnelle',
+          tags: ['JavaScript', 'Haskell', 'Programmation fonctionnelle'],
           lang: ['fr'],
         },
       ],
@@ -1354,7 +1349,7 @@ var data = {
     {
       since: '2013-03-29',
       name: 'Eric Lefevre-ardant',
-      bio: 'Développeur chez leboncoin',
+      bio: 'Développeur chez Hyperlex',
       picture: 'img/baggers/photo_eric.jpg',
       websites: [
         {
@@ -1364,13 +1359,6 @@ var data = {
       ],
       location: 'Paris',
       sessions: [
-        {
-          title: 'Découvrez le langage Go',
-          abstract:
-            "Vous êtes développeur Java ou C ? Je vous propose de découvrir le langage Go, qui fait parler de lui dans un contexte d'architecture Microservice. Cette introduction comparera Java et Go et vous montrera comme il est facile d'implémenter des services HTTP qui s'exécutent de façon concurrente.",
-          tags: ['go', 'java'],
-          lang: ['fr'],
-        },
         {
           title: "Introduction à la Philosophie de l'intelligence artificielle",
           abstract:
@@ -1382,13 +1370,6 @@ var data = {
           title: 'Boucles Etranges : Etranges Boucles - avec Guillaume Tardif',
           abstract:
             "Une promenade décousue dans les limites du code source Java, à la manière de Douglas Hofstadter. Nous parlons de code, d'apparences trompeuses, d'art et de la vie.",
-          tags: ['Java', 'Code'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Extremist Programming - avec Cyrille Martraire',
-          abstract:
-            "Bien sûr, notre métier est sérieux ; le Software Craftmanship n'est-il pas avant tout le professionnalisme ? Bien sûr, le progrès vient d'articles scientifiques ardus et de nouveaux logiciels complexes. Mais vous ne rêvez pas parfois de repousser le cadre professionnel habituel ? D'aller plus loin et d'explorer ? De vous amuser avec du code jusqu'à ce que ça devienne n'importe quoi ? Dans cette session nous vous présenterons des expériences ésotériques, des jeux bizarres et des joyeux délires qui font réfléchir. Réfléchir ? D'habitude on n'a jamais le temps !",
           tags: ['Java', 'Code'],
           lang: ['fr'],
         },
@@ -2193,7 +2174,7 @@ var data = {
       since: '2013-06-03',
       name: 'Antonio Goncalves',
       bio:
-        "Java, Microservices, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
+        "Java, Microservices, Quarkus, MicroProfile, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
       picture:
         'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
       websites: [
@@ -2203,11 +2184,25 @@ var data = {
         },
         {
           name: 'Book',
-          url: 'http://antoniogoncalves.org/category/books/',
+          url: 'https://www.amazon.com/author/agoncal',
         },
       ],
       location: 'Paris intramuros... mais je veux bien faire un effort',
       sessions: [
+        {
+          title: 'Quarkus',
+          abstract:
+            'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
+          tags: [
+            'Microservices',
+            'MicroProfile',
+            'Quarkus',
+            'GraalVM',
+            'Panache',
+            'Cloud',
+          ],
+          lang: ['fr'],
+        },
         {
           title: 'Microservices?',
           abstract: 'Microservices: architecture, patterns, terminologie...',
@@ -6097,11 +6092,6 @@ var data = {
         'Rennes et alentours. Mais aussi ailleurs si tu payes le déplacement :)',
       sessions: [
         {
-          title: '"Infrastructure as code" avec Chef',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
           title: "Dev(\\)Ops ? l'after Agile ?",
           tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
           lang: ['fr'],
@@ -6112,32 +6102,7 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Introduction à Ruby',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Introduction à Vagrant',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
           title: 'Introduction au Cloud',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Jouez avec des feux tricolores en Ruby',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Tu veux scripter ?',
-          tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Git for dumbass + Git trick or treats',
           tags: ['Cloud', 'DevOps', 'Ruby', 'Chef', 'TDD'],
           lang: ['fr'],
         },
@@ -6145,7 +6110,7 @@ var data = {
       cities: ['Rennes'],
       contacts: {
         twitter: 'nledez',
-        mail: 'brownbaglunch@ledez.net',
+        mail: 'brownbaglunch-hes1u@ledez.net',
       },
     },
     {
@@ -7005,18 +6970,24 @@ var data = {
     {
       since: '2014-07-28',
       name: 'Pierre Marquis',
-      bio:
-        'CTO adjoint et scrum Master chez Efficity, Développeur Python, Porteur agile',
+      bio: 'Agiliste, Développeur Python',
       picture:
-        'https://media.licdn.com/dms/image/C4D03AQG5DFlj95OmzQ/profile-displayphoto-shrink_200_200/0?e=1526662800&v=alpha&t=FUtx6KoKpMC4jfZ0Un2_wG47MSALzdKgEw7yojZdpgE',
+        'https://media-exp1.licdn.com/dms/image/C5603AQEYHTSORNrQ9g/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=pejmtKDPIQwMQKfbA975mKeFxZ5tx8TBWSwdNYxAJYo',
       websites: [
         {
           name: 'LinkedIn',
           url: 'http://fr.linkedin.com/pub/pierre-marquis/27/573/752',
         },
       ],
-      location: 'Paris, Rennes et alentours',
+      location: 'Rennes et alentours',
       sessions: [
+        {
+          title: 'Transformation agile',
+          abstract:
+            'Comment bien démarrer? Comprendre les enjeux? Comment amener le changement dans son équipe, dans son entreprise?',
+          tags: ['Agile', 'Scrum', 'Kanban'],
+          lang: ['fr'],
+        },
         {
           title: "Retour d'expérience Agile chez Mappy, Nokia, Efficity",
           abstract:
@@ -7025,9 +6996,9 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Transformation agile',
+          title: 'Agilité: passer à la vitesse supérieure',
           abstract:
-            'Quelle démarche? Par quoi démarrer? Comment amener le changement?',
+            "Lorsque l'on travaille en agile depuis un certain temps, on peut avoir de bonnes bases sans nécessairement ressentir les avantages. Le but est de faire un état des lieux et de transmettre quelques clés pour réussir à passer un cap et ressentir pleinement les bénéfices qu'apportent cette méthode.",
           tags: ['Agile', 'Scrum', 'Kanban'],
           lang: ['fr'],
         },
@@ -7039,7 +7010,7 @@ var data = {
           lang: ['fr'],
         },
       ],
-      cities: ['Paris', 'Rennes'],
+      cities: ['Rennes'],
       contacts: {
         twitter: 'PierMarquis',
         mail: 'pier.marquis@gmail.com',
@@ -7618,7 +7589,7 @@ var data = {
       since: '2015-02-04',
       name: 'Maxime Sanglan-charlier',
       bio:
-        '20 ans dans l\'informatique et pas une ride (ou presque). Curieux de nature, je suis toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu\'individu, en équipe ou au sein d\'une organisation. Je co-organise la conférence <a href="http://ncrafts.io" target="_blank">Newcrafts</a> et suis co-fondateur du groupe <a target="_blank" href="https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/">Software Crafters Nantes</a>',
+        '20 ans dans l\'informatique et pas une ride (ou presque). Curieux de nature, je suis toujours à la recherche de tout ce qui peut nous rendre plus efficients en tant qu\'individu, en équipe ou au sein d\'une organisation. Je co-organise la conférence <a href="http://ncrafts.io" target="_blank">Newcrafts</a> et suis co-fondateur du groupe <a target="_blank" href="https://www.meetup.com/fr-FR/nantes-software-crafters-Nantes/">Software Crafters Nantes</a><br /><br /><strong style="color:goldenrod">Tous mes ateliers ainsi que mes présentations, sont réalisables en ligne !</strong>',
       picture: 'img/baggers/photo_maxime_s.jpg',
       websites: [
         {
@@ -7626,24 +7597,24 @@ var data = {
           url: 'http://onehundredacorns.com/',
         },
       ],
-      location: 'Nantes et alentours',
+      location: 'En ligne, Nantes et alentours',
       sessions: [
         {
-          title: 'Event Storming Workshop',
+          title: 'Présentation du Domain Driven Design',
+          abstract:
+            "Le livre référence d'Eric Evans sur le Domain Driven Design a été publié il y a plus de 15 déjà ! Le DDD n'a de cesse depuis de gagner en popularité, mais il est toujours assez compliqué d'y voir clair lorsque l'on commence à s'y intéresser ! Dans cette présentation je vous expliquerai ce qu'est (et ce que n'est pas) le DDD et en quoi cette démarche est bénéfique sur bon nombre de projets.",
+          tags: ['Domain Driven Design', 'DDD'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Atelier Event Storming',
           abstract:
             "Un atelier pour découvrir cette technique collaborative qui vise à modéliser votre métier tout en réunissant ceux qui savent ce qu'il faut réaliser et ceux qui savent comment le faire. Mise en application en live sur votre propre métier.",
           tags: ['EventStorming', 'Ubiquitous Language', 'Workshop', 'DDD'],
           lang: ['fr'],
         },
         {
-          title: 'Domain Driven Design',
-          abstract:
-            "Le livre référence d'Eric Evans sur le Domain Driven Design a été publié il y a près de 15 déjà ! Le DDD n'a de cesse depuis de gagner en popularité, mais il est toujours assez compliqué d'y voir clair lorsque l'on commence à s'y intéresser ! Dans cette présentation je vous expliquerai ce qu'est (et ce que n'est pas) le DDD et en quoi cette démarche est bénéfique sur bon nombre de projets.",
-          tags: ['Domain Driven Design', 'DDD'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Architecture: C4 Model',
+          title: 'Atelier Architecture: C4 Model',
           abstract:
             "Un atelier de sketching de vos systèmes d'après le modèle C4 de Simon Brown. En mode collaboratif, avec un max d'efficacité, venez vous réapproprier votre architecture et découvrir comment partager une même vision au sein de son équipe de développement.",
           tags: ['Workshop', 'Architecture', 'C4'],
@@ -7657,31 +7628,10 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Mob Programming',
+          title: 'Présentation du Mob Programming',
           abstract:
             "Le Mob Programming consiste à regrouper une équipe entière dans une pièce équipée d'un seul poste de travail pour tout le monde. Cette pratique vous promet entre autres une productivité accrue alors qu'une seule personne à la fois ne peut toucher le clavier ! Promesses tenues ?",
           tags: ['Mob Programming'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Software Craftsmanship',
-          abstract:
-            'Même si le terme existe depuis environs 10 ans, on entend de plus en plus parler de Software Craftsmanship. De nombreuses sociétés mettent en avant le Software Craftsmanship comme un atout dans le recrutement. Mais que se cache t-il exactement derrière ce terme ? Dans cette présentation, j’entreprends de revenir aux bases du Software Craftsmanship, de définir les grands fondements de ce mouvement et de voir qui sont les crafters aujourd’hui ?',
-          tags: [
-            'Craftsmanship',
-            'Software Craftsmanship',
-            'Extreme Programming',
-            'Agile',
-            'Manifeste',
-            'XP',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Does your code speak business?',
-          abstract:
-            "Dans cette présentation, j'entreprends de définir de manière concrète ce qu'est la valeur. Je livre une technique simple et efficace à mettre en place ainsi que celles à éviter, afin de se focaliser sur l'essentiel et d'apporter un maximum de valeur au sein du code et même de vos tests.",
-          tags: ['EventStorming', 'Ubiquitous Language', 'DDD'],
           lang: ['fr'],
         },
       ],
@@ -10136,6 +10086,18 @@ var data = {
             "Atelier d'apprentissage de git. On commence par une brève introduction aux principes, puis on s'essaie à un atelier pratique pour apprendre les commandes basiques.",
           tags: ['git', 'introduction', 'hands-on'],
         },
+        {
+          title: 'Git dans une architecture microservice',
+          abstract:
+            "Ton système d'information se transforme rapidement en microservices, peut-être même est-il déjà dans le cloud. Pour que cette transition soit une pull aux œufs d'or, et ne vire pas au commit de répétition en se plantant magistralement… Viens voir comment git peut t'aider, ou au contraire te freiner dans ce changement d'organisation, et éviter de scier la branche sur laquelle tu es assis.",
+          tags: ['git', 'microservice'],
+        },
+        {
+          title: 'Animation de coding-dojo',
+          abstract:
+            "Atelier de code en groupe, pour s'entrainer aux bonnes pratiques, faire des exercices, retrouver le plaisir du code",
+          tags: ['equipe', 'craftsmanship'],
+        },
       ],
 
       cities: ['Bordeaux'],
@@ -10325,7 +10287,7 @@ var data = {
       cities: ['Nantes'],
       contacts: {
         twitter: 'alecharp',
-        mail: 'me+bbl@alecharp.fr'
+        mail: 'me+bbl@alecharp.fr',
       },
     },
     {
@@ -10413,7 +10375,7 @@ var data = {
       since: '2016-07-18',
       name: 'Guillaume Allain',
       bio:
-        "Associé chez Lucca, je suis product owner chez Lucca  depuis 2007. J'ai pu vivre le passage d'un éditeur Saas de 4 à 50 collaborateurs en 9 ans et participer à la structuration de l'organisation à chaque étape de la croissance.",
+        "Associé chez Lucca, je suis product owner chez Lucca  depuis 2007. J'ai pu vivre le passage d'un éditeur Saas de 4 à 200 collaborateurs et participer à la structuration de l'organisation à chaque étape de la croissance.",
       picture:
         'https://secure.gravatar.com/avatar/4bd61d872d5e2596c631a4f1d3041451?size=256',
       websites: [
@@ -11912,13 +11874,13 @@ var data = {
     {
       since: '2017-04-21',
       name: 'Julien Tanguy',
-      bio: 'Développeur backend/frontend - Valwin',
+      bio: 'Développeur backend/frontend - SFEIR Nantes',
       picture:
         'https://pbs.twimg.com/profile_images/711247904661499907/NyupMTjB_400x400.jpg',
       websites: [
         {
           name: 'Web',
-          url: 'https://jtanguy.cleverapps.io',
+          url: 'https://jtanguy.me',
         },
       ],
       cities: ['Nantes'],
@@ -11927,6 +11889,27 @@ var data = {
         mail: 'julien.tanguy@jhome.fr',
       },
       sessions: [
+        {
+          title: "Introduction à l'EventSourcing",
+          abstract:
+            "L'event sourcing nous offre une façon différente de stocker la donnée: au lieu de stocker l'état de notre application à un instant t, on stocke les différents évènements, les faits passés. À partir de ces événements, il nous est possible de reconstruire n'importe quel état à n'importe quel instant, ce qui nous offre une grande flexibilité pour réorganiser notre application, voire même de corriger des bugs a posteriori.",
+          tags: ['EventSourcing', 'Architecture'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Introduction à Webpack',
+          abstract:
+            'Webpack est un packager qui vous permet de gérer tout votre arbre de dépendances JS/(S)CSS/Images/Json, idéal pour les frameworks javascript frontend.',
+          tags: ['JavaScript', 'Webpack'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Débugger sa configuration Webpack',
+          abstract:
+            "Le nouveau plugin webpack que vous venez d'installer vient de tout casser ? Vous n'arrivez pas à mettre à mettre à jour webpack ? Nous verrons ensemble comment comprendre une configuration webpack et se donner des outils pour l'améliorer.",
+          tags: ['JavaScript', 'Webpack'],
+          lang: ['fr'],
+        },
         {
           title: 'Débuter en React/Redux',
           abstract:
@@ -11939,13 +11922,6 @@ var data = {
           abstract:
             'Elm (elm-lang.org) est un language de programmation pour créer des applications web facile à prendre en main. Compilé en JS, il peut être embarqué dans de nombreuses applications et sites web.',
           tags: ['Elm', 'Programmation fonctionnelle'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Introduction à Webpack',
-          abstract:
-            'Webpack est un packager qui vous permet de gérer tout votre arbre de dépendances JS/(S)CSS/Images/Json, idéal pour les frameworks javascript frontend.',
-          tags: ['JavaScript', 'Webpack'],
           lang: ['fr'],
         },
       ],
@@ -12376,9 +12352,9 @@ var data = {
       since: '2017-06-16',
       name: 'Grégory Weinbach',
       bio:
-        'CTO TheGreenData, senior developer, software architect, Domain Driven Designer, modelling addict',
+        'CTO, senior developer, software architect, Domain Driven Designer, modelling addict',
       picture:
-        'https://s.gravatar.com/avatar/9301fdc93fdb2b0dc6f2c00598bb1573.jpg?s=200',
+        'http://www.gravatar.com/avatar/ba2153e6f9d0b36cc822d59f6c7355a9?s=200',
       websites: [
         {
           name: 'LinkedIn',
@@ -12420,8 +12396,8 @@ var data = {
       ],
       cities: ['Paris', 'Versailles', 'Saint-Quentin-En-Yvelines'],
       contacts: {
-        twitter: '@gweinbach',
-        mail: 'gwe@thegreendata.com',
+        twitter: 'gweinbach',
+        mail: 'gweinbach@ezoky.com',
       },
     },
     {
@@ -12654,7 +12630,8 @@ var data = {
       ],
     },
     {
-      bio: 'Développeur Craftsman passionné - Tech Lead chez Docapost.',
+      bio:
+        'Développeur Craftsman passionné - Lead Platform Engineer chez Symphony',
       cities: ['Nice', 'Sophia-Antipolis'],
       contacts: {
         mail: 'jpasseron@gmail.com',
@@ -14090,90 +14067,6 @@ var data = {
       ],
     },
     {
-      since: '2018-03-19',
-      name: 'Richard Hanna',
-      bio:
-        "J'ai commencé à faire du web à l'époque des <frames> et des <blink> en 1996. Aujourd'hui, développeur et coopérateur chez Fairness, Symfony et React sont mes frameworks préférés. Clean code, clean architecture, couverture de tests, Domain Driven Design, j'essaye de les appliquer autant que possible. Mon quotidien est de participer à la construction des produits avec mes clients et les utilisateurs, dans le respect de l'environnement et du vivant.",
-      picture:
-        'https://supertanuki.github.io/home/assets/images/photo-profil.jpg',
-      location: 'Paris',
-      cities: ['Paris'],
-      contacts: {
-        twitter: 'richardhanna',
-        mail: 'hannarichard@protonmail.com',
-      },
-      websites: [
-        {
-          name: 'Fairness',
-          url: 'https://fairness.coop/',
-        },
-        {
-          name: 'Techologie',
-          url: 'https://techologie.net/',
-        },
-        {
-          name: 'Web',
-          url: 'https://supertanuki.github.io/home/',
-        },
-        {
-          name: 'LinkedIn',
-          url: 'https://www.linkedin.com/in/richard-hanna-76a18115/',
-        },
-      ],
-      sessions: [
-        {
-          title: "Retour d'expérience Conception Responsable du numérique",
-          abstract:
-            "Enjeux environnementaux et sociétaux du numérique, exemples de réalisation de sites web avec une démarche d'éco-conception, mise en place de suivi d'audience respectueux des utilisateurs et un exemple d'une progressive web app qui sauve des vies.",
-          tags: [
-            'progressiveWebApp',
-            'numériqueResponsable',
-            'eco-conception',
-            'lowtech',
-            'environnement',
-            'société',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Coder pour quel futur ?',
-          abstract:
-            "Des scientifiques estiment que l'effondrement de notre civilisation est imminente voire même qu'elle a déjà commencé. Par exemple 60% de la population animale a disparu depuis 1970. Le manque d'eau et de pétrole génère des tensions. Comment à notre niveau, gens de la tech, contribuer à réduire notre impact sur l'environnement dans notre façon de travailler et de vivre au quotidien ?",
-          tags: ['eco-conception'],
-          lang: ['fr'],
-        },
-        {
-          title:
-            "Le web n'est pas mort, la revanche par les Progressives Web Apps",
-          abstract:
-            'Les Progressives Web Apps ont pour objectif de rivaliser avec les apps natives. Voyons comment cela fonctionne techniquement et le gain que cela apporte aux utilisateurs.',
-          tags: ['progressiveWebApp', 'JavaScript'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Comment lancer son podcast',
-          abstract:
-            "Retour d'expérience d'un développeur sur le lancement de deux podcasts : https://podcastecho.github.io/ et https://techologie.net/ Quelques astuces et pièges à éviter pour vous donner envie de lancer votre podcast.",
-          tags: ['podcast'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Web app sans internet ou presque',
-          abstract:
-            "Retour d'expérience sur la conception d'une progressive web app avec une stratégie de cache en offline-first.",
-          tags: ['progressiveWebApp', 'JavaScript'],
-          lang: ['fr'],
-        },
-        {
-          title: "Planification de centaines d'agenda en quelques minutes !",
-          abstract:
-            "Retour d'expérience sur l'utilisation d'OptaPlanner une solution open source pour résoudre des problèmes complexes de planification. Et comment cela pourrait répondre à vos problématiques.",
-          tags: ['planification', 'java'],
-          lang: ['fr'],
-        },
-      ],
-    },
-    {
       since: '2018-03-22',
       name: 'Etienne Coutaud',
       bio:
@@ -14943,7 +14836,7 @@ var data = {
       cities: ['Paris', 'Versailles'],
       contacts: {
         twitter: 'cog_g',
-        mail: 'const.g@gmail.com',
+        mail: 'constantin.guay@gmail.com',
       },
       websites: [
         {
@@ -15030,7 +14923,7 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title: 'Story Mapping : Atelier',
+          title: 'User Story Mapping : Atelier',
           abstract:
             "Le meilleur moyen de comprendre le besoin du client c'est en étudiant son workflow et en en tirant des hypothèses sur son besoin",
           tags: [
@@ -15086,7 +14979,7 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title: "#NoEstimate : Ca veut dire quoi ? Comment s'y prendre ?",
+          title: "Peut-on se passer des estimations ? Comment s'y prendre ?",
           abstract:
             'Une entrée en matière sur le mouvement NoEstimate, plus mes astuces et conseils pour le mettre en place chez vous, que ce soit avec une nouvelle équipe ou sur une équipe qui fonctionne déjà tout en répondant aux besoins de roadmap et budget.',
           tags: [
@@ -15464,7 +15357,7 @@ var data = {
         {
           title: 'Développer une API Cloud Ready avec Quarkus',
           abstract:
-            'Quarkus est un nouveau framework de développement de microservice en Java. A sa sortie il a suscité pas mal de buzz. Il a été pensé pour le développement de microservice à déployer dans le Cloud. On définit souvent les applications Cloud Ready celons les principes des 12 Factors Apps (https://12factor.net/), ou quand elles sont appliquées à Kubernetes, Cloud Native Container Apps (https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper). Dans ce talks, après avoir rapidement présenté Quarkus et ses principes, j\'entamerais une scéance de live coding qui vous exposera les principales étapes pour développer une application Cloud Native avec Quarkus.',
+            "Quarkus est un nouveau framework de développement de microservice en Java. A sa sortie il a suscité pas mal de buzz. Il a été pensé pour le développement de microservice à déployer dans le Cloud. On définit souvent les applications Cloud Ready celons les principes des 12 Factors Apps (https://12factor.net/), ou quand elles sont appliquées à Kubernetes, Cloud Native Container Apps (https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper). Dans ce talks, après avoir rapidement présenté Quarkus et ses principes, j'entamerais une scéance de live coding qui vous exposera les principales étapes pour développer une application Cloud Native avec Quarkus.",
           tags: ['java', 'kafka', 'streamprocessing'],
           lang: ['fr'],
         },
@@ -15479,13 +15372,9 @@ var data = {
       since: '2018-11-05',
       name: 'Arnaud COURTY',
       bio:
-        'Chercheur en sécurité, ma mission principale est d’évangéliser les entreprises pour une prise en compte des problématiques de sécurité dès les premières phases de conception. Je travaille sur des audits offensifs internes et externes ou encore sur des évaluations du niveau de sécurité de systèmes embarqués en amont de leur industrialisation (systèmes IVI ou autre système industriel et grand public). Depuis les prémices de l’IoT, je me suis spécialisé dans la recherche de vulnérabilité des objets connectés, mais aussi dans la sensibilisation des concepteurs, des développeurs et des intégrateurs de solutions. Je profite des conférences et groupes de travail pour militer pour un monde des objets connectés moins vulnérables. ',
+        'Chercheur en sécurité, ma mission principale est d’évangéliser les entreprises pour une prise en compte des problématiques de sécurité dès les premières phases de conception. Je travaille sur des audits offensifs internes et externes ou encore sur des évaluations du niveau de sécurité de systèmes embarqués en amont de leur industrialisation (systèmes IVI ou autre système industriel et grand public). Depuis les prémices de l’IoT, je me suis spécialisé dans la recherche de vulnérabilité des objets connectés, mais aussi dans la sensibilisation des concepteurs, des développeurs et des intégrateurs de solutions. Je profite des conférences et groupes de travail pour militer pour un monde des objets connectés moins vulnérables.',
       picture: 'http://vulcainreo.com/me.jpg',
       websites: [
-        {
-          name: 'Web',
-          url: 'http://blog.vulcainreo.com',
-        },
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/arnaud-courty/',
@@ -15498,17 +15387,24 @@ var data = {
       location: 'Toulouse',
       sessions: [
         {
-          title: 'Top 10 OWASP IoT - réalité ou intox ?',
+          title: 'Web - Top 10 OWASP - réalité ou intox ?',
           abstract:
-            "Cette présentation sera l'occasion de faire une rétrospective des vulnérabilités les plus rencontrées au cours des audits de sécurité. En effet, depuis les systèmes industriels aux produits du grand public, de nombreux concepts de sécurité sont similaires mais souvent mal implémentés. Depuis un système industriel autonome auquel une adresse IP lui a été ajouté, à la TV/poupée connectée qui espionne un ménage à son insu, toute problématique de sécurité prend rapidement une nouvelle dimension dès que l'objet est disponible sur le marché et connecté à un cloud. L'objectif de cette présentation et de fournir aux concepteurs, développeurs et intégrateurs de solution IoT, un aperçu des réflexes sécurité nécessaires afin d'inclure les bonnes pratiques de sécurité dès l'expression du besoin.",
+            "Malgré l'augmentation du niveau de sécurité des frameworks de développement, les injections, fuites d'information et les possibilités de déplacements horizontaux et verticaux sont nombreux. Durant une heure, nous comprendrons que ces vulnérabilités sont communément rencontrées et nous apprendrons à nous en protéger avec des moyens simples et efficaces. Cette présentation s'adresse tant aux développeurs, qu'aux chefs de projet et aux responsables sécurité. Compte tenu des contraintes sanitaires, cette présentation interactive peut se faire en visio conférence (ex.: zoom, jitsi, skype ou teams) ou bien physiquement avec le respect des gestes barrières.",
+          tags: ['CyberSecurity', 'OWASP Web'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'IoT - Top 10 OWASP - réalité ou intox ?',
+          abstract:
+            "Cette présentation sera l'occasion de faire une rétrospective des vulnérabilités les plus rencontrées au cours des audits de sécurité IoT. En effet, depuis les systèmes industriels aux produits du grand public, de nombreux concepts de sécurité sont similaires mais souvent mal implémentés. Depuis un système industriel autonome auquel une adresse IP lui a été ajouté, à la TV/poupée connectée qui espionne un ménage à son insu, toute problématique de sécurité prend rapidement une nouvelle dimension dès que l'objet est disponible sur le marché et connecté à un cloud. L'objectif de cette présentation et de fournir aux concepteurs, développeurs et intégrateurs de solution IoT, un aperçu des réflexes sécurité nécessaires afin d'inclure les bonnes pratiques de sécurité dès l'expression du besoin. Compte tenu des contraintes sanitaires, cette présentation interactive peut se faire en visio conférence (ex.: zoom, jitsi, skype ou teams) ou bien physiquement avec le respect des gestes barrières.",
           tags: ['CyberSecurity', 'IoT', 'OWASP IoT'],
-          lang: ['fr'],
+          lang: ['fr', 'en'],
         },
       ],
-      cities: ['Toulouse'],
+      cities: ['Toulouse', 'Paris', 'La Rochelle'],
       contacts: {
         twitter: 'vulcainreo',
-        mail: 'arnaud@vulcainreo.com',
+        mail: 'conf@vulcainreo.com',
       },
     },
     {
@@ -16804,7 +16700,7 @@ var data = {
           url: 'https://www.linkedin.com/in/nelson-dionisi-84a00472',
         },
       ],
-      location: 'Paris',
+      location: 'Bordeaux',
       sessions: [
         {
           title: 'Montée de version sans interruption',
@@ -16813,8 +16709,15 @@ var data = {
           tags: ['Deployment', 'Database', 'Continous Delivery', 'Java'],
           lang: ['fr'],
         },
+        {
+          title: 'Ce que les développeurs doivent savoir sur les index',
+          abstract:
+            "Les développeurs sont très souvent amenés à écrire des requêtes SQL pour communiquer avec des bases de données relationnelles. Pour les cas simples, connaître la syntaxe et le principe du SQL est amplement suffisant. Par contre, quand la volumétrie augmente et que les performances sont importantes, la question des index se pose rapidement. Bien souvent, on demande aux DBA de nous aider à indexer correctement nos tables car l'on considère que créer les index et comprendre leur fonctionnement est un travail de DBA. C'est faux ! Les développeurs connaissent le métiers des applications sur lesquelles ils travaillent, et ce sont eux les mieux placés pour comprendre quelles données doivent être indexées et comment. Ce talk présente les principes de base des index, leur fonctionnement, et comment les utiliser de manière efficace en fonction des cas d'utilisation. Il n'a pas pour but de rentrer dans un niveau de détail extrêmement pointu sur les mécanismes internes des SGBD, puisqu'il existe des DBA pour ça ! Par contre, il donne un tour d'horizon sur les notions importantes à avoir en tête en tant que développeur pour écrire des requêtes performantes et scalables. En plus de la théorie, le but est de montrer des exemples concrets d'utilisation. Pour ces exemples, nous utiliserons PostgreSQL, mais la grande majorité des concepts s'applique à la plupart des SGBD relationnels.",
+          tags: ['Database', 'PostgreSQL', 'Performance'],
+          lang: ['fr'],
+        },
       ],
-      cities: ['Paris'],
+      cities: ['Bordeaux', 'Paris'],
       contacts: {
         mail: 'ndionisi@mirakl.com',
       },
@@ -17115,7 +17018,7 @@ var data = {
     {
       since: '2019-11-25',
       name: 'Clément Bichel',
-      bio: "Coach agile indépendant| cultivateur d'esprits agiles",
+      bio: "Coach agile indépendant | cultivateur d'esprits agiles",
       picture:
         'https://pbs.twimg.com/profile_images/1090679366374305793/60Izz_T2_400x400.jpg',
       websites: [
@@ -17123,9 +17026,27 @@ var data = {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/clementbichel/',
         },
+        {
+          name: 'Web',
+          url: 'https://www.clementbichel.fr',
+        },
       ],
       location: 'Bordeaux',
       sessions: [
+        {
+          title: 'Agilité',
+          abstract:
+            "Qu'est-ce que l'agilité ? Quels sont ses valeurs, ses principes ? Quelles sont les méthodes agiles les plus connues ?",
+          tags: [
+            'Agilité',
+            'Méthodes agiles',
+            'Coach agile',
+            'Scrum',
+            'Kanban',
+            'Management 3.0',
+          ],
+          lang: ['fr'],
+        },
         {
           title: 'Delegation Poker',
           abstract:
@@ -17135,7 +17056,7 @@ var data = {
             'Agilité',
             'Méthodes agiles',
             'Serious game',
-            'Coaching agile',
+            'Coach agile',
           ],
           lang: ['fr'],
         },
@@ -17148,15 +17069,48 @@ var data = {
             'Agilité',
             'Méthodes agiles',
             'Serious game',
-            'Coaching agile',
+            'Coach agile',
           ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Scrum',
+          abstract:
+            'Un cadre de travail (framework) au sein duquel les acteurs peuvent aborder des problèmes complexes et adaptatifs, en livrant de manière efficace et créative des produits de la plus grande valeur possible.',
+          tags: ['Scrum', 'Agilité', 'Méthodes agiles', 'Coach agile'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Liberating structures',
+          abstract:
+            'Les liberating structures permettent de modifier considérablement notre manière d’établir le dialogue et d’interagir à tous les niveaux des organisations.',
+          tags: [
+            'Liberating structures',
+            'Agilité',
+            'Méthodes agiles',
+            'Coach agile',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Le framework SAFe',
+          abstract:
+            'Tout ce que vous avez toujours voulu savoir sur le framework que tout le monde aime détester.',
+          tags: ['SAFe', 'Agilité', 'Méthodes agiles', 'Coach agile'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Kanban',
+          abstract:
+            "Qu'est-ce que Kanban ? Quels sont les principes et les pratiques de la méthode Kanban pour l'organisation du travail ?",
+          tags: ['Kanban', 'Agilité', 'Méthodes agiles', 'Coach agile'],
           lang: ['fr'],
         },
       ],
       cities: ['Bordeaux'],
       contacts: {
         twitter: 'clementbichel',
-        mail: 'clement.bichel+BBL@gmail.com',
+        mail: 'clement.bichel@gmail.com',
       },
     },
     {
@@ -17240,6 +17194,471 @@ var data = {
           lang: ['fr'],
         },
       ],
+    },
+    {
+      since: '2019-12-23',
+      name: 'François Delbrayelle',
+      bio:
+        'Développeur / Tech Lead chez Ippon Technologies. Contributeur à JHipster. Orienté surtout back (Spring, Quarkus, Kafka, ...) mais également front (Angular, Vue.js notamment). Formateur et facilitateur !',
+      picture: 'https://www.francois-delbrayelle.fr/images/fdelbrayelle.jpg',
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'fdelbrayelle',
+        mail: 'fdelbrayelle@ippon.fr',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'http://www.francois-delbrayelle.fr/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/fdelbrayelle/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/fdelbrayelle',
+        },
+      ],
+      location: 'Lille',
+      sessions: [
+        {
+          title: "L'après Java 8, les nouveautés depuis Java 9",
+          abstract:
+            "Les nouveautés après Java 8 : qu'apportent les dernières versions 9, 10, 11, 12... ?",
+          tags: ['Développement', 'Java'],
+          lang: ['fr'],
+        },
+        {
+          title: "JHipster, générateur d'applications web modernes",
+          abstract:
+            'Utiliser JHipster pour générer des applications monolithiques ou micro-services',
+          tags: ['Java', 'JHipster', 'Front', 'Back', 'Microservices'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Vue.js, une alternative à Angular et React',
+          abstract: 'Découvrir Vue.js en alternative à Angular et React',
+          tags: ['Front', 'Vue', 'JavaScript', 'TypeScript'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Kubernetes, pour orchestrer nos containers',
+          abstract:
+            'Découvrir Kubernetes et son utilité pour gérer les containers',
+          tags: ['Kubernetes', 'Docker', 'DevOps'],
+          lang: ['fr'],
+        },
+        {
+          title: "Micronaut et Quarkus : l'avenir du monde Java ?",
+          abstract:
+            "En quoi Micronaut et Quarkus représentent potentiellement l'avenir de Java",
+          tags: ['Java', 'Micronaut', 'Quarkus'],
+          lang: ['fr'],
+        },
+      ],
+    },
+    {
+      since: '2019-01-03',
+      name: 'Mathieu Laude',
+      bio:
+        "Responsable outils et usine logicielle (CI/CD) chez Kosmos. Curieux, passionné, fainéant (donc j'automatise tout !). Développeur Java/Spring dans l'âme !",
+      picture:
+        'https://pbs.twimg.com/profile_images/1213079443205500928/MJw5Wxr7_400x400.jpg',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/mathieulaude/',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title: 'Jenkinsfile : WTF ?',
+          abstract:
+            "Plongée dans les concepts et notions cachées derrière le Jenkinsfile, ou comment faire du Jenkins as Code sans passer par l'usine à clic et l'enfer des plugins !",
+          tags: [
+            'Pipeline',
+            'Jenkins',
+            'Jenkinsfile',
+            'Git',
+            'Docker',
+            'DevOps',
+            'Automation',
+            'Continous',
+            'Deployment',
+            'Integration',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        mail: 'mathieulaude+bbl@gmail.com',
+      },
+    },
+    {
+      since: '2019-01-30',
+      name: 'Yohan Lasorsa',
+      bio:
+        'Fullstack Developer & Cloud Advocate @ Microsoft.<br>Code artist, OSS maintainer, psytrance producer, wake&snow.board lover.<br>#opensource #javascript #mobile #ux #cloud',
+      picture: 'https://avatars2.githubusercontent.com/u/593151?s=460&v=4',
+      websites: [
+        {
+          name: 'GitHub',
+          url: 'https://github.com/sinedied/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/yohanlasorsa',
+        },
+        {
+          name: 'Speakerdeck',
+          url: 'https://speakerdeck.com/sinedied',
+        },
+        {
+          name: 'Web',
+          url: 'https://dev.to/sinedied/',
+        },
+      ],
+      location: 'Grenoble',
+      sessions: [
+        {
+          title: 'Les Progressive Web Apps, au dela du buzzword',
+          abstract:
+            'Les PWA c’est cool, tout le monde en parle, mais en fait c’est quoi vraiment? Pourquoi ca devrait m’intéresser? Comment ca marche? A travers ce talk et beaucoup de questions, découvrons les grands principes d’une PWA d’un point de vue technique et philosophique, et son utilité dans la construction d’un Web plus juste et équitable.',
+          tags: [
+            'PWA',
+            'Mobile',
+            'JavaScript',
+            'Performance',
+            'Service Worker',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: "La révolution dans vos apps, c'est la gestion de l'état",
+          abstract:
+            "Une révolution (presque) silencieuse est en cours dans le domaine des webapps, et pourtant nous sommes nombreux à passer à coté. Redux, VueX, NgRx, ces noms vous disent surement quelque chose? Découvrez pourquoi changer la gestion de l'état dans vos app va révolutionner votre manière de développer!",
+          tags: [
+            'Frontend',
+            'Redux',
+            'State management',
+            'JavaScript',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Un environnement de dev propre et qui marche à tous les coups',
+          abstract:
+            "Vous n'avez jamais rêvé de pouvoir cloisonner parfaitement l'environnement de chaque projet? Et de pouvoir le partager facilement, pour ne rien avoir à faire lorsqu'un nouvel arrivant débarque sur votre projet? C'est maintenant possible avec l'extension Remote Development de Visual Studio Code! Venez découvrir comment tout ca fonctionne en live, et tout ca en gardant ma machine propre :)",
+          tags: [
+            'VS Code',
+            'Outillage',
+            'Docker',
+            'Onboarding',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Devenez un héros des GitHub Actions',
+          abstract:
+            "GitHub Actions, c'est le nouveau système de worflow intégré à GitHub pour automatiser tous vos projets, CI/CD mais pas que! Et en plus, ca ne coute rien pour les projets open source, c'est le moment de s'y mettre non? Plutot qu'un long discours, rien ne vaut une belle démo live pour découvrir tout cela!",
+          tags: ['CI/CD', 'GitHub', 'Automatisation', 'Open source'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: "La gestion de l'état pour Angular avec NGXS",
+          abstract:
+            "Comment gérer efficacement l'état de son Application Angular? Chaque framework à aujourd'hui sa librairie de référence pour la gestion de l'état: Redux pour React, VueX pour VueJS... et pour Angular? NGRX? Non, on doit pouvoir faire mieux quand même? Découvrez NGXS, la meilleure manière de gérer son état avec Angular sans se faire des noeuds au cerveau!",
+          tags: [
+            'Angular',
+            'State Management',
+            'NGXS',
+            'Frontend',
+            'Architecture',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: "Oups, j'ai mis du TypeScript dans mon appli Node.js!",
+          abstract:
+            'Et si on faisait une petite appli Node.js, from scratch... en TypeScript? A travers un live coding, nous allons voir ensemble que rajouter du TypeScript à une application Node.js se fait avec très peu de contraintes, avec pour bénéfices tout ce qui découle de TypeScript...',
+          tags: ['Node.js', 'TypeScript', 'Live coding', 'Developpement'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Comment devenir un contributeur Open Source ?',
+          abstract:
+            "Nous utilisons des produits Open Source au quotidien, parfois même sans le savoir. Nos jobs actuels, parfois même nos business entiers s'appuient sur du code Open Source. En tant que développeurs et utilisateurs, c'est notre responsabilité de faire vivre ces projets indispensables que nous consommons en permanence, mais comment ? Venez plonger au cœur de cet écosystème et découvrir que ce n'est pas aussi compliqué qu'on l'imagine de contribuer et avoir un impact conséquent sur vos projets favoris. C'est aussi dans votre meilleur intérêt de devenir contributeur, pas seulement parce qu'on adhère à la philosophie mais parce que c'est aussi un excellent moyen de booster votre carrière !",
+          tags: ['Open source', 'Communauté', 'Soft skills', 'Developpement'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Découvrez NestJS, le framework Node.js qui monte!',
+          abstract:
+            "Encore un nouveau framework JS, vous n'en avez pas marre sérieux ? Ah on me dit dans l'oreillette que NestJS s'appuie sur tout ce qui a dejà fait ses preuves dans la communauté JS, et a repackagé le tout avec une API d'une efficacité redoutable : TypeScript, Express ou Fastify, Open API, microservices, GraphQL, CLI... Une fois que vous l'aurez essayé, vous ne voudrez plus vous en passer !!",
+          tags: [
+            'NestJS',
+            'Node.js',
+            'Backend',
+            'Framework',
+            'TypeScript',
+            'Developpement',
+          ],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Grenoble'],
+      contacts: {
+        twitter: 'sinedied',
+        mail: 'yohan.lasorsa+bbl@gmail.com',
+      },
+    },
+    {
+      since: '2020-01-31',
+      name: 'Maxime BLANC',
+      bio:
+        "Avec 8 ans d'expérience de développement à mon actif, j'ai eu l'opportunité de me lancer en tant que Scrum Master. J'ai aujourd'hui fait du sujet de l'agilité une passion, et j'ai à coeur de partager celle-ci.",
+      picture:
+        'https://media-exp1.licdn.com/dms/image/C5603AQFljwUdK0NKDA/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=DI5rQUFX5i9ai3hu_NeEKzLdLE90sEc06oLT8gQRECE',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/maxime-blanc/',
+        },
+      ],
+      location: 'Montpellier et sa périphérie',
+      sessions: [
+        {
+          title: "Découvrir Scrum et l'agilité, de manière ludique.",
+          abstract:
+            "Scrum, Agilité, Kanban, ces mots sont encore abstraits pour vous aujourd'hui ? Je vous invite au travers d'ateliers, à découvrir ce qui se cache derrière tout cela, et pourquoi cela pourrait vous permettre d'améliorer votre quotidien. Tout le monde est invité, cela ne s'adresse pas qu'aux seuls développeurs. L'agilité s'adresse de manière globale à l'entreprise. Alors, commercial, chef de projet, directeur technique, technicien support, ..., cette session est ouverte à tous.",
+          tags: ['scrum', 'agilite', 'kanban'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Montpellier'],
+      contacts: {
+        mail: 'b.maxime.c@gmail.com',
+      },
+    },
+    {
+      since: '2020-02-24',
+      name: 'Mael MOREL',
+      bio:
+        "Mael a développé pendant 7 ans des logiciels dans la sécurité, le Cloud, la banque ou des Start-ups, ce qui l’a convaincu que la réussite d'un produit dépend pour beaucoup de l'organisation du travail. Il accompagne donc depuis 4 ans les équipes techniques IT, managériales et métier de grands groupes tels qu’ING ou Enedis avec la culture Agile. Facilitateur, Product Owner et formateur, il pratique notamment Kanban, le Lean Startup, Scrum, l’agilité à l’échelle ou la gestion de conflits.",
+      picture:
+        'https://media-exp1.licdn.com/dms/image/C4D03AQFUf-SeETCowg/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=Md-bkYfu-XmV79DPaI3uBZVM3SsSaPZZFGb52sS-ZS8',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/mael-morel-a08b3882/',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title:
+            'La bataille des 3 armées, ou comment faire les 3/4 avec la moitié',
+          abstract:
+            "On vous dit que l'agilité c'est très bien mais qu'il faut respecter rigoureusement le planning et que tout est urgent ? Pour répondre, rien de tel qu'une démonstration chiffrée! Dans la nôtre il y aura des armures, des batailles et des statistiques. Préparez-vous, la bataille des trois armées va commencer...",
+          tags: ['agilite', 'scrum', 'produit'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Kanban!',
+          abstract:
+            "Jouer sur le flux de travail est souvent contre intuitif. Que se passe-t-il lorsqu'on ajoute un testeur ou qu'on limite le métier à 2 demandes par semaine? Testons quelques scénarios grace à un simulateur, et voyons sur quels mécanismes jouer pour réduire les périodes de crunch, améliorer le Time To Market et démontrer que rajouter 3 développeurs ne fera pas nécessairement sortir une feature plus vite!",
+          tags: ['kanban'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        mail: 'mael.morel@zenika.com',
+      },
+    },
+    {
+      since: '2020-02-26',
+      name: 'Thomas Tourlourat',
+      bio: 'Lead-dev chez Copines de Voyage, ex @Konbini, ex @Freelance',
+      picture:
+        'https://pbs.twimg.com/profile_images/714783052052971520/WaNkikC9_400x400.jpg',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/armetiz',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/armetiz',
+        },
+        {
+          name: 'Hopwork',
+          url: 'https://www.malt.fr/profile/thomastourlourat',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/tourlourat/',
+        },
+      ],
+      location: "Les Sables-d'Olonne",
+      sessions: [
+        {
+          title: 'Découvrir EventSourcing / CQRS',
+          abstract:
+            'Quels sont les enjeux de cette architecture: les raisons, les problématiques et les avantages.',
+          tags: ['CQRS', 'EventSourcing', 'Architecture', 'Cloud'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ["Les Sables-d'Olonne", 'La Roche-sur-Yon'],
+      contacts: {
+        twitter: 'armetiz',
+        mail: 'thomas@tourlourat.com',
+      },
+    },
+    {
+      since: '2020-06-25',
+      name: 'Victor Sabatier',
+      bio: 'Développeur web et mobile indépendant. Indie Hacker.',
+      picture:
+        'https://digital-grenoble.com/wp-content/uploads/2017/03/Victor-Sabatier-1.jpg',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://reactivic.com',
+        },
+      ],
+      location: 'Grenoble',
+      sessions: [
+        {
+          title: 'De git à la blockchain',
+          abstract:
+            'Mon talk préféré. J essaye de faire des liens entre Git et la blockchain, ce qui permet à un public de développeurs de découvrir la blokchain à travers un outil utilisé au quotidien.',
+          tags: ['git', 'blockchain', 'fun'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Grenoble'],
+      contacts: {
+        mail: 'victor@reactivic.com',
+      },
+    },
+    {
+      since: '2020-07-20',
+      name: 'Anne-Lise Agoyé',
+      bio: 'Facilitatrice & formatrice Agile',
+      picture: 'http://1.gravatar.com/avatar/ea9ebb2e0f991a8656aeabed7b341aa8',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/anne-lise-agoye-9746a833/',
+        },
+      ],
+      location: 'Nantes, Vendée',
+      sessions: [
+        {
+          title: 'Atelier découverte LEGO® SERIOUS PLAY®',
+          abstract:
+            "Au cours d'un atelier d'une heure, je vous propose de découvrir la méthode LEGO® SERIOUS PLAY®. Cette méthode stimule la réflexion, la communication et la collaboration des équipes par la manipulation de briques LEGO®",
+          tags: [
+            'LEGO® SERIOUS PLAY®',
+            'Intelligence collective',
+            'Serious Game',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Atelier découverte Liberating Structures!',
+          abstract:
+            'Je vous propose de découvrir 3 formats pour animer différemment vos réunions. Collaboration, engagement, créativité, 100% des participants seront acteurs de vos réunions.',
+          tags: ['Intelligence collective', 'Agilité'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes', 'La Roche-sur-Yon'],
+      contacts: {
+        mail: 'alagoye@gmail.com',
+        twitter: 'alagoye',
+      },
+    },
+    {
+      since: '2020-09-04',
+      name: 'Delphine Raymond',
+      bio:
+        "Product Owner & Product Manager depuis plus de 7 ans, je travaille chez Lucca et j'ai créé le meetup Product People Nantes, devenu LPCx Nantes, une communauté de PO/PM pour les amoureux de la création de produits numériques à Nantes.",
+      picture:
+        'https://secure.gravatar.com/avatar/ddbeaab3b87a434071ddc6bfb5af89a8?size=256',
+      websites: [
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/Delphine_Ray',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/delphineraymond/',
+        },
+        {
+          name: 'Web',
+          url: 'https://www.lucca.fr/',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title: 'Boîte à outils du Product Owner / Product Manager',
+          abstract:
+            'Vous souhaitez découvrir la boîte à outils du PO / PM pour construire la vision de votre produit, sa roadmap, identifier vos personas ou les jobs-to-be-done, définir le MVP de votre produit, créer et prioriser un backlog de fonctionnalités, définir une story map, rédiger une user story ou une job story, les estimer...',
+          tags: ['Product Owner', 'Product Manager', 'Agile'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Innovation games',
+          abstract:
+            "Vous souhaitez découvrir des innovation games ou en animer pour imaginer un produit avec Product Box, prioriser ses fonctionnalités avec Buy a feature ou partager une vision sur les facteurs clés du succès et les causes potentielles d'échec avec Speed boat.",
+          tags: ['Innovation game', 'Facilitation', 'Serious game', 'Agile'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Formats de rétrospectives',
+          abstract:
+            "Vous souhaitez mettre en place des rétrospectives ou les dynamiser en changeant leur format, découvrez différents formats de rétrospectives comme le Speed Boat ou la Timeline pour des rétrospectives sur une longue période, la rétrospective Tweet my sprint ou les plus classiques comme le 4L, l'étoile de mer, le start/stop/continue ou même en inventer selon vos besoins.",
+          tags: [
+            'Innovation game',
+            'Facilitation',
+            'Serious game',
+            'Scrum',
+            'Agile',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Event Storming',
+          abstract:
+            "Vous souhaitez découvrir un atelier d'Event Storming ou en animer un pour partager sur le métier de votre produit ou d'une nouvelle fonctionnalité en équipe, afin d'avoir tous la même compréhension du métier et parler le même lanagage.",
+          tags: ['Event Storming', 'Workshop', 'Facilitation', 'Agile', 'DDD'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Créer une communauté ou un meetup',
+          abstract:
+            "Vous souhaitez crééer une communauté ou un meetup, vous ne savez pas par quoi commencer, comment le lancer, comment l'animer... Je vous raconterai comment j'ai créé le meetup Product People Nantes / LPCx Nantes.",
+          tags: ['Communauté', 'Meetup', "Retour d'expérience"],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        twitter: 'Delphine_Ray',
+        mail: 'delphine.raymond@gmail.com',
+      },
     },
   ],
   cities: {
@@ -17338,6 +17757,18 @@ var data = {
       ville_img: 'img/villes/BBL_leMans.jpg',
       lat: 47.995084,
       lng: 0.188359,
+    },
+    'La Rochelle': {
+      name: 'La Rochelle',
+      ville_img: 'img/villes/BBL.jpg',
+      lat: 46.158163,
+      lng: -1.153645,
+    },
+    "Les Sables-d'Olonne": {
+      name: "Les Sables-d'Olonne",
+      ville_img: 'img/villes/BBL.jpg',
+      lat: 46.5002031,
+      lng: -1.7924568,
     },
     Lille: {
       name: 'Lille',
