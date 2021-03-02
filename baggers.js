@@ -16208,7 +16208,7 @@ var data = {
     {
       since: '2019-04-16',
       name: 'Jean-Philippe Baconnais',
-      bio: 'Technical Leader à la DSI de Pôle emploi',
+      bio: 'Consultant chez Zenika Nantes',
       picture:
         'https://media.licdn.com/dms/image/C5103AQE86oShzXkqBQ/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=MWiasinpxfMCiLVTzrZT33ukFRJalp67gwsBDSxOiMg',
       websites: [
@@ -16239,6 +16239,13 @@ var data = {
           abstract:
             "Vous vous prenez la tête pour faire de l'intégration continue ? En plus ça tombe mal vos OPS ne sont pas dispos ? Gitlab met en place depuis quelques années des fonctionnalités permettant de gérer des pipelines de déploiement dans le même outil de gestion de sources. Nous ne travaillons pas pour Gitlab (nous n’avons aucune action promis ^^), et nous ne voulons pas remplacer les OPS mais nous allons vous montrer comment Gitlab Ci peut vous permettre de gérer vos pipelines directement dans votre gestionnaire de conf préféré sans rien installer et en quelques minutes. Nous vous montrerons aussi comment pousser un peu plus Gitlab Ci dans ses retranchements et en tirer le meilleur.",
           tags: ['Dev', 'CICD', 'Gitlab'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Le développement dès le plus jeune âge',
+          abstract:
+            "Depuis ma sortie d'école, je fais du développement. Mais il existe beaucoup d'actions et d'évènements autour du développement pour les enfants notamment via le Devoxx4Kids. Je vous raconterai comment s'est déroulée une session à laquelle j'ai participé et vous découvrirez comment vos enfants pourront vous impressionner avec leurs premiers développements !",
+          tags: ['Dev', 'kids'],
           lang: ['fr'],
         },
       ],
