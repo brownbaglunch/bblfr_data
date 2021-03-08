@@ -17667,6 +17667,31 @@ var data = {
         mail: 'delphine.raymond@gmail.com',
       },
     },
+    {
+      since: '2021-02-05',
+      name: 'Natacha Fourmy-Mangin',
+      bio: 'Scrum Master et Ambassadrice Younup',
+      picture: 'https://drive.google.com/file/d/1Ha_f2du1DRuZpNbxkBKFeQjjLf0m0lBU/view?usp=sharing',
+      cities: ['Nantes'],
+      contacts: [
+        twitter: 'nfourmymangin',
+        mail: 'fourmy.natacha@gmail.com'
+      ],
+      sessions: [
+        {
+          title: "Cauchemar en Agile",
+          abstract: "Voyagez avec moi au sein d’une équipe Scrum. Parcourons ensemble les pratiques utilisées par celle-ci en pensant appliquer correctement Scrum. Et finalement, revoyons les bases de Scrum pour l’aider à utiliser au mieux cette méthode.",
+          "tags": ["Scrum", "Agilité", "Agile"],
+          "lang": [ "fr" ]
+        }
+      ],
+      websites: [
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/natacha-fourmy-mangin/"
+        }
+      ]
+    }    
   ],
   cities: {
     'Aix-en-Provence': {
