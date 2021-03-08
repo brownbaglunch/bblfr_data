@@ -17665,7 +17665,7 @@ var data = {
       contacts: {
         twitter: 'Delphine_Ray',
         mail: 'delphine.raymond@gmail.com',
-      },
+      }
     },
     {
       since: '2021-02-05',
@@ -17673,10 +17673,10 @@ var data = {
       bio: 'Scrum Master et Ambassadrice Younup',
       picture: 'https://drive.google.com/file/d/1Ha_f2du1DRuZpNbxkBKFeQjjLf0m0lBU/view?usp=sharing',
       cities: ['Nantes'],
-      contacts: [
+      contacts: {
         twitter: 'nfourmymangin',
         mail: 'fourmy.natacha@gmail.com'
-      ],
+      },
       sessions: [
         {
           title: "Cauchemar en Agile",
