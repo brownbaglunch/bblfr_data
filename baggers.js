@@ -14656,38 +14656,6 @@ var data = {
       },
     },
     {
-      since: '2018-07-24',
-      name: 'Xavier Balloy',
-      bio: 'Software Craftsman, tech leader @ AXA France',
-      picture:
-        'https://www.gravatar.com/avatar/cbb626ee3fd112af57a8cb9d8f7ba9d8',
-      cities: ['Lille'],
-      contacts: {
-        twitter: 'xavierballoy',
-        mail: 'xavier.balloy@pm.me',
-      },
-      location: 'Métropole de Lille',
-      websites: [
-        {
-          name: 'Web',
-          url: 'http://www.xavierballoy.com/',
-        },
-        {
-          name: 'LinkedIn',
-          url: 'https://www.linkedin.com/in/xavierballoy/',
-        },
-      ],
-      sessions: [
-        {
-          title: 'Pourquoi avez-vous besoin de la Clean Architecture ?',
-          abstract:
-            "Retour d'expérience sur la mise en place de la clean architecture : comment la mettre en place, quels sont ses avantages et ses inconvénients.",
-          tags: ['Architecture', 'Android', 'Clean code'],
-          lang: ['fr'],
-        },
-      ],
-    },
-    {
       since: '2018-07-27',
       name: 'Stephane Vanacker',
       bio:
@@ -17665,33 +17633,35 @@ var data = {
       contacts: {
         twitter: 'Delphine_Ray',
         mail: 'delphine.raymond@gmail.com',
-      }
+      },
     },
     {
       since: '2021-02-05',
       name: 'Natacha Fourmy-Mangin',
       bio: 'Scrum Master et Ambassadrice Younup',
-      picture: 'https://drive.google.com/file/d/1Ha_f2du1DRuZpNbxkBKFeQjjLf0m0lBU/view?usp=sharing',
+      picture:
+        'https://drive.google.com/file/d/1Ha_f2du1DRuZpNbxkBKFeQjjLf0m0lBU/view?usp=sharing',
       cities: ['Nantes'],
       contacts: {
         twitter: 'nfourmymangin',
-        mail: 'fourmy.natacha@gmail.com'
+        mail: 'fourmy.natacha@gmail.com',
       },
       sessions: [
         {
-          title: "Cauchemar en Agile",
-          abstract: "Voyagez avec moi au sein d’une équipe Scrum. Parcourons ensemble les pratiques utilisées par celle-ci en pensant appliquer correctement Scrum. Et finalement, revoyons les bases de Scrum pour l’aider à utiliser au mieux cette méthode.",
-          "tags": ["Scrum", "Agilité", "Agile"],
-          "lang": [ "fr" ]
-        }
+          title: 'Cauchemar en Agile',
+          abstract:
+            'Voyagez avec moi au sein d’une équipe Scrum. Parcourons ensemble les pratiques utilisées par celle-ci en pensant appliquer correctement Scrum. Et finalement, revoyons les bases de Scrum pour l’aider à utiliser au mieux cette méthode.',
+          tags: ['Scrum', 'Agilité', 'Agile'],
+          lang: ['fr'],
+        },
       ],
       websites: [
         {
-          "name": "LinkedIn",
-          "url": "https://www.linkedin.com/in/natacha-fourmy-mangin/"
-        }
-      ]
-    }    
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/natacha-fourmy-mangin/',
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
