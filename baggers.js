@@ -17704,7 +17704,7 @@ var data = {
         },
       ],
       websites: [
-{
+        {
           name: 'Web',
           url: 'https://fhiegel.github.io',
         },
