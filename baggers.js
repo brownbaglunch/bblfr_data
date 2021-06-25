@@ -17762,7 +17762,7 @@ var data = {
         {
           title: "Evolution technique d'un projet de jeu vidéo",
           abstract:
-            "Je vous invite à assister à un BBL en visio au sujet d'un projet perso de jeu vidéo que j'ai développé ces dernières années et qui sert de support à ma veille techno. Ce BBL parlera des choix techniques que j'ai faits et de leur évolution tout au long de la vie du projet. Ce talk est destiné à tous ceux qui peuvent être intéressés par les technologies web et  l'architecture / conception d'un projet.",
+            "Comment concilier ma veille techno et ma passion du jeu vidéo? Au cours de ce BBL je vais vous parler d'un jeu vidéo que j'ai développé ces dernières années et qui me sert de support à ma veille techno. Venez découvrir les choix techniques que j'ai faits et leurs évolutions pour passer d’un legacy onPremise vers un déploiement Cloud. Ce talk est destiné à tous ceux qui sont intéressés par les technologies web, l'architecture et la conception d'un projet de jeu vidéo.",
           tags: [
             'Cloud',
             'Angular',
