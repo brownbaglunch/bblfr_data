@@ -17681,7 +17681,7 @@ var data = {
           tags: ['Serious game', 'Test', '🌶'],
           lang: ['fr'],
         },
-              {
+        {
           title: 'Pair Programming : Pair-Practice sans coder',
           abstract:
             "Sur le principe, je sais ce qu'est le Pair-Programming, et j'essaie d'en faire. Mais comment aller plus loin ? Cet exercice donne une idée de ce qu'est le Pair-Programming, et pose des question pour prendre du recul sur notre manière de pratiquer.",
@@ -17689,14 +17689,16 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Xtrem Reading - Venez lire autrement, en cultivant votre intelligence collective.',
+          title:
+            'Xtrem Reading - Venez lire autrement, en cultivant votre intelligence collective.',
           abstract:
-            "Vous avez des livres qui prennent la poussière ? Vous avez vraiment envie de les lire mais vous ne trouvez pas le temps ? Cet atelier est fait pour vous ! Venez apprendre à lire en groupe et explorez 2 livres en 1 heure.",
+            'Vous avez des livres qui prennent la poussière ? Vous avez vraiment envie de les lire mais vous ne trouvez pas le temps ? Cet atelier est fait pour vous ! Venez apprendre à lire en groupe et explorez 2 livres en 1 heure.',
           tags: ['Atelier', 'Intelligence collective', '🌶'],
           lang: ['fr'],
         },
         {
-          title: 'Xtrem Tech Watch - Explorez ensemble les sujets qui vous animent.',
+          title:
+            'Xtrem Tech Watch - Explorez ensemble les sujets qui vous animent.',
           abstract:
             "Vous cherchez à organiser votre veille d'équipe ? Venez découvrir et de dégrossir les sujets de veille qui motivent votre équipe.",
           tags: ['Atelier', 'Intelligence collective', 'Veille', '🌶'],
@@ -17742,6 +17744,44 @@ var data = {
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/geoffrey-graveaud-033319b0/',
+        },
+      ],
+    },
+    {
+      since: '2021-06-25',
+      name: 'Alexandre Dergham',
+      bio: 'Développeur fullstack',
+      picture:
+        'https://media-exp1.licdn.com/dms/image/C5603AQHF_GNkl4GMvQ/profile-displayphoto-shrink_400_400/0/1517619627364?e=1629936000&v=beta&t=pLJSXNXUuBa1EBZ4mM42F0conGzMreYbaqgJh470yyE',
+      cities: ['Lille'],
+      contacts: {
+        twitter: 'alxdergham',
+        mail: 'adergham@ineat.fr',
+      },
+      sessions: [
+        {
+          title: "Evolution technique d'un projet de jeu vidéo",
+          abstract:
+            "Je vous invite à assister à un BBL en visio au sujet d'un projet perso de jeu vidéo que j'ai développé ces dernières années et qui sert de support à ma veille techno. Ce BBL parlera des choix techniques que j'ai faits et de leur évolution tout au long de la vie du projet. Ce talk est destiné à tous ceux qui peuvent être intéressés par les technologies web et  l'architecture / conception d'un projet.",
+          tags: [
+            'Cloud',
+            'Angular',
+            'React',
+            'VueJS',
+            'GCP',
+            'Google',
+            'Google CLoud',
+            'Firebase',
+            'Quarkus',
+            'Jeu vidéo',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/alexandredergham',
         },
       ],
     },
