@@ -17750,10 +17750,11 @@ var data = {
     {
       since: '2021-06-25',
       name: 'Alexandre Dergham',
-      bio: 'Développeur fullstack',
+      bio: 'Développeur fullstack @ Ineat',
       picture:
         'https://media-exp1.licdn.com/dms/image/C5603AQHF_GNkl4GMvQ/profile-displayphoto-shrink_400_400/0/1517619627364?e=1629936000&v=beta&t=pLJSXNXUuBa1EBZ4mM42F0conGzMreYbaqgJh470yyE',
       cities: ['Lille'],
+      location: 'Lille, remote',
       contacts: {
         twitter: 'alxdergham',
         mail: 'adergham@ineat.fr',
