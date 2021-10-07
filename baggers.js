@@ -17752,7 +17752,7 @@ var data = {
       name: 'Alexandre Dergham',
       bio: 'Développeur fullstack @ Ineat',
       picture:
-        'https://media-exp1.licdn.com/dms/image/C5603AQHF_GNkl4GMvQ/profile-displayphoto-shrink_400_400/0/1517619627364?e=1629936000&v=beta&t=pLJSXNXUuBa1EBZ4mM42F0conGzMreYbaqgJh470yyE',
+        'https://media-exp1.licdn.com/dms/image/C5603AQHF_GNkl4GMvQ/profile-displayphoto-shrink_400_400/0/1517619627364?e=1639008000&v=beta&t=T7rfgooS1Yo923cZ_Tc2MxtxzHaTIuw45OtNdw4ziIA',
       cities: ['Lille'],
       location: 'Lille, remote',
       contacts: {
