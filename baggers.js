@@ -17778,6 +17778,22 @@ var data = {
           ],
           lang: ['fr'],
         },
+        {
+          title:
+            "Quand Scala rencontre Google Cloud Run et Firestore. REX d'une amitié qui fonctionne.",
+          abstract:
+            "Laissez-moi vous présenter un retour d'expérience sur l'intégration d'une application Scala dans Google Cloud Run avec un accès à Firestore. Vous y verrez les facilités mais aussi les pièges qui peuvent se cacher dans ce chantier ainsi que mon ressenti sur cette combinaison de technologies. Si vous avez besoin de deployer une API sous Google Cloud Platform avec des accès à Firebase et si ce sujet vous fait poser des questions existentielles, ce talk est fait pour vous.",
+          tags: [
+            'Cloud',
+            'GCP',
+            'Cloud Run',
+            'Scala',
+            'Firebase',
+            'Firestore',
+            'REX',
+          ],
+          lang: ['fr'],
+        },
       ],
       websites: [
         {
