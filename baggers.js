@@ -7691,7 +7691,7 @@ var data = {
       since: '2015-02-10',
       name: 'Boris Feld',
       bio:
-        'Développeur backend (Python, ZeroMQ, MongoDB) passionné par les architectures web, la culture DevOps et la qualité',
+        'Développeur Python multi-casquettes passionné par les architectures web, la mise en production de Machine Learning, la culture DevOps et la qualité',
       picture:
         'http://www.gravatar.com/avatar/410e3353165c33043ab69be7fc366428.jpg?s=256',
       websites: [
@@ -7703,63 +7703,10 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title: 'Architecture micro-services',
-          abstract:
-            "Qu'est-ce qu'une architecture micro-service, ses avantages, ses inconvénients, comment la mettre en place.",
-          tags: [
-            'Python',
-            'ZeroMQ',
-            'NoSQL',
-            'ElasticSearch',
-            'MongoDB',
-            'Micro-Services',
-            'Test',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Modèle de donnée NoSQL',
-          abstract:
-            'Quand le modèle relationnel ne suffit plus, le NoSQL peut vous aider. Exemples de modélisations avec MongoDB.',
-          tags: [
-            'Python',
-            'ZeroMQ',
-            'NoSQL',
-            'ElasticSearch',
-            'MongoDB',
-            'Micro-Services',
-            'Test',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Elastic Search côté admin',
-          abstract:
-            'ElasticSearch est presque magique mais il est utile de savoir comment ça marche, comment ça scale, que faut-il surveiller?',
-          tags: [
-            'Python',
-            'ZeroMQ',
-            'NoSQL',
-            'ElasticSearch',
-            'MongoDB',
-            'Micro-Services',
-            'Test',
-          ],
-          lang: ['fr'],
-        },
-        {
           title: 'Ils sont beaux mes tests',
           abstract:
             "Faire des tests c'est bien, faire de bons/beaux tests automatisés c'est mieux, des conseils tout droit venus des tranchées",
-          tags: [
-            'Python',
-            'ZeroMQ',
-            'NoSQL',
-            'ElasticSearch',
-            'MongoDB',
-            'Micro-Services',
-            'Test',
-          ],
+          tags: ['Python', 'Test'],
           lang: ['fr'],
         },
       ],
