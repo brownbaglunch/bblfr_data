@@ -960,65 +960,7 @@ var data = {
       contacts: {
         mail: 'cbegot@gmail.com',
       },
-    },
-    {
-      since: '2013-02-26',
-      name: 'Hugo Lassiège',
-      bio: 'Geek et entrepreneur. Un bon cocktail pour un BBL.',
-      picture:
-        'http://res.cloudinary.com/hopwork/image/upload/t_bigprofile/rjgllgjiskn01r8b2pbc.jpg',
-      websites: [
-        {
-          name: 'Web',
-          url: 'http://www.eventuallycoding.com/',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.hopwork.com/',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.lateral-thoughts.com/',
-        },
-      ],
-      location: 'Lyon',
-      sessions: [
-        {
-          title: 'Organisez vos documents avec Mongo',
-          abstract:
-            "Mongodb est une base de données nosql orientée document. Elle propose un modèle de requêtage riche, des bonnes performances, une très bonne scalabilité et d'autres fonctionnalités avancées. Mongo peut-il répondre à vos cas d'usage ? ",
-          tags: ['Web', 'Java', 'Big Data', 'MongoDB', 'ElasticSearch'],
-          lang: ['fr'],
-        },
-        {
-          title:
-            "Elastic Search, parce qu'on a toujours besoin de rechercher quelque chose",
-          abstract:
-            "Rechercher des données est sans doute ce qui se fait le plus couramment dans toutes les applications. Mais le faites-vous bien ? Je vous propose un petit tour d'horizon d'un moteur dédié à la recherche et qui le fait bien.",
-          tags: ['Web', 'Java', 'Big Data', 'MongoDB', 'ElasticSearch'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Spring Boot et RabbitMq',
-          abstract:
-            'Je vous propose de voir comment nous utilisons Spring boot et RabbitMq chez Hopwork pour  découper nos services en petites applications ',
-          tags: ['Web', 'Java', 'Big Data', 'MongoDB', 'ElasticSearch'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Ansible',
-          abstract:
-            'Je vous propose de voir comment nous utilisons Ansible chez Hopwork pour le déploiement de notre infrastructure mais aussi du code applicatif',
-          tags: ['Web', 'Java', 'Big Data', 'MongoDB', 'ElasticSearch'],
-          lang: ['fr'],
-        },
-      ],
-      cities: ['Lyon'],
-      contacts: {
-        twitter: 'hugolassiege',
-        mail: 'hlassiege+bbl@gmail.com',
-      },
-    },
+    }, 
     {
       since: '2013-02-27',
       name: 'Cédric Exbrayat',
