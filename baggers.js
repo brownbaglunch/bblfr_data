@@ -13314,6 +13314,13 @@ var data = {
       location: 'Nantes',
       sessions: [
         {
+          title: 'Living documentation as test',
+          abstract:
+            'Maintenir la documentation sur un projet est un vrai challenge. J\explore depuis quelques temps la production d\'une Living Documentation validant l\'application et se substituant aux tests. Je propose de vous décrire le concept, soit à travers une présentation, soit en animant un coding dojo, soit en travaillant directement sur votre application.',
+          tags: ['Documentation', 'Test', 'Dojo'],
+          lang: ['fr'],
+        },
+        {
           title: 'Lego4Devops',
           abstract:
             'Atelier mettant en évidence les problèmes de communication entre les développeurs et les opérationnels que le mouvement DevOps vise à améliorer pour la réussite des projets. Pas de code. Durée 1h15',
@@ -13337,7 +13344,7 @@ var data = {
         {
           title: 'Coding dojo / Kata',
           abstract:
-            'Animation de coding dojo, format randori ou kata, Thèmes TDD, BDD, refactoring, langage au choix (Java, Pyhton, PHP, Haskell, Javascript, ...)',
+            'Animation de coding dojo, format randori ou kata, Thèmes TDD, BDD, refactoring, langage au choix (Java, Python, PHP, Haskell, Javascript, Cobol, Assembleur, ...)',
           tags: ['Java', 'Craftsmanship', 'CleanCode'],
           lang: ['fr'],
         },
