@@ -960,7 +960,7 @@ var data = {
       contacts: {
         mail: 'cbegot@gmail.com',
       },
-    }, 
+    },
     {
       since: '2013-02-27',
       name: 'Cédric Exbrayat',
@@ -13316,7 +13316,7 @@ var data = {
         {
           title: 'Living documentation as test',
           abstract:
-            'Maintenir la documentation sur un projet est un vrai challenge. J\'explore depuis quelques temps la production d\'une Living Documentation validant l\'application et se substituant aux tests. Je propose de vous décrire le concept, soit à travers une présentation, soit en animant un coding dojo, soit en travaillant directement sur votre application.',
+            "Maintenir la documentation sur un projet est un vrai challenge. J'explore depuis quelques temps la production d'une Living Documentation validant l'application et se substituant aux tests. Je propose de vous décrire le concept, soit à travers une présentation, soit en animant un coding dojo, soit en travaillant directement sur votre application.",
           tags: ['Documentation', 'Test', 'Dojo'],
           lang: ['fr'],
         },
@@ -17623,6 +17623,63 @@ var data = {
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/alexandredergham',
+        },
+      ],
+    },
+    {
+      since: '2022-04-28',
+      name: 'Vincent Dubois',
+      bio:
+        'Développeur web depuis plus de 20 ans, je travaille actuellement chez Primobox, un éditeur de logiciels SaaS de dématérialisation des processus RH. Mes domaines de prédilection sont le Domain Driven Design et les architectures logicielles.',
+      picture:
+        'https://fr.gravatar.com/userimage/7083739/e289e7a4313d70ab7d1a3ccaaf785551.png?size=200',
+      cities: ['Bordeaux'],
+      location: 'Bordeaux, remote',
+      contacts: {
+        twitter: 'vdubois',
+        mail: 'v.dubois@primobox.com',
+      },
+      sessions: [
+        {
+          title: "Qu'est ce que le Domain-Driven Design ?",
+          abstract:
+            "Vous avez déjà entendu parler de DDD ? Si oui, vous savez sûrement déjà que c'est la jungle pour s'y retrouver dans toutes les ressources disponibles sur le sujet. Cela peut prendre des mois voire des années pour en comprendre correctement toutes les subtilités.\nNous vous proposons de vous présenter d'une manière simple le sujet afin de vous prouver que ce n'est pas si compliqué que ça. D'ailleurs, on utilise cette méthodologie au quotidien chez Primobox. Alors, curieux d'en s'avoir plus ?",
+          tags: ['DDD', 'Domain Driven Design', 'Conception', 'Métier'],
+          lang: ['fr'],
+        },
+      ],
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/vincent-dubois-5463b08b/',
+        },
+      ],
+    },
+    {
+      since: '2022-04-25',
+      name: 'Julien Gavard',
+      bio:
+        'Senior software engineer / DDD Lead chez Primobox, éditeur de logiciels SaaS de dématérialisation des processus RH.',
+      picture:
+        'https://media-exp1.licdn.com/dms/image/C4D03AQGoBc0VcH1__Q/profile-displayphoto-shrink_800_800/0/1614413589375?e=1656547200&v=beta&t=uKE72iuoLexuC4kSieKk-UGi5s5AZKAm3K0_heVxPm4',
+      cities: ['Bordeaux'],
+      location: 'Bordeaux, remote',
+      contacts: {
+        mail: 'j.gavard@primobox.com',
+      },
+      sessions: [
+        {
+          title: "Qu'est ce que le Domain-Driven Design ?",
+          abstract:
+            "Vous avez déjà entendu parler de DDD ? Si oui, vous savez sûrement déjà que c'est la jungle pour s'y retrouver dans toutes les ressources disponibles sur le sujet. Cela peut prendre des mois voire des années pour en comprendre correctement toutes les subtilités.\nNous vous proposons de vous présenter d'une manière simple le sujet afin de vous prouver que ce n'est pas si compliqué que ça. D'ailleurs, on utilise cette méthodologie au quotidien chez Primobox. Alors, curieux d'en s'avoir plus ?",
+          tags: ['DDD', 'Domain Driven Design', 'Conception', 'Métier'],
+          lang: ['fr'],
+        },
+      ],
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/julien-gavard-974654120/',
         },
       ],
     },
