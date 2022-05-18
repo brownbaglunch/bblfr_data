@@ -6855,7 +6855,7 @@ var data = {
       since: '2014-07-23',
       name: 'Pierre Baillet',
       bio:
-        'Devops at IPPON Technologies • Mauvais plaisantin mais bon vivant • ',
+        'Principal Engineer at Sonos • Mauvais plaisantin mais bon vivant • ',
       picture:
         'https://www.gravatar.com/userimage/7364231/abcb8f5931db676141afd368fb844cc2.jpg?size=250',
       websites: [
@@ -6872,8 +6872,20 @@ var data = {
           url: 'https://github.com/octplane',
         },
       ],
-      location: 'Paris',
+      location: 'Bordeaux',
       sessions: [
+        { 
+          title: 'Datadog pour les nuls',
+          abstract: 'Fort de mon expérience chez Datadog, je vous propose de découvrir Datadog et ce que ce SaaS peut vous apporter en terme d\'observabilité et de monitoring.',
+          tags: ['Datadog', 'Monitoring', 'Observabilité']
+          lang: ['fr']
+        },
+        { 
+          title: 'Le Chaos Engineering pour les nuls',
+          abstract: 'Vos services sont les plus robustes du monde ? Êtes vous prêt à passer à la vitesse supérieure ? Découvrez le Chaos Engineering, fils fou et prodige des SRE et de l\'armée de 12 singes.',
+          tags: ['Chaos', 'Monitoring', 'Robustness', 'Reliability']
+          lang: ['fr']
+        },
         {
           title: 'Des fossés et des trolls',
           abstract:
@@ -6885,13 +6897,6 @@ var data = {
           title: 'Git pour les nuls',
           abstract:
             'Débutant en SCM ou vétérans de SVN, le contrôle de source est quelque chose qui est cher à votre coeur. Passez à la vitesse supérieure avec Git, le système de contrôle de source décentralisé très déroutant au premier abord. Initiez-vous avec moi, en jouant avec git, son workflow et ses autres joyeusetés. Ne perdez plus de source, jamais !',
-          tags: ['Git', 'Deployment', 'DevOps', 'Intégration continue'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Vagrant pour les développeurs',
-          abstract:
-            "Envie d'accélérer votre cycle de développement ? Découvrez Vagrant, l'outil pour gérer vos machines virtuelles, écrire du code et devenir riche !",
           tags: ['Git', 'Deployment', 'DevOps', 'Intégration continue'],
           lang: ['fr'],
         },
