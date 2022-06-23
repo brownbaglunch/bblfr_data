@@ -6874,13 +6874,13 @@ var data = {
       ],
       location: 'Bordeaux',
       sessions: [
-        { 
+        {
           title: 'Datadog pour les nuls',
           abstract: 'Fort de mon expérience chez Datadog, je vous propose de découvrir Datadog et ce que ce SaaS peut vous apporter en terme d\'observabilité et de monitoring.',
           tags: ['Datadog', 'Monitoring', 'Observabilité'],
           lang: ['fr']
         },
-        { 
+        {
           title: 'Le Chaos Engineering pour les nuls',
           abstract: 'Vos services sont les plus robustes du monde ? Êtes vous prêt à passer à la vitesse supérieure ? Découvrez le Chaos Engineering, fils fou et prodige des SRE et de l\'armée de 12 singes.',
           tags: ['Chaos', 'Monitoring', 'Robustness', 'Reliability'],
@@ -9833,11 +9833,11 @@ var data = {
     },
     {
       since: '2016-04-20',
-      name: 'Xavier Gouchet',
+      name: 'Xavier F. Gouchet',
       bio:
         "Senior Software Engineer chez Datadog, musicophile, passionné par l'architecture, les tests, l'algorithmique et les outils qui simplifient la vie du développeur",
       picture:
-        'http://www.gravatar.com/avatar/2ecfc308b3401b0b9aa298f791044af1?s=256',
+        'https://www.gravatar.com/avatar/2ecfc308b3401b0b9aa298f791044af1?s=512',
       websites: [
         {
           name: 'LinkedIn',
@@ -9851,13 +9851,6 @@ var data = {
       location: 'Paris, Chartres, Le Mans, ...',
       sessions: [
         {
-          title: 'Refactoring : le bon, la brute et le truand (général)',
-          abstract:
-            'Quelques bonnes et mauvaises pratiques autour du refactoring, basé sur 3 refactorings vécus.',
-          tags: ['Refactoring', 'Legacy'],
-          lang: ['fr', 'en'],
-        },
-        {
           title: 'Les code reviews zen (général)',
           abstract:
             'Les code reviews font parties de ces bonnes pratiques qui, si elles sont mal encadrées, peuvent devenir un poison pour une équipe. Je vous propose de détailler les bonnes et mauvaises pratiques autour des code reviews, et de voir quelques conseils pour limiter les frictions qui en résultent.',
@@ -9867,7 +9860,14 @@ var data = {
         {
           title: 'Mutation Testing (Java/Kotlin/Android)',
           abstract:
-            "Avoir des tests, c'est bien. Avoir de bons tests, c'est mieux ! Cette presentation va répondre à la question : Comment mesurer les tests unitaires autrement qu'avec la couverture de code",
+            "Avoir des tests, c'est bien. Avoir de bons tests, c'est mieux ! Cette presentation va répondre à la question : Comment mesurer les tests unitaires autrement qu'avec la couverture de code ?",
+          tags: ['Tests', 'Coverage', 'Mutation', 'Android', 'Java', 'Kotlin'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Property Based Testing (Java/Kotlin/Android)',
+          abstract:
+            "Avoir des tests, c'est bien. Avoir de bons tests, c'est mieux ! Mais lorsque vos tests utilisent des données statiques, vous ne testez qu'un scope restreint, et vous risquez de passer à côté de situations problématiques.",
           tags: ['Tests', 'Coverage', 'Mutation', 'Android', 'Java', 'Kotlin'],
           lang: ['fr', 'en'],
         },
@@ -9886,8 +9886,16 @@ var data = {
           tags: ['Build', 'Android', 'Java', 'Kotlin', 'Gradle'],
           lang: ['fr', 'en'],
         },
+        {
+          title:
+            'Démystifier la pyramide de tests (général)',
+          abstract:
+            "Depuis 2010, le concept de pyramide de tests donne une vision pragmatique des tests, vision mal comprise, et qui a peu évolué depuis. Cette présentation revisite et redéfinit la pyramide de test dans une approche moderne et scalable.",
+          tags: ['Tests', 'pyramide', 'Android', 'Java', 'Kotlin', 'Gradle'],
+          lang: ['fr', 'en'],
+        },
       ],
-      cities: ['Paris', 'Chartres', 'Le Mans'],
+      cities: ['Paris', 'Chartres', 'Le Mans', 'Rouen', 'Caen', 'Orléans', 'Versailles'],
       contacts: {
         twitter: 'xgouchet',
         mail: 'brownbaglunch@xgouchet.fr',
