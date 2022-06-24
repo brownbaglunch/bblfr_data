@@ -5485,10 +5485,10 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'The cutting edge web is coming !',
+          title: 'Le web Natif débarque',
           abstract:
-            'Le web est en mouvement et ne compte pas s’arrêter là. Venez dans cette session pour voir les dernières avancées du web en terme d’intégrations de capteurs et ce qui se profile pour l’avenir.',
-          tags: ['HTML5', 'W3C'],
+            'Toujours dans la continuité du web manifesto visant à mettre à disposition plus d’API bas niveau sur le web. Le “projet FUGU” (non ce n’est pas le nouveau nom du Yaourt de Dan…) est le nom de code du projet permettant de mettre à disposition des APIs web qui complètent l’intégration avec l’OS (Explorateur de fichier, Accès aux contacts, Bluetooth, …).\n\nVenez dans cette session pour découvrir quelles APIs vous allez pouvoir utiliser demain dans vos applications web.',
+          tags: ['HTML5', 'Web', 'Fugu'],
           lang: ['fr'],
         },
         {
@@ -5499,10 +5499,10 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Les nouveaux supers pouvoirs du web',
+          title: 'Explorons les stratégies de cache offertes sur les PWA',
           abstract:
-            'Et si je vous disais que votre navigateur est doté de pouvoirs dont vous n’avez pas conscience ? Et si l’installation d’une application n’était plus nécessaire pour interagir de façon riche avec les objets qui nous entourent ? Bref, vous l’aurez compris dans ce talk, je vais vous parler des nouvelles possibilités qui s’offrent à vous en tant que développeur web et qui vont vous permettre de créer des applications web universelles ! Nous évoquerons donc Sensors, Bluetooth, Physical Web, Usb, AppManifest, ...',
-          tags: ['Mobile', 'HTML5', 'PhysicalWeb', 'Sensors'],
+            'Quand on parle de PWA, il est question de Service Workers, c\'est un fait. Etant donné que ce dernier nous permet de servir des fichiers hors-ligne, il est donc pertinent de se pencher sur les mécanismes de mises en cache proposés par ce dernier.\nA travers cette session, nous vous proposons de balayer les différentes et plus connues stratégies de mises en cache d\'une PWA. Nous tâcherons pour chacune de ces stratégies de vous proposer un exemple d\'implémentation.\nNous mettrons aussi le nez dans workbox qui pourra vous aider dans la mise en place de ces dernières.\nLes stratégies explorées seront les suivantes :\n* Cache-Only\n* Network-Only\n* Cache-First\n* Network-First\n* Cache-Then-Network\n* Stale-While-Revalidate\n* Generic-Fallback',
+          tags: ['PWA', 'ServiceWorker'],
           lang: ['fr'],
         },
         {
@@ -5520,13 +5520,6 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'WebRTC : de la visio dans mon navigateur sans plugin ! ',
-          abstract:
-            "Avez déjà rêvé de faire une visio avec votre grand mère, elle sur son smartphone et vous installés dans votre canapé avec votre ordinateur portable. Le problème : elle n'a pas Skype, pas de compte Google et elle ne connait pas Facetime ? Et si votre navigateur était la solution  ! Vous pourrez même lui partager les photos de votre petite dernière.Vous l'aurez compris, l'objectif de cette session est de présenter ce qu'est le WebRTC et de comprendre ce qui ce cache derrière.",
-          tags: ['Mobile', 'Android', 'NFC', 'HTML5', 'WebRTC', 'Sensors'],
-          lang: ['fr'],
-        },
-        {
           title: "J'ai organisé un atelier pour les enfants",
           abstract:
             "Les Devoxx4Kids, vous connaissez ? Mais si vous savez, ces ateliers pour faire découvrir la programmation aux plus petits ? Je vais vous faire un petit retour d'expérience sur les choix que nous avons fait à Nantes et pourquoi nous les avons fait. Comment avons nous choisit le programme ? Combien de temps doit durer les ateliers ? .... \n Enfin je ferais une démo de scratch pour que vous puissiez expérimenter cet outils avec vos enfants",
@@ -5534,10 +5527,31 @@ var data = {
           lang: ['fr'],
         },
         {
+          title: "JS in CSS: Yes we can 🤔",
+          abstract:
+            "Alors que tout le monde parle de CSS in JS et si on regardait comment faire du JS in CSS ? Car oui c’est possible ! Est-ce une bonne idée ? Je n’en suis pas convaincu mais pourquoi ne viendrez pas vous détendre sur cette session à la fois technique et fun.\n“Because we can” n’est ce pas ce qui nous motive dans certains de nos développements 😉",
+          tags: ['JS', 'CSS'],
+          lang: ['fr'],
+        },
+        {
           title: 'Cursus Speaker',
           abstract:
             "Je croise souvent des sociétés et des personnes qui souhaiteraient passer le pas et devenir speaker, se mettre en avant pour partager leurs connaissances, leurs expériences. Mais bien souvent, personne ne sait par où commencer ni comment s'y prendre... Je vous propose donc de venir faire 4 ateliers de 1h30/2h pour y remédier. Au programme : \n 1. Comment Trouver son sujet \n 2. Comment Postuler ? Préparer ses Slides ? \n 3. Comment gérer sa carrière de speaker ? \n 4. Exercice pratique.",
           tags: ['Conseils', 'Tech Talks'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Comment gérer sa culture tech',
+          abstract:
+            "Vous vous demandez comment créer un environnement stimulant pour vos équipes techniques ? Sans prétendre avoir la solution parfaite, nous vous proposons de partager des bonnes pratiques et solutions que vous pourrez mettre en oeuvre pour animer vos équipes techniques. Nous évoquerons aussi la nécessité de travailler sa communication autour de ces actions pour que la culture soit visible et pertinente.",
+          tags: ['Conseils', 'Tech Talks'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Atelier : Découvrir l’authentification avec double facteur sans mot de passe grâce à WebAuthN',
+          abstract:
+            "WebAuthN est présent depuis déjà quelques années pour offrir un mécanisme d’authentification sans mot de passe fiable et présent sur tous les navigateurs modernes. Pour autant, il n’est pas encore très répandu dans les applications que l’on utilise. \nA travers ce codelab, je vous propose de voir comment mettre en place la partie front-end de WebAuthN en couplant cela à un mécanisme de double authentification.\nJe n’aborderai pas volontairement la partie back et je m\'appuierai sur des librairies existantes.\nCependant à l’issue du codelab, vous saurez comment débugger, mettre en place une authentification sans mot de passe sur votre prochaine application web !",
+          tags: ['Codelab', 'Web', 'WebAuthN'],
           lang: ['fr'],
         },
       ],
