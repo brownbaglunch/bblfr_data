@@ -16209,12 +16209,15 @@ var data = {
       since: '2019-04-16',
       name: 'Jean-Philippe Baconnais',
       bio: 'Consultant chez Zenika Nantes',
-      picture:
-        'https://media.licdn.com/dms/image/C5103AQE86oShzXkqBQ/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=MWiasinpxfMCiLVTzrZT33ukFRJalp67gwsBDSxOiMg',
+      picture: 'https://s.gravatar.com/avatar/5d2655822def2e889a17ff94e95309e3',
       websites: [
         {
           name: 'Github',
           url: 'https://github.com/jeanphibaconnais',
+        },
+        {
+          name: 'GitLab',
+          url: 'https://gitlab.com/jeanphi-baconnais',
         },
       ],
       location: 'Nantes',
@@ -16246,6 +16249,21 @@ var data = {
           abstract:
             "Depuis ma sortie d'école, je fais du développement. Mais il existe beaucoup d'actions et d'évènements autour du développement pour les enfants notamment via le Devoxx4Kids. Je vous raconterai comment s'est déroulée une session à laquelle j'ai participé et vous découvrirez comment vos enfants pourront vous impressionner avec leurs premiers développements !",
           tags: ['Dev', 'kids'],
+          lang: ['fr'],
+        },
+        {
+          title: 'GitLab 💚 Kubernetes',
+          abstract:
+            'Déployez-vous sur Kubernetes des applications dont le code source est stocké sur GitLab ? Quel outil vous permet de faire ce déploiement ? Savez-vous que GitLab peut aussi le faire? GitLab est une plateforme comprenant beaucoup d’outils facilitant la démarche Devops. Cette palette va de la conception de votre application à sa livraison en production. L’intégration d’outils, tels que Kubernetes, permet aux équipes de déployer et de monitorer votre application sans pour autant quitter GitLab. Durant ce talk, nous vous présenterons comment cette intégration GitLab / Kubernetes est possible et la manière d’en profiter au maximum sans jamais se connecter à votre cluster.',
+          tags: ['Dev', 'Kubernetes', 'DevOps', 'GitLab'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Qui a dit qu’il fallait avoir un JDK sur son poste pour développer une application Java ? Prenez votre IDE Cloud GitPod et le tour est joué 💪',
+          abstract:
+            'Quand on arrive sur des projets, la configuration de votre poste est une étape obligatoire : avoir la bonne version du JDK, de Maven ou de librairies. Le tout avec quelques Mo / Go qui s’accumulent sur votre disque dur. Avec l’arrivée des IDE Cloud tels que GitPod, la configuration nécessaire sur un projet est mutualisée sur le cloud et cette étape qui pouvait devenir une réelle galère n’est plus qu’un lointain souvenir ! Après vous avoir présenté en quelques mots GitPod, je vous ferai une démonstration de ce qui est possible pour un dev Java.',
+          tags: ['Dev', 'GitPod'],
           lang: ['fr'],
         },
       ],
