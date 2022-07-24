@@ -5501,7 +5501,7 @@ var data = {
         {
           title: 'Explorons les stratégies de cache offertes sur les PWA',
           abstract:
-            'Quand on parle de PWA, il est question de Service Workers, c\'est un fait. Etant donné que ce dernier nous permet de servir des fichiers hors-ligne, il est donc pertinent de se pencher sur les mécanismes de mises en cache proposés par ce dernier.\nA travers cette session, nous vous proposons de balayer les différentes et plus connues stratégies de mises en cache d\'une PWA. Nous tâcherons pour chacune de ces stratégies de vous proposer un exemple d\'implémentation.\nNous mettrons aussi le nez dans workbox qui pourra vous aider dans la mise en place de ces dernières.\nLes stratégies explorées seront les suivantes :\n* Cache-Only\n* Network-Only\n* Cache-First\n* Network-First\n* Cache-Then-Network\n* Stale-While-Revalidate\n* Generic-Fallback',
+            "Quand on parle de PWA, il est question de Service Workers, c'est un fait. Etant donné que ce dernier nous permet de servir des fichiers hors-ligne, il est donc pertinent de se pencher sur les mécanismes de mises en cache proposés par ce dernier.\nA travers cette session, nous vous proposons de balayer les différentes et plus connues stratégies de mises en cache d'une PWA. Nous tâcherons pour chacune de ces stratégies de vous proposer un exemple d'implémentation.\nNous mettrons aussi le nez dans workbox qui pourra vous aider dans la mise en place de ces dernières.\nLes stratégies explorées seront les suivantes :\n* Cache-Only\n* Network-Only\n* Cache-First\n* Network-First\n* Cache-Then-Network\n* Stale-While-Revalidate\n* Generic-Fallback",
           tags: ['PWA', 'ServiceWorker'],
           lang: ['fr'],
         },
@@ -5527,9 +5527,9 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: "JS in CSS: Yes we can 🤔",
+          title: 'JS in CSS: Yes we can 🤔',
           abstract:
-            "Alors que tout le monde parle de CSS in JS et si on regardait comment faire du JS in CSS ? Car oui c’est possible ! Est-ce une bonne idée ? Je n’en suis pas convaincu mais pourquoi ne viendrez pas vous détendre sur cette session à la fois technique et fun.\n“Because we can” n’est ce pas ce qui nous motive dans certains de nos développements 😉",
+            'Alors que tout le monde parle de CSS in JS et si on regardait comment faire du JS in CSS ? Car oui c’est possible ! Est-ce une bonne idée ? Je n’en suis pas convaincu mais pourquoi ne viendrez pas vous détendre sur cette session à la fois technique et fun.\n“Because we can” n’est ce pas ce qui nous motive dans certains de nos développements 😉',
           tags: ['JS', 'CSS'],
           lang: ['fr'],
         },
@@ -5543,14 +5543,15 @@ var data = {
         {
           title: 'Comment gérer sa culture tech',
           abstract:
-            "Vous vous demandez comment créer un environnement stimulant pour vos équipes techniques ? Sans prétendre avoir la solution parfaite, nous vous proposons de partager des bonnes pratiques et solutions que vous pourrez mettre en oeuvre pour animer vos équipes techniques. Nous évoquerons aussi la nécessité de travailler sa communication autour de ces actions pour que la culture soit visible et pertinente.",
+            'Vous vous demandez comment créer un environnement stimulant pour vos équipes techniques ? Sans prétendre avoir la solution parfaite, nous vous proposons de partager des bonnes pratiques et solutions que vous pourrez mettre en oeuvre pour animer vos équipes techniques. Nous évoquerons aussi la nécessité de travailler sa communication autour de ces actions pour que la culture soit visible et pertinente.',
           tags: ['Conseils', 'Tech Talks'],
           lang: ['fr'],
         },
         {
-          title: 'Atelier : Découvrir l’authentification avec double facteur sans mot de passe grâce à WebAuthN',
+          title:
+            'Atelier : Découvrir l’authentification avec double facteur sans mot de passe grâce à WebAuthN',
           abstract:
-            "WebAuthN est présent depuis déjà quelques années pour offrir un mécanisme d’authentification sans mot de passe fiable et présent sur tous les navigateurs modernes. Pour autant, il n’est pas encore très répandu dans les applications que l’on utilise. \nA travers ce codelab, je vous propose de voir comment mettre en place la partie front-end de WebAuthN en couplant cela à un mécanisme de double authentification.\nJe n’aborderai pas volontairement la partie back et je m\'appuierai sur des librairies existantes.\nCependant à l’issue du codelab, vous saurez comment débugger, mettre en place une authentification sans mot de passe sur votre prochaine application web !",
+            "WebAuthN est présent depuis déjà quelques années pour offrir un mécanisme d’authentification sans mot de passe fiable et présent sur tous les navigateurs modernes. Pour autant, il n’est pas encore très répandu dans les applications que l’on utilise. \nA travers ce codelab, je vous propose de voir comment mettre en place la partie front-end de WebAuthN en couplant cela à un mécanisme de double authentification.\nJe n’aborderai pas volontairement la partie back et je m'appuierai sur des librairies existantes.\nCependant à l’issue du codelab, vous saurez comment débugger, mettre en place une authentification sans mot de passe sur votre prochaine application web !",
           tags: ['Codelab', 'Web', 'WebAuthN'],
           lang: ['fr'],
         },
@@ -6890,15 +6891,17 @@ var data = {
       sessions: [
         {
           title: 'Datadog pour les nuls',
-          abstract: 'Fort de mon expérience chez Datadog, je vous propose de découvrir Datadog et ce que ce SaaS peut vous apporter en terme d\'observabilité et de monitoring.',
+          abstract:
+            "Fort de mon expérience chez Datadog, je vous propose de découvrir Datadog et ce que ce SaaS peut vous apporter en terme d'observabilité et de monitoring.",
           tags: ['Datadog', 'Monitoring', 'Observabilité'],
-          lang: ['fr']
+          lang: ['fr'],
         },
         {
           title: 'Le Chaos Engineering pour les nuls',
-          abstract: 'Vos services sont les plus robustes du monde ? Êtes vous prêt à passer à la vitesse supérieure ? Découvrez le Chaos Engineering, fils fou et prodige des SRE et de l\'armée de 12 singes.',
+          abstract:
+            "Vos services sont les plus robustes du monde ? Êtes vous prêt à passer à la vitesse supérieure ? Découvrez le Chaos Engineering, fils fou et prodige des SRE et de l'armée de 12 singes.",
           tags: ['Chaos', 'Monitoring', 'Robustness', 'Reliability'],
-          lang: ['fr']
+          lang: ['fr'],
         },
         {
           title: 'Des fossés et des trolls',
@@ -9901,15 +9904,22 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Démystifier la pyramide de tests (général)',
+          title: 'Démystifier la pyramide de tests (général)',
           abstract:
-            "Depuis 2010, le concept de pyramide de tests donne une vision pragmatique des tests, vision mal comprise, et qui a peu évolué depuis. Cette présentation revisite et redéfinit la pyramide de test dans une approche moderne et scalable.",
+            'Depuis 2010, le concept de pyramide de tests donne une vision pragmatique des tests, vision mal comprise, et qui a peu évolué depuis. Cette présentation revisite et redéfinit la pyramide de test dans une approche moderne et scalable.',
           tags: ['Tests', 'pyramide', 'Android', 'Java', 'Kotlin', 'Gradle'],
           lang: ['fr', 'en'],
         },
       ],
-      cities: ['Paris', 'Chartres', 'Le Mans', 'Rouen', 'Caen', 'Orléans', 'Versailles'],
+      cities: [
+        'Paris',
+        'Chartres',
+        'Le Mans',
+        'Rouen',
+        'Caen',
+        'Orléans',
+        'Versailles',
+      ],
       contacts: {
         twitter: 'xgouchet',
         mail: 'brownbaglunch@xgouchet.fr',
@@ -17747,7 +17757,6 @@ var data = {
           name: 'Speakerdeck',
           url: 'https://speakerdeck.com/robincaroff/',
         },
-        ,
       ],
       location: 'Nantes',
       sessions: [
