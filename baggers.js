@@ -17728,6 +17728,52 @@ var data = {
         },
       ],
     },
+    {
+      since: '2022-07-22',
+      name: 'Robin Caroff',
+      bio:
+        'Android and iOS developer - Technical Lead chez Resonantes - Lead GDG Nanes Android',
+      picture: 'https://s.gravatar.com/avatar/7352e4e763e3b54ac7a91f013dc7c709',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/RobinCaroff',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/robincaroff/',
+        },
+        {
+          name: 'Speakerdeck',
+          url: 'https://speakerdeck.com/robincaroff/',
+        },
+        ,
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title:
+            "[Quicky] - App-Elles - Exemple de tech for good à l'heure du confinement",
+          abstract:
+            'Le premier confinement que nous avons connu en 2020 a été soudain et brutal. Dans les secteurs privés comme publics, l’activité a souvent été affectée et diminuée voire parfois stoppée. Les impacts sur le système de santé et sur les entreprises a plusieurs fois été cité mais ce ne sont pas les seuls domaines. L’activité des travailleurs sociaux par exemple a été fortement impactée et les personnes qui étaient suivies par ces travailleurs se sont parfois trouvées plus isolées que jamais.<br/><br/>Dans ce contexte, les solutions numériques été beaucoup plus utilisées qu’en temps normal afin de prendre le relai, ou de permettre à certaines activités de se poursuivre.<br/><br/>Avec ce talk, je propose un retour d’expérience sur l’activité et le développement continu de l’application mobile <strong>App-Elles</strong> durant cette période. App-Elles (https://app-elles.fr) a pour but de répondre aux principaux besoins d’assistance et de soutien des victimes et des témoins confrontés à une situation de violence.<br/><br/>A travers cet exemple, je souhaite montrer en quoi les technologies mobiles ont une vocation Tech For Good et plus que jamais une réelle utilité.',
+          tags: ['TechForGood', 'Dev', 'Innovation', ' Social'],
+          lang: ['fr'],
+        },
+        {
+          title: '[Quicky] - From Dagger to Dagger Hilt',
+          abstract:
+            "During the 2019's Android Dev Summit conference, Google announced that it would stop the development of Dagger-Android and officially recommended to use pure Dagger 2 instead. Few times after those announces Dagger-Hilt was announced and presented as &#34;a standard way to incorporate Dagger dependency injection into an Android application.&#34; On the 5th of May 2021 Dagger Hilt 1.0.0 was released.<br/><br/>I recently took the decision to give it a go as Dagger 2 is a powerful but yet difficult tool to understand and setup and did not really want to change the setup it already took me time to master.<br/><br/>I started using Hilt in a small internal app, a simple tool without the scope of an important production app. Once confident that Hilt would improve our production app I started the refactoring of the dependency injection code to follow Dagger-Hilt's template.<br/><br/><strong>With this talk I'd like to share my experience with Dagger-Hilt with two integration examples:</strong><br/><ul><li>From scratch in a new project</li><li>Refactoring of an important project already using Dagger 2</li><li>I will discuss pros and cons of Dagger-Hilt and what does it brings to the table.</li></ul>",
+          tags: ['Dev', 'Android', 'DependencyInjection'],
+          lang: ['fr', 'en'],
+          tags: ['Dev', 'Java', 'Kotlin'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        twitter: 'RobinCaroff',
+        mail: 'robin.caroff@gmail.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
