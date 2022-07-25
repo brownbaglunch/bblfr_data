@@ -17815,9 +17815,16 @@ var data = {
           title: '[Quicky] - From Dagger to Dagger Hilt',
           abstract:
             "During the 2019's Android Dev Summit conference, Google announced that it would stop the development of Dagger-Android and officially recommended to use pure Dagger 2 instead. Few times after those announces Dagger-Hilt was announced and presented as &#34;a standard way to incorporate Dagger dependency injection into an Android application.&#34; On the 5th of May 2021 Dagger Hilt 1.0.0 was released.<br/><br/>I recently took the decision to give it a go as Dagger 2 is a powerful but yet difficult tool to understand and setup and did not really want to change the setup it already took me time to master.<br/><br/>I started using Hilt in a small internal app, a simple tool without the scope of an important production app. Once confident that Hilt would improve our production app I started the refactoring of the dependency injection code to follow Dagger-Hilt's template.<br/><br/><strong>With this talk I'd like to share my experience with Dagger-Hilt with two integration examples:</strong><br/><ul><li>From scratch in a new project</li><li>Refactoring of an important project already using Dagger 2</li><li>I will discuss pros and cons of Dagger-Hilt and what does it brings to the table.</li></ul>",
-          tags: ['Dev', 'Android', 'DependencyInjection'],
+          tags: ['Dev', 'Android', 'DependencyInjection', 'Kotlin'],
           lang: ['fr', 'en'],
-          tags: ['Dev', 'Java', 'Kotlin'],
+        },
+        {
+          title:
+            'À la découverte du développement mobile, sans les maux de tête',
+          abstract:
+            "<strong>Talk proposé en duo avec Cyril Hue</strong><br/>Vous êtes un développeur souhaitant explorer les possibilités offertes par le développement mobile, mais vous êtes confronté à diverses incertitudes :<ul><li>Comment déployer son code sur un téléphone ?</li><li>Comment distribuer son application sur un magasin ?</li><li>Combien ça coûte ?</li><li>Combien de temps ça prend ?</li><li>etc.</li></ul>Au cours de ce talk, nous vous présenterons le parcours de Cyril, développeur web s’étant lancé dans le développement d’une application mobile. Nous partagerons, entre autres, les problématiques qu'il a rencontré et les solutions qu'il a utilisées pour les résoudre. Avec l'aide de Robin, expert en développement mobile, nous aborderons les bonnes pratiques et des astuces pour développer, déployer et maintenir une application mobile.<br/><br/>Ce talk est destiné à tous les curieux intéressés par cet écosystème particulier.",
+          tags: ['Android', 'iOS', 'Mobile', 'Dev', 'Discovery'],
+          lang: ['fr'],
         },
       ],
       cities: ['Nantes'],
