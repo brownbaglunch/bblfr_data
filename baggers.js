@@ -14692,8 +14692,8 @@ var data = {
         },
         {
             title: "La gestion du backlog et la planification tout en restant agile",
-            abstract: "On a parfois l'impression d'avoir deux injonctions contradictoires : être agile en étant réactif, tout en étant prévisible pour plainifer à long terme (la fameuse roadmap), débloquer des budgets et rassurer les managers et investisseurs. Cela paraît antinomique et pourtant, il y a des façons de faire ! Parlons-en.",
-            tags: ['Agile', 'Scrum', 'Coaching', 'Sprint', 'Planing', 'Roadmap'],
+            abstract: "On a parfois l'impression d'avoir deux injonctions contradictoires : être agile en étant réactif, tout en étant prévisible pour planifier à long terme (la fameuse roadmap), débloquer des budgets et rassurer les managers et investisseurs. Cela paraît antinomique et pourtant, il y a des façons de faire ! Parlons-en.",
+            tags: ['Agile', 'Scrum', 'Coaching', 'Sprint', 'Planning', 'Roadmap'],
             lang: ['fr', 'en'],
         },
         {
