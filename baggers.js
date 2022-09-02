@@ -14691,6 +14691,12 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
+            title: "La gestion du backlog et la planification tout en restant agile",
+            abstract: "On a parfois l'impression d'avoir deux injonctions contradictoires : être agile en étant réactif, tout en étant prévisible pour plainifer à long terme (la fameuse roadmap), débloquer des budgets et rassurer les managers et investisseurs. Cela paraît antinomique et pourtant, il y a des façons de faire ! Parlons-en.",
+            tags: ['Agile', 'Scrum', 'Coaching', 'Sprint', 'Planing', 'Roadmap'],
+            lang: ['fr', 'en'],
+        },
+        {
           title: 'IMPACT : Comment prendre des décision quand on est PO ?',
           abstract:
             'Comment choisir la bonne priorisation ? Quels sont les outils du PO pour choisir les fonctionnalités ayant le plus de valeur, les utilisateurs à inviter, les tâches techniques à intégrer au backlog ? Je vous propose des outils clairs pour les PO de tout niveau',
