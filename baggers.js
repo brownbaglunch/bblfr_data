@@ -9976,14 +9976,17 @@ var data = {
       since: '2016-05-27',
       name: 'Fabien Lamarque',
       bio:
-        "TechLead de 28 ans, intéressé par le clean code, l'agile (le vrai), l'algorithmique et les outils qui simplifient la vie du développeur",
+        "TechLead de 33 ans, intéressé par le clean code, l'agile, l'algorithmique et les outils qui simplifient la vie du développeur",
       picture:
-        'https://pbs.twimg.com/profile_images/692350972778168320/V9OJENr0.jpg',
+        'https://media-exp1.licdn.com/dms/image/C5603AQHMXDrCWoR9SA/profile-displayphoto-shrink_200_200/0/1578653950738?e=1668038400&v=beta&t=Zr5kVYzDZ2CP6wENkCgLjitqJA4DshTThXdjMy0xZ5A',
       websites: [
         {
           name: 'LinkedIn',
           url: 'http://fr.linkedin.com/in/fabienlamarque',
-        },
+        },{
+          name: 'blog',
+          url: 'https://blog.lamarque.tech',
+        }
       ],
       location: 'Bordeaux',
       sessions: [
@@ -10023,17 +10026,23 @@ var data = {
           abstract:
             "Atelier de code en groupe, pour s'entrainer aux bonnes pratiques, faire des exercices, retrouver le plaisir du code",
           tags: ['equipe', 'craftsmanship'],
+        }, {
+          title: 'Live Coding de Space Invaders',
+          abstract:
+            "Aujourd'hui c'est Back to Basics ! Je vais vous montrer comment coder le jeu mythique Space Invaders à partir de zéro, sans framework, sans librairie, sans typescript, en 45 minutes !\n" +
+            "Du javascript à la papa, deux lignes de Html et c'est parti !",
+          tags: ['Javascript', 'livecoding'],
         },
       ],
 
       cities: ['Bordeaux'],
       contacts: {
         twitter: 'Fabinout',
-        mail: 'fabien.lamarque+bbl@gmail.com',
+        mail: 'fabien+bbl@lamarque.tech',
         websites: [
           {
             name: 'blog',
-            url: 'http://fabien-lamarque.eu',
+            url: 'https://blog.lamarque.tech',
           },
           {
             name: 'GitHub',
