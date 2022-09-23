@@ -14691,10 +14691,12 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-            title: "La gestion du backlog et la planification tout en restant agile",
-            abstract: "On a parfois l'impression d'avoir deux injonctions contradictoires : être agile en étant réactif, tout en étant prévisible pour planifier à long terme (la fameuse roadmap), débloquer des budgets et rassurer les managers et investisseurs. Cela paraît antinomique et pourtant, il y a des façons de faire ! Parlons-en.",
-            tags: ['Agile', 'Scrum', 'Coaching', 'Sprint', 'Planning', 'Roadmap'],
-            lang: ['fr', 'en'],
+          title:
+            'La gestion du backlog et la planification tout en restant agile',
+          abstract:
+            "On a parfois l'impression d'avoir deux injonctions contradictoires : être agile en étant réactif, tout en étant prévisible pour planifier à long terme (la fameuse roadmap), débloquer des budgets et rassurer les managers et investisseurs. Cela paraît antinomique et pourtant, il y a des façons de faire ! Parlons-en.",
+          tags: ['Agile', 'Scrum', 'Coaching', 'Sprint', 'Planning', 'Roadmap'],
+          lang: ['fr', 'en'],
         },
         {
           title: 'IMPACT : Comment prendre des décision quand on est PO ?',
@@ -17787,6 +17789,54 @@ var data = {
       contacts: {
         twitter: 'RobinCaroff',
         mail: 'robin.caroff@gmail.com',
+      },
+    },
+    {
+      since: '2022-07-22',
+      name: 'Marc Bouvier',
+      bio:
+        "Coach Technique pratiquant la methode \"Samman Technical Coaching\". J'accompagne vos équipes afin qu'elles s'approprient leurs pratiques et les améliorent de façon continue. J'interviens également en Java, DevOps et Frontend.",
+      picture:
+        'https://secure.gravatar.com/avatar/b51dd47b8f28ba2993f92b3366efa593?size=200',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/marc-bouvier/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/profileofmarcbouvier/',
+        },
+        {
+          name: 'Web',
+          url: 'https://baldir.fr/',
+        },
+      ],
+      location: 'Strasbourg',
+      sessions: [
+        {
+          title: 'Docker sur le poste du développeur',
+          abstract:
+            'Vous avez entendu parler de Docker, vous avez été formé dessus mais vous ne savez pas à quoi ça pourrait servir dans votre quotidien de développeur?\n\nDans cette présentation vous verrez\n\n- Des cas d’utilisation concrets (ex. test containers, frontend + keycloak + spring boot, test de jobs CI, ...)\n- Des exemples / démos de certains de ces usages\n\nLa présentation sera suivie d’une session de questions-réponses.',
+          tags: [
+            'Docker',
+            'Docker-Compose',
+            'Spring Boot',
+            'Java',
+            'VueJs',
+            'Typescript',
+            'Keycloak',
+            'OpenId Connect',
+            'OAuth 2',
+            'Asciidoctor',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Strasbourg'],
+      contacts: {
+        twitter: 'marcbouvier_',
+        mail: 'm.bouvier.dev@gmail.com@gmail.com',
       },
     },
   ],
