@@ -13053,8 +13053,8 @@ var data = {
       bio:
         "Artisan logiciel chez Arolla. Développeur java depuis 2010. J'adore le clean code, TDD, agile... et m'amuser en codant !",
       picture:
-        'https://en.gravatar.com/avatar/a4b57503ebc2c4b259e972cf2721b1b4',
-      cities: ['Paris'],
+        'https://hadrienmp.fr/images/Profil.webp',
+      cities: ['Nantes', 'Remote'],
       contacts: {
         twitter: 'hadrienmp',
         mail: 'pro@hadrienmp.fr',
@@ -13072,14 +13072,38 @@ var data = {
             'Extreme Programming',
             'Agile',
           ],
-          lang: ['fr'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Mob Programming RPG',
+          abstract:
+            "Apprenons ensemble à travers un jeu de rôle à mieux travailler ensemble à plusieurs. Nous ferons un exercice simplissime de code comme prétexte à ce jeu. À la fin de la session : vous connaitrez les rôles majeurs d'un mob ; vous aurez amélioré votre manière de communiquer ; et peut-être battu le record du monde de points dans ce RPG ?",
+          tags: [
+            'Mob Programming',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title:
+            'Dojo',
+          abstract:
+            "Le dojo de programmation est un endroit pour travailler nos compétences ensemble. Le programme : on choisit un petit exercice de programmation, de simple à difficile ; on le code en TDD (si vous ne connaissez pas c'est le bon endroit). C'est une excellente manière de progresser tout en apprenant à connaître vos collègues !",
+          tags: [
+            'Dojo',
+            'TDD',
+            'eXtreme Programming',
+            'Pair Programming',
+            'Mob Programming',
+          ],
+          lang: ['fr', 'en'],
         },
       ],
-      location: 'Paris',
+      location: 'Nantes',
       websites: [
         {
           name: 'Web',
-          url: 'http://www.arolla.fr/blog/author/hadrien-mens-pellen/',
+          url: 'https://hadrienmp.fr',
         },
       ],
     },
