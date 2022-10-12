@@ -9983,10 +9983,11 @@ var data = {
         {
           name: 'LinkedIn',
           url: 'http://fr.linkedin.com/in/fabienlamarque',
-        },{
+        },
+        {
           name: 'blog',
           url: 'https://blog.lamarque.tech',
-        }
+        },
       ],
       location: 'Bordeaux',
       sessions: [
@@ -10026,7 +10027,8 @@ var data = {
           abstract:
             "Atelier de code en groupe, pour s'entrainer aux bonnes pratiques, faire des exercices, retrouver le plaisir du code",
           tags: ['equipe', 'craftsmanship'],
-        }, {
+        },
+        {
           title: 'Live Coding de Space Invaders',
           abstract:
             "Aujourd'hui c'est Back to Basics ! Je vais vous montrer comment coder le jeu mythique Space Invaders à partir de zéro, sans framework, sans librairie, sans typescript, en 45 minutes !\n" +
@@ -13052,8 +13054,7 @@ var data = {
       name: 'Hadrien Mens-Pellen',
       bio:
         "Artisan logiciel chez Arolla. Développeur java depuis 2010. J'adore le clean code, TDD, agile... et m'amuser en codant !",
-      picture:
-        'https://hadrienmp.fr/images/Profil.webp',
+      picture: 'https://hadrienmp.fr/images/Profil.webp',
       cities: ['Nantes', 'Remote'],
       contacts: {
         twitter: 'hadrienmp',
@@ -13075,18 +13076,14 @@ var data = {
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Mob Programming RPG',
+          title: 'Mob Programming RPG',
           abstract:
             "Apprenons ensemble à travers un jeu de rôle à mieux travailler ensemble à plusieurs. Nous ferons un exercice simplissime de code comme prétexte à ce jeu. À la fin de la session : vous connaitrez les rôles majeurs d'un mob ; vous aurez amélioré votre manière de communiquer ; et peut-être battu le record du monde de points dans ce RPG ?",
-          tags: [
-            'Mob Programming',
-          ],
+          tags: ['Mob Programming'],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            'Dojo',
+          title: 'Dojo',
           abstract:
             "Le dojo de programmation est un endroit pour travailler nos compétences ensemble. Le programme : on choisit un petit exercice de programmation, de simple à difficile ; on le code en TDD (si vous ne connaissez pas c'est le bon endroit). C'est une excellente manière de progresser tout en apprenant à connaître vos collègues !",
           tags: [
@@ -17870,6 +17867,69 @@ var data = {
       contacts: {
         twitter: 'marcbouvier_',
         mail: 'm.bouvier.dev@gmail.com@gmail.com',
+      },
+    },
+    {
+      since: '2022-10-12',
+      name: 'Gabriel Pichot',
+      bio:
+        "Formateur et Développeur Web (React, TypeScript, NodeJS, NoCode & Low Code). CTO Consultant. CTO @CraftValue. \n\nJ'accompagne vos équipes techniques afin qu'elles soient plus efficaces avec les outils qu'elles utilisent déjà aujourd'hui.",
+      picture:
+        'https://fr.gravatar.com/userimage/227009654/fdcf0bc93ceb80a75be1fc36201fec36.png?size=200',
+      websites: [
+        {
+          name: 'Github',
+          url: 'https://github.com/gpichot/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/gabrielpichot/',
+        },
+        {
+          name: 'Web',
+          url: 'https://www.gabrielpichot.fr/',
+        },
+        {
+          name: 'Web',
+          url: 'https://www.craftvalue.io/',
+        },
+      ],
+      location: 'Paris',
+      cities: [
+        'Paris',
+        'Bordeaux',
+        'Lille',
+        'Montpellier',
+        'Nantes',
+        'Rennes',
+        'Strasbourg',
+      ],
+      sessions: [
+        {
+          title: 'React: sujet au choix',
+          abstract:
+            'Parmi les sujets possibles : Hooks React, Performance, API Context, State Management, React Query, Redux, MobX, Testing.',
+          tags: ['React', 'TypeScript', 'React Query', 'Mobx', 'JavaScript'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: "Tour d'horizon et Initiation au No Code",
+          abstract:
+            'Initiation au No Code, présentation des outils et des possibilités.',
+          tags: ['Airtable', 'Tally', 'Make', 'Integromat', 'Strapi'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'React Query: exploiter une API JSON en 5 minutes',
+          abstract:
+            'Booster votre productivité avec React Query (TanStack Query), une librairie pour gérer les appels API.',
+          tags: ['React', 'TypeScript', 'React Query', 'JavaScript'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      contacts: {
+        twitter: 'gabrielpichot',
+        mail: 'gabriel@craftvalue.io',
       },
     },
   ],
