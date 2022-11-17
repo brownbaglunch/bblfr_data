@@ -9095,12 +9095,12 @@ var data = {
       since: '2015-11-08',
       name: 'Sun Tan',
       bio:
-        'Senior Software Engineer @ibm @RedHat. Eclipse Che committer. OpenSource Minded. @parisjug crew.',
+        'Sun is a Senior Software Engineer and a Java developer with 15 years experience, currently working at Red Hat. Sun is involved in the Eclipse Che project from the very beginning as a core contributor. He recently joined the JKube project team. Sun has the community in his heart and is devoted to open source. He has been contributing to open source softwares while working for companies like Nuxeo, Serli and now Red Hat. Today, his adventure continues in sharing his source code, promoting great talks and speakers at his local Paris Java User Group, coding with Eclipse Che and enjoying his new hobby: brewing beer in his kitchen.',
       picture: 'https://avatars3.githubusercontent.com/u/650571?v=3&s=460',
       websites: [
         {
           name: 'Web',
-          url: 'http://blog.sunix.org',
+          url: 'https://blog.sunix.org',
         },
         {
           name: 'GitHub',
@@ -9111,16 +9111,24 @@ var data = {
       sessions: [
         {
           title:
-            "How Kubernetes and Eclipse Che will change your developer's life.",
+            "Java dans Kubernetes pour les nuls",
           abstract:
-            'Eclipse Che is a Cloud IDE. It is built with Kubernetes, running on Kubernetes and ready to code apps for Kubernetes. Che7 is coming with a huge amount of exciting features: VSCode extension compatibility, dynamic container based plugins, more language support thanks to LSP, etc. During this talk, through live demos, I will show you how it is changing my developer life ... and how it will change yours.',
-          tags: ['Software development', 'Cloud IDE'],
+            'Kubernetes, ca à l\'air vraiment sympa, pour le scaling, la reproductibilité et tout et tout ... tout le monde en parle, et en plus c\'est hype ! Alors, c\'est le moment de passer dans le cloud et de migrer nos applications Java vers Kubernetes !<br/>Oui mais ... sauf que ... il y\'a trop de fichiers YAML à maintenir et nous detestons le YAML ! Et en plus de maintenir l\'application Java, il faut <ul><li>écrire et maintenir des Dockerfiles</li><li>écrire et maintenir plein de fichiers YAML</li><li>configurer et gérer la CI/CD pour le déploiement</li><li>etc.</li></ul>Oui pendant ce talk nous allons souffrir 👿 ... mais je vais vous tenir par la main et vous guider. Et c\'est promis, vous sortirez de ce talk en sachant migrer vos applications Java dans Kubernetes en seulement 5 lignes de XML 🤣 avec le projet JKube',
+          tags: ['Kubernetes', 'Java', 'Openshift', 'Docker', 'Podman', 'Container', 'Cloud', 'DevOps'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            "Kubernetes CRD en action ... avec Java !",
+          abstract:
+            'Knative, Tekton, Istio, etc. Ce sont tous des extensions à Kubernetes, y ajoutant de nouvelles fonctionnalités que l\'on peut installer et désinstaller. Toutes ces extensions utilisent des CRD. Qu\'est ce qu\'un CRD ? C\'est l\'acronyme de CustomResourceDefinition. Les CRDs sont utilisés dans la plupart des operators dans Kubernetes. Durant ce talk, je vais vous présenter les Operators dans Kubernetes, les CRDs et quelques bases de Kubernetes. Mais surtout nous apprendrons à étendre Kubernetes avec le langage de programmation Java. Nous utiliserons le fabric8/kubernetes-client qui est le client Java le plus complet pour interagir avec Kubernetes. Nous utiliserons également le Java Operator SDK. Venez et rejoingner moi pour cette session demo-driven et apprendre les Kubernetes CRDs en action avec Java.',
+          tags: ['Kubernetes', 'Java', 'Operator', 'Cloud', 'CRD', 'DevOps'],
           lang: ['fr'],
         },
       ],
       cities: ['Paris'],
       contacts: {
-        twitter: 'sunsengdavidtan',
+        twitter: '__sunix_',
         mail: 'sunix@sunix.org',
       },
     },
