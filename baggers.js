@@ -17940,6 +17940,50 @@ var data = {
         mail: 'gabriel@craftvalue.io',
       },
     },
+    {
+      since: '2022-11-22',
+      name: 'Laurent Doguin',
+      bio:
+        "Developer Relations @ Couchbase | J'écris en Java et je documente en AsciiDoc professionellement depuis 2007. Anciennement Nuxeo, Clever Cloud.",
+      picture:
+        'https://en.gravatar.com/userimage/69245795/4be43c5350499c00d4dbc6b2dd7e0597.png?size=200',
+      websites: [
+        {
+          name: 'GitHub',
+          url: 'https://github.com/ldoguin/',
+        },
+      ],
+      location: 'Paris, remote',
+      sessions: [
+        {
+          title: 'A la découverte de Couchbase',
+          abstract:
+            'Je vous propose de découvrir Couchbase, la base de donnée NoSQL qui aime le SQL.',
+          tags: [
+            'Couchbase',
+            'NoSQL',
+            'Cache',
+            'SQL',
+            'JSON',
+            'Search',
+            'Reactive',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Apprendre la Programmation Réactive avec les Base de Données',
+          abstract:
+            "Je vous propose de découvrir la programmation réactive en Java. Nous verrons quelles raisons font de la programmation réactive un excellent paradigme pour accéder à une base de donnée, et verrons quelques patterns d'écriture et de lecture, de requêtes qui réussissent ou échouent, et comment gérer les erreurs",
+          tags: ['Reactor', 'Java', 'RxJava', 'Mutiny', 'BDD', 'Reactive'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'ldoguin',
+        mail: 'laurent.doguin@couchbase.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
