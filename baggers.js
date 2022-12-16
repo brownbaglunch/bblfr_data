@@ -9110,18 +9110,25 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title:
-            "Java dans Kubernetes pour les nuls",
+          title: 'Java dans Kubernetes pour les nuls',
           abstract:
-            'Kubernetes, ca à l\'air vraiment sympa, pour le scaling, la reproductibilité et tout et tout ... tout le monde en parle, et en plus c\'est hype ! Alors, c\'est le moment de passer dans le cloud et de migrer nos applications Java vers Kubernetes !<br/>Oui mais ... sauf que ... il y\'a trop de fichiers YAML à maintenir et nous detestons le YAML ! Et en plus de maintenir l\'application Java, il faut <ul><li>écrire et maintenir des Dockerfiles</li><li>écrire et maintenir plein de fichiers YAML</li><li>configurer et gérer la CI/CD pour le déploiement</li><li>etc.</li></ul>Oui pendant ce talk nous allons souffrir 👿 ... mais je vais vous tenir par la main et vous guider. Et c\'est promis, vous sortirez de ce talk en sachant migrer vos applications Java dans Kubernetes en seulement 5 lignes de XML 🤣 avec le projet JKube',
-          tags: ['Kubernetes', 'Java', 'Openshift', 'Docker', 'Podman', 'Container', 'Cloud', 'DevOps'],
+            "Kubernetes, ca à l'air vraiment sympa, pour le scaling, la reproductibilité et tout et tout ... tout le monde en parle, et en plus c'est hype ! Alors, c'est le moment de passer dans le cloud et de migrer nos applications Java vers Kubernetes !<br/>Oui mais ... sauf que ... il y'a trop de fichiers YAML à maintenir et nous detestons le YAML ! Et en plus de maintenir l'application Java, il faut <ul><li>écrire et maintenir des Dockerfiles</li><li>écrire et maintenir plein de fichiers YAML</li><li>configurer et gérer la CI/CD pour le déploiement</li><li>etc.</li></ul>Oui pendant ce talk nous allons souffrir 👿 ... mais je vais vous tenir par la main et vous guider. Et c'est promis, vous sortirez de ce talk en sachant migrer vos applications Java dans Kubernetes en seulement 5 lignes de XML 🤣 avec le projet JKube",
+          tags: [
+            'Kubernetes',
+            'Java',
+            'Openshift',
+            'Docker',
+            'Podman',
+            'Container',
+            'Cloud',
+            'DevOps',
+          ],
           lang: ['fr'],
         },
         {
-          title:
-            "Kubernetes CRD en action ... avec Java !",
+          title: 'Kubernetes CRD en action ... avec Java !',
           abstract:
-            'Knative, Tekton, Istio, etc. Ce sont tous des extensions à Kubernetes, y ajoutant de nouvelles fonctionnalités que l\'on peut installer et désinstaller. Toutes ces extensions utilisent des CRD. Qu\'est ce qu\'un CRD ? C\'est l\'acronyme de CustomResourceDefinition. Les CRDs sont utilisés dans la plupart des operators dans Kubernetes. Durant ce talk, je vais vous présenter les Operators dans Kubernetes, les CRDs et quelques bases de Kubernetes. Mais surtout nous apprendrons à étendre Kubernetes avec le langage de programmation Java. Nous utiliserons le fabric8/kubernetes-client qui est le client Java le plus complet pour interagir avec Kubernetes. Nous utiliserons également le Java Operator SDK. Venez et rejoingner moi pour cette session demo-driven et apprendre les Kubernetes CRDs en action avec Java.',
+            "Knative, Tekton, Istio, etc. Ce sont tous des extensions à Kubernetes, y ajoutant de nouvelles fonctionnalités que l'on peut installer et désinstaller. Toutes ces extensions utilisent des CRD. Qu'est ce qu'un CRD ? C'est l'acronyme de CustomResourceDefinition. Les CRDs sont utilisés dans la plupart des operators dans Kubernetes. Durant ce talk, je vais vous présenter les Operators dans Kubernetes, les CRDs et quelques bases de Kubernetes. Mais surtout nous apprendrons à étendre Kubernetes avec le langage de programmation Java. Nous utiliserons le fabric8/kubernetes-client qui est le client Java le plus complet pour interagir avec Kubernetes. Nous utiliserons également le Java Operator SDK. Venez et rejoingner moi pour cette session demo-driven et apprendre les Kubernetes CRDs en action avec Java.",
           tags: ['Kubernetes', 'Java', 'Operator', 'Cloud', 'CRD', 'DevOps'],
           lang: ['fr'],
         },
@@ -17938,6 +17945,58 @@ var data = {
       contacts: {
         twitter: 'gabrielpichot',
         mail: 'gabriel@craftvalue.io',
+      },
+    },
+    {
+      since: '2022-12-16',
+      name: 'Gurvan Henry',
+      bio: 'Développeur web et mobile | Freelance passioné ',
+      picture:
+        'https://s.gravatar.com/avatar/9a4ff1ce22ad3b6c2e7d38b5a2ab0a41?s=200',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://www.gurvanhenry.com',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/gurvanhenry',
+        },
+      ],
+      location: 'Quimper, Finistère sud',
+      sessions: [
+        {
+          title:
+            'Discussion technique - front : React react-native / back : serveur node ou BaaS',
+          abstract:
+            "Basé sur mon expérience on peut échanger sur les technologies et pratiques que j'utilise pour dévellopper des applications.",
+          tags: [
+            'JavaScript',
+            'React',
+            'react-native',
+            'Test',
+            'Git',
+            'CI/CD',
+            'DevOps',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Sujet ouvert en fonction de vos intérêts',
+          abstract:
+            "J'aime échanger sur beaucoup de sujets autout du dev. Proposez moi ! 🐵",
+          tags: [
+            "organisation d'équipe",
+            'usage utilisateur',
+            'qualité de code',
+            '...',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Brest', 'Vannes'],
+      contacts: {
+        mail: 'gurvan@hojopa.com',
       },
     },
   ],
