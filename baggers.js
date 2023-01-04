@@ -11095,6 +11095,49 @@ var data = {
         twitter: 'fcamblor',
         mail: 'fcamblor@gmail.com',
       },
+    },{
+      since: '2023-01-04',
+      name: 'Arnaud Langlade',
+      bio:
+        'Comprendre le problème que j\'essaie de résoudre compte réellement pour moi. C\'est pourquoi je suis un grand fan d\'ateliers comme l’event storming ou l’example mapping. J\'aime tout ce qui se termine par *DD (DDD, BDD et TDD), ces outils et toutes les valeurs d\'eXtreme Programming m\'aident à développer des applications.',
+      picture:
+        'https://s.gravatar.com/avatar/3566a0bf63ad474de1e2d8c35c5d76a1?s=300',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://arnolanglade.github.io',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/arnolanglade',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/arnolanglade',
+        },
+        {
+          name: 'Linkedin',
+          url: 'https://www.linkedin.com/in/arnolanglade/',
+        },
+      ],
+      location: 'En ligne, Bayonne et alentours',
+      sessions: [
+        {
+          title: 'Example Mapping: expliquer facilement les attentes du métier à vos équipes',
+          abstract:
+            "Pendant pas mal d'années, j’ai préparé les sujets à venir avec de longs et ennuyeux groomings. Il était très compliqué de rester concentré jusqu’à la fin. Une réunion trop longue ne favorise pas le partage et l’alignement des équipes sur ce qui est attendu. N’oublions pas que c’est l’incompréhension des développeurs qui part en production comme le disait Alberto Brandolini. Durant cette présentation, je vais vous parler d’un atelier appelé “Example Mapping”. Cet atelier vous permettra facilement de communiquer les besoins et de construire votre backlog en équipe.",
+          tags: ['bdd', 'example-mapping', 'atelier'],
+          lang: ['fr'],
+        },
+      ],
+      cities: [
+        'Bayonne',
+        'Biarritz',
+      ],
+      contacts: {
+        twitter: 'arnolanglade',
+        mail: 'arnaud.langlade@gmail.com',
+      },
     },
     {
       since: '2017-01-23',
