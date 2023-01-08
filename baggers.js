@@ -8089,9 +8089,13 @@ var data = {
       since: '2015-05-11',
       name: 'Adrien Joly',
       bio:
-        "Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Anciennement freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. Talks: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>",
+        "Tech Coach chez SHODO, spécialisé en rénovation de code hérité (legacy), industrialisation de prototypes et autonomisation d'équipes sur pratiques craft et DevOps. Anciennement: Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>. Sujets: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>.",
       picture: 'http://adrienjoly.com/img/photo.jpg',
       websites: [
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/adrienjoly',
+        },
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/adrienjoly/',
