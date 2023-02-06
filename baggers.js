@@ -9114,18 +9114,25 @@ var data = {
       location: 'Paris',
       sessions: [
         {
-          title:
-            "Java dans Kubernetes pour les nuls",
+          title: 'Java dans Kubernetes pour les nuls',
           abstract:
-            'Kubernetes, ca à l\'air vraiment sympa, pour le scaling, la reproductibilité et tout et tout ... tout le monde en parle, et en plus c\'est hype ! Alors, c\'est le moment de passer dans le cloud et de migrer nos applications Java vers Kubernetes !<br/>Oui mais ... sauf que ... il y\'a trop de fichiers YAML à maintenir et nous detestons le YAML ! Et en plus de maintenir l\'application Java, il faut <ul><li>écrire et maintenir des Dockerfiles</li><li>écrire et maintenir plein de fichiers YAML</li><li>configurer et gérer la CI/CD pour le déploiement</li><li>etc.</li></ul>Oui pendant ce talk nous allons souffrir 👿 ... mais je vais vous tenir par la main et vous guider. Et c\'est promis, vous sortirez de ce talk en sachant migrer vos applications Java dans Kubernetes en seulement 5 lignes de XML 🤣 avec le projet JKube',
-          tags: ['Kubernetes', 'Java', 'Openshift', 'Docker', 'Podman', 'Container', 'Cloud', 'DevOps'],
+            "Kubernetes, ca à l'air vraiment sympa, pour le scaling, la reproductibilité et tout et tout ... tout le monde en parle, et en plus c'est hype ! Alors, c'est le moment de passer dans le cloud et de migrer nos applications Java vers Kubernetes !<br/>Oui mais ... sauf que ... il y'a trop de fichiers YAML à maintenir et nous detestons le YAML ! Et en plus de maintenir l'application Java, il faut <ul><li>écrire et maintenir des Dockerfiles</li><li>écrire et maintenir plein de fichiers YAML</li><li>configurer et gérer la CI/CD pour le déploiement</li><li>etc.</li></ul>Oui pendant ce talk nous allons souffrir 👿 ... mais je vais vous tenir par la main et vous guider. Et c'est promis, vous sortirez de ce talk en sachant migrer vos applications Java dans Kubernetes en seulement 5 lignes de XML 🤣 avec le projet JKube",
+          tags: [
+            'Kubernetes',
+            'Java',
+            'Openshift',
+            'Docker',
+            'Podman',
+            'Container',
+            'Cloud',
+            'DevOps',
+          ],
           lang: ['fr'],
         },
         {
-          title:
-            "Kubernetes CRD en action ... avec Java !",
+          title: 'Kubernetes CRD en action ... avec Java !',
           abstract:
-            'Knative, Tekton, Istio, etc. Ce sont tous des extensions à Kubernetes, y ajoutant de nouvelles fonctionnalités que l\'on peut installer et désinstaller. Toutes ces extensions utilisent des CRD. Qu\'est ce qu\'un CRD ? C\'est l\'acronyme de CustomResourceDefinition. Les CRDs sont utilisés dans la plupart des operators dans Kubernetes. Durant ce talk, je vais vous présenter les Operators dans Kubernetes, les CRDs et quelques bases de Kubernetes. Mais surtout nous apprendrons à étendre Kubernetes avec le langage de programmation Java. Nous utiliserons le fabric8/kubernetes-client qui est le client Java le plus complet pour interagir avec Kubernetes. Nous utiliserons également le Java Operator SDK. Venez et rejoingner moi pour cette session demo-driven et apprendre les Kubernetes CRDs en action avec Java.',
+            "Knative, Tekton, Istio, etc. Ce sont tous des extensions à Kubernetes, y ajoutant de nouvelles fonctionnalités que l'on peut installer et désinstaller. Toutes ces extensions utilisent des CRD. Qu'est ce qu'un CRD ? C'est l'acronyme de CustomResourceDefinition. Les CRDs sont utilisés dans la plupart des operators dans Kubernetes. Durant ce talk, je vais vous présenter les Operators dans Kubernetes, les CRDs et quelques bases de Kubernetes. Mais surtout nous apprendrons à étendre Kubernetes avec le langage de programmation Java. Nous utiliserons le fabric8/kubernetes-client qui est le client Java le plus complet pour interagir avec Kubernetes. Nous utiliserons également le Java Operator SDK. Venez et rejoingner moi pour cette session demo-driven et apprendre les Kubernetes CRDs en action avec Java.",
           tags: ['Kubernetes', 'Java', 'Operator', 'Cloud', 'CRD', 'DevOps'],
           lang: ['fr'],
         },
@@ -12372,24 +12379,10 @@ var data = {
       location: 'Nantes et environs.',
       sessions: [
         {
-          title: 'Kotlin, le back du futur',
+          title: "DevSecOps, j'ai mis de la sécurité dans mon DevOps",
           abstract:
-            "Depuis l’annonce par Google du support de Kotlin sur Android, les développeurs d’applications mobiles se sont fortement intéressés à ce langage récent. Mais “Nom de Zeus !” est-ce réservé aux développeurs mobiles ? Non, Non et Non. Kotlin tourne sur la jvm alors autant en profiter dans tous nos projets. Viens découvrir toutes les facettes de ton futur prochain langage préféré. Au travers de cette conférence je te présenterai les principaux avantages du langage. Je te présenterai aussi des frameworks d'API pour faire de Kotlin, le back de ton futur projet.",
-          tags: ['Kotlin', 'REST', 'Microservices'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Pourquoi ai-je choisi BitBucket Pipeline pour ma CI?',
-          abstract:
-            "Je vais vous raconter l'histoire de mon choix d'un outil d'intégration et de déploiement continue. Spoiler alert! C'est BitBucket",
-          tags: [
-            'BitBucket',
-            'Git',
-            'Intégration continue',
-            'CI',
-            'CD',
-            'Déploiement continue',
-          ],
+            "Cela fait une dizaine d'années que nous essayons d'appliquer les principes du DevOps pour livrer plus vite en production. Sur le chemin de l'unification des devs et des ops, la sécurité est encore un frein. Alors faut-il ignorer la sécurité et attendre la fuite de données ou bien agir maintenant, s'organiser, et automatiser. Le DevSecOps nous promet d'intégrer la sécurité dans nos pipelines CI / CD mais aussi dans notre processus de développement pour que la sécurité fasse partie intégrante de notre culture et ne soit pas un goulot d'étranglement.",
+          tags: ['DevSecOps', 'DevOps', 'Security'],
           lang: ['fr'],
         },
         {
