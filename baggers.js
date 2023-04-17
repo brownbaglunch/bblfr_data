@@ -18084,6 +18084,38 @@ var data = {
       },
     },
     {
+      since: '2023-02-20',
+      name: 'Cyril Hue',
+      bio:
+        'Développeur Front & Amoureux ❤️ de rétrogaming, comics, et autres collections.',
+      picture: 'https://avatars.githubusercontent.com/u/15615569',
+      cities: ['Nantes'],
+      contacts: {
+        twitter: 'cy_hue',
+        mail: 'cy.hue80@gmail.com',
+      },
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://horsty.fr',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/Horsty80',
+        },
+      ],
+      sessions: [
+        {
+          title:
+            'À la découverte du développement mobile, sans les maux de tête',
+          abstract:
+            "<strong>Talk proposé en duo avec Robin Caroff</strong><br/>Vous êtes un développeur souhaitant explorer les possibilités offertes par le développement mobile, mais vous êtes confronté à diverses incertitudes :<ul><li>Comment déployer son code sur un téléphone ?</li><li>Comment distribuer son application sur un magasin ?</li><li>Combien ça coûte ?</li><li>Combien de temps ça prend ?</li><li>etc.</li></ul>Au cours de ce talk, nous vous présenterons le parcours de Cyril, développeur web s’étant lancé dans le développement d’une application mobile. Nous partagerons, entre autres, les problématiques qu'il a rencontré et les solutions qu'il a utilisées pour les résoudre. Avec l'aide de Robin, expert en développement mobile, nous aborderons les bonnes pratiques et des astuces pour développer, déployer et maintenir une application mobile.<br/><br/>Ce talk est destiné à tous les curieux intéressés par cet écosystème particulier.",
+          tags: ['Android', 'iOS', 'Mobile', 'Dev', 'Discovery'],
+          lang: ['fr'],
+        },
+      ],
+    },
+    {
       since: '2022-12-06',
       name: 'Stéphane Lang',
       bio:
