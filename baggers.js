@@ -17988,6 +17988,58 @@ var data = {
       },
     },
     {
+      since: '2022-12-16',
+      name: 'Gurvan Henry',
+      bio: 'Développeur web et mobile | Freelance passioné ',
+      picture:
+        'https://s.gravatar.com/avatar/9a4ff1ce22ad3b6c2e7d38b5a2ab0a41?s=200',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://www.gurvanhenry.com',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/gurvanhenry',
+        },
+      ],
+      location: 'Quimper, Finistère sud',
+      sessions: [
+        {
+          title:
+            'Discussion technique - front : React react-native / back : serveur node ou BaaS',
+          abstract:
+            "Basé sur mon expérience on peut échanger sur les technologies et pratiques que j'utilise pour dévellopper des applications.",
+          tags: [
+            'JavaScript',
+            'React',
+            'react-native',
+            'Test',
+            'Git',
+            'CI/CD',
+            'DevOps',
+          ],
+          lang: ['fr'],
+        },
+        {
+          title: 'Sujet ouvert en fonction de vos intérêts',
+          abstract:
+            "J'aime échanger sur beaucoup de sujets autout du dev. Proposez moi ! 🐵",
+          tags: [
+            "organisation d'équipe",
+            'usage utilisateur',
+            'qualité de code',
+            '...',
+          ],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Brest', 'Vannes'],
+      contacts: {
+        mail: 'gurvan@hojopa.com',
+      },
+    },
+    {
       since: '2022-11-22',
       name: 'Laurent Doguin',
       bio:
