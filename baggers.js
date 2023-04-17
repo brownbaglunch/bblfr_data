@@ -8089,9 +8089,13 @@ var data = {
       since: '2015-05-11',
       name: 'Adrien Joly',
       bio:
-        "Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Anciennement freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. Talks: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>",
+        "Tech Coach chez SHODO, spécialisé en rénovation de code hérité (legacy), industrialisation de prototypes et autonomisation d'équipes sur pratiques craft et DevOps. Anciennement: Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>. Sujets: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>.",
       picture: 'http://adrienjoly.com/img/photo.jpg',
       websites: [
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/adrienjoly',
+        },
         {
           name: 'LinkedIn',
           url: 'https://www.linkedin.com/in/adrienjoly/',
@@ -11102,6 +11106,49 @@ var data = {
         twitter: 'fcamblor',
         mail: 'fcamblor@gmail.com',
       },
+    },{
+      since: '2023-01-04',
+      name: 'Arnaud Langlade',
+      bio:
+        'Comprendre le problème que j\'essaie de résoudre compte réellement pour moi. C\'est pourquoi je suis un grand fan d\'ateliers comme l’event storming ou l’example mapping. J\'aime tout ce qui se termine par *DD (DDD, BDD et TDD), ces outils et toutes les valeurs d\'eXtreme Programming m\'aident à développer des applications.',
+      picture:
+        'https://s.gravatar.com/avatar/3566a0bf63ad474de1e2d8c35c5d76a1?s=300',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://arnolanglade.github.io',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/arnolanglade',
+        },
+        {
+          name: 'Twitter',
+          url: 'https://twitter.com/arnolanglade',
+        },
+        {
+          name: 'Linkedin',
+          url: 'https://www.linkedin.com/in/arnolanglade/',
+        },
+      ],
+      location: 'En ligne, Bayonne et alentours',
+      sessions: [
+        {
+          title: 'Example Mapping: expliquer facilement les attentes du métier à vos équipes',
+          abstract:
+            "Pendant pas mal d'années, j’ai préparé les sujets à venir avec de longs et ennuyeux groomings. Il était très compliqué de rester concentré jusqu’à la fin. Une réunion trop longue ne favorise pas le partage et l’alignement des équipes sur ce qui est attendu. N’oublions pas que c’est l’incompréhension des développeurs qui part en production comme le disait Alberto Brandolini. Durant cette présentation, je vais vous parler d’un atelier appelé “Example Mapping”. Cet atelier vous permettra facilement de communiquer les besoins et de construire votre backlog en équipe.",
+          tags: ['bdd', 'example-mapping', 'atelier'],
+          lang: ['fr'],
+        },
+      ],
+      cities: [
+        'Bayonne',
+        'Biarritz',
+      ],
+      contacts: {
+        twitter: 'arnolanglade',
+        mail: 'arnaud.langlade@gmail.com',
+      },
     },
     {
       since: '2017-01-23',
@@ -12375,24 +12422,10 @@ var data = {
       location: 'Nantes et environs.',
       sessions: [
         {
-          title: 'Kotlin, le back du futur',
+          title: "DevSecOps, j'ai mis de la sécurité dans mon DevOps",
           abstract:
-            "Depuis l’annonce par Google du support de Kotlin sur Android, les développeurs d’applications mobiles se sont fortement intéressés à ce langage récent. Mais “Nom de Zeus !” est-ce réservé aux développeurs mobiles ? Non, Non et Non. Kotlin tourne sur la jvm alors autant en profiter dans tous nos projets. Viens découvrir toutes les facettes de ton futur prochain langage préféré. Au travers de cette conférence je te présenterai les principaux avantages du langage. Je te présenterai aussi des frameworks d'API pour faire de Kotlin, le back de ton futur projet.",
-          tags: ['Kotlin', 'REST', 'Microservices'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Pourquoi ai-je choisi BitBucket Pipeline pour ma CI?',
-          abstract:
-            "Je vais vous raconter l'histoire de mon choix d'un outil d'intégration et de déploiement continue. Spoiler alert! C'est BitBucket",
-          tags: [
-            'BitBucket',
-            'Git',
-            'Intégration continue',
-            'CI',
-            'CD',
-            'Déploiement continue',
-          ],
+            "Cela fait une dizaine d'années que nous essayons d'appliquer les principes du DevOps pour livrer plus vite en production. Sur le chemin de l'unification des devs et des ops, la sécurité est encore un frein. Alors faut-il ignorer la sécurité et attendre la fuite de données ou bien agir maintenant, s'organiser, et automatiser. Le DevSecOps nous promet d'intégrer la sécurité dans nos pipelines CI / CD mais aussi dans notre processus de développement pour que la sécurité fasse partie intégrante de notre culture et ne soit pas un goulot d'étranglement.",
+          tags: ['DevSecOps', 'DevOps', 'Security'],
           lang: ['fr'],
         },
         {
@@ -17825,9 +17858,16 @@ var data = {
           title: '[Quicky] - From Dagger to Dagger Hilt',
           abstract:
             "During the 2019's Android Dev Summit conference, Google announced that it would stop the development of Dagger-Android and officially recommended to use pure Dagger 2 instead. Few times after those announces Dagger-Hilt was announced and presented as &#34;a standard way to incorporate Dagger dependency injection into an Android application.&#34; On the 5th of May 2021 Dagger Hilt 1.0.0 was released.<br/><br/>I recently took the decision to give it a go as Dagger 2 is a powerful but yet difficult tool to understand and setup and did not really want to change the setup it already took me time to master.<br/><br/>I started using Hilt in a small internal app, a simple tool without the scope of an important production app. Once confident that Hilt would improve our production app I started the refactoring of the dependency injection code to follow Dagger-Hilt's template.<br/><br/><strong>With this talk I'd like to share my experience with Dagger-Hilt with two integration examples:</strong><br/><ul><li>From scratch in a new project</li><li>Refactoring of an important project already using Dagger 2</li><li>I will discuss pros and cons of Dagger-Hilt and what does it brings to the table.</li></ul>",
-          tags: ['Dev', 'Android', 'DependencyInjection'],
+          tags: ['Dev', 'Android', 'DependencyInjection', 'Kotlin'],
           lang: ['fr', 'en'],
-          tags: ['Dev', 'Java', 'Kotlin'],
+        },
+        {
+          title:
+            'À la découverte du développement mobile, sans les maux de tête',
+          abstract:
+            "<strong>Talk proposé en duo avec Cyril Hue</strong><br/>Vous êtes un développeur souhaitant explorer les possibilités offertes par le développement mobile, mais vous êtes confronté à diverses incertitudes :<ul><li>Comment déployer son code sur un téléphone ?</li><li>Comment distribuer son application sur un magasin ?</li><li>Combien ça coûte ?</li><li>Combien de temps ça prend ?</li><li>etc.</li></ul>Au cours de ce talk, nous vous présenterons le parcours de Cyril, développeur web s’étant lancé dans le développement d’une application mobile. Nous partagerons, entre autres, les problématiques qu'il a rencontré et les solutions qu'il a utilisées pour les résoudre. Avec l'aide de Robin, expert en développement mobile, nous aborderons les bonnes pratiques et des astuces pour développer, déployer et maintenir une application mobile.<br/><br/>Ce talk est destiné à tous les curieux intéressés par cet écosystème particulier.",
+          tags: ['Android', 'iOS', 'Mobile', 'Dev', 'Discovery'],
+          lang: ['fr'],
         },
       ],
       cities: ['Nantes'],
@@ -17997,6 +18037,87 @@ var data = {
       cities: ['Brest', 'Vannes'],
       contacts: {
         mail: 'gurvan@hojopa.com',
+      },
+    },
+    {
+      since: '2022-11-22',
+      name: 'Laurent Doguin',
+      bio:
+        "Developer Relations @ Couchbase | J'écris en Java et je documente en AsciiDoc professionellement depuis 2007. Anciennement Nuxeo, Clever Cloud.",
+      picture:
+        'https://en.gravatar.com/userimage/69245795/4be43c5350499c00d4dbc6b2dd7e0597.png?size=200',
+      websites: [
+        {
+          name: 'GitHub',
+          url: 'https://github.com/ldoguin/',
+        },
+      ],
+      location: 'Paris, remote',
+      sessions: [
+        {
+          title: 'A la découverte de Couchbase',
+          abstract:
+            'Je vous propose de découvrir Couchbase, la base de donnée NoSQL qui aime le SQL.',
+          tags: [
+            'Couchbase',
+            'NoSQL',
+            'Cache',
+            'SQL',
+            'JSON',
+            'Search',
+            'Reactive',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Apprendre la Programmation Réactive avec les Base de Données',
+          abstract:
+            "Je vous propose de découvrir la programmation réactive en Java. Nous verrons quelles raisons font de la programmation réactive un excellent paradigme pour accéder à une base de donnée, et verrons quelques patterns d'écriture et de lecture, de requêtes qui réussissent ou échouent, et comment gérer les erreurs",
+          tags: ['Reactor', 'Java', 'RxJava', 'Mutiny', 'BDD', 'Reactive'],
+          lang: ['fr', 'en'],
+        },
+      ],
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'ldoguin',
+        mail: 'laurent.doguin@couchbase.com',
+      },
+    },
+    {
+      since: '2022-12-06',
+      name: 'Stéphane Lang',
+      bio:
+        'Passionné par les bases de données distribuées relationnelles et noSQL | Ingénieur solutions chez Couchbase',
+      picture:
+        'https://secure.gravatar.com/avatar/f2c7c409a480e8a5e7891220826315f1?size=200',
+      location: 'Paris, Lille, remote',
+      sessions: [
+        {
+          title: 'Introduction à Couchbase et aux bases de données NoSQL',
+          abstract:
+            "Le NoSQL, pour quelles applications, quels cas d'usage? Couchbase est une plateforme de données multi-services, deployable partout jusque sur mobiles. Elle combine à la fois performances, requêtes SQL, recherche full-text et plus encore pour rationnalier l'écosystème de solutions des entreprises. Tour d'horizon de l'architecture et des possibilités de Couchbase, la base NoSQL qui aime le SQL",
+          tags: ['NoSQL', 'Couchbase', 'Base de données', 'JSON'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Applications mobiles déconnectées',
+          abstract:
+            "Les applications mobiles doivent fournir une expérience utilisateur flexible, riche et sans accroc quelle que soit la couverture réseau. Couchbase propose une base de données NoSQL embarquée disponible offline qui se synchronise automatiquement. C'est la solution de référence pour les plus grands acteurs de toutes les industries",
+          tags: ['mobile', 'offline', 'Base de données', 'JSON', 'SQLite'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            "Bases de données distribuées - Faire le bon choix d'architecture et de cohérence",
+          abstract:
+            "Les bases de données distribuées deviennent une nécessité. Mais chaque techno vient avec ses choix d'architectures et de gestion de la cohérence. Ces choix sont structurant et ils impactent les applications. C'est pourquoi ils doivent être évalués attentivement. Dans cette session d'introduction, nous abordons les concepts qui entrent en jeu et les points d'attention liés aux architecture des bases de données relationnelles et NoSQL les plus populaires",
+          tags: ['architecture', 'base de données', 'consistency', 'noSQL'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Paris', 'Lille', 'Nantes', 'Lyon', 'Bordeaux'],
+      contacts: {
+        mail: 'steph.lang.fr@gmail.com',
       },
     },
   ],
