@@ -18021,7 +18021,6 @@ var data = {
         mail: 'steph.lang.fr@gmail.com',
       },
     },
-  }
   ],
   cities: {
     'Aix-en-Provence': {
