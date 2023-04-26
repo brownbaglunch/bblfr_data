@@ -8345,15 +8345,11 @@ var data = {
       since: '2015-05-21',
       name: 'Eric Meallier',
       bio: 'Expert Java JEE. Agiliste et Devops jedi',
-      picture: 'https://www.meallier.fr/PhotoIdentiteEric.2015.png',
+      picture: 'https://static.meallier.fr/logo.svg',
       websites: [
         {
           name: 'LinkedIn',
           url: 'https://fr.linkedin.com/in/ericmeallier',
-        },
-        {
-          name: 'Web',
-          url: 'http://meallier.fr',
         },
       ],
       location: 'Avignon, Aix-en-Provence, Montpellier, Orange',
@@ -8365,8 +8361,22 @@ var data = {
           tags: ['Java', 'JBoss', 'Docker', 'Devops', 'J2EE', 'Agilite'],
           lang: ['fr'],
         },
+        {
+          title: 'Le DevOps, encore une histoire de collaboration entre équipe',
+          abstract:
+            "Au delà de la volonté de fluidifier les livraisons pour réduire du time to market, le DevOps garde une dimension collaborative importante, obligeant des équipes aux fonctionnements différents à collaborer",
+          tags: ['agilite', 'operation', 'developpement', 'devops', 'exploitation','observabilite'],
+          lang: ['fr'],
+        },
+        {
+          title: 'L\'outillage du devops expert',
+          abstract:
+            "Le DevOps par la pratique avec une présentation des outils disponibles et les bonnes pratiques associées",
+          tags: ['agilite', 'operation', 'developpement', 'devops', 'observabilite', 'ansible', 'vagrant', 'terraform'],
+          lang: ['fr'],
+        },
       ],
-      cities: ['Avignon'],
+      cities: ['Avignon', 'Nimes', 'Lyon', 'Montpellier', 'Aix-en-Provence'],
       contacts: {
         twitter: 'ericmeallier',
         mail: 'eric@meallier.fr',
