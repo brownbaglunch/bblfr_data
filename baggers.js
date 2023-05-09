@@ -18278,6 +18278,80 @@ var data = {
         mail: 'julien@codeka.io',
       },
     },
+    {
+      since: '2023-05-09',
+      name: 'Paula Breton',
+      bio:
+        "Designer UI/UX @OSEDEA. Mon but, créer des interfaces super intuitives et rassurantes. Mon truc, mélanger mes compétences techniques et mon imagination pour concevoir des designs créatifs qui ont un impact positif sur les utilisateurs.",
+      picture:
+        'https://fr.gravatar.com/userimage/233847729/2830b975e80e13783ab1ae36ad228aeb.png?size=200',
+      websites: [
+        {
+          name: 'Linkedin',
+          url: 'https://www.linkedin.com/in/paulabreton/',
+        },
+        {
+          name: 'Website',
+          url: 'https://www.osedea.com/fr',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title:
+            "De la conception à l'implémentation : un atelier pour faciliter la collaboration entre designers et développeur·euse·s",
+          abstract:
+            "Je vous propose un atelier co-animé avec un.e développeur·euse pour identifier les problématiques de collaboration que vous rencontrez au sein de votre équipe de designers et développeur·euse·s. Nous vous aiderons à trouver des pistes de solutions en vous partageant notre retour d'expérience.",
+          tags: ['Design', 'Développement', 'Collaboration'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        mail: 'paula.breton@osedea.com',
+      },
+    },
+    {
+      since: '2023-05-09',
+      name: 'Marie Desnos',
+      bio:
+        "Designer UI/UX @OSEDEA",
+      picture:
+        'https://2.gravatar.com/avatar/3eeaf0de749bb0fdfeceb15e444d2f69?size=256',
+      websites: [
+        {
+          name: 'Linkedin',
+          url: 'https://www.linkedin.com/in/marie-desnos-37a00b5a',
+        },
+        {
+          name: 'Website',
+          url: 'https://www.osedea.com/fr',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title:
+            "De la conception à l'implémentation : un atelier pour faciliter la collaboration entre designers et développeur·euse·s",
+          abstract:
+            "Je vous propose un atelier co-animé avec un.e développeur·euse pour identifier les problématiques de collaboration que vous rencontrez au sein de votre équipe de designers et développeur·euse·s. Nous vous aiderons à trouver des pistes de solutions en vous partageant notre retour d'expérience.",
+          tags: ['Design', 'Développement', 'Collaboration'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            "Prototype : Échouer tôt pour réussir vite",
+          abstract:
+            "Je vous propose de parler des différents types et niveaux de prototypes (utilisateurs, techniques, etc) et de démontrer les nombreux avantages du prototypage avec des exemples et vous inciter à mettre en place des prototypes dans vos projets à travers des conseils concrets.",
+          tags: ['Design', 'Prototype', 'Projet de développement'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        mail: 'marie.desnos@osedea.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
