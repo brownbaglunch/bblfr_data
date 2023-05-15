@@ -8089,7 +8089,7 @@ var data = {
       since: '2015-05-11',
       name: 'Adrien Joly',
       bio:
-        "Tech Coach chez SHODO, spécialisé en rénovation de code hérité (legacy), industrialisation de prototypes et autonomisation d'équipes sur pratiques craft et DevOps. Anciennement: Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>. Sujets: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>.",
+        "Tech Coach et formateur chez SHODO, spécialisé en rénovation de code hérité (legacy), industrialisation de prototypes et autonomisation d'équipes sur pratiques craft et DevOps. Anciennement: Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>. Sujets: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>.",
       picture: 'http://adrienjoly.com/img/photo.jpg',
       websites: [
         {
@@ -8106,11 +8106,19 @@ var data = {
         },
       ],
       location: 'Montreuil / Paris',
-      sessions: [],
+      sessions: [
+        {
+          title: "Code legacy: les clés pour s'en sortir !",
+          abstract:
+            "Quand on travaille sur du code hérité, il est rarement envisageable de tout réécrire. Outre les nombreux problèmes qui peuvent en découler, il est crucial de proposer un plan réaliste et de convaincre les parties prenantes. En s’appuyant sur une expérience de projet réussie, nous allons voir ensemble les clés pour remédier à cette situation pénible pour les dévs et risquée pour l’entreprise.",
+          tags: ['Code Legacy', 'Tech Leadership', 'Planification'],
+          lang: ['fr'],
+        },
+      ],
       cities: ['Paris'],
       contacts: {
         twitter: 'adrienjoly',
-        mail: 'contact@adrienjoly.com',
+        mail: 'adrien.joly@shodo.io',
       },
     },
     {
