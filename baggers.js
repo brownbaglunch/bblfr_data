@@ -8114,6 +8114,13 @@ var data = {
           tags: ['Code Legacy', 'Tech Leadership', 'Planification'],
           lang: ['fr'],
         },
+        {
+          title: "Pourquoi les fonctionnalités sont toujours livrées en retard ?",
+          abstract:
+            "Prenons un peu de recul sur la manière dont les équipes \"produit\" et \"tech\" collaborent sur le développement de fonctionnalités, pour mieux comprendre d'où les retards viennent, et réflechir aux changements qu'elles pourraient adopter pour livrer des améliorations avec plus de régularité, qualité et maintenabilité à long terme.",
+          tags: ['Code Legacy', 'Tech Leadership', 'Planification'],
+          lang: ['fr'],
+        },
       ],
       cities: ['Paris'],
       contacts: {
