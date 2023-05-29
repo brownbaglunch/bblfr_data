@@ -8089,7 +8089,7 @@ var data = {
       since: '2015-05-11',
       name: 'Adrien Joly',
       bio:
-        "Tech Coach chez SHODO, spécialisé en rénovation de code hérité (legacy), industrialisation de prototypes et autonomisation d'équipes sur pratiques craft et DevOps. Anciennement: Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>. Sujets: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>.",
+        "Tech Coach et formateur chez SHODO, spécialisé en rénovation de code hérité (legacy), industrialisation de prototypes et autonomisation d'équipes sur pratiques craft et DevOps. Anciennement: Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>. Sujets: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>.",
       picture: 'http://adrienjoly.com/img/photo.jpg',
       websites: [
         {
@@ -8106,11 +8106,27 @@ var data = {
         },
       ],
       location: 'Montreuil / Paris',
-      sessions: [],
+      sessions: [
+        {
+          title: "Code legacy: les clés pour s'en sortir !",
+          abstract:
+            'Quand on travaille sur du code hérité, il est rarement envisageable de tout réécrire. Outre les nombreux problèmes qui peuvent en découler, il est crucial de proposer un plan réaliste et de convaincre les parties prenantes. En s’appuyant sur une expérience de projet réussie, nous allons voir ensemble les clés pour remédier à cette situation pénible pour les dévs et risquée pour l’entreprise.',
+          tags: ['Code Legacy', 'Tech Leadership', 'Planification'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Pourquoi les fonctionnalités sont toujours livrées en retard ?',
+          abstract:
+            'Prenons un peu de recul sur la manière dont les équipes "produit" et "tech" collaborent sur le développement de fonctionnalités, pour mieux comprendre d\'où les retards viennent, et réflechir aux changements qu\'elles pourraient adopter pour livrer des améliorations avec plus de régularité, qualité et maintenabilité à long terme.',
+          tags: ['Code Legacy', 'Tech Leadership', 'Planification'],
+          lang: ['fr'],
+        },
+      ],
       cities: ['Paris'],
       contacts: {
         twitter: 'adrienjoly',
-        mail: 'contact@adrienjoly.com',
+        mail: 'adrien.joly@shodo.io',
       },
     },
     {
@@ -8364,15 +8380,31 @@ var data = {
         {
           title: 'Le DevOps, encore une histoire de collaboration entre équipe',
           abstract:
-            "Au delà de la volonté de fluidifier les livraisons pour réduire du time to market, le DevOps garde une dimension collaborative importante, obligeant des équipes aux fonctionnements différents à collaborer",
-          tags: ['agilite', 'operation', 'developpement', 'devops', 'exploitation','observabilite'],
+            'Au delà de la volonté de fluidifier les livraisons pour réduire du time to market, le DevOps garde une dimension collaborative importante, obligeant des équipes aux fonctionnements différents à collaborer',
+          tags: [
+            'agilite',
+            'operation',
+            'developpement',
+            'devops',
+            'exploitation',
+            'observabilite',
+          ],
           lang: ['fr'],
         },
         {
-          title: 'L\'outillage du devops expert',
+          title: "L'outillage du devops expert",
           abstract:
-            "Le DevOps par la pratique avec une présentation des outils disponibles et les bonnes pratiques associées",
-          tags: ['agilite', 'operation', 'developpement', 'devops', 'observabilite', 'ansible', 'vagrant', 'terraform'],
+            'Le DevOps par la pratique avec une présentation des outils disponibles et les bonnes pratiques associées',
+          tags: [
+            'agilite',
+            'operation',
+            'developpement',
+            'devops',
+            'observabilite',
+            'ansible',
+            'vagrant',
+            'terraform',
+          ],
           lang: ['fr'],
         },
       ],
@@ -11116,11 +11148,12 @@ var data = {
         twitter: 'fcamblor',
         mail: 'fcamblor@gmail.com',
       },
-    },{
+    },
+    {
       since: '2023-01-04',
       name: 'Arnaud Langlade',
       bio:
-        'Comprendre le problème que j\'essaie de résoudre compte réellement pour moi. C\'est pourquoi je suis un grand fan d\'ateliers comme l’event storming ou l’example mapping. J\'aime tout ce qui se termine par *DD (DDD, BDD et TDD), ces outils et toutes les valeurs d\'eXtreme Programming m\'aident à développer des applications.',
+        "Comprendre le problème que j'essaie de résoudre compte réellement pour moi. C'est pourquoi je suis un grand fan d'ateliers comme l’event storming ou l’example mapping. J'aime tout ce qui se termine par *DD (DDD, BDD et TDD), ces outils et toutes les valeurs d'eXtreme Programming m'aident à développer des applications.",
       picture:
         'https://s.gravatar.com/avatar/3566a0bf63ad474de1e2d8c35c5d76a1?s=300',
       websites: [
@@ -11144,17 +11177,15 @@ var data = {
       location: 'En ligne, Bayonne et alentours',
       sessions: [
         {
-          title: 'Example Mapping: expliquer facilement les attentes du métier à vos équipes',
+          title:
+            'Example Mapping: expliquer facilement les attentes du métier à vos équipes',
           abstract:
             "Pendant pas mal d'années, j’ai préparé les sujets à venir avec de longs et ennuyeux groomings. Il était très compliqué de rester concentré jusqu’à la fin. Une réunion trop longue ne favorise pas le partage et l’alignement des équipes sur ce qui est attendu. N’oublions pas que c’est l’incompréhension des développeurs qui part en production comme le disait Alberto Brandolini. Durant cette présentation, je vais vous parler d’un atelier appelé “Example Mapping”. Cet atelier vous permettra facilement de communiquer les besoins et de construire votre backlog en équipe.",
           tags: ['bdd', 'example-mapping', 'atelier'],
           lang: ['fr'],
         },
       ],
-      cities: [
-        'Bayonne',
-        'Biarritz',
-      ],
+      cities: ['Bayonne', 'Biarritz'],
       contacts: {
         twitter: 'arnolanglade',
         mail: 'arnaud.langlade@gmail.com',
@@ -18206,9 +18237,8 @@ var data = {
       since: '2023-04-27',
       name: 'Cécile Staehle',
       bio:
-        'Je suis associée coopératrice de la SCOP Troopers, en charge du Développement RH (culture d\'entreprise et gouvernance, santé et sécurité, recrutement et onboarding, marque employeur, formation, etc.). Je porte et développe des projets au service de l\'épanouissement des Troopers, dans des conditions de travail respectueuses, bienveillantes et inclusives. Notre entreprise est une agence spécialisée dans la création et refonte de sites web et applications métier complexes. Nous pratiquons l\'autogestion et fonctionnons en gouvernance partagée et participative, nous militons pour une tech au service du bien commun, équitable et respectueuse de chacune et chacun, nous défendons le numérique responsable aussi bien dans nos métiers que dans nos engagements sociaux.',
-      picture:
-        'https://strapi.troopers.agency/uploads/cecile_9ee7f62fb0.jpeg',
+        "Je suis associée coopératrice de la SCOP Troopers, en charge du Développement RH (culture d'entreprise et gouvernance, santé et sécurité, recrutement et onboarding, marque employeur, formation, etc.). Je porte et développe des projets au service de l'épanouissement des Troopers, dans des conditions de travail respectueuses, bienveillantes et inclusives. Notre entreprise est une agence spécialisée dans la création et refonte de sites web et applications métier complexes. Nous pratiquons l'autogestion et fonctionnons en gouvernance partagée et participative, nous militons pour une tech au service du bien commun, équitable et respectueuse de chacune et chacun, nous défendons le numérique responsable aussi bien dans nos métiers que dans nos engagements sociaux.",
+      picture: 'https://strapi.troopers.agency/uploads/cecile_9ee7f62fb0.jpeg',
       websites: [
         {
           name: 'LinkedIn',
@@ -18222,17 +18252,31 @@ var data = {
       location: 'Nantes',
       sessions: [
         {
-          title: 'Management participatif : mieux décider ensemble grâce aux outils de la sociocratie',
+          title:
+            'Management participatif : mieux décider ensemble grâce aux outils de la sociocratie',
           abstract:
             "Lorsqu'il s'agit de prendre des décisions ou faire des choix stratégiques, on confie cette responsabilité aux managers, aux N+1, voire aux dirigeant·es. Mais avez-vous déjà pensé à impliquer l'ensemble de l'équipe ? Mais à plusieurs, ce n’est pas  simple d’atteindre le consensus. Savez-vous que ce n’est pas le seul mode de décision possible ? Ensemble, nous découvrirons la décision par consentement à l’aide d’une mise en situation concrète.",
-          tags: ['sociocratie', 'organisation', 'décision', 'gouvernance', 'consentement'],
+          tags: [
+            'sociocratie',
+            'organisation',
+            'décision',
+            'gouvernance',
+            'consentement',
+          ],
           lang: ['fr'],
         },
         {
-          title: 'Pyramide, cercles, vertical : ceci n’est pas un cours de géométrie',
+          title:
+            'Pyramide, cercles, vertical : ceci n’est pas un cours de géométrie',
           abstract:
-            "Dans cet atelier de découverte, nous ferons un état des lieux rapide du management en entreprise et, grâce à une expérimentation ludique, nous aborderons le sujet de la gouvernance partagée et participative, comment cela fonctionne, quelles transformations cela implique.",
-          tags: ['management', 'organisation', 'gouvernance', 'autogestion', 'sociocratie'],
+            'Dans cet atelier de découverte, nous ferons un état des lieux rapide du management en entreprise et, grâce à une expérimentation ludique, nous aborderons le sujet de la gouvernance partagée et participative, comment cela fonctionne, quelles transformations cela implique.',
+          tags: [
+            'management',
+            'organisation',
+            'gouvernance',
+            'autogestion',
+            'sociocratie',
+          ],
           lang: ['fr'],
         },
       ],
@@ -18282,7 +18326,7 @@ var data = {
       since: '2023-05-09',
       name: 'Paula Breton',
       bio:
-        "Designer UI/UX @OSEDEA. Mon but, créer des interfaces super intuitives et rassurantes. Mon truc, mélanger mes compétences techniques et mon imagination pour concevoir des designs créatifs qui ont un impact positif sur les utilisateurs.",
+        'Designer UI/UX @OSEDEA. Mon but, créer des interfaces super intuitives et rassurantes. Mon truc, mélanger mes compétences techniques et mon imagination pour concevoir des designs créatifs qui ont un impact positif sur les utilisateurs.',
       picture:
         'https://fr.gravatar.com/userimage/233847729/2830b975e80e13783ab1ae36ad228aeb.png?size=200',
       websites: [
@@ -18314,8 +18358,7 @@ var data = {
     {
       since: '2023-05-09',
       name: 'Marie Desnos',
-      bio:
-        "Designer UI/UX @OSEDEA",
+      bio: 'Designer UI/UX @OSEDEA',
       picture:
         'https://2.gravatar.com/avatar/3eeaf0de749bb0fdfeceb15e444d2f69?size=256',
       websites: [
@@ -18339,10 +18382,9 @@ var data = {
           lang: ['fr'],
         },
         {
-          title:
-            "Prototype : Échouer tôt pour réussir vite",
+          title: 'Prototype : Échouer tôt pour réussir vite',
           abstract:
-            "Je vous propose de parler des différents types et niveaux de prototypes (utilisateurs, techniques, etc) et de démontrer les nombreux avantages du prototypage avec des exemples et vous inciter à mettre en place des prototypes dans vos projets à travers des conseils concrets.",
+            'Je vous propose de parler des différents types et niveaux de prototypes (utilisateurs, techniques, etc) et de démontrer les nombreux avantages du prototypage avec des exemples et vous inciter à mettre en place des prototypes dans vos projets à travers des conseils concrets.',
           tags: ['Design', 'Prototype', 'Projet de développement'],
           lang: ['fr'],
         },
