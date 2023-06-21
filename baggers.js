@@ -15207,7 +15207,7 @@ var data = {
     {
       since: '2018-10-05',
       name: 'Rew Islam',
-      bio: 'Building Dashlane and its iOS/macOS team since 2011',
+      bio: 'Working to bring passwordless technologies to Dashlane',
       picture:
         'https://d38muu3h4xeqr1.cloudfront.net/website/static/FEM-WN-JOB1-1105/images/pictures/rew-islam@2x.png',
       websites: [
@@ -15217,22 +15217,22 @@ var data = {
         },
         {
           name: 'Twitter',
-          url: 'https://twitter.com/dashlane_rew',
+          url: 'https://twitter.com/rewislam',
         },
       ],
       location: 'Paris',
       sessions: [
         {
-          title: 'Moving to Swift',
+          title: 'Learn about passkeys and the FIDO Alliance',
           abstract:
-            'Advantages of moving your app and team from Objective-C to Swift',
-          tags: ['swift'],
+            'The world will be moving to passkeys, find out what it is all about!',
+          tags: ['passkeys', 'fidoalliance', 'webauthn'],
           lang: ['en'],
         },
       ],
       cities: ['Paris'],
       contacts: {
-        twitter: 'dashlane_rew',
+        twitter: 'rewislam',
         mail: 'rew.islam@dashlane.com',
       },
     },
