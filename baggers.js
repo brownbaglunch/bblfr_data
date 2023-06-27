@@ -18423,7 +18423,7 @@ var data = {
           title:
             "Comment nous avons implementez les Micros Frontend chez Allianz",
           abstract:
-            "Je vous propose un retour d'exerience autour des micro front end que nous avons implémenter chez Allianz Technology. Durant ce talk, je vous montrerai et décrirai notre cheminement de simple SPA aux Micro Frontend : L'existant, Les Multi et Mono repo, Sécurité et Micro frontend, Nos points de blocage et difficultés, Nos Réussites,Conclusions",
+            "Je vous propose un retour d'expérience autour des Micro-Frontends que nous avons implémentés chez Allianz Technology. Durant ce talk, je vous montrerai et décrirai notre cheminement de simple SPA aux Micro-Frontends : l'existant, les multi et mono repos, sécurité et Micro-Frontend, nos points de blocage et difficultés, nos réussites et conclusions",
           tags: ['Frontend', 'Développement', 'Architecture'],
           lang: ['fr'],
         },
