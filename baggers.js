@@ -9913,7 +9913,7 @@ var data = {
       since: '2016-04-20',
       name: 'Xavier F. Gouchet',
       bio:
-        "Senior Software Engineer chez Datadog, musicophile, passionné par l'architecture, les tests, l'algorithmique et les outils qui simplifient la vie du développeur",
+        "Staff Engineer chez Datadog, expert Android, musicophile, passionné par l'architecture, les tests, l'algorithmique et les outils qui simplifient la vie du développeur",
       picture:
         'https://www.gravatar.com/avatar/2ecfc308b3401b0b9aa298f791044af1?s=512',
       websites: [
@@ -9924,6 +9924,10 @@ var data = {
         {
           name: 'Github',
           url: 'https://github.com/xgouchet',
+        },
+        {
+          name: 'Youtube',
+          url: 'https://www.youtube.com/playlist?list=PLrZvYNw-9QDYyCXFktHjfAzukKpI6ZXZw',
         },
       ],
       location: 'Paris, Chartres, Le Mans, ...',
@@ -9968,6 +9972,13 @@ var data = {
           title: 'Démystifier la pyramide de tests (général)',
           abstract:
             'Depuis 2010, le concept de pyramide de tests donne une vision pragmatique des tests, vision mal comprise, et qui a peu évolué depuis. Cette présentation revisite et redéfinit la pyramide de test dans une approche moderne et scalable.',
+          tags: ['Tests', 'pyramide', 'Android', 'Java', 'Kotlin', 'Gradle'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Devenir un Staff Engineer dans le Mobile (Carrière)',
+          abstract:
+            'Le titre de Staff Engineer est apparu dans de grandes entreprises pour désigner les ingénieur·e·s dépassant le niveau Senior, mais il reste encore un peu flou pour beaucoup. Cette présentation, basée sur ma propre expérience, présente des pistes pour les seniors en quête de progression de carrière.',
           tags: ['Tests', 'pyramide', 'Android', 'Java', 'Kotlin', 'Gradle'],
           lang: ['fr', 'en'],
         },
@@ -18440,7 +18451,7 @@ var data = {
       contacts: {
         mail: 'dev@linktogo.fr',
       },
-    },    
+    },
     {
       since: '2023-09-19',
       name: 'Vincent Beauvivre',
