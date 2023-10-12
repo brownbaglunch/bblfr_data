@@ -8089,11 +8089,15 @@ var data = {
       since: '2015-05-11',
       name: 'Adrien Joly',
       bio:
-        "Tech Coach et formateur chez SHODO, spécialisé en rénovation de code hérité (legacy), industrialisation de prototypes et autonomisation d'équipes sur pratiques craft et DevOps. Anciennement: Senior software engineer / Tech Lead chez Algolia. Enseignant développement back-end à l'EEMI, ESGI et WebSchoolFactory. Freelance, entrepreneur, organisateur de hackathons (AngelHack, fHACKtory) et lead dev de <a href='https://whyd.com/' target='_blank'>Whyd</a> (startup parisienne), devenu <a href='https://github.com/openwhyd/openwhyd'>Openwhyd</a>. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>. Sujets: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>.",
+        "Ingénieur logiciel passionné et polyvalent. Co-créateur du podcast \"le SAV de la Tech\". Précédemment: Consultant SHODO / Tech Coach spécialisé en rénovation de code hérité (legacy) + pratiques craft et DevOps, Tech Lead chez Algolia, formateur, développeur freelance et organisateur de hackathons. News: <a href='https://adrienjoly.com/now'>adrienjoly.com/now</a>. Sujets: <a href='https://adrienjoly.com/talks'>adrienjoly.com/talks</a>.",
       picture: 'http://adrienjoly.com/img/photo.jpg',
       websites: [
         {
-          name: 'Twitter',
+          name: 'Bluesky',
+          url: 'https://bsky.app/profile/adrienjoly.com',
+        },
+        {
+          name: 'X / Twitter',
           url: 'https://twitter.com/adrienjoly',
         },
         {
@@ -8114,19 +8118,11 @@ var data = {
           tags: ['Code Legacy', 'Tech Leadership', 'Planification'],
           lang: ['fr'],
         },
-        {
-          title:
-            'Pourquoi les fonctionnalités sont toujours livrées en retard ?',
-          abstract:
-            'Prenons un peu de recul sur la manière dont les équipes "produit" et "tech" collaborent sur le développement de fonctionnalités, pour mieux comprendre d\'où les retards viennent, et réflechir aux changements qu\'elles pourraient adopter pour livrer des améliorations avec plus de régularité, qualité et maintenabilité à long terme.',
-          tags: ['Code Legacy', 'Tech Leadership', 'Planification'],
-          lang: ['fr'],
-        },
       ],
       cities: ['Paris'],
       contacts: {
         twitter: 'adrienjoly',
-        mail: 'adrien.joly@shodo.io',
+        mail: 'contact@adrienjoly.com',
       },
     },
     {
