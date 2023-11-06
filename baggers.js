@@ -5360,7 +5360,7 @@ var data = {
       since: '2014-04-22',
       name: 'Emmanuel Bonnet',
       bio:
-        "Consultant Decision Management @Genigraph, Chargé d'enseignement @UPS",
+        "Consultant BRMS /Business Automation @inukshuk.io, Chargé d'enseignement @UPS",
       picture:
         'http://www.gravatar.com/avatar/a89e9302b1b93ce1220079ed86ba0447.png?size=256',
       websites: [
@@ -5370,22 +5370,25 @@ var data = {
         },
         {
           name: 'Web',
-          url: 'http://www.genigraph.fr',
+          url: 'http://www.inukshuk.io',
         },
       ],
       location: 'Toulouse et environs, et Paris occasionnellement',
       sessions: [
         {
           title:
-            'La Gestion de la Décision, les BRMS, moteurs de règles, régles métiers et autres Business Rules, késako ?',
+            'IA symbolique vs IA learning: les moteurs (règles, optim) ca sert vraiment encore aujourdhui ?',
           abstract:
-            "L'IA existe-t-elle vraiment ailleurs que dans les films de Spielberg ou Kubrick ? Des utilisateurs finaux qui codent des règles en langage naturel : mytho ou banco ?",
+            "On a ChatGPT : pourquoi avoir des utilisateurs finaux qui codent des règles métier en langage naturel ?",
           tags: [
+            'IA symbolique',
+            'IA learning',
             'Decision Management',
             'Moteurs de règles',
             'Business Rules',
             'Règles Métiers',
             'BRMS',
+            'Low-Code',
             'ILOG',
             'DROOLS',
             'ODM',
@@ -5397,7 +5400,7 @@ var data = {
         },
         {
           title:
-            'BRMS, Moteurs de règles : entrons dans les détails sordides ...',
+            'BRMS, Moteurs de règles, Business Rules : entrons dans les détails techniques sordides ... WHAT ELSE ?',
           abstract:
             'RETE, Salience, Refraction, pattern matching, les boucles folles, la langage naturel, les IF-THEN et WHAT ELSE ?',
           tags: [
@@ -5417,7 +5420,7 @@ var data = {
         },
         {
           title:
-            'Jouons ensemble avec JBoss Drools (ou un autre, comme IBM ODM par exemple)',
+            'Comprendre Red Hat Drools et IBM ODM, principaux leaders du marché',
           abstract:
             "Comprendre les principaux composants d'un BRMS : édition, execution, intégration et architecture sur un cas concret (avec du vrai Live coding inside)",
           tags: [
@@ -5426,15 +5429,16 @@ var data = {
             'Business Rules',
             'Règles Métiers',
             'BRMS',
-            'ILOG',
-            'DROOLS',
             'ODM',
+            'DROOLS',
             'JBOSS',
             'IBM',
-            'JRULES',
+            'RED HAT',
+            'Decision Manager Open Edition',
+            'Operational Decision Manager',
           ],
           lang: ['fr'],
-        },
+        },      
       ],
       cities: ['Toulouse', 'Paris'],
       contacts: {
