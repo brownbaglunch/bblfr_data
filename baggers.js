@@ -16321,8 +16321,8 @@ var data = {
     {
       since: '2019-05-25',
       name: 'Frédéric Combes',
-      bio: 'Responsable tech chez I-Run.fr depuis Janvier 2018',
-      picture: 'https://blog.ght1pc9kc.fr/img/fcombes.jpg',
+      bio: 'CTO chez BOTdesign depuis Janvier 2022',
+      picture: 'https://blog.ght1pc9kc.fr/img/bio-marthym.webp',
       websites: [
         {
           name: 'LinkedIn',
@@ -16341,7 +16341,7 @@ var data = {
           title: 'Git c’est facile !',
           abstract:
             'Principal outil du développeur, git est souvent utilisé mais pas toujours maitrisé. Que se passe t’il derrière les commandes que l’on utilise tous les jours ? Nous verrons les concepts de base de Git qui permettrons de comprendre ce qu’il se passe sous le capot et les astuces qui optimiseront votre quotidien de développeur.',
-          tags: ['git', 'dev', 'version'],
+          tags: ['git', 'devtools', 'version'],
           lang: ['fr'],
         },
         {
@@ -16355,7 +16355,14 @@ var data = {
           title: 'Architecture Hexagonale',
           abstract:
             'Très à la mode en ce moment, l’architecture hexagonale c’est quoi ? Quand et comment peut on l’utiliser ?',
-          tags: ['architecture', 'hexagonale', 'java', 'backend'],
+          tags: ['architecture', 'hexagonale', 'java', 'spring'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Rénovation d’un monolithe legacy - REX',
+          abstract:
+            'Retour d’expérience sur la transformation d’un monolithe legacy en une application moderne en architechture exagonale. Comment amorcer le virage, comment ne pas tout casser ? Comment découper en étapes cohérentes ? Je vous présenterais ce qui a été fait sur gros site de e-Commerce.',
+          tags: ['architecture', 'hexagonale', 'java', 'spring', 'legacy'],
           lang: ['fr'],
         },
       ],
