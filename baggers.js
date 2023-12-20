@@ -5438,7 +5438,7 @@ var data = {
             'Operational Decision Manager',
           ],
           lang: ['fr'],
-        },      
+        },
       ],
       cities: ['Toulouse', 'Paris'],
       contacts: {
@@ -18154,17 +18154,13 @@ var data = {
       since: '2023-04-06',
       name: 'Alizée Gottardo',
       bio:
-        "Software Developer & Business Analyst @OSEDEA. L'approche que je privilégie : explorer et modéliser le domaine métier pour concevoir des produits qui ont du sens. J'adore échanger autour du Domain Driven Design et de l'éco-conception.",
+        "Software Developer & Business Analyst. L'approche que je privilégie : explorer et modéliser le domaine métier pour concevoir des produits qui ont du sens. J'adore échanger autour du Domain Driven Design et de l'éco-conception.",
       picture:
         'https://en.gravatar.com/userimage/73573562/d450ac63ef86c12c106c63042c02c3ce.png?size=200',
       websites: [
         {
           name: 'Linkedin',
           url: 'https://www.linkedin.com/in/alizeegottardo/',
-        },
-        {
-          name: 'Website',
-          url: 'https://www.osedea.com/fr',
         },
       ],
       location: 'Nantes',
@@ -18187,7 +18183,7 @@ var data = {
       ],
       cities: ['Nantes'],
       contacts: {
-        mail: 'alizee.gottardo@osedea.com',
+        mail: 'alizee.gottardo.pro@gmail.com',
       },
     },
     {
@@ -18352,17 +18348,13 @@ var data = {
       since: '2023-05-09',
       name: 'Paula Breton',
       bio:
-        'Designer UI/UX @OSEDEA. Mon but, créer des interfaces super intuitives et rassurantes. Mon truc, mélanger mes compétences techniques et mon imagination pour concevoir des designs créatifs qui ont un impact positif sur les utilisateurs.',
+        'Designer UI/UX. Mon but, créer des interfaces super intuitives et rassurantes. Mon truc, mélanger mes compétences techniques et mon imagination pour concevoir des designs créatifs qui ont un impact positif sur les utilisateurs.',
       picture:
         'https://fr.gravatar.com/userimage/233847729/2830b975e80e13783ab1ae36ad228aeb.png?size=200',
       websites: [
         {
           name: 'Linkedin',
           url: 'https://www.linkedin.com/in/paulabreton/',
-        },
-        {
-          name: 'Website',
-          url: 'https://www.osedea.com/fr',
         },
       ],
       location: 'Nantes',
@@ -18378,23 +18370,19 @@ var data = {
       ],
       cities: ['Nantes'],
       contacts: {
-        mail: 'paula.breton@osedea.com',
+        mail: 'pbreton.designer@gmail.com',
       },
     },
     {
       since: '2023-05-09',
       name: 'Marie Desnos',
-      bio: 'Designer UI/UX @OSEDEA',
+      bio: 'Designer UI/UX',
       picture:
         'https://2.gravatar.com/avatar/3eeaf0de749bb0fdfeceb15e444d2f69?size=256',
       websites: [
         {
           name: 'Linkedin',
           url: 'https://www.linkedin.com/in/marie-desnos-37a00b5a',
-        },
-        {
-          name: 'Website',
-          url: 'https://www.osedea.com/fr',
         },
       ],
       location: 'Nantes',
@@ -18417,7 +18405,7 @@ var data = {
       ],
       cities: ['Nantes'],
       contacts: {
-        mail: 'marie.desnos@osedea.com',
+        mail: 'mdesnos@gmail.com',
       },
     },
     {
@@ -18567,7 +18555,7 @@ var data = {
             "TypeScript",
             "Angular",
           ],
-          "lang": [ "fr" ]
+          "lang": ["fr"]
         },
         {
           "title": "Quel futur pour Angular ? (vu de 2023-2024)",
@@ -18577,7 +18565,7 @@ var data = {
             "TypeScript",
             "Angular",
           ],
-          "lang": [ "fr" ]
+          "lang": ["fr"]
         },
       ]
     }
