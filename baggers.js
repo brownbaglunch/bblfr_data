@@ -9605,20 +9605,20 @@ var data = {
       since: '2016-02-27',
       name: 'Frederic Rivain',
       bio:
-        'CTO at Dashlane, co-founder of CiTy-O, a community of CTO in Paris. Happy to come talk about organization, management, agility or identity at large.',
+        'CTO at Dashlane. Active speaker in conferences. Blog Writing. Mentorship. Core contributor in the Tech Community. Happy to come talk about topics such as organization (how we run product and engineering teams), leadership (scaling teams), , security (from threat modelling, to confidential computing, post quantum) and digital identity in general and what's happening in the industry (passkeys, SSO...). Below are just a few examples of talks',
       picture:
         'https://secure.gravatar.com/avatar/d20f256700e1666bc32d5904c8225e13?size=200',
       websites: [
         {
           name: 'Web',
-          url: 'https://blog.dashlane.com/author/frederic-rivain/',
+          url: 'https://www.dashlane.com/blog/author/frederic-rivain',
         },
         {
           name: 'LinkedIn',
           url: 'https://fr.linkedin.com/in/fredericrivain',
         },
       ],
-      location: 'Paris',
+      location: 'Paris, New York',
       sessions: [
         {
           title: 'Continuous Learning',
@@ -9650,7 +9650,7 @@ var data = {
       cities: ['Paris'],
       contacts: {
         twitter: 'FredericRivain',
-        mail: 'frederic.rivain@gmail.com',
+        mail: 'frederic@dashlane.com',
       },
     },
     {
