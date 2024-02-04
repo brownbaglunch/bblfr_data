@@ -14992,12 +14992,8 @@ var data = {
           name: 'Website',
           url: 'http://hey-gul.com/',
         },
-        {
-          name: 'Twitter',
-          url: 'https://twitter.com/GUL_THE_TWITTO',
-        },
       ],
-      location: 'Paris',
+      location: 'Nantes',
       sessions: [
         {
           title: 'La pyramide des tests',
@@ -15009,7 +15005,6 @@ var data = {
       ],
       cities: ['Paris'],
       contacts: {
-        twitter: 'GUL_THE_TWITTO',
         mail: 'guillaume@hey-gul.com',
       },
     },
