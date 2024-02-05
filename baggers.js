@@ -18428,7 +18428,7 @@ var data = {
       name: "Thomas VERHOKEN",
       bio: "Développeur éclectique et polyglotte.",
       picture: "https://avatars.githubusercontent.com/u/3036052",
-      cities: ["Lille", "Douai"],
+      cities: ["Lille"],
       contacts: {
         twitter: "tverhoken",
         mail: "thomas.verhoken@gmail.com"
