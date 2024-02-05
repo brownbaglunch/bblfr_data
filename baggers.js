@@ -5379,7 +5379,7 @@ var data = {
           title:
             'IA symbolique vs IA learning: les moteurs (règles, optim) ca sert vraiment encore aujourdhui ?',
           abstract:
-            "On a ChatGPT : pourquoi avoir des utilisateurs finaux qui codent des règles métier en langage naturel ?",
+            'On a ChatGPT : pourquoi avoir des utilisateurs finaux qui codent des règles métier en langage naturel ?',
           tags: [
             'IA symbolique',
             'IA learning',
@@ -5438,7 +5438,7 @@ var data = {
             'Operational Decision Manager',
           ],
           lang: ['fr'],
-        },      
+        },
       ],
       cities: ['Toulouse', 'Paris'],
       contacts: {
@@ -5600,61 +5600,6 @@ var data = {
       },
     },
     {
-      since: '2014-05-04',
-      name: 'Manyssin Thin',
-      bio:
-        'Entrepreneur et jeune papa passionné par le design et le numérique. CEO de www.nowly.co et lui même depuis 1985.',
-      picture: 'img/baggers/unknown.png',
-      websites: [
-        {
-          name: 'LinkedIn',
-          url: 'https://www.linkedin.com/pub/manyssin-thin/70/706/62',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.nowly.co',
-        },
-      ],
-      location: 'Tours',
-      sessions: [
-        {
-          title: 'Storytelling',
-          abstract:
-            'Raconter votre histoire, un véritable vecteur de communication. Les succès et les difficultés, ce qui fait de vous ce que vous êtes et qui vous permet de creer un véritable lien.',
-          tags: ['Réseaux sociaux', 'Entrepreneuriat'],
-          lang: ['fr'],
-        },
-      ],
-      cities: ['Tours'],
-      contacts: {
-        twitter: 'huvw',
-        mail: 'many@nowly.co',
-      },
-    },
-    {
-      since: '2014-05-04',
-      name: 'Mathieu Bolard',
-      bio: 'Consultant en solutions mobiles, co-fondateur de Nowly',
-      picture: 'img/baggers/unknown.png',
-      websites: [
-        {
-          name: 'Web',
-          url: 'http://lnkd.in/dm_XUv4',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.nowly.co',
-        },
-      ],
-      location: 'Tours',
-      sessions: [],
-      cities: ['Tours'],
-      contacts: {
-        twitter: 'mattlawer',
-        mail: 'mathieu@nowly.co',
-      },
-    },
-    {
       since: '2014-05-06',
       name: 'Xavier Mouton-dubosc',
       bio:
@@ -5746,88 +5691,12 @@ var data = {
       },
     },
     {
-      since: '2014-05-08',
-      name: 'Julien Dargaisse',
-      bio:
-        "Tech Entrepreneur & UI/UX Designer. A l'initiative de PALO ALTOURS, La Cantine Numérique Tours, Startup Weekend Tours, Apéro Entrepreneurs Tours. #FBSAlumni",
-      picture: 'img/baggers/unknown.png',
-      websites: [
-        {
-          name: 'LinkedIn',
-          url: 'https://www.linkedin.com/in/juliendargaisse',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.buzzle.me/fr',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.nowly.co',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.paloaltours.org',
-        },
-      ],
-      location: 'Tours',
-      sessions: [
-        {
-          title: 'Gestion de projet innovant',
-          abstract:
-            "Partage d'expérience: de l'idée à la commercialisation en passant par le financement.",
-          tags: [
-            'Innovation',
-            'Lean Startup',
-            'UI/UX Design',
-            'Recrutement',
-            'Réseaux sociaux',
-            'Entrepreneuriat',
-            'Mobile',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Travailler en mobilité',
-          abstract: 'Les apps/saas pour pouvoir travailler en mobilité.',
-          tags: [
-            'Innovation',
-            'Lean Startup',
-            'UI/UX Design',
-            'Recrutement',
-            'Réseaux sociaux',
-            'Entrepreneuriat',
-            'Mobile',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Le recrutement 2.0',
-          abstract: 'Les outils et bonnes pratiques pour recruter avec le web.',
-          tags: [
-            'Innovation',
-            'Lean Startup',
-            'UI/UX Design',
-            'Recrutement',
-            'Réseaux sociaux',
-            'Entrepreneuriat',
-            'Mobile',
-          ],
-          lang: ['fr'],
-        },
-      ],
-      cities: ['Tours', 'Paris'],
-      contacts: {
-        twitter: 'juliendargaisse',
-        mail: 'julien@nowly.co',
-      },
-    },
-    {
       since: '2014-05-09',
       name: 'Jérôme Heissler',
       bio:
-        'Startup lovers • Tech Entrepreneur • Architect AWS • Developer Web & Scala/Java • Passionate about Continuous Delivery, Infrastructure Automation, and all things Devops.',
+        'Founder PerfectPost • Tech Entrepreneur • Architect AWS • Serverless, Typescript & Browser Extension • Passionate about Continuous Delivery, Infrastructure Automation, and all things Devops.',
       picture:
-        'https://fr.gravatar.com/userimage/41602360/ba257d46b8fca7e9d93411c7b7196b69.jpeg',
+        'https://gravatar.com/userimage/41602360/57ac8a31a8714082663a324faeff3d6a.jpeg',
       websites: [
         {
           name: 'LinkedIn',
@@ -5835,11 +5704,11 @@ var data = {
         },
         {
           name: 'Web',
-          url: 'http://www.buzzle.me/fr',
+          url: 'https://perfectpost.social',
         },
         {
-          name: 'Web',
-          url: 'http://www.nowly.co',
+          name: 'GitHub',
+          url: 'https://github.com/jeromeheissler',
         },
       ],
       location: 'Tours',
@@ -5847,7 +5716,6 @@ var data = {
       cities: ['Tours'],
       contacts: {
         twitter: 'jeromeheissler',
-        mail: 'jerome@nowly.co',
       },
     },
     {
@@ -9737,20 +9605,20 @@ var data = {
       since: '2016-02-27',
       name: 'Frederic Rivain',
       bio:
-        'CTO at Dashlane, co-founder of CiTy-O, a community of CTO in Paris. Happy to come talk about organization, management, agility or identity at large.',
+        'CTO at Dashlane. Active speaker in conferences. Blog Writing. Mentorship. Core contributor in the Tech Community. Happy to come talk about topics such as organization (how we run product and engineering teams), leadership (scaling teams), , security (from threat modelling, to confidential computing, post quantum) and digital identity in general and what's happening in the industry (passkeys, SSO...). Below are just a few examples of talks',
       picture:
         'https://secure.gravatar.com/avatar/d20f256700e1666bc32d5904c8225e13?size=200',
       websites: [
         {
           name: 'Web',
-          url: 'https://blog.dashlane.com/author/frederic-rivain/',
+          url: 'https://www.dashlane.com/blog/author/frederic-rivain',
         },
         {
           name: 'LinkedIn',
           url: 'https://fr.linkedin.com/in/fredericrivain',
         },
       ],
-      location: 'Paris',
+      location: 'Paris, New York',
       sessions: [
         {
           title: 'Continuous Learning',
@@ -9782,7 +9650,7 @@ var data = {
       cities: ['Paris'],
       contacts: {
         twitter: 'FredericRivain',
-        mail: 'frederic.rivain@gmail.com',
+        mail: 'frederic@dashlane.com',
       },
     },
     {
@@ -9927,7 +9795,8 @@ var data = {
         },
         {
           name: 'Youtube',
-          url: 'https://www.youtube.com/playlist?list=PLrZvYNw-9QDYyCXFktHjfAzukKpI6ZXZw',
+          url:
+            'https://www.youtube.com/playlist?list=PLrZvYNw-9QDYyCXFktHjfAzukKpI6ZXZw',
         },
       ],
       location: 'Paris, Chartres, Le Mans, ...',
@@ -11196,8 +11065,7 @@ var data = {
           lang: ['fr'],
         },
         {
-          title:
-            'Tests unitaires: essentiels et compliqués à la fois',
+          title: 'Tests unitaires: essentiels et compliqués à la fois',
           abstract:
             "Je me souviens lorsque j’ai commencé à développer que je pouvais coder pendant des heures sans exécuter mon code. La suite était moins marrante, je passais des heures à le débugger. J’ai découvert les tests par la suite et j’ai rapidement compris les avantages qu’ils apportaient. Cependant, ça n’a pas été facile d’écrire mes premiers tests. On peut commettre beaucoup d'erreurs qui les rendent difficiles à écrire et à maintenir. Je souhaite vous présenter ce que j’ai appris durant ces dernières années afin de faciliter l’écriture de vos tests.",
           tags: ['unit-test', 'POO'],
@@ -13215,10 +13083,9 @@ var data = {
     {
       since: '2017-10-26',
       name: 'Rémi Koci',
-      bio: 'Agiliste passionné et coach agile chez Aneo',
-      picture:
-        'https://pbs.twimg.com/profile_images/824256803030663169/KFMrwWON_400x400.jpg',
-      cities: ['Paris'],
+      bio: 'Agiliste passionné chez Inöweeno',
+      picture: 'https://lh3.googleusercontent.com/pw/ABLVV84iytG5lnElHOd-h34vD239OX_vdHsbAcJld8dd-q5xllcYXWmIYP4bk8ZlwcyF_7XD_Q2IX7hniGNz8Lz1oDs49nQLO9bgfpgfxfg4E3GJA4SdQJ4DdpefKcldPfT9ZNjMjNJatx2kQ5I9EG_4wKGFHw=w1340-h1340-s-no-gm',
+      cities: ['Nantes', 'Paris', 'Remote'],
       contacts: {
         twitter: 'remikoci',
         mail: 'remikoci@gmail.com',
@@ -13238,13 +13105,13 @@ var data = {
             'initiation',
             'agilité',
           ],
-          lang: ['fr'],
+          lang: ['fr', 'en'],
         },
         {
           title:
             'Développer une culture de la gagne, l’exemple des Brooklyn Nets !',
           abstract:
-            "Conférence sur la transformation managériale d'une équipe de NBA. J'y parle de culture, approche collaborative et responsabilisation pour montrer comment l'équipe a su se reconstruire en insufflant une nouvelle vision du top management jusqu'aux opérationnels (les joueurs). Article écrit sur le sujet : https://humanage.fr/developper-une-culture-de-la-gagne-brooklyn-nets/",
+            "Conférence sur la transformation managériale d'une équipe de NBA. J'y parle de culture, approche collaborative et responsabilisation pour montrer comment l'équipe a su se reconstruire en insufflant une nouvelle vision du top management jusqu'aux opérationnels (les joueurs). Article écrit sur le sujet : https://www.aneo.eu/blog/developper-culture-gagne-brooklyn-nets",
           tags: [
             'Management',
             'Culuture',
@@ -13253,14 +13120,14 @@ var data = {
             'Motivation',
             'Innovation managériale',
           ],
-          lang: ['fr'],
+          lang: ['fr', 'en'],
         },
       ],
-      location: 'Paris',
+      location: 'Nantes',
       websites: [
         {
           name: 'Web',
-          url: 'https://blog.ippon.fr/author/rkoci',
+          url: 'https://www.aneo.eu/blog/developper-culture-gagne-brooklyn-nets',
         },
       ],
     },
@@ -15125,12 +14992,8 @@ var data = {
           name: 'Website',
           url: 'http://hey-gul.com/',
         },
-        {
-          name: 'Twitter',
-          url: 'https://twitter.com/GUL_THE_TWITTO',
-        },
       ],
-      location: 'Paris',
+      location: 'Nantes',
       sessions: [
         {
           title: 'La pyramide des tests',
@@ -15142,7 +15005,6 @@ var data = {
       ],
       cities: ['Paris'],
       contacts: {
-        twitter: 'GUL_THE_TWITTO',
         mail: 'guillaume@hey-gul.com',
       },
     },
@@ -16321,8 +16183,8 @@ var data = {
     {
       since: '2019-05-25',
       name: 'Frédéric Combes',
-      bio: 'Responsable tech chez I-Run.fr depuis Janvier 2018',
-      picture: 'https://blog.ght1pc9kc.fr/img/fcombes.jpg',
+      bio: 'CTO chez BOTdesign depuis Janvier 2022',
+      picture: 'https://blog.ght1pc9kc.fr/img/bio-marthym.webp',
       websites: [
         {
           name: 'LinkedIn',
@@ -16341,7 +16203,7 @@ var data = {
           title: 'Git c’est facile !',
           abstract:
             'Principal outil du développeur, git est souvent utilisé mais pas toujours maitrisé. Que se passe t’il derrière les commandes que l’on utilise tous les jours ? Nous verrons les concepts de base de Git qui permettrons de comprendre ce qu’il se passe sous le capot et les astuces qui optimiseront votre quotidien de développeur.',
-          tags: ['git', 'dev', 'version'],
+          tags: ['git', 'devtools', 'version'],
           lang: ['fr'],
         },
         {
@@ -16355,7 +16217,14 @@ var data = {
           title: 'Architecture Hexagonale',
           abstract:
             'Très à la mode en ce moment, l’architecture hexagonale c’est quoi ? Quand et comment peut on l’utiliser ?',
-          tags: ['architecture', 'hexagonale', 'java', 'backend'],
+          tags: ['architecture', 'hexagonale', 'java', 'spring'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Rénovation d’un monolithe legacy - REX',
+          abstract:
+            'Retour d’expérience sur la transformation d’un monolithe legacy en une application moderne en architechture exagonale. Comment amorcer le virage, comment ne pas tout casser ? Comment découper en étapes cohérentes ? Je vous présenterais ce qui a été fait sur gros site de e-Commerce.',
+          tags: ['architecture', 'hexagonale', 'java', 'spring', 'legacy'],
           lang: ['fr'],
         },
       ],
@@ -18147,17 +18016,13 @@ var data = {
       since: '2023-04-06',
       name: 'Alizée Gottardo',
       bio:
-        "Software Developer & Business Analyst @OSEDEA. L'approche que je privilégie : explorer et modéliser le domaine métier pour concevoir des produits qui ont du sens. J'adore échanger autour du Domain Driven Design et de l'éco-conception.",
+        "Software Developer & Business Analyst. L'approche que je privilégie : explorer et modéliser le domaine métier pour concevoir des produits qui ont du sens. J'adore échanger autour du Domain Driven Design et de l'éco-conception.",
       picture:
         'https://en.gravatar.com/userimage/73573562/d450ac63ef86c12c106c63042c02c3ce.png?size=200',
       websites: [
         {
           name: 'Linkedin',
           url: 'https://www.linkedin.com/in/alizeegottardo/',
-        },
-        {
-          name: 'Website',
-          url: 'https://www.osedea.com/fr',
         },
       ],
       location: 'Nantes',
@@ -18180,7 +18045,7 @@ var data = {
       ],
       cities: ['Nantes'],
       contacts: {
-        mail: 'alizee.gottardo@osedea.com',
+        mail: 'alizee.gottardo.pro@gmail.com',
       },
     },
     {
@@ -18345,17 +18210,13 @@ var data = {
       since: '2023-05-09',
       name: 'Paula Breton',
       bio:
-        'Designer UI/UX @OSEDEA. Mon but, créer des interfaces super intuitives et rassurantes. Mon truc, mélanger mes compétences techniques et mon imagination pour concevoir des designs créatifs qui ont un impact positif sur les utilisateurs.',
+        'Designer UI/UX. Mon but, créer des interfaces super intuitives et rassurantes. Mon truc, mélanger mes compétences techniques et mon imagination pour concevoir des designs créatifs qui ont un impact positif sur les utilisateurs.',
       picture:
         'https://fr.gravatar.com/userimage/233847729/2830b975e80e13783ab1ae36ad228aeb.png?size=200',
       websites: [
         {
           name: 'Linkedin',
           url: 'https://www.linkedin.com/in/paulabreton/',
-        },
-        {
-          name: 'Website',
-          url: 'https://www.osedea.com/fr',
         },
       ],
       location: 'Nantes',
@@ -18371,23 +18232,19 @@ var data = {
       ],
       cities: ['Nantes'],
       contacts: {
-        mail: 'paula.breton@osedea.com',
+        mail: 'pbreton.designer@gmail.com',
       },
     },
     {
       since: '2023-05-09',
       name: 'Marie Desnos',
-      bio: 'Designer UI/UX @OSEDEA',
+      bio: 'Designer UI/UX',
       picture:
         'https://2.gravatar.com/avatar/3eeaf0de749bb0fdfeceb15e444d2f69?size=256',
       websites: [
         {
           name: 'Linkedin',
           url: 'https://www.linkedin.com/in/marie-desnos-37a00b5a',
-        },
-        {
-          name: 'Website',
-          url: 'https://www.osedea.com/fr',
         },
       ],
       location: 'Nantes',
@@ -18410,13 +18267,14 @@ var data = {
       ],
       cities: ['Nantes'],
       contacts: {
-        mail: 'marie.desnos@osedea.com',
+        mail: 'mdesnos@gmail.com',
       },
     },
     {
       since: '2023-06-26',
       name: 'Fabien Brunet',
-      bio: 'Front-end Architect at Allianz Technology. Full stack developer, passionate about new technologies, I have decided to move towards Java and Node applications development. I turn to service delivery as technical referent, focusing on java development technical expertise, human relationships and contacts.',
+      bio:
+        'Front-end Architect at Allianz Technology. Full stack developer, passionate about new technologies, I have decided to move towards Java and Node applications development. I turn to service delivery as technical referent, focusing on java development technical expertise, human relationships and contacts.',
       picture: 'https://avatars.githubusercontent.com/u/29751338?v=4',
       websites: [
         {
@@ -18432,15 +18290,14 @@ var data = {
       sessions: [
         {
           title:
-            "Comment nous avons implementé les Micro-Frontends chez Allianz",
+            'Comment nous avons implementé les Micro-Frontends chez Allianz',
           abstract:
             "Je vous propose un retour d'expérience autour des Micro-Frontends que nous avons implémentés chez Allianz Technology. Durant ce talk, je vous montrerai et décrirai notre cheminement de simple SPA aux Micro-Frontends : l'existant, les multi et mono repos, sécurité et Micro-Frontend, nos points de blocage et difficultés, nos réussites et conclusions",
           tags: ['Frontend', 'Développement', 'Architecture'],
           lang: ['fr'],
         },
         {
-          title:
-            "Eco-responsabilité et développement chez Allianz",
+          title: 'Eco-responsabilité et développement chez Allianz',
           abstract:
             "Depuis 3 ans, un groupe de travail collabore autour du sujet de l'empreinte carbone chez Allianz et les usages pour la réduire. Fort et fière de sa communauté de développeurs, le GreenIT progresse dans l'écosystème d'Allianz. Durant ce talk, je vous montrerai et décrirai notre cheminement de ces 3 ans : avancées, points de blocage, difficultés et réussites.",
           tags: ['Frontend', 'Développement', 'Sustainable'],
@@ -18455,8 +18312,10 @@ var data = {
     {
       since: '2023-09-19',
       name: 'Vincent Beauvivre',
-      bio: 'Backend technology specialist, with focus on APIs, understanding app needs and turn it into code, interoperability…',
-      picture: 'https://slash.troopers.coop/_next/image?url=https%3A%2F%2Fstrapi.troopers.agency%2Fuploads%2FVincent_c0094c0e5b.webp&w=640&q=100',
+      bio:
+        'Backend technology specialist, with focus on APIs, understanding app needs and turn it into code, interoperability…',
+      picture:
+        'https://slash.troopers.coop/_next/image?url=https%3A%2F%2Fstrapi.troopers.agency%2Fuploads%2FVincent_c0094c0e5b.webp&w=640&q=100',
       websites: [
         {
           name: 'Linkedin',
@@ -18470,18 +18329,16 @@ var data = {
       location: 'Nantes et périphérie',
       sessions: [
         {
-          title:
-            "Voyage d’une appli legacy vers le DDD − Domain Driven Design",
+          title: 'Voyage d’une appli legacy vers le DDD − Domain Driven Design',
           abstract:
-            "Je vous propose une étude de cas fictive mais pratique, pour transformer une application réalisée avec CakePhp dans un code moderne, réutilisable et maintenable.",
+            'Je vous propose une étude de cas fictive mais pratique, pour transformer une application réalisée avec CakePhp dans un code moderne, réutilisable et maintenable.',
           tags: ['Backend', 'Architecture', 'DDD'],
           lang: ['fr', 'en'],
         },
         {
-          title:
-            "Because I’m API",
+          title: 'Because I’m API',
           abstract:
-            "Un aperçu du monde fantastique des API et pourquoi API-Platform est la solution qui respecte le mieux les normes et usages de la terre du milieu.",
+            'Un aperçu du monde fantastique des API et pourquoi API-Platform est la solution qui respecte le mieux les normes et usages de la terre du milieu.',
           tags: ['Backend', 'Architecture', 'Api'],
           lang: ['fr', 'en'],
         },
@@ -18492,48 +18349,46 @@ var data = {
       },
     },
     {
-      since: "2023-09-19",
-      name: "Paul Andrieux",
-      bio: "Fondateur de l'agence Troopers, je suis développeur de formation. Intéressé par les sujets DevOps et les formes alternatives de management, notamment l'auto-gestion. ",
-      picture: "https://0.gravatar.com/avatar/f408278b6ffa94351c033f9e006847f2b57ff04cdc15e7239db3fb9592369d55?size=200",
+      since: '2023-09-19',
+      name: 'Paul Andrieux',
+      bio:
+        "Fondateur de l'agence Troopers, je suis développeur de formation. Intéressé par les sujets DevOps et les formes alternatives de management, notamment l'auto-gestion. ",
+      picture:
+        'https://0.gravatar.com/avatar/f408278b6ffa94351c033f9e006847f2b57ff04cdc15e7239db3fb9592369d55?size=200',
       websites: [
         {
-          name: "Web",
-          url: "https://troopers.coop/"
+          name: 'Web',
+          url: 'https://troopers.coop/',
         },
         {
-          name: "LinkedIn",
-          url: "https://www.linkedin.com/in/paulandrieux/"
-        }
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/paulandrieux/',
+        },
       ],
-      location: "Nantes, quartier de la Madeleine",
+      location: 'Nantes, quartier de la Madeleine',
       sessions: [
         {
-          title: "Mettre en oeuvre une pratique d’intégration continue, GitLab à la rescousse",
-          abstract: "Vous voulez améliorer la qualité de votre code tout en accélérant la livraison de nouvelles fonctionnalités ? GitLab peut pour vous aider. Dans ce BBL, on va explorer ensemble les étapes à suivre pour intégrer GitLab dans votre processus de développement. On va parler d'automatisation de tests, de déploiements, et de collaboration en équipe. En bref, on va vous donner les premières pistes de mise en place une pratique d'intégration continue efficace !",
-          tags: [
-            "CI",
-            "DevOps",
-            "Qualité logicielle",
-          ],
-          lang: [
-            "fr"
-          ]
+          title:
+            'Mettre en oeuvre une pratique d’intégration continue, GitLab à la rescousse',
+          abstract:
+            "Vous voulez améliorer la qualité de votre code tout en accélérant la livraison de nouvelles fonctionnalités ? GitLab peut pour vous aider. Dans ce BBL, on va explorer ensemble les étapes à suivre pour intégrer GitLab dans votre processus de développement. On va parler d'automatisation de tests, de déploiements, et de collaboration en équipe. En bref, on va vous donner les premières pistes de mise en place une pratique d'intégration continue efficace !",
+          tags: ['CI', 'DevOps', 'Qualité logicielle'],
+          lang: ['fr'],
         },
       ],
-      cities: [
-        "Nantes"
-      ],
+      cities: ['Nantes'],
       contacts: {
-        twitter: "paulandrieux",
-        mail: "paul@troopers.email"
-      }
+        twitter: 'paulandrieux',
+        mail: 'paul@troopers.email',
+      },
     },
     {
       since: '2023-10-28',
       name: 'Lou-Théo LAURENT',
-      bio: 'Développeur curieux, touche à pas mal de choses. J\'adore les événements que ce soit en tant que participant ou organisateur. La qualité me tient à coeur, je progresse pour l\'améliorer.',
-      picture: 'https://media.licdn.com/dms/image/C4D03AQGhAgP_RVN3Fg/profile-displayphoto-shrink_400_400/0/1561902693360?e=1703721600&v=beta&t=cUyKHv0xiEM6TVVERY3FGgQ-WOCctfobQ0ZUZ_X1nqU',
+      bio:
+        "Développeur curieux, touche à pas mal de choses. J'adore les événements que ce soit en tant que participant ou organisateur. La qualité me tient à coeur, je progresse pour l'améliorer.",
+      picture:
+        'https://media.licdn.com/dms/image/C4D03AQGhAgP_RVN3Fg/profile-displayphoto-shrink_400_400/0/1561902693360?e=1703721600&v=beta&t=cUyKHv0xiEM6TVVERY3FGgQ-WOCctfobQ0ZUZ_X1nqU',
       location: 'Strasbourg et environs',
       cities: ['Strasbourg'],
       contacts: { mail: 'laurent.lt@sfeir.com' },
@@ -18553,24 +18408,18 @@ var data = {
       ],
       sessions: [
         {
-          "title": "La réactivité dans Angular, comment ça fonctionne ?",
-          "abstract": "Vous qui utilisez Angular au quotidien, avez-vous déjà eu la curiosité de savoir comment le framework fonctionne ? Comment votre composant sait-il qu'il doit se rafraichir ? Quelles sont les possibilités pour optimiser notre application ? Que nous réserve le futur ?",
-          "tags": [
-            "JavaScript",
-            "TypeScript",
-            "Angular",
-          ],
-          "lang": [ "fr" ]
+          title: 'La réactivité dans Angular, comment ça fonctionne ?',
+          abstract:
+            "Vous qui utilisez Angular au quotidien, avez-vous déjà eu la curiosité de savoir comment le framework fonctionne ? Comment votre composant sait-il qu'il doit se rafraichir ? Quelles sont les possibilités pour optimiser notre application ? Que nous réserve le futur ?",
+          tags: ['JavaScript', 'TypeScript', 'Angular'],
+          lang: ['fr'],
         },
         {
-          "title": "Quel futur pour Angular ? (vu de 2023-2024)",
-          "abstract": "Angular a manifesté des changements impressionnants depuis quelques versions et cela n’est rien face à ce qu’il y a dans les cartons ! En plus des Signals, le phénomène qui va révolutionner la détection de changement dans Angular, nous discuterons également du futur système de contrôle des flux (le remplaçant des ngIf & co) envisagé pour la partie template. Accrochez-vous, vous risquez d’être choqué !",
-          "tags": [
-            "JavaScript",
-            "TypeScript",
-            "Angular",
-          ],
-          "lang": [ "fr" ]
+          title: 'Quel futur pour Angular ? (vu de 2023-2024)',
+          abstract:
+            'Angular a manifesté des changements impressionnants depuis quelques versions et cela n’est rien face à ce qu’il y a dans les cartons ! En plus des Signals, le phénomène qui va révolutionner la détection de changement dans Angular, nous discuterons également du futur système de contrôle des flux (le remplaçant des ngIf & co) envisagé pour la partie template. Accrochez-vous, vous risquez d’être choqué !',
+          tags: ['JavaScript', 'TypeScript', 'Angular'],
+          lang: ['fr'],
         },
       ]
     },
