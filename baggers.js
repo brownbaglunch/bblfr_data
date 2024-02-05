@@ -18421,8 +18421,34 @@ var data = {
           tags: ['JavaScript', 'TypeScript', 'Angular'],
           lang: ['fr'],
         },
-      ],
+      ]
     },
+    {
+      since: "2023-11-16",
+      name: "Thomas VERHOKEN",
+      bio: "Développeur éclectique et polyglotte.",
+      picture: "https://avatars.githubusercontent.com/u/3036052",
+      cities: ["Lille"],
+      contacts: {
+        twitter: "tverhoken",
+        mail: "thomas.verhoken@gmail.com"
+      },
+      sessions: [
+        {
+          title: "Mutation testing - Tester vos test ?!?",
+          abstract: "En tant que développeur.se professionnel.le, vous êtes amené.e.s à tester ce que vous produisez. Mais êtes-vous certain.e.s de la fiabilité des tests que vous écrivez ? Pour vérifier cela, devons-nous aller jusqu’à tester les tests que l’on écrit ?!? Cela serait fastidieux. Et bien voyons ensemble comment faire cela, mais de façon automatisée, au travers de « mutation testing ». Ensemble, voyons en quoi consiste cette pratique et ce qu’elle peut apporter à vos projets ou à vous mêmes.",
+          tags: ['Tests', 'T.D.D'],
+          lang: ['fr']
+        }
+      ],
+      location: 'Lille',
+      websites: [
+       {
+        name: "Github",
+        url: "https://github.com/tverhoken"
+       }
+      ]
+    }
   ],
   cities: {
     'Aix-en-Provence': {
