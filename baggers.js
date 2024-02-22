@@ -9605,7 +9605,7 @@ var data = {
       since: '2016-02-27',
       name: 'Frederic Rivain',
       bio:
-        'CTO at Dashlane. Active speaker in conferences. Blog Writing. Mentorship. Core contributor in the Tech Community. Happy to come talk about topics such as organization (how we run product and engineering teams), leadership (scaling teams), , security (from threat modelling, to confidential computing, post quantum) and digital identity in general and what\'s happening in the industry (passkeys, SSO...). Below are just a few examples of talks',
+        "CTO at Dashlane. Active speaker in conferences. Blog Writing. Mentorship. Core contributor in the Tech Community. Happy to come talk about topics such as organization (how we run product and engineering teams), leadership (scaling teams), , security (from threat modelling, to confidential computing, post quantum) and digital identity in general and what's happening in the industry (passkeys, SSO...). Below are just a few examples of talks",
       picture:
         'https://secure.gravatar.com/avatar/d20f256700e1666bc32d5904c8225e13?size=200',
       websites: [
@@ -13084,7 +13084,8 @@ var data = {
       since: '2017-10-26',
       name: 'Rémi Koci',
       bio: 'Agiliste passionné chez Inöweeno',
-      picture: 'https://lh3.googleusercontent.com/pw/ABLVV84iytG5lnElHOd-h34vD239OX_vdHsbAcJld8dd-q5xllcYXWmIYP4bk8ZlwcyF_7XD_Q2IX7hniGNz8Lz1oDs49nQLO9bgfpgfxfg4E3GJA4SdQJ4DdpefKcldPfT9ZNjMjNJatx2kQ5I9EG_4wKGFHw=w1340-h1340-s-no-gm',
+      picture:
+        'https://lh3.googleusercontent.com/pw/ABLVV84iytG5lnElHOd-h34vD239OX_vdHsbAcJld8dd-q5xllcYXWmIYP4bk8ZlwcyF_7XD_Q2IX7hniGNz8Lz1oDs49nQLO9bgfpgfxfg4E3GJA4SdQJ4DdpefKcldPfT9ZNjMjNJatx2kQ5I9EG_4wKGFHw=w1340-h1340-s-no-gm',
       cities: ['Nantes', 'Paris', 'Remote'],
       contacts: {
         twitter: 'remikoci',
@@ -13127,7 +13128,8 @@ var data = {
       websites: [
         {
           name: 'Web',
-          url: 'https://www.aneo.eu/blog/developper-culture-gagne-brooklyn-nets',
+          url:
+            'https://www.aneo.eu/blog/developper-culture-gagne-brooklyn-nets',
         },
       ],
     },
@@ -18421,34 +18423,85 @@ var data = {
           tags: ['JavaScript', 'TypeScript', 'Angular'],
           lang: ['fr'],
         },
-      ]
+      ],
     },
     {
-      since: "2023-11-16",
-      name: "Thomas VERHOKEN",
-      bio: "Développeur éclectique et polyglotte.",
-      picture: "https://avatars.githubusercontent.com/u/3036052",
-      cities: ["Lille"],
+      since: '2023-11-16',
+      name: 'Thomas VERHOKEN',
+      bio: 'Développeur éclectique et polyglotte.',
+      picture: 'https://avatars.githubusercontent.com/u/3036052',
+      cities: ['Lille'],
       contacts: {
-        twitter: "tverhoken",
-        mail: "thomas.verhoken@gmail.com"
+        twitter: 'tverhoken',
+        mail: 'thomas.verhoken@gmail.com',
       },
       sessions: [
         {
-          title: "Mutation testing - Tester vos test ?!?",
-          abstract: "En tant que développeur.se professionnel.le, vous êtes amené.e.s à tester ce que vous produisez. Mais êtes-vous certain.e.s de la fiabilité des tests que vous écrivez ? Pour vérifier cela, devons-nous aller jusqu’à tester les tests que l’on écrit ?!? Cela serait fastidieux. Et bien voyons ensemble comment faire cela, mais de façon automatisée, au travers de « mutation testing ». Ensemble, voyons en quoi consiste cette pratique et ce qu’elle peut apporter à vos projets ou à vous mêmes.",
+          title: 'Mutation testing - Tester vos test ?!?',
+          abstract:
+            'En tant que développeur.se professionnel.le, vous êtes amené.e.s à tester ce que vous produisez. Mais êtes-vous certain.e.s de la fiabilité des tests que vous écrivez ? Pour vérifier cela, devons-nous aller jusqu’à tester les tests que l’on écrit ?!? Cela serait fastidieux. Et bien voyons ensemble comment faire cela, mais de façon automatisée, au travers de « mutation testing ». Ensemble, voyons en quoi consiste cette pratique et ce qu’elle peut apporter à vos projets ou à vous mêmes.',
           tags: ['Tests', 'T.D.D'],
-          lang: ['fr']
-        }
+          lang: ['fr'],
+        },
       ],
       location: 'Lille',
       websites: [
-       {
-        name: "Github",
-        url: "https://github.com/tverhoken"
-       }
-      ]
-    }
+        {
+          name: 'Github',
+          url: 'https://github.com/tverhoken',
+        },
+      ],
+    },
+    {
+      since: '2024-02-22',
+      name: 'Guillaume Wolf',
+      bio: "Pour réduire l'empreinte environnementale du numérique",
+      picture: 'https://avatars.githubusercontent.com/u/1233106',
+      cities: ['Nantes'],
+      contacts: {
+        twitter: 'geeyom',
+        mail: 'geeyom12@gmail.com',
+      },
+      location: 'Nantes',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://simbios.fr',
+        },
+        {
+          name: 'Github',
+          url: 'https://github.com/guillaumew',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/guillaumewolf/',
+        },
+      ],
+      sessions: [
+        {
+          title:
+            "30 minutes pour réduire l'empreinte encironnementale d'un site",
+          abstract:
+            'A chaque fois que je regarde sous le capot d’une page web, je vois toujours (ou presque) les mêmes défauts… Dans cette présentation, je vais vous montrer un réel site statique. Je vais vous montrer rapidement le code (HTML, CSS, javascript) ainsi que son score environnemental : l’éco-index. Puis par une série de petites optimisations rapides, nous allons améliorer l’éco-index et donc l’empreinte environnementale du site. Il n’y a là rien de bien compliqué, mais en quelques minutes on va drastiquement améliorer sa performance. Malgré son côté technique, cette présentation reste très accessible pour toute personne travaillant dans le numérique.',
+          tags: [
+            'Live Coding',
+            'Green',
+            'Eco-conception',
+            'HTML',
+            'CSS',
+            'Javascript',
+          ],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Sensibilisation impact environnemental numérique',
+          abstract:
+            "Cette présentation interactive d'une heure permettra de comprendre l'impact environnemental du numérique. Les objectifs savoir en quoi le numérique déteriore l'environnement et quels sont les ordres de grandeurs.",
+          tags: ['Quiz', 'Environnement', 'Green'],
+          lang: ['fr'],
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
