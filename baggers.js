@@ -4625,87 +4625,36 @@ var data = {
     {
       since: '2014-02-14',
       name: 'Boris Schapira',
-      bio: 'Consultant - Clever Age',
-      picture: '//avatars.borisschapira.com/boris_1light_300_fuchsia.jpg',
+      bio: 'Strategic Consultant - Contentsquare',
+      picture: '//avatars.schapira.dev/boris/2023-peep.png',
       websites: [
         {
           name: 'Web',
-          url: 'https://borisschapira.com/blog',
+          url: 'https://boris.schapira.dev/',
         },
         {
           name: 'GitHub',
           url: 'https://github.com/borisschapira/',
-        },
-        {
-          name: 'Web',
-          url: 'http://www.clever-age.com',
-        },
+        }
       ],
-      location: 'Bordeaux',
+      location: 'Périgueux',
       sessions: [
         {
-          title: 'Mon pire client a 5 ans',
+          title: 'Mon Site Web est un Restaurant',
           abstract:
-            'Devenir Papa a profondément changé la vision que j’avais de mon métier et de moi même. Être un bon père est un défi de chaque jour qui fait de moi une meilleure personne et m’apporte énormément dans mes responsabilités de consultant en terme de compréhension, de pédagogie, d’accompagnent au succès et, plus souvent qu’à mon goût… de patience.',
+            'MPA, SPA, statique, dynamique, cache, services tiers… tout ça est bien compliqué, et on s’y perd. Et si, à la place, on utilisait une métaphore filée pour bien comprendre l’état du Web aujourd’hui ?',
           tags: [
-            'Gestion de projet',
-            'Service Design',
-            'JavaScript',
-            'e-commerce',
-            'Performance Web',
+            'Web',
           ],
           lang: ['fr'],
         },
         {
-          title: 'Où sont les valeurs du Web ?',
+          title: "Syndrôme d’imposture, l’arbre qui cache la forêt",
           abstract:
-            "Le Web est né de valeurs d'accessibilité et d'égalité fantastiques. Presque 30 ans plus tard, que sont devenus les idéaux de nos hippies fondateurs ?",
+            "Si vous êtes comme moi, vous avez vu au fil des années de très nombreuses conférences sur le syndrome de l’imposteur qu'on décrit généralement comme un mélange d’anxiété et de manque de confiance en soi qui finit par vous donner l’impression que vous êtes illégitime dans votre travail. La détresse des personnes concernées est grande et il est très pertinent que nous y répondions au niveau individuel, en apportant de l'aide et du soutien. Mais est-ce qu'il ne serait pas intéressant de prendre un peu de recul, et d'analyser ce qui, au niveau collectif, favorise l'apparition de tels doutes ? Est-ce qu’il n’y aurait pas quelque chose de structurel et de culturel dans une telle prévalence de comportement, et comment pouvons-nous le corriger ? Dans cette intervention, je parlerai de psychologie, mais aussi (et surtout) de l'organisation de notre marché, de financement, de carrières, de formation initiale et continue, de rémunération, de culture et de diversité.",
           tags: [
-            'Gestion de projet',
-            'Service Design',
-            'JavaScript',
-            'e-commerce',
-            'Performance Web',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: "Pas de fatalité, il suffit de s'impliquer",
-          abstract:
-            "Quand on est salarié, on peut avoir l'impression que l'entreprise dans laquelle on travaille est un agglomérat complexe d'entités juridiques, administratives, de production, de contrôle… Parfois, certains se sentent frustrés de ne pas pouvoir changer les choses. Pourtant, de nombreuses implications sont possibles pour apporter à l'entreprise un peu d'humanité.",
-          tags: [
-            'Gestion de projet',
-            'Service Design',
-            'JavaScript',
-            'e-commerce',
-            'Performance Web',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title:
-            "Internet, espace d'opportunités… et de risques (public adolescent)",
-          abstract:
-            "Le Web a pris en quelques années une importance capitale dans nos vies. Mais les jeunes (et les moins jeunes) ne sont pas toujours au courant des problématiques que cela soulève et des changements de société qu'il nous faut comprendre. Au travers d'une quinzaine de problématiques dans lesquelles piocher, je vous propose de monter des ateliers d'échanges et d'information pour mieux sensibiliser aux usages d'Internet. Cible : 14 ans et +",
-          tags: [
-            'Gestion de projet',
-            'Service Design',
-            'JavaScript',
-            'e-commerce',
-            'Performance Web',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title: 'Le vocabulaire du Web',
-          abstract:
-            "Car chaque branche d'activité, le monde du Web a son propre vocabulaire, parfois très mouvant. Vous êtes perdu entre l'intégration continue, le Responsive Web Design, les noeuds du DOM, les CMS, les PIM et les DAM, et ne comprenez pas le rapport que ça peut avoir avec l'UX et le SVG ? Parlons-en, vous verrez, ce n'est pas si compliqué.",
-          tags: [
-            'Gestion de projet',
-            'Service Design',
-            'JavaScript',
-            'e-commerce',
-            'Performance Web',
+            'Code du Travail',
+            'Formation Continue',
           ],
           lang: ['fr'],
         },
@@ -4715,9 +4664,6 @@ var data = {
             "Avec le déplacement d'un certain nombre d'usages vers des périphérique nomades (téléphones, montres, appareils connectés), la fluidité d'utilisation devient une problématique critique. La performance Web est une des composantes de cette fluidité. Nous verrons ensemble comment l'optimiser. Ceci étant, suivant l’organisation et la culture de votre entreprise, conserver ce gain dans le temps peut être délicat et tenir davantage de la conduite du changement que de l’identification et l'implémentation d'optimisations.",
           tags: [
             'Gestion de projet',
-            'Service Design',
-            'JavaScript',
-            'e-commerce',
             'Performance Web',
           ],
           lang: ['fr'],
@@ -4726,7 +4672,7 @@ var data = {
       cities: ['Bordeaux'],
       contacts: {
         twitter: 'borisschapira',
-        mail: 'borisschapira@gmail.com',
+        mail: 'boris@schapira.dev',
       },
     },
     {
