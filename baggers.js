@@ -7848,6 +7848,13 @@ var data = {
       location: 'Montreuil / Paris',
       sessions: [
         {
+          title: "Détecter les bugs JS depuis son IDE: TSDoc et autres recettes pratiques",
+          abstract:
+            'Oops, notre code JavaScript plante en production à cause d’une variable, d’un paramètre ou d’une propriété undefined ! Saviez-vous qu’en maîtrisant l’art du type checking on pouvait non seulement réduire le besoin en tests, et qu’il n’y a même pas besoin de migrer toute sa codebase en TypeScript pour en bénéficier ? Voyons ensemble quelques erreurs typiques et comment les détecter avant qu’elles n’atteignent la prod !',
+          tags: ['Code Legacy', 'JavaScript', 'Bugs'],
+          lang: ['fr'],
+        },
+        {
           title: "Code legacy: les clés pour s'en sortir !",
           abstract:
             'Quand on travaille sur du code hérité, il est rarement envisageable de tout réécrire. Outre les nombreux problèmes qui peuvent en découler, il est crucial de proposer un plan réaliste et de convaincre les parties prenantes. En s’appuyant sur une expérience de projet réussie, nous allons voir ensemble les clés pour remédier à cette situation pénible pour les dévs et risquée pour l’entreprise.',
