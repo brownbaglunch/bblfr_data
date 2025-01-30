@@ -1225,7 +1225,8 @@ var data = {
       sessions: [
         {
           title: 'Découvrez Infinispan',
-          abstract: "Découvrez Infinispan, une base de données en mémoire distribuée, open source. Idéale pour gérer divers cas d'usage, elle offre une grande scalabilité et des performances élevées, quel que soit le type d'application. Rejoignez-moi pour une introduction simple et claire à ses fonctionnalités et cas d'usage !",
+          abstract:
+            "Découvrez Infinispan, une base de données en mémoire distribuée, open source. Idéale pour gérer divers cas d'usage, elle offre une grande scalabilité et des performances élevées, quel que soit le type d'application. Rejoignez-moi pour une introduction simple et claire à ses fonctionnalités et cas d'usage !",
           tags: [
             'Infinispan',
             'Cache',
@@ -1247,7 +1248,8 @@ var data = {
         },
         {
           title: 'Découvrez Quarkus',
-          abstract: "Découvrez Quarkus, un framework Java moderne et open source conçu pour des applications rapides et légères. Idéal pour les microservices, mais aussi pour les applications Java standards, il allie performance et simplicité. Rejoignez-moi pour une introduction claire et accessible à ses atouts et cas d'usage !",
+          abstract:
+            "Découvrez Quarkus, un framework Java moderne et open source conçu pour des applications rapides et légères. Idéal pour les microservices, mais aussi pour les applications Java standards, il allie performance et simplicité. Rejoignez-moi pour une introduction claire et accessible à ses atouts et cas d'usage !",
           tags: [
             'Quarkus',
             'Java',
@@ -1261,7 +1263,7 @@ var data = {
             'Serverless',
             'Reactive',
             'JavaEE',
-            'Kubernetes'
+            'Kubernetes',
           ],
           lang: ['fr'],
         },
@@ -1278,7 +1280,7 @@ var data = {
             'Code',
             'Management',
             'Mentoring',
-            'Leadership'
+            'Leadership',
           ],
           lang: ['fr'],
         },
@@ -2116,8 +2118,10 @@ var data = {
     {
       since: '2013-06-03',
       name: 'Antonio Goncalves',
-      bio: "Java, AI, Cloud, Microservices, Quarkus - Microsoft - Java Champion - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
-      picture: 'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
+      bio:
+        'Java, AI, Cloud, Microservices, Quarkus - Microsoft - Java Champion - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG',
+      picture:
+        'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
       websites: [
         {
           name: 'Web',
@@ -2132,20 +2136,36 @@ var data = {
       sessions: [
         {
           title: 'LangChain4j: de Zéro a RAG Super Hero',
-          abstract: "Plongez dans l'univers de LangChain4j et découvrez comment il révolutionne l'intégration de l'IA dans les applications Java.",
+          abstract:
+            "Plongez dans l'univers de LangChain4j et découvrez comment il révolutionne l'intégration de l'IA dans les applications Java.",
           tags: ['LangChain4j', 'AI', 'IA', 'Intelligence Artificielle', 'RAG'],
           lang: ['fr'],
         },
         {
           title: 'Quarkus',
-          abstract: 'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
-          tags: ['Microservices', 'MicroProfile', 'Quarkus', 'GraalVM', 'Panache', 'Cloud',],
+          abstract:
+            'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
+          tags: [
+            'Microservices',
+            'MicroProfile',
+            'Quarkus',
+            'GraalVM',
+            'Panache',
+            'Cloud',
+          ],
           lang: ['fr'],
         },
         {
           title: 'Microservices?',
           abstract: 'Microservices: architecture, patterns, terminologie...',
-          tags: ['Microservices', 'DDD', 'REST', 'Circuit Breaker', 'Registry', 'Pros and Cons',],
+          tags: [
+            'Microservices',
+            'DDD',
+            'REST',
+            'Circuit Breaker',
+            'Registry',
+            'Pros and Cons',
+          ],
           lang: ['fr'],
         },
       ],
@@ -5414,14 +5434,14 @@ var data = {
           abstract:
             'Vous vous êtes toujours demandé comment rater à coup sûr une présentation devant vos collègues ou votre comité de direction. Et bien, ne cherchez plus, venez dans ce talk pour découvrir comment être un·e orateur·rice exécrable.\nEntre mauvaises pratiques et erreurs de présentation, vous verrez comment transformer un mauvais jeux de slides en une présentation percutente et captivante. Le tout en s’amusant grâce à une légère dose d’autodérision 🫠…',
           tags: ['Conseils', 'Tech Talks'],
-          lang: ['fr']
+          lang: ['fr'],
         },
         {
           title: 'J’ai beaucoup de taf 😱 mais je gère 😎',
           abstract:
             'On court toujours après le temps, dans notre vie perso, dans notre vie pro. Et si on essayait d’être plus productif non pas pour produire plus (enfin si un peu 😇) mais plutôt pour regagner du temps dans sa vie perso et arrêter de se sentir tous les jours surchargés.\nC’est ce que je vous propose à travers cette session qui revient sur ce que j’ai pu mettre en place dans mon organisation au quotidien et comment je m’y suis pris.',
           tags: ['Conseils', 'Tech Talks'],
-          lang: ['fr']
+          lang: ['fr'],
         },
       ],
       cities: ['Nantes'],
@@ -7848,7 +7868,8 @@ var data = {
       location: 'Montreuil / Paris',
       sessions: [
         {
-          title: "Détecter les bugs JS depuis son IDE: TSDoc et autres recettes pratiques",
+          title:
+            'Détecter les bugs JS depuis son IDE: TSDoc et autres recettes pratiques',
           abstract:
             'Oops, notre code JavaScript plante en production à cause d’une variable, d’un paramètre ou d’une propriété undefined ! Saviez-vous qu’en maîtrisant l’art du type checking on pouvait non seulement réduire le besoin en tests, et qu’il n’y a même pas besoin de migrer toute sa codebase en TypeScript pour en bénéficier ? Voyons ensemble quelques erreurs typiques et comment les détecter avant qu’elles n’atteignent la prod !',
           tags: ['Code Legacy', 'JavaScript', 'Bugs'],
@@ -15918,16 +15939,25 @@ var data = {
     {
       since: '2019-04-16',
       name: 'Jean-Philippe Baconnais',
-      bio: 'Consultant chez Zenika Nantes',
+      bio:
+        'Dev / Teach Lead chez Zenika Nantes | Co orga Human Talks Nantes & GitLab France | GitLab Heroes, Gitpod Hero & Google Cloud Innovator',
       picture: 'https://s.gravatar.com/avatar/5d2655822def2e889a17ff94e95309e3',
       websites: [
         {
           name: 'Github',
-          url: 'https://github.com/jeanphibaconnais',
+          url: 'https://github.com/jeanphi-baconnais',
         },
         {
           name: 'GitLab',
           url: 'https://gitlab.com/jeanphi-baconnais',
+        },
+        {
+          name: 'Blog',
+          url: 'https://jeanphi-baconnais.gitlab.io/',
+        },
+        {
+          name: 'Bluesky',
+          url: 'https://bsky.app/profile/jeanphi-baconnais.gitlab.io',
         },
       ],
       location: 'Nantes',
@@ -15941,14 +15971,7 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: '[Quicky] - Entamer une migration Kotlin dans une DSI Java',
-          abstract:
-            "Au sein de la DSI de Pôle emploi, les infrastructures black end sont depuis une dizaine d’années faites en Java et le choix des langages n’est pas (encore) déterminé par les équipes de développement. Kotlin utilisant la JVM, il est désormais possible d’intégrer du Kotlin dans des projets java. Dans ce REX je vous présenterai la manière dont nous avons pu entamer l'intégration du Kotlin dans nos composants black end Java, les problématiques rencontrées, mais aussi les opportunités qui s'ouvrent à nous pour la suite.",
-          tags: ['Dev', 'Java', 'Kotlin'],
-          lang: ['fr'],
-        },
-        {
-          title: 'GitlabCI : Make CI/CD (with Gitlab CI) hype again ?',
+          title: 'GitLabCI : Make CI/CD (with Gitlab CI) hype again ?',
           abstract:
             "Vous vous prenez la tête pour faire de l'intégration continue ? En plus ça tombe mal vos OPS ne sont pas dispos ? Gitlab met en place depuis quelques années des fonctionnalités permettant de gérer des pipelines de déploiement dans le même outil de gestion de sources. Nous ne travaillons pas pour Gitlab (nous n’avons aucune action promis ^^), et nous ne voulons pas remplacer les OPS mais nous allons vous montrer comment Gitlab Ci peut vous permettre de gérer vos pipelines directement dans votre gestionnaire de conf préféré sans rien installer et en quelques minutes. Nous vous montrerons aussi comment pousser un peu plus Gitlab Ci dans ses retranchements et en tirer le meilleur.",
           tags: ['Dev', 'CICD', 'Gitlab'],
@@ -15972,14 +15995,36 @@ var data = {
           title:
             'Qui a dit qu’il fallait avoir un JDK sur son poste pour développer une application Java ? Prenez votre IDE Cloud GitPod et le tour est joué 💪',
           abstract:
-            'Quand on arrive sur des projets, la configuration de votre poste est une étape obligatoire : avoir la bonne version du JDK, de Maven ou de librairies. Le tout avec quelques Mo / Go qui s’accumulent sur votre disque dur. Avec l’arrivée des IDE Cloud tels que GitPod, la configuration nécessaire sur un projet est mutualisée sur le cloud et cette étape qui pouvait devenir une réelle galère n’est plus qu’un lointain souvenir ! Après vous avoir présenté en quelques mots GitPod, je vous ferai une démonstration de ce qui est possible pour un dev Java.',
+            'Quand on arrive sur des projets, la configuration de votre poste est une étape obligatoire : avoir la bonne version du JDK, de Maven ou de librairies. Le tout avec quelques Mo / Go qui s’accumulent sur votre disque dur. Avec l’arrivée des IDE Cloud tels que GitPod, la configuration nécessaire sur un projet est mutualisée sur le cloud et cette étape qui pouvait devenir une réelle galère n’est plus qu’un lointain souvenir ! Après vous avoir présenté en quelques mots Gitpod, je vous ferai une démonstration de ce qui est possible pour un dev Java.',
           tags: ['Dev', 'GitPod'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Et si l’IA devenait votre nouvel ami codeur imaginaire ? ',
+          abstract:
+            'Que ce soit dans la rédaction de vos mails, la traduction ou bien la génération d’images, l’intelligence artificielle, ou IA, est partout, je pense que je ne vous apprends rien 😅. En tant que développeur·se, elle a également un rôle à jouer. Avec le projet GitLab Duo, GitLab a intégré dans sa plateforme les premières briques d’IA au sein des différentes étapes DevSecOps de vos projets. De la mise en place d’un chat jusqu’à la revue de code, je vous montrerai comment GitLab peut vous aider à améliorer votre productivité au quotidien grâce à ce nouvel ami imaginaire.',
+          tags: ['Dev', 'GitLab', 'IA'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            'Renovate/Dependabot, ou comment reprendre le contrôle sur la mise à jour de ses dépendances',
+          abstract:
+            "Talk présenté avec Lise Quesnel. Lorsqu’on développe un projet, on se laisse parfois facilement déborder par les mises à jour de dépendances : c’est rébarbatif, répétitif, bref, pas très fun, et personne n’a envie de le faire. Et si une solution automatique le faisait pour nous ou nous aidait à le faire ? C’est la promesse d’outils comme Dependabot ou Renovate qui vont nous proposer des Pull/Merge-requests avec les montées de versions des dépendances de nos projets. Magique non ? Dans ce talk, après vous avoir (re)présenter ces deux outils, nous vous donnerons des conseils sur la mise en place de Renovate. Notre retour est basé sur nos expériences open source ou lors de notre mission (spoiler, bien sur que tout n’a pas fonctionné du premier coup 😅). Ce sera l’occasion de vous faire une démo pour vous permettre de vous rendre compte de l'intérêt (mais pas que) de ces outils et pourquoi pas de vous décider à en installer un sur vos projets !",
+          tags: ['Dev', 'Renovate'],
+          lang: ['fr'],
+        },
+        {
+          title:
+            '🗄️ Et si vous mettiez à disposition vos jobs de CI/CD sur une étagère ?',
+          abstract:
+            'Talk présenté avec Jules Agostini. La CI/CD fait partie de notre quotidien. Que l’on soit développeur·euse, ou bien Ops, nous avons forcément passé du temps à créer ou modifier des scripts de CI/CD. Un nouveau script de CI/CD ? Pas de soucis, nous savons où trouver un exemple et utilisons la force de frappe d’un bon vieux “copier / coller” pour avoir un pipeline de CI tout beau tout propre sur notre projet. Pourquoi ne pas migrer vos stages et vos jobs dans des “catalogues de CI/CD” pour avoir l’ensemble de vos scripts à disposition sur une étagère ? Après vous avoir présenté cette approche, nous vous détaillerons la manière de la mettre rapidement en place dans GitLab. Nous verrons ses avantages et inconvénients et terminerons par parler de la solution R2DevOps qui a depuis plusieurs années créé leur solution en se basant sur cette notion de catalogue.',
+          tags: ['CICD', 'GitLab', 'R2DevOps'],
           lang: ['fr'],
         },
       ],
       cities: ['Nantes'],
       contacts: {
-        twitter: 'JPhi_Baconnais',
         mail: 'jeanphilippe.baconnais@gmail.com',
       },
     },
@@ -18392,7 +18437,14 @@ var data = {
           title: 'Rendre son frontend plus robuste avec XState',
           abstract:
             "XState est une librairie de state machines pour JavaScript et TypeScript. Dans cette présentation, nous verrons ce que l'utilisation de state machines peut apporter au développement du frontend de votre application. Comportement explicite, centralisation de la logique de vos composants, facilité de débusquer et de résoudre des bugs, autant d'atouts pour accroître la robustesse de vos applications.",
-          tags: ['XState', 'State machines', 'JavaScript', 'TypeScript', 'React', 'Vue'],
+          tags: [
+            'XState',
+            'State machines',
+            'JavaScript',
+            'TypeScript',
+            'React',
+            'Vue',
+          ],
           lang: ['fr', 'en'],
         },
       ],
