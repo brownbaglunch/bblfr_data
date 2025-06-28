@@ -9351,7 +9351,7 @@ var data = {
             'Code Review',
           ],
           lang: ['fr'],
-        },    
+        },
         {
           title:
             "Renforçons notre Developer eXperience pour faire face aux menaces d'obsolescence et de vulnérabilités",
