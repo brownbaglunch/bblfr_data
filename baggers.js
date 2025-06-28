@@ -9320,7 +9320,7 @@ var data = {
       since: '2016-01-31',
       name: 'Eric Siber',
       bio:
-        "Agile Java Craftsman - Creative Ecosystem Organizer. Intéressé également par la gestion des talents, le leadership, le bonheur au travail, ainsi que des mouvements comme la sociocratie, l'holacratie, l'entreprise libérée.",
+        "Agile Java Craftsman - Formateur / Auditeur / Coéquipier. Intéressé également par la gestion des talents, le leadership, le bonheur au travail, ainsi que des mouvements comme la sociocratie, l'holacratie, l'entreprise libérée.",
       picture: 'img/baggers/photo_esiber.jpg',
       websites: [
         {
@@ -9340,38 +9340,67 @@ var data = {
       sessions: [
         {
           title:
+            "Et si vous abandonniez la revue de code systématique et réinventiez vos workflows de développement ?",
+          abstract:
+            "Je vous aide à prendre conscience des biais de la revue de code systématique et vous propose une vision non dogmatique des leviers pour l'alléger et améliorer votre processus de développeur logiciel",
+          tags: [
+            'Agile', 
+            'eXtreme Programming', 
+            'Lean Management', 
+            'Craftsmanship',
+            'Code Review',
+          ],
+          lang: ['fr'],
+        },    
+        {
+          title:
+            "Renforçons notre Developer eXperience pour faire face aux menaces d'obsolescence et de vulnérabilités",
+          abstract:
+            "Je vous aide à prendre conscience des biais de la revue de code systématique et vous propose une vision non dogmatique des leviers pour l'alléger et améliorer votre processus de développeur logiciel",
+          tags: [
+            'Java', 
+            'Developer Productivity Engineering', 
+            'SBOM', 
+            'SCA',
+            'Maven',
+            'Live Coding',
+          ],
+          lang: ['fr'],
+        },         
+        {
+          title:
             "Si t'es toujours pas dév à 40 ans ... il n'est pas trop tard !",
           abstract:
             "Retour d'expérience, sous l'angle du formateur, sur un dispositif de reconversion professionnelle vers le métier de développeur Java ayant été mené d'octobre 2016 à juin 2017 par Simplon pour la DSI de Pôle Emploi.",
-          tags: ['Agile', 'Formation', 'Java', 'Craftsmanship'],
+          tags: [
+            'Agile', 
+            'Formation', 
+            'Java', 
+            'Craftsmanship',
+          ],
           lang: ['fr'],
-        },
-        {
-          title: "L'écosystème agile",
-          abstract:
-            "Un tour d’horizon à 360° de ce qu'on peut associer à l'agilité et aux mouvements agiles. Pour débutants ou faux débutants sur le sujet, voire ceux qui veulent élargir leur vision.",
-          tags: ['Agile', 'Craftsmanship', 'Formation', 'RSE', 'Yammer'],
-          lang: ['fr'],
-        },
+        },      
         {
           title: 'La relecture de code : avant tout des pratiques !',
           abstract:
             "Cette session vise à sensibiliser les participants à la problématique de relecture de code. Souvent ce sont les outils qui font le buzz, reléguant les pratiques et leur adoption au second plan. Loin des effets whaou de la démo d'un outil, je souhaite vous sensibiliser au pourquoi et comment, tout en illustrant par des pratiques : de la plus élémentaire à la plus tendance.",
-          tags: ['Agile', 'Craftsmanship', 'Formation', 'RSE', 'Yammer'],
+          tags: [
+            'Agile', 
+            'eXtreme Programmming', 
+            'Craftsmanship', 
+            'Code Review',
+          ],
           lang: ['fr'],
         },
         {
           title: "De la culture de l'apprentissage à l'organisation apprenante",
           abstract:
             "La formation est en ébullition : la formation traditionnelle est mise à mal par de nouveaux canaux d’apprentissages. Etudions ces canaux qui amènent des bénéfices immédiats, et voyons comment les intégrer dans le quotidien de l'entreprise.",
-          tags: ['Agile', 'Craftsmanship', 'Formation', 'RSE', 'Yammer'],
-          lang: ['fr'],
-        },
-        {
-          title: "Réseaux sociaux d'entreprise : l'exemple de Yammer",
-          abstract:
-            "Une présentation des fonctionnalités des réseaux sociaux d'entreprise à travers l’exemple de Yammer et du réseau VISEO / Novedia que j'ai initié en 2010 pour apporter une dimension sociale et collaborative dans l'entreprise.",
-          tags: ['Agile', 'Craftsmanship', 'Formation', 'RSE', 'Yammer'],
+          tags: [
+            'Formation', 
+            'Apprentissage', 
+            'Talent Management',
+          ],
           lang: ['fr'],
         },
         {
@@ -9385,8 +9414,6 @@ var data = {
             'Change Management',
             'Talent Management',
             'Confiance',
-            'RSE',
-            'Yammer',
           ],
           lang: ['fr'],
         },
@@ -9407,8 +9434,7 @@ var data = {
       ],
       cities: ['Paris'],
       contacts: {
-        twitter: 'esiber',
-        mail: 'eric.siber@gmail.com',
+        mail: 'eric@agiledev.tech',
       },
     },
     {
