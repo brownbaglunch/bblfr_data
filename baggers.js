@@ -18423,6 +18423,41 @@ var data = {
         },
       ],
     },
+    {
+      since: '2025-06-30',
+      name: 'David Munsch',
+      bio:
+        "Coach Agile",
+      picture:
+        'https://avatars.githubusercontent.com/u/218564081',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/david-munsch/',
+        },
+      ],
+      location: 'Strasbourg',
+      sessions: [
+        {
+          title: 'Definition of Ready (DoR), Scrum ?',
+          abstract:
+            "La DoR n'est pas mentionné dans Scrum contrairement à la DoD qui a le droit à son chapitre ! Je vous propose un retour d'expérience sur la DoR",
+          tags: ['Agile', 'Scrum', 'Coaching'],
+          lang: ['fr'],
+        },
+        {
+          title: "Ce n'est pas Scrum ça ?",
+          abstract:
+            "Je vous propose de discuter de votre situation pendant 1h.",
+          tags: ['Agile', 'Scrum', 'Coaching'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Strasbourg'],
+      contacts: {
+        mail: 'munschdavid@gmail.com',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
