@@ -2998,13 +2998,13 @@ var data = {
       since: '2013-10-08',
       name: 'Camille Roux',
       bio:
-        'Coach en Lean Startup et Business Model • Directeur associé de Human Coders, centre de formation pour développeur',
+        'Développeur/Entrepreneur/Artiste • Directeur associé de Human Coders, centre de formation pour développeur·se·s',
       picture:
         'http://www.gravatar.com/avatar/29668d9eaaf486727a446f7d03c59f07.jpg?s=250',
       websites: [
         {
           name: 'Web',
-          url: 'http://conseil.camilleroux.com/',
+          url: 'https://www.camilleroux.com/conseil/',
         },
         {
           name: 'Web',
@@ -3012,7 +3012,11 @@ var data = {
         },
         {
           name: 'Web',
-          url: 'http://humancoders.com',
+          url: 'https://www.humancoders.com/',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/camilleroux/',
         },
       ],
       location: 'Montpellier',
@@ -3021,8 +3025,22 @@ var data = {
           title: 'Lean Startup',
           abstract:
             'Découvrez cette approche pramagtique permettant de lancer des sociétés/produits/services en un temps record',
-          tags: ['Entrepreneuriat', 'Lean Startup', 'Business Model'],
+          tags: ['Entrepreneuriat', 'Lean Startup', 'Business Model', 'Lean Canvas', 'Customer Development'],
           lang: ['fr'],
+        },
+        {
+          title: 'Veille technologique : mise en place et partage',
+          abstract:
+            'Découvrez une méthode sans algorithme et centrée sur les flux RSS, newsletters personnalisables et agrégation intelligente. Vous mettrez en place votre propre écosystème de veille, prêt à alimenter vos projets et votre newsletter.',
+          tags: ['Veille technologique', 'Flux RSS', 'Revue de presse', 'Curation'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Art génératif et creative coding',
+          abstract:
+            'Plongez dans l’univers où code rime avec créativité. Cette session introductive vous fait découvrir les concepts et outils clés (p5.js, algorithmes visuels, shaders) pour fabriquer les premières œuvres génératives interactives.',
+          tags: ['Art', 'Art génératif', 'Creative coding', 'p5.js', 'Three.js', 'glsl', 'Fragment shaders'],
+          lang: ['fr', 'en'],
         },
       ],
       cities: ['Montpellier', 'Paris'],
