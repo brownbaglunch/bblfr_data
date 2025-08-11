@@ -1225,7 +1225,8 @@ var data = {
       sessions: [
         {
           title: 'Découvrez Infinispan',
-          abstract: "Découvrez Infinispan, une base de données en mémoire distribuée, open source. Idéale pour gérer divers cas d'usage, elle offre une grande scalabilité et des performances élevées, quel que soit le type d'application. Rejoignez-moi pour une introduction simple et claire à ses fonctionnalités et cas d'usage !",
+          abstract:
+            "Découvrez Infinispan, une base de données en mémoire distribuée, open source. Idéale pour gérer divers cas d'usage, elle offre une grande scalabilité et des performances élevées, quel que soit le type d'application. Rejoignez-moi pour une introduction simple et claire à ses fonctionnalités et cas d'usage !",
           tags: [
             'Infinispan',
             'Cache',
@@ -1247,7 +1248,8 @@ var data = {
         },
         {
           title: 'Découvrez Quarkus',
-          abstract: "Découvrez Quarkus, un framework Java moderne et open source conçu pour des applications rapides et légères. Idéal pour les microservices, mais aussi pour les applications Java standards, il allie performance et simplicité. Rejoignez-moi pour une introduction claire et accessible à ses atouts et cas d'usage !",
+          abstract:
+            "Découvrez Quarkus, un framework Java moderne et open source conçu pour des applications rapides et légères. Idéal pour les microservices, mais aussi pour les applications Java standards, il allie performance et simplicité. Rejoignez-moi pour une introduction claire et accessible à ses atouts et cas d'usage !",
           tags: [
             'Quarkus',
             'Java',
@@ -1261,7 +1263,7 @@ var data = {
             'Serverless',
             'Reactive',
             'JavaEE',
-            'Kubernetes'
+            'Kubernetes',
           ],
           lang: ['fr'],
         },
@@ -1278,7 +1280,7 @@ var data = {
             'Code',
             'Management',
             'Mentoring',
-            'Leadership'
+            'Leadership',
           ],
           lang: ['fr'],
         },
@@ -2116,8 +2118,10 @@ var data = {
     {
       since: '2013-06-03',
       name: 'Antonio Goncalves',
-      bio: "Java, AI, Cloud, Microservices, Quarkus - Microsoft - Java Champion - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
-      picture: 'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
+      bio:
+        'Java, AI, Cloud, Microservices, Quarkus - Microsoft - Java Champion - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG',
+      picture:
+        'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
       websites: [
         {
           name: 'Web',
@@ -2132,20 +2136,36 @@ var data = {
       sessions: [
         {
           title: 'LangChain4j: de Zéro a RAG Super Hero',
-          abstract: "Plongez dans l'univers de LangChain4j et découvrez comment il révolutionne l'intégration de l'IA dans les applications Java.",
+          abstract:
+            "Plongez dans l'univers de LangChain4j et découvrez comment il révolutionne l'intégration de l'IA dans les applications Java.",
           tags: ['LangChain4j', 'AI', 'IA', 'Intelligence Artificielle', 'RAG'],
           lang: ['fr'],
         },
         {
           title: 'Quarkus',
-          abstract: 'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
-          tags: ['Microservices', 'MicroProfile', 'Quarkus', 'GraalVM', 'Panache', 'Cloud',],
+          abstract:
+            'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
+          tags: [
+            'Microservices',
+            'MicroProfile',
+            'Quarkus',
+            'GraalVM',
+            'Panache',
+            'Cloud',
+          ],
           lang: ['fr'],
         },
         {
           title: 'Microservices?',
           abstract: 'Microservices: architecture, patterns, terminologie...',
-          tags: ['Microservices', 'DDD', 'REST', 'Circuit Breaker', 'Registry', 'Pros and Cons',],
+          tags: [
+            'Microservices',
+            'DDD',
+            'REST',
+            'Circuit Breaker',
+            'Registry',
+            'Pros and Cons',
+          ],
           lang: ['fr'],
         },
       ],
@@ -3025,21 +3045,40 @@ var data = {
           title: 'Lean Startup',
           abstract:
             'Découvrez cette approche pramagtique permettant de lancer des sociétés/produits/services en un temps record',
-          tags: ['Entrepreneuriat', 'Lean Startup', 'Business Model', 'Lean Canvas', 'Customer Development'],
+          tags: [
+            'Entrepreneuriat',
+            'Lean Startup',
+            'Business Model',
+            'Lean Canvas',
+            'Customer Development',
+          ],
           lang: ['fr'],
         },
         {
           title: 'Veille technologique : mise en place et partage',
           abstract:
             'Découvrez une méthode sans algorithme et centrée sur les flux RSS, newsletters personnalisables et agrégation intelligente. Vous mettrez en place votre propre écosystème de veille, prêt à alimenter vos projets et votre newsletter.',
-          tags: ['Veille technologique', 'Flux RSS', 'Revue de presse', 'Curation'],
+          tags: [
+            'Veille technologique',
+            'Flux RSS',
+            'Revue de presse',
+            'Curation',
+          ],
           lang: ['fr', 'en'],
         },
         {
           title: 'Art génératif et creative coding',
           abstract:
             'Plongez dans l’univers où code rime avec créativité. Cette session introductive vous fait découvrir les concepts et outils clés (p5.js, algorithmes visuels, shaders) pour fabriquer les premières œuvres génératives interactives.',
-          tags: ['Art', 'Art génératif', 'Creative coding', 'p5.js', 'Three.js', 'glsl', 'Fragment shaders'],
+          tags: [
+            'Art',
+            'Art génératif',
+            'Creative coding',
+            'p5.js',
+            'Three.js',
+            'glsl',
+            'Fragment shaders',
+          ],
           lang: ['fr', 'en'],
         },
       ],
@@ -5432,14 +5471,14 @@ var data = {
           abstract:
             'Vous vous êtes toujours demandé comment rater à coup sûr une présentation devant vos collègues ou votre comité de direction. Et bien, ne cherchez plus, venez dans ce talk pour découvrir comment être un·e orateur·rice exécrable.\nEntre mauvaises pratiques et erreurs de présentation, vous verrez comment transformer un mauvais jeux de slides en une présentation percutente et captivante. Le tout en s’amusant grâce à une légère dose d’autodérision 🫠…',
           tags: ['Conseils', 'Tech Talks'],
-          lang: ['fr']
+          lang: ['fr'],
         },
         {
           title: 'J’ai beaucoup de taf 😱 mais je gère 😎',
           abstract:
             'On court toujours après le temps, dans notre vie perso, dans notre vie pro. Et si on essayait d’être plus productif non pas pour produire plus (enfin si un peu 😇) mais plutôt pour regagner du temps dans sa vie perso et arrêter de se sentir tous les jours surchargés.\nC’est ce que je vous propose à travers cette session qui revient sur ce que j’ai pu mettre en place dans mon organisation au quotidien et comment je m’y suis pris.',
           tags: ['Conseils', 'Tech Talks'],
-          lang: ['fr']
+          lang: ['fr'],
         },
       ],
       cities: ['Nantes'],
@@ -7866,7 +7905,8 @@ var data = {
       location: 'Montreuil / Paris',
       sessions: [
         {
-          title: "Détecter les bugs JS depuis son IDE: TSDoc et autres recettes pratiques",
+          title:
+            'Détecter les bugs JS depuis son IDE: TSDoc et autres recettes pratiques',
           abstract:
             'Oops, notre code JavaScript plante en production à cause d’une variable, d’un paramètre ou d’une propriété undefined ! Saviez-vous qu’en maîtrisant l’art du type checking on pouvait non seulement réduire le besoin en tests, et qu’il n’y a même pas besoin de migrer toute sa codebase en TypeScript pour en bénéficier ? Voyons ensemble quelques erreurs typiques et comment les détecter avant qu’elles n’atteignent la prod !',
           tags: ['Code Legacy', 'JavaScript', 'Bugs'],
@@ -9358,13 +9398,13 @@ var data = {
       sessions: [
         {
           title:
-            "Et si vous abandonniez la revue de code systématique et réinventiez vos workflows de développement ?",
+            'Et si vous abandonniez la revue de code systématique et réinventiez vos workflows de développement ?',
           abstract:
             "Je vous aide à prendre conscience des biais de la revue de code systématique et vous propose une vision non dogmatique des leviers pour l'alléger et améliorer votre processus de développeur logiciel",
           tags: [
-            'Agile', 
-            'eXtreme Programming', 
-            'Lean Management', 
+            'Agile',
+            'eXtreme Programming',
+            'Lean Management',
             'Craftsmanship',
             'Code Review',
           ],
@@ -9376,36 +9416,31 @@ var data = {
           abstract:
             "Je vous aide à prendre conscience des biais de la revue de code systématique et vous propose une vision non dogmatique des leviers pour l'alléger et améliorer votre processus de développeur logiciel",
           tags: [
-            'Java', 
-            'Developer Productivity Engineering', 
-            'SBOM', 
+            'Java',
+            'Developer Productivity Engineering',
+            'SBOM',
             'SCA',
             'Maven',
             'Live Coding',
           ],
           lang: ['fr'],
-        },         
+        },
         {
           title:
             "Si t'es toujours pas dév à 40 ans ... il n'est pas trop tard !",
           abstract:
             "Retour d'expérience, sous l'angle du formateur, sur un dispositif de reconversion professionnelle vers le métier de développeur Java ayant été mené d'octobre 2016 à juin 2017 par Simplon pour la DSI de Pôle Emploi.",
-          tags: [
-            'Agile', 
-            'Formation', 
-            'Java', 
-            'Craftsmanship',
-          ],
+          tags: ['Agile', 'Formation', 'Java', 'Craftsmanship'],
           lang: ['fr'],
-        },      
+        },
         {
           title: 'La relecture de code : avant tout des pratiques !',
           abstract:
             "Cette session vise à sensibiliser les participants à la problématique de relecture de code. Souvent ce sont les outils qui font le buzz, reléguant les pratiques et leur adoption au second plan. Loin des effets whaou de la démo d'un outil, je souhaite vous sensibiliser au pourquoi et comment, tout en illustrant par des pratiques : de la plus élémentaire à la plus tendance.",
           tags: [
-            'Agile', 
-            'eXtreme Programmming', 
-            'Craftsmanship', 
+            'Agile',
+            'eXtreme Programmming',
+            'Craftsmanship',
             'Code Review',
           ],
           lang: ['fr'],
@@ -9414,11 +9449,7 @@ var data = {
           title: "De la culture de l'apprentissage à l'organisation apprenante",
           abstract:
             "La formation est en ébullition : la formation traditionnelle est mise à mal par de nouveaux canaux d’apprentissages. Etudions ces canaux qui amènent des bénéfices immédiats, et voyons comment les intégrer dans le quotidien de l'entreprise.",
-          tags: [
-            'Formation', 
-            'Apprentissage', 
-            'Talent Management',
-          ],
+          tags: ['Formation', 'Apprentissage', 'Talent Management'],
           lang: ['fr'],
         },
         {
@@ -18436,7 +18467,14 @@ var data = {
           title: 'Rendre son frontend plus robuste avec XState',
           abstract:
             "XState est une librairie de state machines pour JavaScript et TypeScript. Dans cette présentation, nous verrons ce que l'utilisation de state machines peut apporter au développement du frontend de votre application. Comportement explicite, centralisation de la logique de vos composants, facilité de débusquer et de résoudre des bugs, autant d'atouts pour accroître la robustesse de vos applications.",
-          tags: ['XState', 'State machines', 'JavaScript', 'TypeScript', 'React', 'Vue'],
+          tags: [
+            'XState',
+            'State machines',
+            'JavaScript',
+            'TypeScript',
+            'React',
+            'Vue',
+          ],
           lang: ['fr', 'en'],
         },
       ],
@@ -18444,10 +18482,8 @@ var data = {
     {
       since: '2025-06-30',
       name: 'David Munsch',
-      bio:
-        "Coach Agile",
-      picture:
-        'https://avatars.githubusercontent.com/u/218564081',
+      bio: 'Coach Agile',
+      picture: 'https://avatars.githubusercontent.com/u/218564081',
       websites: [
         {
           name: 'LinkedIn',
@@ -18466,7 +18502,7 @@ var data = {
         {
           title: "Ce n'est pas Scrum ça ?",
           abstract:
-            "Je vous propose de discuter de votre situation pendant 1h.",
+            'Je vous propose de discuter de votre situation pendant 1h.',
           tags: ['Agile', 'Scrum', 'Coaching'],
           lang: ['fr'],
         },
@@ -18474,6 +18510,46 @@ var data = {
       cities: ['Strasbourg'],
       contacts: {
         mail: 'munschdavid@gmail.com',
+      },
+    },
+    {
+      since: '2025-08-11',
+      name: 'Grégoire Boisseau',
+      bio: 'Développeur web freelance (React, Astro, WordPress)',
+      picture: 'https://gregoireboisseau.fr/gr%C3%A9goire-boisseau.jpg',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://gregoireboisseau.fr',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/boisseaugregoire',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/gregoireboisseau',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Faire la transition WordPress → Frameworks JS',
+          abstract:
+            "Comment passer d'un site 100% WordPress à une stack moderne avec React, Next.js ou Astro. Avantages, pièges à éviter, migration progressive, et exemples concrets tirés de projets clients.",
+          tags: ['WordPress', 'React', 'Next.js', 'Astro', 'Migration'],
+          lang: ['fr'],
+        },
+        {
+          title: 'Créer une application web from scratch',
+          abstract:
+            "De l'idée au déploiement : comment concevoir, développer et mettre en ligne une application web sur mesure. Planification, choix techniques, architecture, gestion des données et hébergement.",
+          tags: ['Architecture', 'React', 'Node.js', 'API', 'Déploiement'],
+          lang: ['fr'],
+        },
+      ],
+      cities: ['Auxerre'],
+      contacts: {
+        mail: 'contact@gregoireboisseau.fr',
       },
     },
   ],
@@ -18489,6 +18565,12 @@ var data = {
       ville_img: 'img/villes/BBL.jpg',
       lat: 49.8985408,
       lng: 2.2145978,
+    },
+    Auxerre: {
+      name: 'Auxerre',
+      ville_img: 'img/villes/BBL.jpg',
+      lat: 47.797547,
+      lng: 3.566013,
     },
     Avignon: {
       name: 'Avignon',
